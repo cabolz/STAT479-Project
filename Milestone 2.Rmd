@@ -6,6 +6,13 @@ output: html_document
 ---
 
 ```{r}
-
+biodiversity = read_csv("Biodiversity_by_County_-_Distribution_of_Animals__Plants_and_Natural_Communities.csv")
+counties = read_csv("NYCounties.csv")
 ```
 
+```{r}
+biodiversity = counties %>% 
+  separate(CTYNAME, into = c("County", NA), sep = " ") %>% 
+  rename(human_pop_county = pop2021, human_growth_rate = GrowthRate) %>% 
+  right_join(biodiversity, by = "County")
+```
