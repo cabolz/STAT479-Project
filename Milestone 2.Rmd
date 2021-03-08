@@ -1,18 +1,44 @@
 ---
 title: "Milestone 2"
-author: "Caitlin Bolz"
+author: "Caitlin Bolz, Samuel Peters"
 date: "3/7/2021"
 output: html_document
 ---
 
-```{r}
+```{r, echo=FALSE, message=FALSE}
+library("readr")
+library("dplyr")
+library("tidyr")
+```
+
+```{r, message=FALSE}
+# Contains information on endangered plants and animals in NY at the county level
 biodiversity = read_csv("Biodiversity_by_County_-_Distribution_of_Animals__Plants_and_Natural_Communities.csv")
+
+# Contains estimations for human populations and growth rate in each NY county
 counties = read_csv("NYCounties.csv")
 ```
 
-```{r}
+```{r, warning=FALSE}
+# Join the biodiversity dataset with the county population dataset
 biodiversity = counties %>% 
+  # Clean the county population dataset
   separate(CTYNAME, into = c("County", NA), sep = " ") %>% 
-  rename(human_pop_county = pop2021, human_growth_rate = GrowthRate) %>% 
-  right_join(biodiversity, by = "County")
+  rename(human_pop_county = pop2021, human_growth_rate = GrowthRate) %>%
+  # Join the datasets
+  right_join(biodiversity, by = "County") %>% 
+  # Remove unwanted columns
+  select(everything(), 
+         -`NY Listing Status`, 
+         -`Federal Listing Status`, 
+         -`Distribution Status`, 
+         -`Year Last Documented`,
+         -`Scientific Name`) %>% 
+  # Remove non-plant/animal entries
+  filter(Category != "Natural Community", 
+         `Taxonomic Group` != "Animal Assemblages")
+```
+
+```{r, echo=FALSE}
+head(biodiversity)
 ```
