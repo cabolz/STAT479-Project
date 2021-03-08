@@ -1,6 +1,6 @@
 ---
 title: "Milestone 2"
-author: "Caitlin Bolz, Samuel Peters"
+author: "Caitlin Bolz, Faith Kulzer, Samuel Peters, and Steven Xia"
 date: "3/7/2021"
 output: html_document
 ---
