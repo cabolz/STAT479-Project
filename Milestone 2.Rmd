@@ -12,31 +12,48 @@ library("tidyr")
 ```
 
 ```{r, message=FALSE}
-# Contains information on endangered plants and animals in NY at the county level
+# Contains names of plants and animals, as well as endangerment status, in NY at the county level
 biodiversity = read_csv("Biodiversity_by_County_-_Distribution_of_Animals__Plants_and_Natural_Communities.csv")
 
 # Contains estimations for human populations and growth rate in each NY county
-counties = read_csv("NYCounties.csv")
+countyPop = read_csv("NYCounties.csv")
+
+# Contains estimated land mass of NY counties from 2010
+# Areas are in square miles
+countyArea = read_csv("NYCountyArea.csv")
 ```
 
 ```{r, warning=FALSE}
-# Join the biodiversity dataset with the county population dataset
-biodiversity = counties %>% 
-  # Clean the county population dataset
-  separate(CTYNAME, into = c("County", NA), sep = " ") %>% 
-  rename(human_pop_county = pop2021, human_growth_rate = GrowthRate) %>%
-  # Join the datasets
-  right_join(biodiversity, by = "County") %>% 
+# Change spaces into underscores and make lowercase for biodiversity column names
+names(biodiversity) = gsub(" ", "_", tolower(names(biodiversity)))
+
+# Clean the biodiversity dataset
+biodiversity = biodiversity %>% 
   # Remove unwanted columns
   select(everything(), 
-         -`NY Listing Status`, 
-         -`Federal Listing Status`, 
-         -`Distribution Status`, 
-         -`Year Last Documented`,
-         -`Scientific Name`) %>% 
+         -ny_listing_status, 
+         -federal_listing_status, 
+         -distribution_status, 
+         -year_last_documented,
+         -scientific_name) %>% 
   # Remove non-plant/animal entries
-  filter(Category != "Natural Community", 
-         `Taxonomic Group` != "Animal Assemblages")
+  filter(category != "Natural Community", 
+         taxonomic_group != "Animal Assemblages")
+  
+# Clean county population dataset and join with the biodiversity dataset
+biodiversity = countyPop %>% 
+  separate(CTYNAME, into = c("county", NA), sep = " ") %>% 
+  rename(human_pop_county = pop2021, human_growth_rate = GrowthRate) %>%
+  right_join(biodiversity, by = "county")
+  
+
+# Clean county areas dataset and join with the biodiversity dataset
+biodiversity = countyArea %>% 
+  select(BASENAME, AREALAND, AREAWATER) %>% 
+  rename(county = BASENAME,
+         land_area = AREALAND,
+         water_area = AREAWATER) %>% 
+  right_join(biodiversity, by = "county")
 ```
 
 ```{r, echo=FALSE}
