@@ -37,7 +37,8 @@ biodiversity = biodiversity %>%
          -year_last_documented,
          -scientific_name) %>% 
   # Remove non-plant/animal entries
-  filter(category != "Natural Community", 
+  filter(category != "Natural Community",
+         category != "not listed",
          taxonomic_group != "Animal Assemblages")
   
 # Clean county population dataset and join with the biodiversity dataset
@@ -59,3 +60,10 @@ biodiversity = countyArea %>%
 ```{r, echo=FALSE}
 head(biodiversity)
 ```
+
+
+```{r}
+biodiversity %>% group_by(category) %>% summarise(n = n_distinct(state_conservation_rank))
+biodiversity %>% summarise(n = n_distinct(global_conservation_rank))
+```
+
