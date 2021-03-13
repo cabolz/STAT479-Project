@@ -67,6 +67,7 @@ head(biodiversity)
 ```{r}
 biodiversity %>% group_by(category) %>% summarise(n = n_distinct(state_conservation_rank))
 biodiversity %>% summarise(n = n_distinct(global_conservation_rank))
+<<<<<<< HEAD
 ```
 
 ```{r}
@@ -131,4 +132,6 @@ counties_derived <- full_join(county_data, county_security) %>%
 write.csv(counties_derived, "C:\\Users\\Fkulz\\Documents\\Stat 479\\Project\\counties derived.csv")
 
 write.csv(biodiversity, "C:\\Users\\Fkulz\\Documents\\Stat 479\\Project\\biodiversity derived.csv")
+=======
+>>>>>>> b219b649ce62cfa0dd0a65d4955256eed533e98f
 ```
