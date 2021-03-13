@@ -130,5 +130,5 @@ counties_derived <- full_join(county_data, county_security) %>%
 # write two main datasets to csv files
 write_csv(counties_derived, "counties_derived.csv")
 
-write_csv(biodiversity, "biodiversity_derived")
+write_csv(biodiversity, "biodiversity_derived.csv")
 ```
