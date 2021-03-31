@@ -67,7 +67,6 @@ head(biodiversity)
 ```{r}
 biodiversity %>% group_by(category) %>% summarise(n = n_distinct(state_conservation_rank))
 biodiversity %>% summarise(n = n_distinct(global_conservation_rank))
-<<<<<<< HEAD
 ```
 
 ```{r}
@@ -117,7 +116,7 @@ county_security <- biodiversity_security %>%
             global_not_secure = length(which(global_security == "not_secure")), 
             total_state = state_not_secure + state_secure,
             total_global = global_not_secure + global_secure,
-            perc_not_secure_state = state_not_secure/total_state,
+            perc_not_secure_state = state_not_secure/total_state * 100,
             perc_not_secure_global = global_not_secure/total_global *100
             )
 
