@@ -1,1481 +1,741 @@
-county,taxonomic_group,n,level,perc_secure
-Albany,All,376,perc_not_secure_state,54.59610027855153
-Albany,All,376,perc_not_secure_global,4.56989247311828
-Albany,Amphibians,23,perc_not_secure_state,54.59610027855153
-Albany,Amphibians,23,perc_not_secure_global,4.56989247311828
-Albany,"Bees, Wasps, and Ants",3,perc_not_secure_state,54.59610027855153
-Albany,"Bees, Wasps, and Ants",3,perc_not_secure_global,4.56989247311828
-Albany,Birds,159,perc_not_secure_state,54.59610027855153
-Albany,Birds,159,perc_not_secure_global,4.56989247311828
-Albany,Butterflies and Moths,31,perc_not_secure_state,54.59610027855153
-Albany,Butterflies and Moths,31,perc_not_secure_global,4.56989247311828
-Albany,Conifers,1,perc_not_secure_state,54.59610027855153
-Albany,Conifers,1,perc_not_secure_global,4.56989247311828
-Albany,Dragonflies and Damselflies,7,perc_not_secure_state,54.59610027855153
-Albany,Dragonflies and Damselflies,7,perc_not_secure_global,4.56989247311828
-Albany,Ferns and Fern Allies,2,perc_not_secure_state,54.59610027855153
-Albany,Ferns and Fern Allies,2,perc_not_secure_global,4.56989247311828
-Albany,Fish,4,perc_not_secure_state,54.59610027855153
-Albany,Fish,4,perc_not_secure_global,4.56989247311828
-Albany,Flowering Plants,112,perc_not_secure_state,54.59610027855153
-Albany,Flowering Plants,112,perc_not_secure_global,4.56989247311828
-Albany,Mammals,6,perc_not_secure_state,54.59610027855153
-Albany,Mammals,6,perc_not_secure_global,4.56989247311828
-Albany,Mosses,1,perc_not_secure_state,54.59610027855153
-Albany,Mosses,1,perc_not_secure_global,4.56989247311828
-Albany,Mussels and Clams,4,perc_not_secure_state,54.59610027855153
-Albany,Mussels and Clams,4,perc_not_secure_global,4.56989247311828
-Albany,Reptiles,23,perc_not_secure_state,54.59610027855153
-Albany,Reptiles,23,perc_not_secure_global,4.56989247311828
-Allegany,All,232,perc_not_secure_state,28.57142857142857
-Allegany,All,232,perc_not_secure_global,3.0434782608695654
-Allegany,Amphibians,26,perc_not_secure_state,28.57142857142857
-Allegany,Amphibians,26,perc_not_secure_global,3.0434782608695654
-Allegany,Birds,157,perc_not_secure_state,28.57142857142857
-Allegany,Birds,157,perc_not_secure_global,3.0434782608695654
-Allegany,Butterflies and Moths,2,perc_not_secure_state,28.57142857142857
-Allegany,Butterflies and Moths,2,perc_not_secure_global,3.0434782608695654
-Allegany,Dragonflies and Damselflies,1,perc_not_secure_state,28.57142857142857
-Allegany,Dragonflies and Damselflies,1,perc_not_secure_global,3.0434782608695654
-Allegany,Ferns and Fern Allies,1,perc_not_secure_state,28.57142857142857
-Allegany,Ferns and Fern Allies,1,perc_not_secure_global,3.0434782608695654
-Allegany,Fish,8,perc_not_secure_state,28.57142857142857
-Allegany,Fish,8,perc_not_secure_global,3.0434782608695654
-Allegany,Flowering Plants,16,perc_not_secure_state,28.57142857142857
-Allegany,Flowering Plants,16,perc_not_secure_global,3.0434782608695654
-Allegany,Mammals,3,perc_not_secure_state,28.57142857142857
-Allegany,Mammals,3,perc_not_secure_global,3.0434782608695654
-Allegany,Mussels and Clams,1,perc_not_secure_state,28.57142857142857
-Allegany,Mussels and Clams,1,perc_not_secure_global,3.0434782608695654
-Allegany,Reptiles,15,perc_not_secure_state,28.57142857142857
-Allegany,Reptiles,15,perc_not_secure_global,3.0434782608695654
-Allegany,Beetles,2,perc_not_secure_state,28.57142857142857
-Allegany,Beetles,2,perc_not_secure_global,3.0434782608695654
-Bronx,All,275,perc_not_secure_state,67.8030303030303
-Bronx,All,275,perc_not_secure_global,3.308823529411765
-Bronx,Amphibians,9,perc_not_secure_state,67.8030303030303
-Bronx,Amphibians,9,perc_not_secure_global,3.308823529411765
-Bronx,"Bees, Wasps, and Ants",1,perc_not_secure_state,67.8030303030303
-Bronx,"Bees, Wasps, and Ants",1,perc_not_secure_global,3.308823529411765
-Bronx,Birds,98,perc_not_secure_state,67.8030303030303
-Bronx,Birds,98,perc_not_secure_global,3.308823529411765
-Bronx,Butterflies and Moths,4,perc_not_secure_state,67.8030303030303
-Bronx,Butterflies and Moths,4,perc_not_secure_global,3.308823529411765
-Bronx,Dragonflies and Damselflies,2,perc_not_secure_state,67.8030303030303
-Bronx,Dragonflies and Damselflies,2,perc_not_secure_global,3.308823529411765
-Bronx,Ferns and Fern Allies,4,perc_not_secure_state,67.8030303030303
-Bronx,Ferns and Fern Allies,4,perc_not_secure_global,3.308823529411765
-Bronx,Fish,4,perc_not_secure_state,67.8030303030303
-Bronx,Fish,4,perc_not_secure_global,3.308823529411765
-Bronx,Flowering Plants,142,perc_not_secure_state,67.8030303030303
-Bronx,Flowering Plants,142,perc_not_secure_global,3.308823529411765
-Bronx,Mammals,3,perc_not_secure_state,67.8030303030303
-Bronx,Mammals,3,perc_not_secure_global,3.308823529411765
-Bronx,Reptiles,7,perc_not_secure_state,67.8030303030303
-Bronx,Reptiles,7,perc_not_secure_global,3.308823529411765
-Bronx,Beetles,1,perc_not_secure_state,67.8030303030303
-Bronx,Beetles,1,perc_not_secure_global,3.308823529411765
-Broome,All,243,perc_not_secure_state,33.047210300429185
-Broome,All,243,perc_not_secure_global,2.904564315352697
-Broome,Amphibians,19,perc_not_secure_state,33.047210300429185
-Broome,Amphibians,19,perc_not_secure_global,2.904564315352697
-Broome,Birds,159,perc_not_secure_state,33.047210300429185
-Broome,Birds,159,perc_not_secure_global,2.904564315352697
-Broome,Butterflies and Moths,1,perc_not_secure_state,33.047210300429185
-Broome,Butterflies and Moths,1,perc_not_secure_global,2.904564315352697
-Broome,Dragonflies and Damselflies,12,perc_not_secure_state,33.047210300429185
-Broome,Dragonflies and Damselflies,12,perc_not_secure_global,2.904564315352697
-Broome,Ferns and Fern Allies,1,perc_not_secure_state,33.047210300429185
-Broome,Ferns and Fern Allies,1,perc_not_secure_global,2.904564315352697
-Broome,Fish,4,perc_not_secure_state,33.047210300429185
-Broome,Fish,4,perc_not_secure_global,2.904564315352697
-Broome,Flowering Plants,28,perc_not_secure_state,33.047210300429185
-Broome,Flowering Plants,28,perc_not_secure_global,2.904564315352697
-Broome,Mammals,3,perc_not_secure_state,33.047210300429185
-Broome,Mammals,3,perc_not_secure_global,2.904564315352697
-Broome,Mussels and Clams,3,perc_not_secure_state,33.047210300429185
-Broome,Mussels and Clams,3,perc_not_secure_global,2.904564315352697
-Broome,Reptiles,13,perc_not_secure_state,33.047210300429185
-Broome,Reptiles,13,perc_not_secure_global,2.904564315352697
-Cattaraugus,All,318,perc_not_secure_state,48.064516129032256
-Cattaraugus,All,318,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Amphibians,24,perc_not_secure_state,48.064516129032256
-Cattaraugus,Amphibians,24,perc_not_secure_global,3.1746031746031744
-Cattaraugus,"Bees, Wasps, and Ants",1,perc_not_secure_state,48.064516129032256
-Cattaraugus,"Bees, Wasps, and Ants",1,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Birds,158,perc_not_secure_state,48.064516129032256
-Cattaraugus,Birds,158,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Butterflies and Moths,3,perc_not_secure_state,48.064516129032256
-Cattaraugus,Butterflies and Moths,3,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Dragonflies and Damselflies,8,perc_not_secure_state,48.064516129032256
-Cattaraugus,Dragonflies and Damselflies,8,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Ferns and Fern Allies,5,perc_not_secure_state,48.064516129032256
-Cattaraugus,Ferns and Fern Allies,5,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Fish,18,perc_not_secure_state,48.064516129032256
-Cattaraugus,Fish,18,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Flowering Plants,71,perc_not_secure_state,48.064516129032256
-Cattaraugus,Flowering Plants,71,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Mammals,4,perc_not_secure_state,48.064516129032256
-Cattaraugus,Mammals,4,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Mussels and Clams,8,perc_not_secure_state,48.064516129032256
-Cattaraugus,Mussels and Clams,8,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Reptiles,16,perc_not_secure_state,48.064516129032256
-Cattaraugus,Reptiles,16,perc_not_secure_global,3.1746031746031744
-Cattaraugus,Beetles,2,perc_not_secure_state,48.064516129032256
-Cattaraugus,Beetles,2,perc_not_secure_global,3.1746031746031744
-Cayuga,All,322,perc_not_secure_state,48.3974358974359
-Cayuga,All,322,perc_not_secure_global,3.1347962382445136
-Cayuga,Amphibians,20,perc_not_secure_state,48.3974358974359
-Cayuga,Amphibians,20,perc_not_secure_global,3.1347962382445136
-Cayuga,Birds,174,perc_not_secure_state,48.3974358974359
-Cayuga,Birds,174,perc_not_secure_global,3.1347962382445136
-Cayuga,Butterflies and Moths,1,perc_not_secure_state,48.3974358974359
-Cayuga,Butterflies and Moths,1,perc_not_secure_global,3.1347962382445136
-Cayuga,Ferns and Fern Allies,1,perc_not_secure_state,48.3974358974359
-Cayuga,Ferns and Fern Allies,1,perc_not_secure_global,3.1347962382445136
-Cayuga,Fish,11,perc_not_secure_state,48.3974358974359
-Cayuga,Fish,11,perc_not_secure_global,3.1347962382445136
-Cayuga,Flowering Plants,93,perc_not_secure_state,48.3974358974359
-Cayuga,Flowering Plants,93,perc_not_secure_global,3.1347962382445136
-Cayuga,Mammals,4,perc_not_secure_state,48.3974358974359
-Cayuga,Mammals,4,perc_not_secure_global,3.1347962382445136
-Cayuga,Mosses,1,perc_not_secure_state,48.3974358974359
-Cayuga,Mosses,1,perc_not_secure_global,3.1347962382445136
-Cayuga,Mussels and Clams,2,perc_not_secure_state,48.3974358974359
-Cayuga,Mussels and Clams,2,perc_not_secure_global,3.1347962382445136
-Cayuga,Reptiles,15,perc_not_secure_state,48.3974358974359
-Cayuga,Reptiles,15,perc_not_secure_global,3.1347962382445136
-Chautauqua,All,303,perc_not_secure_state,43.83561643835616
-Chautauqua,All,303,perc_not_secure_global,3.0100334448160537
-Chautauqua,Amphibians,22,perc_not_secure_state,43.83561643835616
-Chautauqua,Amphibians,22,perc_not_secure_global,3.0100334448160537
-Chautauqua,Birds,165,perc_not_secure_state,43.83561643835616
-Chautauqua,Birds,165,perc_not_secure_global,3.0100334448160537
-Chautauqua,Butterflies and Moths,1,perc_not_secure_state,43.83561643835616
-Chautauqua,Butterflies and Moths,1,perc_not_secure_global,3.0100334448160537
-Chautauqua,Dragonflies and Damselflies,3,perc_not_secure_state,43.83561643835616
-Chautauqua,Dragonflies and Damselflies,3,perc_not_secure_global,3.0100334448160537
-Chautauqua,Ferns and Fern Allies,4,perc_not_secure_state,43.83561643835616
-Chautauqua,Ferns and Fern Allies,4,perc_not_secure_global,3.0100334448160537
-Chautauqua,Fish,22,perc_not_secure_state,43.83561643835616
-Chautauqua,Fish,22,perc_not_secure_global,3.0100334448160537
-Chautauqua,Flowering Plants,54,perc_not_secure_state,43.83561643835616
-Chautauqua,Flowering Plants,54,perc_not_secure_global,3.0100334448160537
-Chautauqua,Mammals,4,perc_not_secure_state,43.83561643835616
-Chautauqua,Mammals,4,perc_not_secure_global,3.0100334448160537
-Chautauqua,Mussels and Clams,12,perc_not_secure_state,43.83561643835616
-Chautauqua,Mussels and Clams,12,perc_not_secure_global,3.0100334448160537
-Chautauqua,Reptiles,16,perc_not_secure_state,43.83561643835616
-Chautauqua,Reptiles,16,perc_not_secure_global,3.0100334448160537
-Chemung,All,270,perc_not_secure_state,40.909090909090914
-Chemung,All,270,perc_not_secure_global,2.6022304832713754
-Chemung,Amphibians,17,perc_not_secure_state,40.909090909090914
-Chemung,Amphibians,17,perc_not_secure_global,2.6022304832713754
-Chemung,Birds,159,perc_not_secure_state,40.909090909090914
-Chemung,Birds,159,perc_not_secure_global,2.6022304832713754
-Chemung,Conifers,1,perc_not_secure_state,40.909090909090914
-Chemung,Conifers,1,perc_not_secure_global,2.6022304832713754
-Chemung,Dragonflies and Damselflies,4,perc_not_secure_state,40.909090909090914
-Chemung,Dragonflies and Damselflies,4,perc_not_secure_global,2.6022304832713754
-Chemung,Ferns and Fern Allies,1,perc_not_secure_state,40.909090909090914
-Chemung,Ferns and Fern Allies,1,perc_not_secure_global,2.6022304832713754
-Chemung,Fish,4,perc_not_secure_state,40.909090909090914
-Chemung,Fish,4,perc_not_secure_global,2.6022304832713754
-Chemung,Flowering Plants,64,perc_not_secure_state,40.909090909090914
-Chemung,Flowering Plants,64,perc_not_secure_global,2.6022304832713754
-Chemung,Mammals,3,perc_not_secure_state,40.909090909090914
-Chemung,Mammals,3,perc_not_secure_global,2.6022304832713754
-Chemung,Mussels and Clams,3,perc_not_secure_state,40.909090909090914
-Chemung,Mussels and Clams,3,perc_not_secure_global,2.6022304832713754
-Chemung,Reptiles,14,perc_not_secure_state,40.909090909090914
-Chemung,Reptiles,14,perc_not_secure_global,2.6022304832713754
-Chenango,All,237,perc_not_secure_state,32.01754385964912
-Chenango,All,237,perc_not_secure_global,2.9787234042553195
-Chenango,Amphibians,20,perc_not_secure_state,32.01754385964912
-Chenango,Amphibians,20,perc_not_secure_global,2.9787234042553195
-Chenango,Birds,157,perc_not_secure_state,32.01754385964912
-Chenango,Birds,157,perc_not_secure_global,2.9787234042553195
-Chenango,Butterflies and Moths,1,perc_not_secure_state,32.01754385964912
-Chenango,Butterflies and Moths,1,perc_not_secure_global,2.9787234042553195
-Chenango,Conifers,1,perc_not_secure_state,32.01754385964912
-Chenango,Conifers,1,perc_not_secure_global,2.9787234042553195
-Chenango,Dragonflies and Damselflies,6,perc_not_secure_state,32.01754385964912
-Chenango,Dragonflies and Damselflies,6,perc_not_secure_global,2.9787234042553195
-Chenango,Ferns and Fern Allies,2,perc_not_secure_state,32.01754385964912
-Chenango,Ferns and Fern Allies,2,perc_not_secure_global,2.9787234042553195
-Chenango,Fish,3,perc_not_secure_state,32.01754385964912
-Chenango,Fish,3,perc_not_secure_global,2.9787234042553195
-Chenango,Flowering Plants,28,perc_not_secure_state,32.01754385964912
-Chenango,Flowering Plants,28,perc_not_secure_global,2.9787234042553195
-Chenango,Mammals,3,perc_not_secure_state,32.01754385964912
-Chenango,Mammals,3,perc_not_secure_global,2.9787234042553195
-Chenango,Mussels and Clams,3,perc_not_secure_state,32.01754385964912
-Chenango,Mussels and Clams,3,perc_not_secure_global,2.9787234042553195
-Chenango,Reptiles,13,perc_not_secure_state,32.01754385964912
-Chenango,Reptiles,13,perc_not_secure_global,2.9787234042553195
-Clinton,All,332,perc_not_secure_state,49.532710280373834
-Clinton,All,332,perc_not_secure_global,1.5151515151515151
-Clinton,Amphibians,20,perc_not_secure_state,49.532710280373834
-Clinton,Amphibians,20,perc_not_secure_global,1.5151515151515151
-Clinton,Birds,185,perc_not_secure_state,49.532710280373834
-Clinton,Birds,185,perc_not_secure_global,1.5151515151515151
-Clinton,Butterflies and Moths,13,perc_not_secure_state,49.532710280373834
-Clinton,Butterflies and Moths,13,perc_not_secure_global,1.5151515151515151
-Clinton,Conifers,1,perc_not_secure_state,49.532710280373834
-Clinton,Conifers,1,perc_not_secure_global,1.5151515151515151
-Clinton,Dragonflies and Damselflies,1,perc_not_secure_state,49.532710280373834
-Clinton,Dragonflies and Damselflies,1,perc_not_secure_global,1.5151515151515151
-Clinton,Ferns and Fern Allies,3,perc_not_secure_state,49.532710280373834
-Clinton,Ferns and Fern Allies,3,perc_not_secure_global,1.5151515151515151
-Clinton,Fish,11,perc_not_secure_state,49.532710280373834
-Clinton,Fish,11,perc_not_secure_global,1.5151515151515151
-Clinton,Flowering Plants,75,perc_not_secure_state,49.532710280373834
-Clinton,Flowering Plants,75,perc_not_secure_global,1.5151515151515151
-Clinton,Mammals,4,perc_not_secure_state,49.532710280373834
-Clinton,Mammals,4,perc_not_secure_global,1.5151515151515151
-Clinton,Mosses,1,perc_not_secure_state,49.532710280373834
-Clinton,Mosses,1,perc_not_secure_global,1.5151515151515151
-Clinton,Mussels and Clams,2,perc_not_secure_state,49.532710280373834
-Clinton,Mussels and Clams,2,perc_not_secure_global,1.5151515151515151
-Clinton,Reptiles,13,perc_not_secure_state,49.532710280373834
-Clinton,Reptiles,13,perc_not_secure_global,1.5151515151515151
-Clinton,Beetles,1,perc_not_secure_state,49.532710280373834
-Clinton,Beetles,1,perc_not_secure_global,1.5151515151515151
-Clinton,Snails,2,perc_not_secure_state,49.532710280373834
-Clinton,Snails,2,perc_not_secure_global,1.5151515151515151
-Columbia,All,305,perc_not_secure_state,45.57823129251701
-Columbia,All,305,perc_not_secure_global,4.697986577181208
-Columbia,Amphibians,20,perc_not_secure_state,45.57823129251701
-Columbia,Amphibians,20,perc_not_secure_global,4.697986577181208
-Columbia,Birds,153,perc_not_secure_state,45.57823129251701
-Columbia,Birds,153,perc_not_secure_global,4.697986577181208
-Columbia,Butterflies and Moths,4,perc_not_secure_state,45.57823129251701
-Columbia,Butterflies and Moths,4,perc_not_secure_global,4.697986577181208
-Columbia,Dragonflies and Damselflies,6,perc_not_secure_state,45.57823129251701
-Columbia,Dragonflies and Damselflies,6,perc_not_secure_global,4.697986577181208
-Columbia,Ferns and Fern Allies,4,perc_not_secure_state,45.57823129251701
-Columbia,Ferns and Fern Allies,4,perc_not_secure_global,4.697986577181208
-Columbia,Fish,3,perc_not_secure_state,45.57823129251701
-Columbia,Fish,3,perc_not_secure_global,4.697986577181208
-Columbia,Flowering Plants,85,perc_not_secure_state,45.57823129251701
-Columbia,Flowering Plants,85,perc_not_secure_global,4.697986577181208
-Columbia,Mammals,5,perc_not_secure_state,45.57823129251701
-Columbia,Mammals,5,perc_not_secure_global,4.697986577181208
-Columbia,Mosses,1,perc_not_secure_state,45.57823129251701
-Columbia,Mosses,1,perc_not_secure_global,4.697986577181208
-Columbia,Mussels and Clams,3,perc_not_secure_state,45.57823129251701
-Columbia,Mussels and Clams,3,perc_not_secure_global,4.697986577181208
-Columbia,Reptiles,21,perc_not_secure_state,45.57823129251701
-Columbia,Reptiles,21,perc_not_secure_global,4.697986577181208
-Cortland,All,231,perc_not_secure_state,31.25
-Cortland,All,231,perc_not_secure_global,3.056768558951965
-Cortland,Amphibians,18,perc_not_secure_state,31.25
-Cortland,Amphibians,18,perc_not_secure_global,3.056768558951965
-Cortland,Birds,151,perc_not_secure_state,31.25
-Cortland,Birds,151,perc_not_secure_global,3.056768558951965
-Cortland,Dragonflies and Damselflies,1,perc_not_secure_state,31.25
-Cortland,Dragonflies and Damselflies,1,perc_not_secure_global,3.056768558951965
-Cortland,Ferns and Fern Allies,2,perc_not_secure_state,31.25
-Cortland,Ferns and Fern Allies,2,perc_not_secure_global,3.056768558951965
-Cortland,Fish,5,perc_not_secure_state,31.25
-Cortland,Fish,5,perc_not_secure_global,3.056768558951965
-Cortland,Flowering Plants,38,perc_not_secure_state,31.25
-Cortland,Flowering Plants,38,perc_not_secure_global,3.056768558951965
-Cortland,Mammals,3,perc_not_secure_state,31.25
-Cortland,Mammals,3,perc_not_secure_global,3.056768558951965
-Cortland,Mussels and Clams,3,perc_not_secure_state,31.25
-Cortland,Mussels and Clams,3,perc_not_secure_global,3.056768558951965
-Cortland,Reptiles,10,perc_not_secure_state,31.25
-Cortland,Reptiles,10,perc_not_secure_global,3.056768558951965
-Delaware,All,253,perc_not_secure_state,35.24590163934426
-Delaware,All,253,perc_not_secure_global,4
-Delaware,Amphibians,21,perc_not_secure_state,35.24590163934426
-Delaware,Amphibians,21,perc_not_secure_global,4
-Delaware,Birds,157,perc_not_secure_state,35.24590163934426
-Delaware,Birds,157,perc_not_secure_global,4
-Delaware,Butterflies and Moths,2,perc_not_secure_state,35.24590163934426
-Delaware,Butterflies and Moths,2,perc_not_secure_global,4
-Delaware,Dragonflies and Damselflies,8,perc_not_secure_state,35.24590163934426
-Delaware,Dragonflies and Damselflies,8,perc_not_secure_global,4
-Delaware,Ferns and Fern Allies,3,perc_not_secure_state,35.24590163934426
-Delaware,Ferns and Fern Allies,3,perc_not_secure_global,4
-Delaware,Fish,4,perc_not_secure_state,35.24590163934426
-Delaware,Fish,4,perc_not_secure_global,4
-Delaware,Flowering Plants,34,perc_not_secure_state,35.24590163934426
-Delaware,Flowering Plants,34,perc_not_secure_global,4
-Delaware,Mammals,3,perc_not_secure_state,35.24590163934426
-Delaware,Mammals,3,perc_not_secure_global,4
-Delaware,Mussels and Clams,6,perc_not_secure_state,35.24590163934426
-Delaware,Mussels and Clams,6,perc_not_secure_global,4
-Delaware,Reptiles,15,perc_not_secure_state,35.24590163934426
-Delaware,Reptiles,15,perc_not_secure_global,4
-Dutchess,All,389,perc_not_secure_state,56.87830687830689
-Dutchess,All,389,perc_not_secure_global,4.6875
-Dutchess,Amphibians,23,perc_not_secure_state,56.87830687830689
-Dutchess,Amphibians,23,perc_not_secure_global,4.6875
-Dutchess,Birds,161,perc_not_secure_state,56.87830687830689
-Dutchess,Birds,161,perc_not_secure_global,4.6875
-Dutchess,Butterflies and Moths,5,perc_not_secure_state,56.87830687830689
-Dutchess,Butterflies and Moths,5,perc_not_secure_global,4.6875
-Dutchess,Conifers,1,perc_not_secure_state,56.87830687830689
-Dutchess,Conifers,1,perc_not_secure_global,4.6875
-Dutchess,Dragonflies and Damselflies,8,perc_not_secure_state,56.87830687830689
-Dutchess,Dragonflies and Damselflies,8,perc_not_secure_global,4.6875
-Dutchess,Ferns and Fern Allies,8,perc_not_secure_state,56.87830687830689
-Dutchess,Ferns and Fern Allies,8,perc_not_secure_global,4.6875
-Dutchess,Fish,6,perc_not_secure_state,56.87830687830689
-Dutchess,Fish,6,perc_not_secure_global,4.6875
-Dutchess,Flowering Plants,131,perc_not_secure_state,56.87830687830689
-Dutchess,Flowering Plants,131,perc_not_secure_global,4.6875
-Dutchess,Mammals,6,perc_not_secure_state,56.87830687830689
-Dutchess,Mammals,6,perc_not_secure_global,4.6875
-Dutchess,Mosses,9,perc_not_secure_state,56.87830687830689
-Dutchess,Mosses,9,perc_not_secure_global,4.6875
-Dutchess,Mussels and Clams,5,perc_not_secure_state,56.87830687830689
-Dutchess,Mussels and Clams,5,perc_not_secure_global,4.6875
-Dutchess,Reptiles,26,perc_not_secure_state,56.87830687830689
-Dutchess,Reptiles,26,perc_not_secure_global,4.6875
-Erie,All,395,perc_not_secure_state,57.8125
-Erie,All,395,perc_not_secure_global,2.051282051282051
-Erie,Amphibians,23,perc_not_secure_state,57.8125
-Erie,Amphibians,23,perc_not_secure_global,2.051282051282051
-Erie,Birds,171,perc_not_secure_state,57.8125
-Erie,Birds,171,perc_not_secure_global,2.051282051282051
-Erie,Butterflies and Moths,4,perc_not_secure_state,57.8125
-Erie,Butterflies and Moths,4,perc_not_secure_global,2.051282051282051
-Erie,Dragonflies and Damselflies,5,perc_not_secure_state,57.8125
-Erie,Dragonflies and Damselflies,5,perc_not_secure_global,2.051282051282051
-Erie,Ferns and Fern Allies,4,perc_not_secure_state,57.8125
-Erie,Ferns and Fern Allies,4,perc_not_secure_global,2.051282051282051
-Erie,Fish,17,perc_not_secure_state,57.8125
-Erie,Fish,17,perc_not_secure_global,2.051282051282051
-Erie,Flowering Plants,128,perc_not_secure_state,57.8125
-Erie,Flowering Plants,128,perc_not_secure_global,2.051282051282051
-Erie,Mammals,4,perc_not_secure_state,57.8125
-Erie,Mammals,4,perc_not_secure_global,2.051282051282051
-Erie,Mussels and Clams,14,perc_not_secure_state,57.8125
-Erie,Mussels and Clams,14,perc_not_secure_global,2.051282051282051
-Erie,Reptiles,18,perc_not_secure_state,57.8125
-Erie,Reptiles,18,perc_not_secure_global,2.051282051282051
-Erie,Beetles,5,perc_not_secure_state,57.8125
-Erie,Beetles,5,perc_not_secure_global,2.051282051282051
-Erie,Snails,1,perc_not_secure_state,57.8125
-Erie,Snails,1,perc_not_secure_global,2.051282051282051
-Erie,Crustaceans,1,perc_not_secure_state,57.8125
-Erie,Crustaceans,1,perc_not_secure_global,2.051282051282051
-Essex,All,418,perc_not_secure_state,59.168704156479215
-Essex,All,418,perc_not_secure_global,3.132530120481928
-Essex,Amphibians,20,perc_not_secure_state,59.168704156479215
-Essex,Amphibians,20,perc_not_secure_global,3.132530120481928
-Essex,"Bees, Wasps, and Ants",1,perc_not_secure_state,59.168704156479215
-Essex,"Bees, Wasps, and Ants",1,perc_not_secure_global,3.132530120481928
-Essex,Birds,190,perc_not_secure_state,59.168704156479215
-Essex,Birds,190,perc_not_secure_global,3.132530120481928
-Essex,Butterflies and Moths,4,perc_not_secure_state,59.168704156479215
-Essex,Butterflies and Moths,4,perc_not_secure_global,3.132530120481928
-Essex,Conifers,1,perc_not_secure_state,59.168704156479215
-Essex,Conifers,1,perc_not_secure_global,3.132530120481928
-Essex,Dragonflies and Damselflies,20,perc_not_secure_state,59.168704156479215
-Essex,Dragonflies and Damselflies,20,perc_not_secure_global,3.132530120481928
-Essex,Ferns and Fern Allies,14,perc_not_secure_state,59.168704156479215
-Essex,Ferns and Fern Allies,14,perc_not_secure_global,3.132530120481928
-Essex,Fish,11,perc_not_secure_state,59.168704156479215
-Essex,Fish,11,perc_not_secure_global,3.132530120481928
-Essex,Flowering Plants,130,perc_not_secure_state,59.168704156479215
-Essex,Flowering Plants,130,perc_not_secure_global,3.132530120481928
-Essex,Mammals,6,perc_not_secure_state,59.168704156479215
-Essex,Mammals,6,perc_not_secure_global,3.132530120481928
-Essex,Mussels and Clams,2,perc_not_secure_state,59.168704156479215
-Essex,Mussels and Clams,2,perc_not_secure_global,3.132530120481928
-Essex,Reptiles,17,perc_not_secure_state,59.168704156479215
-Essex,Reptiles,17,perc_not_secure_global,3.132530120481928
-Essex,Beetles,2,perc_not_secure_state,59.168704156479215
-Essex,Beetles,2,perc_not_secure_global,3.132530120481928
-Franklin,All,291,perc_not_secure_state,45.51971326164875
-Franklin,All,291,perc_not_secure_global,1.4035087719298245
-Franklin,Amphibians,20,perc_not_secure_state,45.51971326164875
-Franklin,Amphibians,20,perc_not_secure_global,1.4035087719298245
-Franklin,"Bees, Wasps, and Ants",1,perc_not_secure_state,45.51971326164875
-Franklin,"Bees, Wasps, and Ants",1,perc_not_secure_global,1.4035087719298245
-Franklin,Birds,178,perc_not_secure_state,45.51971326164875
-Franklin,Birds,178,perc_not_secure_global,1.4035087719298245
-Franklin,Butterflies and Moths,5,perc_not_secure_state,45.51971326164875
-Franklin,Butterflies and Moths,5,perc_not_secure_global,1.4035087719298245
-Franklin,Dragonflies and Damselflies,10,perc_not_secure_state,45.51971326164875
-Franklin,Dragonflies and Damselflies,10,perc_not_secure_global,1.4035087719298245
-Franklin,Ferns and Fern Allies,3,perc_not_secure_state,45.51971326164875
-Franklin,Ferns and Fern Allies,3,perc_not_secure_global,1.4035087719298245
-Franklin,Fish,10,perc_not_secure_state,45.51971326164875
-Franklin,Fish,10,perc_not_secure_global,1.4035087719298245
-Franklin,Flowering Plants,43,perc_not_secure_state,45.51971326164875
-Franklin,Flowering Plants,43,perc_not_secure_global,1.4035087719298245
-Franklin,Mammals,3,perc_not_secure_state,45.51971326164875
-Franklin,Mammals,3,perc_not_secure_global,1.4035087719298245
-Franklin,Mussels and Clams,4,perc_not_secure_state,45.51971326164875
-Franklin,Mussels and Clams,4,perc_not_secure_global,1.4035087719298245
-Franklin,Reptiles,13,perc_not_secure_state,45.51971326164875
-Franklin,Reptiles,13,perc_not_secure_global,1.4035087719298245
-Franklin,Beetles,1,perc_not_secure_state,45.51971326164875
-Franklin,Beetles,1,perc_not_secure_global,1.4035087719298245
-Fulton,All,216,perc_not_secure_state,23.076923076923077
-Fulton,All,216,perc_not_secure_global,2.336448598130841
-Fulton,Amphibians,18,perc_not_secure_state,23.076923076923077
-Fulton,Amphibians,18,perc_not_secure_global,2.336448598130841
-Fulton,Birds,158,perc_not_secure_state,23.076923076923077
-Fulton,Birds,158,perc_not_secure_global,2.336448598130841
-Fulton,Ferns and Fern Allies,1,perc_not_secure_state,23.076923076923077
-Fulton,Ferns and Fern Allies,1,perc_not_secure_global,2.336448598130841
-Fulton,Fish,2,perc_not_secure_state,23.076923076923077
-Fulton,Fish,2,perc_not_secure_global,2.336448598130841
-Fulton,Flowering Plants,21,perc_not_secure_state,23.076923076923077
-Fulton,Flowering Plants,21,perc_not_secure_global,2.336448598130841
-Fulton,Mammals,3,perc_not_secure_state,23.076923076923077
-Fulton,Mammals,3,perc_not_secure_global,2.336448598130841
-Fulton,Reptiles,13,perc_not_secure_state,23.076923076923077
-Fulton,Reptiles,13,perc_not_secure_global,2.336448598130841
-Genesee,All,309,perc_not_secure_state,48.49498327759198
-Genesee,All,309,perc_not_secure_global,2.6143790849673203
-Genesee,Amphibians,18,perc_not_secure_state,48.49498327759198
-Genesee,Amphibians,18,perc_not_secure_global,2.6143790849673203
-Genesee,Birds,169,perc_not_secure_state,48.49498327759198
-Genesee,Birds,169,perc_not_secure_global,2.6143790849673203
-Genesee,Butterflies and Moths,3,perc_not_secure_state,48.49498327759198
-Genesee,Butterflies and Moths,3,perc_not_secure_global,2.6143790849673203
-Genesee,Conifers,1,perc_not_secure_state,48.49498327759198
-Genesee,Conifers,1,perc_not_secure_global,2.6143790849673203
-Genesee,Dragonflies and Damselflies,2,perc_not_secure_state,48.49498327759198
-Genesee,Dragonflies and Damselflies,2,perc_not_secure_global,2.6143790849673203
-Genesee,Ferns and Fern Allies,3,perc_not_secure_state,48.49498327759198
-Genesee,Ferns and Fern Allies,3,perc_not_secure_global,2.6143790849673203
-Genesee,Fish,3,perc_not_secure_state,48.49498327759198
-Genesee,Fish,3,perc_not_secure_global,2.6143790849673203
-Genesee,Flowering Plants,83,perc_not_secure_state,48.49498327759198
-Genesee,Flowering Plants,83,perc_not_secure_global,2.6143790849673203
-Genesee,Mammals,3,perc_not_secure_state,48.49498327759198
-Genesee,Mammals,3,perc_not_secure_global,2.6143790849673203
-Genesee,Mussels and Clams,6,perc_not_secure_state,48.49498327759198
-Genesee,Mussels and Clams,6,perc_not_secure_global,2.6143790849673203
-Genesee,Reptiles,17,perc_not_secure_state,48.49498327759198
-Genesee,Reptiles,17,perc_not_secure_global,2.6143790849673203
-Genesee,Crustaceans,1,perc_not_secure_state,48.49498327759198
-Genesee,Crustaceans,1,perc_not_secure_global,2.6143790849673203
-Greene,All,284,perc_not_secure_state,42.18181818181818
-Greene,All,284,perc_not_secure_global,4.285714285714286
-Greene,Amphibians,20,perc_not_secure_state,42.18181818181818
-Greene,Amphibians,20,perc_not_secure_global,4.285714285714286
-Greene,Birds,161,perc_not_secure_state,42.18181818181818
-Greene,Birds,161,perc_not_secure_global,4.285714285714286
-Greene,Butterflies and Moths,2,perc_not_secure_state,42.18181818181818
-Greene,Butterflies and Moths,2,perc_not_secure_global,4.285714285714286
-Greene,Dragonflies and Damselflies,1,perc_not_secure_state,42.18181818181818
-Greene,Dragonflies and Damselflies,1,perc_not_secure_global,4.285714285714286
-Greene,Ferns and Fern Allies,10,perc_not_secure_state,42.18181818181818
-Greene,Ferns and Fern Allies,10,perc_not_secure_global,4.285714285714286
-Greene,Fish,4,perc_not_secure_state,42.18181818181818
-Greene,Fish,4,perc_not_secure_global,4.285714285714286
-Greene,Flowering Plants,59,perc_not_secure_state,42.18181818181818
-Greene,Flowering Plants,59,perc_not_secure_global,4.285714285714286
-Greene,Mammals,4,perc_not_secure_state,42.18181818181818
-Greene,Mammals,4,perc_not_secure_global,4.285714285714286
-Greene,Mosses,5,perc_not_secure_state,42.18181818181818
-Greene,Mosses,5,perc_not_secure_global,4.285714285714286
-Greene,Reptiles,17,perc_not_secure_state,42.18181818181818
-Greene,Reptiles,17,perc_not_secure_global,4.285714285714286
-Greene,Beetles,1,perc_not_secure_state,42.18181818181818
-Greene,Beetles,1,perc_not_secure_global,4.285714285714286
-Hamilton,All,260,perc_not_secure_state,41.796875
-Hamilton,All,260,perc_not_secure_global,2.6923076923076925
-Hamilton,Amphibians,16,perc_not_secure_state,41.796875
-Hamilton,Amphibians,16,perc_not_secure_global,2.6923076923076925
-Hamilton,"Bees, Wasps, and Ants",1,perc_not_secure_state,41.796875
-Hamilton,"Bees, Wasps, and Ants",1,perc_not_secure_global,2.6923076923076925
-Hamilton,Birds,157,perc_not_secure_state,41.796875
-Hamilton,Birds,157,perc_not_secure_global,2.6923076923076925
-Hamilton,Conifers,1,perc_not_secure_state,41.796875
-Hamilton,Conifers,1,perc_not_secure_global,2.6923076923076925
-Hamilton,Dragonflies and Damselflies,5,perc_not_secure_state,41.796875
-Hamilton,Dragonflies and Damselflies,5,perc_not_secure_global,2.6923076923076925
-Hamilton,Ferns and Fern Allies,3,perc_not_secure_state,41.796875
-Hamilton,Ferns and Fern Allies,3,perc_not_secure_global,2.6923076923076925
-Hamilton,Fish,8,perc_not_secure_state,41.796875
-Hamilton,Fish,8,perc_not_secure_global,2.6923076923076925
-Hamilton,Flowering Plants,51,perc_not_secure_state,41.796875
-Hamilton,Flowering Plants,51,perc_not_secure_global,2.6923076923076925
-Hamilton,Mammals,4,perc_not_secure_state,41.796875
-Hamilton,Mammals,4,perc_not_secure_global,2.6923076923076925
-Hamilton,Mosses,2,perc_not_secure_state,41.796875
-Hamilton,Mosses,2,perc_not_secure_global,2.6923076923076925
-Hamilton,Reptiles,11,perc_not_secure_state,41.796875
-Hamilton,Reptiles,11,perc_not_secure_global,2.6923076923076925
-Hamilton,Beetles,1,perc_not_secure_state,41.796875
-Hamilton,Beetles,1,perc_not_secure_global,2.6923076923076925
-Herkimer,All,292,perc_not_secure_state,42.80701754385965
-Herkimer,All,292,perc_not_secure_global,2.405498281786942
-Herkimer,Amphibians,20,perc_not_secure_state,42.80701754385965
-Herkimer,Amphibians,20,perc_not_secure_global,2.405498281786942
-Herkimer,Birds,174,perc_not_secure_state,42.80701754385965
-Herkimer,Birds,174,perc_not_secure_global,2.405498281786942
-Herkimer,Dragonflies and Damselflies,4,perc_not_secure_state,42.80701754385965
-Herkimer,Dragonflies and Damselflies,4,perc_not_secure_global,2.405498281786942
-Herkimer,Ferns and Fern Allies,5,perc_not_secure_state,42.80701754385965
-Herkimer,Ferns and Fern Allies,5,perc_not_secure_global,2.405498281786942
-Herkimer,Fish,6,perc_not_secure_state,42.80701754385965
-Herkimer,Fish,6,perc_not_secure_global,2.405498281786942
-Herkimer,Flowering Plants,66,perc_not_secure_state,42.80701754385965
-Herkimer,Flowering Plants,66,perc_not_secure_global,2.405498281786942
-Herkimer,Mammals,3,perc_not_secure_state,42.80701754385965
-Herkimer,Mammals,3,perc_not_secure_global,2.405498281786942
-Herkimer,Mosses,2,perc_not_secure_state,42.80701754385965
-Herkimer,Mosses,2,perc_not_secure_global,2.405498281786942
-Herkimer,Reptiles,12,perc_not_secure_state,42.80701754385965
-Herkimer,Reptiles,12,perc_not_secure_global,2.405498281786942
-Jefferson,All,378,perc_not_secure_state,53.86740331491713
-Jefferson,All,378,perc_not_secure_global,2.956989247311828
-Jefferson,Amphibians,21,perc_not_secure_state,53.86740331491713
-Jefferson,Amphibians,21,perc_not_secure_global,2.956989247311828
-Jefferson,"Bees, Wasps, and Ants",1,perc_not_secure_state,53.86740331491713
-Jefferson,"Bees, Wasps, and Ants",1,perc_not_secure_global,2.956989247311828
-Jefferson,Birds,186,perc_not_secure_state,53.86740331491713
-Jefferson,Birds,186,perc_not_secure_global,2.956989247311828
-Jefferson,Butterflies and Moths,14,perc_not_secure_state,53.86740331491713
-Jefferson,Butterflies and Moths,14,perc_not_secure_global,2.956989247311828
-Jefferson,Dragonflies and Damselflies,6,perc_not_secure_state,53.86740331491713
-Jefferson,Dragonflies and Damselflies,6,perc_not_secure_global,2.956989247311828
-Jefferson,Ferns and Fern Allies,2,perc_not_secure_state,53.86740331491713
-Jefferson,Ferns and Fern Allies,2,perc_not_secure_global,2.956989247311828
-Jefferson,Fish,14,perc_not_secure_state,53.86740331491713
-Jefferson,Fish,14,perc_not_secure_global,2.956989247311828
-Jefferson,Flowering Plants,106,perc_not_secure_state,53.86740331491713
-Jefferson,Flowering Plants,106,perc_not_secure_global,2.956989247311828
-Jefferson,Mammals,5,perc_not_secure_state,53.86740331491713
-Jefferson,Mammals,5,perc_not_secure_global,2.956989247311828
-Jefferson,Mosses,1,perc_not_secure_state,53.86740331491713
-Jefferson,Mosses,1,perc_not_secure_global,2.956989247311828
-Jefferson,Mussels and Clams,2,perc_not_secure_state,53.86740331491713
-Jefferson,Mussels and Clams,2,perc_not_secure_global,2.956989247311828
-Jefferson,Reptiles,17,perc_not_secure_state,53.86740331491713
-Jefferson,Reptiles,17,perc_not_secure_global,2.956989247311828
-Jefferson,Beetles,2,perc_not_secure_state,53.86740331491713
-Jefferson,Beetles,2,perc_not_secure_global,2.956989247311828
-Jefferson,Mayflies,1,perc_not_secure_state,53.86740331491713
-Jefferson,Mayflies,1,perc_not_secure_global,2.956989247311828
-Kings,All,213,perc_not_secure_state,63.54679802955665
-Kings,All,213,perc_not_secure_global,3.3175355450236967
-Kings,Amphibians,7,perc_not_secure_state,63.54679802955665
-Kings,Amphibians,7,perc_not_secure_global,3.3175355450236967
-Kings,"Bees, Wasps, and Ants",1,perc_not_secure_state,63.54679802955665
-Kings,"Bees, Wasps, and Ants",1,perc_not_secure_global,3.3175355450236967
-Kings,Birds,96,perc_not_secure_state,63.54679802955665
-Kings,Birds,96,perc_not_secure_global,3.3175355450236967
-Kings,Butterflies and Moths,3,perc_not_secure_state,63.54679802955665
-Kings,Butterflies and Moths,3,perc_not_secure_global,3.3175355450236967
-Kings,Dragonflies and Damselflies,2,perc_not_secure_state,63.54679802955665
-Kings,Dragonflies and Damselflies,2,perc_not_secure_global,3.3175355450236967
-Kings,Ferns and Fern Allies,1,perc_not_secure_state,63.54679802955665
-Kings,Ferns and Fern Allies,1,perc_not_secure_global,3.3175355450236967
-Kings,Fish,3,perc_not_secure_state,63.54679802955665
-Kings,Fish,3,perc_not_secure_global,3.3175355450236967
-Kings,Flowering Plants,83,perc_not_secure_state,63.54679802955665
-Kings,Flowering Plants,83,perc_not_secure_global,3.3175355450236967
-Kings,Mammals,3,perc_not_secure_state,63.54679802955665
-Kings,Mammals,3,perc_not_secure_global,3.3175355450236967
-Kings,Reptiles,10,perc_not_secure_state,63.54679802955665
-Kings,Reptiles,10,perc_not_secure_global,3.3175355450236967
-Kings,Beetles,4,perc_not_secure_state,63.54679802955665
-Kings,Beetles,4,perc_not_secure_global,3.3175355450236967
-Lewis,All,295,perc_not_secure_state,44.79166666666667
-Lewis,All,295,perc_not_secure_global,2.7303754266211606
-Lewis,Amphibians,20,perc_not_secure_state,44.79166666666667
-Lewis,Amphibians,20,perc_not_secure_global,2.7303754266211606
-Lewis,Birds,173,perc_not_secure_state,44.79166666666667
-Lewis,Birds,173,perc_not_secure_global,2.7303754266211606
-Lewis,Butterflies and Moths,1,perc_not_secure_state,44.79166666666667
-Lewis,Butterflies and Moths,1,perc_not_secure_global,2.7303754266211606
-Lewis,Dragonflies and Damselflies,6,perc_not_secure_state,44.79166666666667
-Lewis,Dragonflies and Damselflies,6,perc_not_secure_global,2.7303754266211606
-Lewis,Ferns and Fern Allies,5,perc_not_secure_state,44.79166666666667
-Lewis,Ferns and Fern Allies,5,perc_not_secure_global,2.7303754266211606
-Lewis,Fish,4,perc_not_secure_state,44.79166666666667
-Lewis,Fish,4,perc_not_secure_global,2.7303754266211606
-Lewis,Flowering Plants,64,perc_not_secure_state,44.79166666666667
-Lewis,Flowering Plants,64,perc_not_secure_global,2.7303754266211606
-Lewis,Mammals,3,perc_not_secure_state,44.79166666666667
-Lewis,Mammals,3,perc_not_secure_global,2.7303754266211606
-Lewis,Mosses,3,perc_not_secure_state,44.79166666666667
-Lewis,Mosses,3,perc_not_secure_global,2.7303754266211606
-Lewis,Mussels and Clams,1,perc_not_secure_state,44.79166666666667
-Lewis,Mussels and Clams,1,perc_not_secure_global,2.7303754266211606
-Lewis,Reptiles,14,perc_not_secure_state,44.79166666666667
-Lewis,Reptiles,14,perc_not_secure_global,2.7303754266211606
-Lewis,Mayflies,1,perc_not_secure_state,44.79166666666667
-Lewis,Mayflies,1,perc_not_secure_global,2.7303754266211606
-Livingston,All,290,perc_not_secure_state,43.214285714285715
-Livingston,All,290,perc_not_secure_global,2.797202797202797
-Livingston,Amphibians,22,perc_not_secure_state,43.214285714285715
-Livingston,Amphibians,22,perc_not_secure_global,2.797202797202797
-Livingston,"Bees, Wasps, and Ants",1,perc_not_secure_state,43.214285714285715
-Livingston,"Bees, Wasps, and Ants",1,perc_not_secure_global,2.797202797202797
-Livingston,Birds,162,perc_not_secure_state,43.214285714285715
-Livingston,Birds,162,perc_not_secure_global,2.797202797202797
-Livingston,Butterflies and Moths,2,perc_not_secure_state,43.214285714285715
-Livingston,Butterflies and Moths,2,perc_not_secure_global,2.797202797202797
-Livingston,Conifers,1,perc_not_secure_state,43.214285714285715
-Livingston,Conifers,1,perc_not_secure_global,2.797202797202797
-Livingston,Dragonflies and Damselflies,4,perc_not_secure_state,43.214285714285715
-Livingston,Dragonflies and Damselflies,4,perc_not_secure_global,2.797202797202797
-Livingston,Ferns and Fern Allies,1,perc_not_secure_state,43.214285714285715
-Livingston,Ferns and Fern Allies,1,perc_not_secure_global,2.797202797202797
-Livingston,Fish,4,perc_not_secure_state,43.214285714285715
-Livingston,Fish,4,perc_not_secure_global,2.797202797202797
-Livingston,Flowering Plants,65,perc_not_secure_state,43.214285714285715
-Livingston,Flowering Plants,65,perc_not_secure_global,2.797202797202797
-Livingston,Mammals,4,perc_not_secure_state,43.214285714285715
-Livingston,Mammals,4,perc_not_secure_global,2.797202797202797
-Livingston,Mussels and Clams,5,perc_not_secure_state,43.214285714285715
-Livingston,Mussels and Clams,5,perc_not_secure_global,2.797202797202797
-Livingston,Reptiles,16,perc_not_secure_state,43.214285714285715
-Livingston,Reptiles,16,perc_not_secure_global,2.797202797202797
-Livingston,Beetles,2,perc_not_secure_state,43.214285714285715
-Livingston,Beetles,2,perc_not_secure_global,2.797202797202797
-Livingston,Snails,1,perc_not_secure_state,43.214285714285715
-Livingston,Snails,1,perc_not_secure_global,2.797202797202797
-Madison,All,265,perc_not_secure_state,39.922480620155035
-Madison,All,265,perc_not_secure_global,3.4090909090909087
-Madison,Amphibians,17,perc_not_secure_state,39.922480620155035
-Madison,Amphibians,17,perc_not_secure_global,3.4090909090909087
-Madison,Birds,157,perc_not_secure_state,39.922480620155035
-Madison,Birds,157,perc_not_secure_global,3.4090909090909087
-Madison,Conifers,1,perc_not_secure_state,39.922480620155035
-Madison,Conifers,1,perc_not_secure_global,3.4090909090909087
-Madison,Dragonflies and Damselflies,1,perc_not_secure_state,39.922480620155035
-Madison,Dragonflies and Damselflies,1,perc_not_secure_global,3.4090909090909087
-Madison,Ferns and Fern Allies,4,perc_not_secure_state,39.922480620155035
-Madison,Ferns and Fern Allies,4,perc_not_secure_global,3.4090909090909087
-Madison,Fish,3,perc_not_secure_state,39.922480620155035
-Madison,Fish,3,perc_not_secure_global,3.4090909090909087
-Madison,Flowering Plants,60,perc_not_secure_state,39.922480620155035
-Madison,Flowering Plants,60,perc_not_secure_global,3.4090909090909087
-Madison,Mammals,3,perc_not_secure_state,39.922480620155035
-Madison,Mammals,3,perc_not_secure_global,3.4090909090909087
-Madison,Mosses,5,perc_not_secure_state,39.922480620155035
-Madison,Mosses,5,perc_not_secure_global,3.4090909090909087
-Madison,Mussels and Clams,3,perc_not_secure_state,39.922480620155035
-Madison,Mussels and Clams,3,perc_not_secure_global,3.4090909090909087
-Madison,Reptiles,10,perc_not_secure_state,39.922480620155035
-Madison,Reptiles,10,perc_not_secure_global,3.4090909090909087
-Madison,Snails,1,perc_not_secure_state,39.922480620155035
-Madison,Snails,1,perc_not_secure_global,3.4090909090909087
-Monroe,All,377,perc_not_secure_state,58.791208791208796
-Monroe,All,377,perc_not_secure_global,2.6881720430107525
-Monroe,Amphibians,21,perc_not_secure_state,58.791208791208796
-Monroe,Amphibians,21,perc_not_secure_global,2.6881720430107525
-Monroe,"Bees, Wasps, and Ants",2,perc_not_secure_state,58.791208791208796
-Monroe,"Bees, Wasps, and Ants",2,perc_not_secure_global,2.6881720430107525
-Monroe,Birds,163,perc_not_secure_state,58.791208791208796
-Monroe,Birds,163,perc_not_secure_global,2.6881720430107525
-Monroe,Butterflies and Moths,1,perc_not_secure_state,58.791208791208796
-Monroe,Butterflies and Moths,1,perc_not_secure_global,2.6881720430107525
-Monroe,Conifers,1,perc_not_secure_state,58.791208791208796
-Monroe,Conifers,1,perc_not_secure_global,2.6881720430107525
-Monroe,Dragonflies and Damselflies,3,perc_not_secure_state,58.791208791208796
-Monroe,Dragonflies and Damselflies,3,perc_not_secure_global,2.6881720430107525
-Monroe,Ferns and Fern Allies,3,perc_not_secure_state,58.791208791208796
-Monroe,Ferns and Fern Allies,3,perc_not_secure_global,2.6881720430107525
-Monroe,Fish,17,perc_not_secure_state,58.791208791208796
-Monroe,Fish,17,perc_not_secure_global,2.6881720430107525
-Monroe,Flowering Plants,136,perc_not_secure_state,58.791208791208796
-Monroe,Flowering Plants,136,perc_not_secure_global,2.6881720430107525
-Monroe,Mammals,3,perc_not_secure_state,58.791208791208796
-Monroe,Mammals,3,perc_not_secure_global,2.6881720430107525
-Monroe,Mosses,1,perc_not_secure_state,58.791208791208796
-Monroe,Mosses,1,perc_not_secure_global,2.6881720430107525
-Monroe,Mussels and Clams,6,perc_not_secure_state,58.791208791208796
-Monroe,Mussels and Clams,6,perc_not_secure_global,2.6881720430107525
-Monroe,Reptiles,18,perc_not_secure_state,58.791208791208796
-Monroe,Reptiles,18,perc_not_secure_global,2.6881720430107525
-Monroe,Beetles,2,perc_not_secure_state,58.791208791208796
-Monroe,Beetles,2,perc_not_secure_global,2.6881720430107525
-Montgomery,All,187,perc_not_secure_state,17.12707182320442
-Montgomery,All,187,perc_not_secure_global,2.13903743315508
-Montgomery,Amphibians,17,perc_not_secure_state,17.12707182320442
-Montgomery,Amphibians,17,perc_not_secure_global,2.13903743315508
-Montgomery,Birds,144,perc_not_secure_state,17.12707182320442
-Montgomery,Birds,144,perc_not_secure_global,2.13903743315508
-Montgomery,Dragonflies and Damselflies,3,perc_not_secure_state,17.12707182320442
-Montgomery,Dragonflies and Damselflies,3,perc_not_secure_global,2.13903743315508
-Montgomery,Flowering Plants,7,perc_not_secure_state,17.12707182320442
-Montgomery,Flowering Plants,7,perc_not_secure_global,2.13903743315508
-Montgomery,Mammals,4,perc_not_secure_state,17.12707182320442
-Montgomery,Mammals,4,perc_not_secure_global,2.13903743315508
-Montgomery,Reptiles,12,perc_not_secure_state,17.12707182320442
-Montgomery,Reptiles,12,perc_not_secure_global,2.13903743315508
-Nassau,All,420,perc_not_secure_state,71.007371007371
-Nassau,All,420,perc_not_secure_global,3.5971223021582732
-Nassau,Amphibians,13,perc_not_secure_state,71.007371007371
-Nassau,Amphibians,13,perc_not_secure_global,3.5971223021582732
-Nassau,"Bees, Wasps, and Ants",1,perc_not_secure_state,71.007371007371
-Nassau,"Bees, Wasps, and Ants",1,perc_not_secure_global,3.5971223021582732
-Nassau,Birds,149,perc_not_secure_state,71.007371007371
-Nassau,Birds,149,perc_not_secure_global,3.5971223021582732
-Nassau,Butterflies and Moths,5,perc_not_secure_state,71.007371007371
-Nassau,Butterflies and Moths,5,perc_not_secure_global,3.5971223021582732
-Nassau,Conifers,2,perc_not_secure_state,71.007371007371
-Nassau,Conifers,2,perc_not_secure_global,3.5971223021582732
-Nassau,Dragonflies and Damselflies,5,perc_not_secure_state,71.007371007371
-Nassau,Dragonflies and Damselflies,5,perc_not_secure_global,3.5971223021582732
-Nassau,Ferns and Fern Allies,4,perc_not_secure_state,71.007371007371
-Nassau,Ferns and Fern Allies,4,perc_not_secure_global,3.5971223021582732
-Nassau,Fish,3,perc_not_secure_state,71.007371007371
-Nassau,Fish,3,perc_not_secure_global,3.5971223021582732
-Nassau,Flowering Plants,216,perc_not_secure_state,71.007371007371
-Nassau,Flowering Plants,216,perc_not_secure_global,3.5971223021582732
-Nassau,Mammals,3,perc_not_secure_state,71.007371007371
-Nassau,Mammals,3,perc_not_secure_global,3.5971223021582732
-Nassau,Reptiles,16,perc_not_secure_state,71.007371007371
-Nassau,Reptiles,16,perc_not_secure_global,3.5971223021582732
-Nassau,Beetles,3,perc_not_secure_state,71.007371007371
-Nassau,Beetles,3,perc_not_secure_global,3.5971223021582732
-New York,All,150,perc_not_secure_state,70.2127659574468
-New York,All,150,perc_not_secure_global,4
-New York,Amphibians,1,perc_not_secure_state,70.2127659574468
-New York,Amphibians,1,perc_not_secure_global,4
-New York,"Bees, Wasps, and Ants",1,perc_not_secure_state,70.2127659574468
-New York,"Bees, Wasps, and Ants",1,perc_not_secure_global,4
-New York,Birds,51,perc_not_secure_state,70.2127659574468
-New York,Birds,51,perc_not_secure_global,4
-New York,Butterflies and Moths,2,perc_not_secure_state,70.2127659574468
-New York,Butterflies and Moths,2,perc_not_secure_global,4
-New York,Ferns and Fern Allies,1,perc_not_secure_state,70.2127659574468
-New York,Ferns and Fern Allies,1,perc_not_secure_global,4
-New York,Fish,5,perc_not_secure_state,70.2127659574468
-New York,Fish,5,perc_not_secure_global,4
-New York,Flowering Plants,81,perc_not_secure_state,70.2127659574468
-New York,Flowering Plants,81,perc_not_secure_global,4
-New York,Mammals,3,perc_not_secure_state,70.2127659574468
-New York,Mammals,3,perc_not_secure_global,4
-New York,Reptiles,5,perc_not_secure_state,70.2127659574468
-New York,Reptiles,5,perc_not_secure_global,4
-Niagara,All,318,perc_not_secure_state,53.09446254071661
-Niagara,All,318,perc_not_secure_global,1.89873417721519
-Niagara,Amphibians,19,perc_not_secure_state,53.09446254071661
-Niagara,Amphibians,19,perc_not_secure_global,1.89873417721519
-Niagara,Birds,160,perc_not_secure_state,53.09446254071661
-Niagara,Birds,160,perc_not_secure_global,1.89873417721519
-Niagara,Butterflies and Moths,2,perc_not_secure_state,53.09446254071661
-Niagara,Butterflies and Moths,2,perc_not_secure_global,1.89873417721519
-Niagara,Dragonflies and Damselflies,2,perc_not_secure_state,53.09446254071661
-Niagara,Dragonflies and Damselflies,2,perc_not_secure_global,1.89873417721519
-Niagara,Ferns and Fern Allies,4,perc_not_secure_state,53.09446254071661
-Niagara,Ferns and Fern Allies,4,perc_not_secure_global,1.89873417721519
-Niagara,Fish,19,perc_not_secure_state,53.09446254071661
-Niagara,Fish,19,perc_not_secure_global,1.89873417721519
-Niagara,Flowering Plants,82,perc_not_secure_state,53.09446254071661
-Niagara,Flowering Plants,82,perc_not_secure_global,1.89873417721519
-Niagara,Mammals,3,perc_not_secure_state,53.09446254071661
-Niagara,Mammals,3,perc_not_secure_global,1.89873417721519
-Niagara,Mussels and Clams,11,perc_not_secure_state,53.09446254071661
-Niagara,Mussels and Clams,11,perc_not_secure_global,1.89873417721519
-Niagara,Reptiles,14,perc_not_secure_state,53.09446254071661
-Niagara,Reptiles,14,perc_not_secure_global,1.89873417721519
-Niagara,Snails,1,perc_not_secure_state,53.09446254071661
-Niagara,Snails,1,perc_not_secure_global,1.89873417721519
-Niagara,Crustaceans,1,perc_not_secure_state,53.09446254071661
-Niagara,Crustaceans,1,perc_not_secure_global,1.89873417721519
-Oneida,All,369,perc_not_secure_state,52.79329608938548
-Oneida,All,369,perc_not_secure_global,2.203856749311295
-Oneida,Amphibians,22,perc_not_secure_state,52.79329608938548
-Oneida,Amphibians,22,perc_not_secure_global,2.203856749311295
-Oneida,Birds,178,perc_not_secure_state,52.79329608938548
-Oneida,Birds,178,perc_not_secure_global,2.203856749311295
-Oneida,Butterflies and Moths,4,perc_not_secure_state,52.79329608938548
-Oneida,Butterflies and Moths,4,perc_not_secure_global,2.203856749311295
-Oneida,Conifers,2,perc_not_secure_state,52.79329608938548
-Oneida,Conifers,2,perc_not_secure_global,2.203856749311295
-Oneida,Dragonflies and Damselflies,2,perc_not_secure_state,52.79329608938548
-Oneida,Dragonflies and Damselflies,2,perc_not_secure_global,2.203856749311295
-Oneida,Ferns and Fern Allies,9,perc_not_secure_state,52.79329608938548
-Oneida,Ferns and Fern Allies,9,perc_not_secure_global,2.203856749311295
-Oneida,Fish,6,perc_not_secure_state,52.79329608938548
-Oneida,Fish,6,perc_not_secure_global,2.203856749311295
-Oneida,Flowering Plants,126,perc_not_secure_state,52.79329608938548
-Oneida,Flowering Plants,126,perc_not_secure_global,2.203856749311295
-Oneida,Mammals,3,perc_not_secure_state,52.79329608938548
-Oneida,Mammals,3,perc_not_secure_global,2.203856749311295
-Oneida,Reptiles,16,perc_not_secure_state,52.79329608938548
-Oneida,Reptiles,16,perc_not_secure_global,2.203856749311295
-Oneida,Beetles,1,perc_not_secure_state,52.79329608938548
-Oneida,Beetles,1,perc_not_secure_global,2.203856749311295
-Onondaga,All,368,perc_not_secure_state,54.7486033519553
-Onondaga,All,368,perc_not_secure_global,3.0303030303030303
-Onondaga,Amphibians,21,perc_not_secure_state,54.7486033519553
-Onondaga,Amphibians,21,perc_not_secure_global,3.0303030303030303
-Onondaga,Birds,168,perc_not_secure_state,54.7486033519553
-Onondaga,Birds,168,perc_not_secure_global,3.0303030303030303
-Onondaga,Butterflies and Moths,2,perc_not_secure_state,54.7486033519553
-Onondaga,Butterflies and Moths,2,perc_not_secure_global,3.0303030303030303
-Onondaga,Conifers,1,perc_not_secure_state,54.7486033519553
-Onondaga,Conifers,1,perc_not_secure_global,3.0303030303030303
-Onondaga,Dragonflies and Damselflies,2,perc_not_secure_state,54.7486033519553
-Onondaga,Dragonflies and Damselflies,2,perc_not_secure_global,3.0303030303030303
-Onondaga,Ferns and Fern Allies,8,perc_not_secure_state,54.7486033519553
-Onondaga,Ferns and Fern Allies,8,perc_not_secure_global,3.0303030303030303
-Onondaga,Fish,8,perc_not_secure_state,54.7486033519553
-Onondaga,Fish,8,perc_not_secure_global,3.0303030303030303
-Onondaga,Flowering Plants,131,perc_not_secure_state,54.7486033519553
-Onondaga,Flowering Plants,131,perc_not_secure_global,3.0303030303030303
-Onondaga,Mammals,5,perc_not_secure_state,54.7486033519553
-Onondaga,Mammals,5,perc_not_secure_global,3.0303030303030303
-Onondaga,Mosses,1,perc_not_secure_state,54.7486033519553
-Onondaga,Mosses,1,perc_not_secure_global,3.0303030303030303
-Onondaga,Mussels and Clams,1,perc_not_secure_state,54.7486033519553
-Onondaga,Mussels and Clams,1,perc_not_secure_global,3.0303030303030303
-Onondaga,Reptiles,19,perc_not_secure_state,54.7486033519553
-Onondaga,Reptiles,19,perc_not_secure_global,3.0303030303030303
-Onondaga,Snails,1,perc_not_secure_state,54.7486033519553
-Onondaga,Snails,1,perc_not_secure_global,3.0303030303030303
-Ontario,All,278,perc_not_secure_state,40.520446096654275
-Ontario,All,278,perc_not_secure_global,1.444043321299639
-Ontario,Amphibians,21,perc_not_secure_state,40.520446096654275
-Ontario,Amphibians,21,perc_not_secure_global,1.444043321299639
-Ontario,Birds,159,perc_not_secure_state,40.520446096654275
-Ontario,Birds,159,perc_not_secure_global,1.444043321299639
-Ontario,Dragonflies and Damselflies,2,perc_not_secure_state,40.520446096654275
-Ontario,Dragonflies and Damselflies,2,perc_not_secure_global,1.444043321299639
-Ontario,Ferns and Fern Allies,2,perc_not_secure_state,40.520446096654275
-Ontario,Ferns and Fern Allies,2,perc_not_secure_global,1.444043321299639
-Ontario,Fish,4,perc_not_secure_state,40.520446096654275
-Ontario,Fish,4,perc_not_secure_global,1.444043321299639
-Ontario,Flowering Plants,66,perc_not_secure_state,40.520446096654275
-Ontario,Flowering Plants,66,perc_not_secure_global,1.444043321299639
-Ontario,Mammals,4,perc_not_secure_state,40.520446096654275
-Ontario,Mammals,4,perc_not_secure_global,1.444043321299639
-Ontario,Mussels and Clams,1,perc_not_secure_state,40.520446096654275
-Ontario,Mussels and Clams,1,perc_not_secure_global,1.444043321299639
-Ontario,Reptiles,18,perc_not_secure_state,40.520446096654275
-Ontario,Reptiles,18,perc_not_secure_global,1.444043321299639
-Ontario,Snails,1,perc_not_secure_state,40.520446096654275
-Ontario,Snails,1,perc_not_secure_global,1.444043321299639
-Orange,All,432,perc_not_secure_state,60.14319809069213
-Orange,All,432,perc_not_secure_global,4
-Orange,Amphibians,26,perc_not_secure_state,60.14319809069213
-Orange,Amphibians,26,perc_not_secure_global,4
-Orange,"Bees, Wasps, and Ants",1,perc_not_secure_state,60.14319809069213
-Orange,"Bees, Wasps, and Ants",1,perc_not_secure_global,4
-Orange,Birds,167,perc_not_secure_state,60.14319809069213
-Orange,Birds,167,perc_not_secure_global,4
-Orange,Butterflies and Moths,10,perc_not_secure_state,60.14319809069213
-Orange,Butterflies and Moths,10,perc_not_secure_global,4
-Orange,Conifers,3,perc_not_secure_state,60.14319809069213
-Orange,Conifers,3,perc_not_secure_global,4
-Orange,Dragonflies and Damselflies,27,perc_not_secure_state,60.14319809069213
-Orange,Dragonflies and Damselflies,27,perc_not_secure_global,4
-Orange,Ferns and Fern Allies,3,perc_not_secure_state,60.14319809069213
-Orange,Ferns and Fern Allies,3,perc_not_secure_global,4
-Orange,Fish,12,perc_not_secure_state,60.14319809069213
-Orange,Fish,12,perc_not_secure_global,4
-Orange,Flowering Plants,145,perc_not_secure_state,60.14319809069213
-Orange,Flowering Plants,145,perc_not_secure_global,4
-Orange,Mammals,7,perc_not_secure_state,60.14319809069213
-Orange,Mammals,7,perc_not_secure_global,4
-Orange,Mussels and Clams,4,perc_not_secure_state,60.14319809069213
-Orange,Mussels and Clams,4,perc_not_secure_global,4
-Orange,Reptiles,26,perc_not_secure_state,60.14319809069213
-Orange,Reptiles,26,perc_not_secure_global,4
-Orange,Snails,1,perc_not_secure_state,60.14319809069213
-Orange,Snails,1,perc_not_secure_global,4
-Orleans,All,220,perc_not_secure_state,36.492890995260666
-Orleans,All,220,perc_not_secure_global,3.7037037037037033
-Orleans,Amphibians,14,perc_not_secure_state,36.492890995260666
-Orleans,Amphibians,14,perc_not_secure_global,3.7037037037037033
-Orleans,Birds,149,perc_not_secure_state,36.492890995260666
-Orleans,Birds,149,perc_not_secure_global,3.7037037037037033
-Orleans,Dragonflies and Damselflies,1,perc_not_secure_state,36.492890995260666
-Orleans,Dragonflies and Damselflies,1,perc_not_secure_global,3.7037037037037033
-Orleans,Ferns and Fern Allies,2,perc_not_secure_state,36.492890995260666
-Orleans,Ferns and Fern Allies,2,perc_not_secure_global,3.7037037037037033
-Orleans,Fish,14,perc_not_secure_state,36.492890995260666
-Orleans,Fish,14,perc_not_secure_global,3.7037037037037033
-Orleans,Flowering Plants,19,perc_not_secure_state,36.492890995260666
-Orleans,Flowering Plants,19,perc_not_secure_global,3.7037037037037033
-Orleans,Mammals,3,perc_not_secure_state,36.492890995260666
-Orleans,Mammals,3,perc_not_secure_global,3.7037037037037033
-Orleans,Mussels and Clams,5,perc_not_secure_state,36.492890995260666
-Orleans,Mussels and Clams,5,perc_not_secure_global,3.7037037037037033
-Orleans,Reptiles,12,perc_not_secure_state,36.492890995260666
-Orleans,Reptiles,12,perc_not_secure_global,3.7037037037037033
-Orleans,Crustaceans,1,perc_not_secure_state,36.492890995260666
-Orleans,Crustaceans,1,perc_not_secure_global,3.7037037037037033
-Oswego,All,323,perc_not_secure_state,46.30225080385852
-Oswego,All,323,perc_not_secure_global,4.075235109717868
-Oswego,Amphibians,22,perc_not_secure_state,46.30225080385852
-Oswego,Amphibians,22,perc_not_secure_global,4.075235109717868
-Oswego,"Bees, Wasps, and Ants",1,perc_not_secure_state,46.30225080385852
-Oswego,"Bees, Wasps, and Ants",1,perc_not_secure_global,4.075235109717868
-Oswego,Birds,179,perc_not_secure_state,46.30225080385852
-Oswego,Birds,179,perc_not_secure_global,4.075235109717868
-Oswego,Butterflies and Moths,2,perc_not_secure_state,46.30225080385852
-Oswego,Butterflies and Moths,2,perc_not_secure_global,4.075235109717868
-Oswego,Dragonflies and Damselflies,3,perc_not_secure_state,46.30225080385852
-Oswego,Dragonflies and Damselflies,3,perc_not_secure_global,4.075235109717868
-Oswego,Ferns and Fern Allies,1,perc_not_secure_state,46.30225080385852
-Oswego,Ferns and Fern Allies,1,perc_not_secure_global,4.075235109717868
-Oswego,Fish,18,perc_not_secure_state,46.30225080385852
-Oswego,Fish,18,perc_not_secure_global,4.075235109717868
-Oswego,Flowering Plants,70,perc_not_secure_state,46.30225080385852
-Oswego,Flowering Plants,70,perc_not_secure_global,4.075235109717868
-Oswego,Mammals,5,perc_not_secure_state,46.30225080385852
-Oswego,Mammals,5,perc_not_secure_global,4.075235109717868
-Oswego,Mussels and Clams,3,perc_not_secure_state,46.30225080385852
-Oswego,Mussels and Clams,3,perc_not_secure_global,4.075235109717868
-Oswego,Reptiles,17,perc_not_secure_state,46.30225080385852
-Oswego,Reptiles,17,perc_not_secure_global,4.075235109717868
-Oswego,Beetles,1,perc_not_secure_state,46.30225080385852
-Oswego,Beetles,1,perc_not_secure_global,4.075235109717868
-Oswego,Snails,1,perc_not_secure_state,46.30225080385852
-Oswego,Snails,1,perc_not_secure_global,4.075235109717868
-Otsego,All,240,perc_not_secure_state,31.877729257641924
-Otsego,All,240,perc_not_secure_global,3.389830508474576
-Otsego,Amphibians,20,perc_not_secure_state,31.877729257641924
-Otsego,Amphibians,20,perc_not_secure_global,3.389830508474576
-Otsego,Birds,160,perc_not_secure_state,31.877729257641924
-Otsego,Birds,160,perc_not_secure_global,3.389830508474576
-Otsego,Dragonflies and Damselflies,3,perc_not_secure_state,31.877729257641924
-Otsego,Dragonflies and Damselflies,3,perc_not_secure_global,3.389830508474576
-Otsego,Fish,5,perc_not_secure_state,31.877729257641924
-Otsego,Fish,5,perc_not_secure_global,3.389830508474576
-Otsego,Flowering Plants,33,perc_not_secure_state,31.877729257641924
-Otsego,Flowering Plants,33,perc_not_secure_global,3.389830508474576
-Otsego,Mammals,3,perc_not_secure_state,31.877729257641924
-Otsego,Mammals,3,perc_not_secure_global,3.389830508474576
-Otsego,Mussels and Clams,3,perc_not_secure_state,31.877729257641924
-Otsego,Mussels and Clams,3,perc_not_secure_global,3.389830508474576
-Otsego,Reptiles,13,perc_not_secure_state,31.877729257641924
-Otsego,Reptiles,13,perc_not_secure_global,3.389830508474576
-Putnam,All,272,perc_not_secure_state,43.89312977099237
-Putnam,All,272,perc_not_secure_global,4.089219330855019
-Putnam,Amphibians,21,perc_not_secure_state,43.89312977099237
-Putnam,Amphibians,21,perc_not_secure_global,4.089219330855019
-Putnam,Birds,136,perc_not_secure_state,43.89312977099237
-Putnam,Birds,136,perc_not_secure_global,4.089219330855019
-Putnam,Butterflies and Moths,4,perc_not_secure_state,43.89312977099237
-Putnam,Butterflies and Moths,4,perc_not_secure_global,4.089219330855019
-Putnam,Conifers,1,perc_not_secure_state,43.89312977099237
-Putnam,Conifers,1,perc_not_secure_global,4.089219330855019
-Putnam,Dragonflies and Damselflies,8,perc_not_secure_state,43.89312977099237
-Putnam,Dragonflies and Damselflies,8,perc_not_secure_global,4.089219330855019
-Putnam,Ferns and Fern Allies,2,perc_not_secure_state,43.89312977099237
-Putnam,Ferns and Fern Allies,2,perc_not_secure_global,4.089219330855019
-Putnam,Fish,7,perc_not_secure_state,43.89312977099237
-Putnam,Fish,7,perc_not_secure_global,4.089219330855019
-Putnam,Flowering Plants,65,perc_not_secure_state,43.89312977099237
-Putnam,Flowering Plants,65,perc_not_secure_global,4.089219330855019
-Putnam,Mammals,6,perc_not_secure_state,43.89312977099237
-Putnam,Mammals,6,perc_not_secure_global,4.089219330855019
-Putnam,Reptiles,22,perc_not_secure_state,43.89312977099237
-Putnam,Reptiles,22,perc_not_secure_global,4.089219330855019
-Queens,All,324,perc_not_secure_state,71.24600638977637
-Queens,All,324,perc_not_secure_global,2.786377708978328
-Queens,Amphibians,12,perc_not_secure_state,71.24600638977637
-Queens,Amphibians,12,perc_not_secure_global,2.786377708978328
-Queens,"Bees, Wasps, and Ants",2,perc_not_secure_state,71.24600638977637
-Queens,"Bees, Wasps, and Ants",2,perc_not_secure_global,2.786377708978328
-Queens,Birds,115,perc_not_secure_state,71.24600638977637
-Queens,Birds,115,perc_not_secure_global,2.786377708978328
-Queens,Butterflies and Moths,4,perc_not_secure_state,71.24600638977637
-Queens,Butterflies and Moths,4,perc_not_secure_global,2.786377708978328
-Queens,Dragonflies and Damselflies,3,perc_not_secure_state,71.24600638977637
-Queens,Dragonflies and Damselflies,3,perc_not_secure_global,2.786377708978328
-Queens,Ferns and Fern Allies,1,perc_not_secure_state,71.24600638977637
-Queens,Ferns and Fern Allies,1,perc_not_secure_global,2.786377708978328
-Queens,Fish,3,perc_not_secure_state,71.24600638977637
-Queens,Fish,3,perc_not_secure_global,2.786377708978328
-Queens,Flowering Plants,166,perc_not_secure_state,71.24600638977637
-Queens,Flowering Plants,166,perc_not_secure_global,2.786377708978328
-Queens,Mammals,3,perc_not_secure_state,71.24600638977637
-Queens,Mammals,3,perc_not_secure_global,2.786377708978328
-Queens,Reptiles,13,perc_not_secure_state,71.24600638977637
-Queens,Reptiles,13,perc_not_secure_global,2.786377708978328
-Queens,Beetles,2,perc_not_secure_state,71.24600638977637
-Queens,Beetles,2,perc_not_secure_global,2.786377708978328
-Rensselaer,All,324,perc_not_secure_state,48.734177215189874
-Rensselaer,All,324,perc_not_secure_global,3.4161490683229814
-Rensselaer,Amphibians,20,perc_not_secure_state,48.734177215189874
-Rensselaer,Amphibians,20,perc_not_secure_global,3.4161490683229814
-Rensselaer,Birds,157,perc_not_secure_state,48.734177215189874
-Rensselaer,Birds,157,perc_not_secure_global,3.4161490683229814
-Rensselaer,Butterflies and Moths,2,perc_not_secure_state,48.734177215189874
-Rensselaer,Butterflies and Moths,2,perc_not_secure_global,3.4161490683229814
-Rensselaer,Dragonflies and Damselflies,10,perc_not_secure_state,48.734177215189874
-Rensselaer,Dragonflies and Damselflies,10,perc_not_secure_global,3.4161490683229814
-Rensselaer,Ferns and Fern Allies,3,perc_not_secure_state,48.734177215189874
-Rensselaer,Ferns and Fern Allies,3,perc_not_secure_global,3.4161490683229814
-Rensselaer,Fish,3,perc_not_secure_state,48.734177215189874
-Rensselaer,Fish,3,perc_not_secure_global,3.4161490683229814
-Rensselaer,Flowering Plants,101,perc_not_secure_state,48.734177215189874
-Rensselaer,Flowering Plants,101,perc_not_secure_global,3.4161490683229814
-Rensselaer,Mammals,4,perc_not_secure_state,48.734177215189874
-Rensselaer,Mammals,4,perc_not_secure_global,3.4161490683229814
-Rensselaer,Mosses,2,perc_not_secure_state,48.734177215189874
-Rensselaer,Mosses,2,perc_not_secure_global,3.4161490683229814
-Rensselaer,Mussels and Clams,3,perc_not_secure_state,48.734177215189874
-Rensselaer,Mussels and Clams,3,perc_not_secure_global,3.4161490683229814
-Rensselaer,Reptiles,19,perc_not_secure_state,48.734177215189874
-Rensselaer,Reptiles,19,perc_not_secure_global,3.4161490683229814
-Richmond,All,380,perc_not_secure_state,71.27371273712737
-Richmond,All,380,perc_not_secure_global,3.16622691292876
-Richmond,Amphibians,12,perc_not_secure_state,71.27371273712737
-Richmond,Amphibians,12,perc_not_secure_global,3.16622691292876
-Richmond,"Bees, Wasps, and Ants",2,perc_not_secure_state,71.27371273712737
-Richmond,"Bees, Wasps, and Ants",2,perc_not_secure_global,3.16622691292876
-Richmond,Birds,126,perc_not_secure_state,71.27371273712737
-Richmond,Birds,126,perc_not_secure_global,3.16622691292876
-Richmond,Butterflies and Moths,4,perc_not_secure_state,71.27371273712737
-Richmond,Butterflies and Moths,4,perc_not_secure_global,3.16622691292876
-Richmond,Conifers,3,perc_not_secure_state,71.27371273712737
-Richmond,Conifers,3,perc_not_secure_global,3.16622691292876
-Richmond,Dragonflies and Damselflies,8,perc_not_secure_state,71.27371273712737
-Richmond,Dragonflies and Damselflies,8,perc_not_secure_global,3.16622691292876
-Richmond,Ferns and Fern Allies,5,perc_not_secure_state,71.27371273712737
-Richmond,Ferns and Fern Allies,5,perc_not_secure_global,3.16622691292876
-Richmond,Fish,4,perc_not_secure_state,71.27371273712737
-Richmond,Fish,4,perc_not_secure_global,3.16622691292876
-Richmond,Flowering Plants,195,perc_not_secure_state,71.27371273712737
-Richmond,Flowering Plants,195,perc_not_secure_global,3.16622691292876
-Richmond,Mammals,5,perc_not_secure_state,71.27371273712737
-Richmond,Mammals,5,perc_not_secure_global,3.16622691292876
-Richmond,Reptiles,15,perc_not_secure_state,71.27371273712737
-Richmond,Reptiles,15,perc_not_secure_global,3.16622691292876
-Richmond,Beetles,1,perc_not_secure_state,71.27371273712737
-Richmond,Beetles,1,perc_not_secure_global,3.16622691292876
-Rockland,All,340,perc_not_secure_state,53.799392097264445
-Rockland,All,340,perc_not_secure_global,3.857566765578635
-Rockland,Amphibians,23,perc_not_secure_state,53.799392097264445
-Rockland,Amphibians,23,perc_not_secure_global,3.857566765578635
-Rockland,Birds,143,perc_not_secure_state,53.799392097264445
-Rockland,Birds,143,perc_not_secure_global,3.857566765578635
-Rockland,Butterflies and Moths,3,perc_not_secure_state,53.799392097264445
-Rockland,Butterflies and Moths,3,perc_not_secure_global,3.857566765578635
-Rockland,Conifers,1,perc_not_secure_state,53.799392097264445
-Rockland,Conifers,1,perc_not_secure_global,3.857566765578635
-Rockland,Dragonflies and Damselflies,15,perc_not_secure_state,53.799392097264445
-Rockland,Dragonflies and Damselflies,15,perc_not_secure_global,3.857566765578635
-Rockland,Ferns and Fern Allies,4,perc_not_secure_state,53.799392097264445
-Rockland,Ferns and Fern Allies,4,perc_not_secure_global,3.857566765578635
-Rockland,Fish,11,perc_not_secure_state,53.799392097264445
-Rockland,Fish,11,perc_not_secure_global,3.857566765578635
-Rockland,Flowering Plants,110,perc_not_secure_state,53.799392097264445
-Rockland,Flowering Plants,110,perc_not_secure_global,3.857566765578635
-Rockland,Mammals,4,perc_not_secure_state,53.799392097264445
-Rockland,Mammals,4,perc_not_secure_global,3.857566765578635
-Rockland,Mussels and Clams,2,perc_not_secure_state,53.799392097264445
-Rockland,Mussels and Clams,2,perc_not_secure_global,3.857566765578635
-Rockland,Reptiles,24,perc_not_secure_state,53.799392097264445
-Rockland,Reptiles,24,perc_not_secure_global,3.857566765578635
-Saratoga,All,306,perc_not_secure_state,45.302013422818796
-Saratoga,All,306,perc_not_secure_global,2.6402640264026402
-Saratoga,Amphibians,21,perc_not_secure_state,45.302013422818796
-Saratoga,Amphibians,21,perc_not_secure_global,2.6402640264026402
-Saratoga,"Bees, Wasps, and Ants",2,perc_not_secure_state,45.302013422818796
-Saratoga,"Bees, Wasps, and Ants",2,perc_not_secure_global,2.6402640264026402
-Saratoga,Birds,161,perc_not_secure_state,45.302013422818796
-Saratoga,Birds,161,perc_not_secure_global,2.6402640264026402
-Saratoga,Butterflies and Moths,5,perc_not_secure_state,45.302013422818796
-Saratoga,Butterflies and Moths,5,perc_not_secure_global,2.6402640264026402
-Saratoga,Dragonflies and Damselflies,13,perc_not_secure_state,45.302013422818796
-Saratoga,Dragonflies and Damselflies,13,perc_not_secure_global,2.6402640264026402
-Saratoga,Ferns and Fern Allies,3,perc_not_secure_state,45.302013422818796
-Saratoga,Ferns and Fern Allies,3,perc_not_secure_global,2.6402640264026402
-Saratoga,Fish,2,perc_not_secure_state,45.302013422818796
-Saratoga,Fish,2,perc_not_secure_global,2.6402640264026402
-Saratoga,Flowering Plants,70,perc_not_secure_state,45.302013422818796
-Saratoga,Flowering Plants,70,perc_not_secure_global,2.6402640264026402
-Saratoga,Mammals,3,perc_not_secure_state,45.302013422818796
-Saratoga,Mammals,3,perc_not_secure_global,2.6402640264026402
-Saratoga,Mosses,3,perc_not_secure_state,45.302013422818796
-Saratoga,Mosses,3,perc_not_secure_global,2.6402640264026402
-Saratoga,Mussels and Clams,2,perc_not_secure_state,45.302013422818796
-Saratoga,Mussels and Clams,2,perc_not_secure_global,2.6402640264026402
-Saratoga,Reptiles,21,perc_not_secure_state,45.302013422818796
-Saratoga,Reptiles,21,perc_not_secure_global,2.6402640264026402
-Schenectady,All,242,perc_not_secure_state,39.48497854077253
-Schenectady,All,242,perc_not_secure_global,1.6736401673640167
-Schenectady,Amphibians,19,perc_not_secure_state,39.48497854077253
-Schenectady,Amphibians,19,perc_not_secure_global,1.6736401673640167
-Schenectady,Birds,130,perc_not_secure_state,39.48497854077253
-Schenectady,Birds,130,perc_not_secure_global,1.6736401673640167
-Schenectady,Butterflies and Moths,2,perc_not_secure_state,39.48497854077253
-Schenectady,Butterflies and Moths,2,perc_not_secure_global,1.6736401673640167
-Schenectady,Dragonflies and Damselflies,1,perc_not_secure_state,39.48497854077253
-Schenectady,Dragonflies and Damselflies,1,perc_not_secure_global,1.6736401673640167
-Schenectady,Fish,1,perc_not_secure_state,39.48497854077253
-Schenectady,Fish,1,perc_not_secure_global,1.6736401673640167
-Schenectady,Flowering Plants,69,perc_not_secure_state,39.48497854077253
-Schenectady,Flowering Plants,69,perc_not_secure_global,1.6736401673640167
-Schenectady,Mammals,3,perc_not_secure_state,39.48497854077253
-Schenectady,Mammals,3,perc_not_secure_global,1.6736401673640167
-Schenectady,Mosses,2,perc_not_secure_state,39.48497854077253
-Schenectady,Mosses,2,perc_not_secure_global,1.6736401673640167
-Schenectady,Mussels and Clams,1,perc_not_secure_state,39.48497854077253
-Schenectady,Mussels and Clams,1,perc_not_secure_global,1.6736401673640167
-Schenectady,Reptiles,14,perc_not_secure_state,39.48497854077253
-Schenectady,Reptiles,14,perc_not_secure_global,1.6736401673640167
-Schoharie,All,223,perc_not_secure_state,25.471698113207548
-Schoharie,All,223,perc_not_secure_global,1.8181818181818181
-Schoharie,Amphibians,20,perc_not_secure_state,25.471698113207548
-Schoharie,Amphibians,20,perc_not_secure_global,1.8181818181818181
-Schoharie,Birds,159,perc_not_secure_state,25.471698113207548
-Schoharie,Birds,159,perc_not_secure_global,1.8181818181818181
-Schoharie,Dragonflies and Damselflies,1,perc_not_secure_state,25.471698113207548
-Schoharie,Dragonflies and Damselflies,1,perc_not_secure_global,1.8181818181818181
-Schoharie,Ferns and Fern Allies,2,perc_not_secure_state,25.471698113207548
-Schoharie,Ferns and Fern Allies,2,perc_not_secure_global,1.8181818181818181
-Schoharie,Flowering Plants,19,perc_not_secure_state,25.471698113207548
-Schoharie,Flowering Plants,19,perc_not_secure_global,1.8181818181818181
-Schoharie,Mammals,5,perc_not_secure_state,25.471698113207548
-Schoharie,Mammals,5,perc_not_secure_global,1.8181818181818181
-Schoharie,Mussels and Clams,1,perc_not_secure_state,25.471698113207548
-Schoharie,Mussels and Clams,1,perc_not_secure_global,1.8181818181818181
-Schoharie,Reptiles,16,perc_not_secure_state,25.471698113207548
-Schoharie,Reptiles,16,perc_not_secure_global,1.8181818181818181
-Schuyler,All,236,perc_not_secure_state,30.396475770925107
-Schuyler,All,236,perc_not_secure_global,2.1459227467811157
-Schuyler,Amphibians,20,perc_not_secure_state,30.396475770925107
-Schuyler,Amphibians,20,perc_not_secure_global,2.1459227467811157
-Schuyler,Birds,157,perc_not_secure_state,30.396475770925107
-Schuyler,Birds,157,perc_not_secure_global,2.1459227467811157
-Schuyler,Dragonflies and Damselflies,8,perc_not_secure_state,30.396475770925107
-Schuyler,Dragonflies and Damselflies,8,perc_not_secure_global,2.1459227467811157
-Schuyler,Ferns and Fern Allies,1,perc_not_secure_state,30.396475770925107
-Schuyler,Ferns and Fern Allies,1,perc_not_secure_global,2.1459227467811157
-Schuyler,Fish,5,perc_not_secure_state,30.396475770925107
-Schuyler,Fish,5,perc_not_secure_global,2.1459227467811157
-Schuyler,Flowering Plants,28,perc_not_secure_state,30.396475770925107
-Schuyler,Flowering Plants,28,perc_not_secure_global,2.1459227467811157
-Schuyler,Mammals,3,perc_not_secure_state,30.396475770925107
-Schuyler,Mammals,3,perc_not_secure_global,2.1459227467811157
-Schuyler,Mussels and Clams,1,perc_not_secure_state,30.396475770925107
-Schuyler,Mussels and Clams,1,perc_not_secure_global,2.1459227467811157
-Schuyler,Reptiles,13,perc_not_secure_state,30.396475770925107
-Schuyler,Reptiles,13,perc_not_secure_global,2.1459227467811157
-Seneca,All,267,perc_not_secure_state,43.359375
-Seneca,All,267,perc_not_secure_global,1.8867924528301887
-Seneca,Amphibians,19,perc_not_secure_state,43.359375
-Seneca,Amphibians,19,perc_not_secure_global,1.8867924528301887
-Seneca,Birds,157,perc_not_secure_state,43.359375
-Seneca,Birds,157,perc_not_secure_global,1.8867924528301887
-Seneca,Butterflies and Moths,1,perc_not_secure_state,43.359375
-Seneca,Butterflies and Moths,1,perc_not_secure_global,1.8867924528301887
-Seneca,Ferns and Fern Allies,2,perc_not_secure_state,43.359375
-Seneca,Ferns and Fern Allies,2,perc_not_secure_global,1.8867924528301887
-Seneca,Fish,6,perc_not_secure_state,43.359375
-Seneca,Fish,6,perc_not_secure_global,1.8867924528301887
-Seneca,Flowering Plants,64,perc_not_secure_state,43.359375
-Seneca,Flowering Plants,64,perc_not_secure_global,1.8867924528301887
-Seneca,Mammals,4,perc_not_secure_state,43.359375
-Seneca,Mammals,4,perc_not_secure_global,1.8867924528301887
-Seneca,Reptiles,14,perc_not_secure_state,43.359375
-Seneca,Reptiles,14,perc_not_secure_global,1.8867924528301887
-St. Lawrence,All,393,perc_not_secure_state,56.54450261780105
-St. Lawrence,All,393,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Amphibians,21,perc_not_secure_state,56.54450261780105
-St. Lawrence,Amphibians,21,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Birds,191,perc_not_secure_state,56.54450261780105
-St. Lawrence,Birds,191,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Butterflies and Moths,2,perc_not_secure_state,56.54450261780105
-St. Lawrence,Butterflies and Moths,2,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Conifers,1,perc_not_secure_state,56.54450261780105
-St. Lawrence,Conifers,1,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Dragonflies and Damselflies,12,perc_not_secure_state,56.54450261780105
-St. Lawrence,Dragonflies and Damselflies,12,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Ferns and Fern Allies,14,perc_not_secure_state,56.54450261780105
-St. Lawrence,Ferns and Fern Allies,14,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Fish,15,perc_not_secure_state,56.54450261780105
-St. Lawrence,Fish,15,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Flowering Plants,111,perc_not_secure_state,56.54450261780105
-St. Lawrence,Flowering Plants,111,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Mammals,4,perc_not_secure_state,56.54450261780105
-St. Lawrence,Mammals,4,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Mosses,1,perc_not_secure_state,56.54450261780105
-St. Lawrence,Mosses,1,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Mussels and Clams,5,perc_not_secure_state,56.54450261780105
-St. Lawrence,Mussels and Clams,5,perc_not_secure_global,2.3255813953488373
-St. Lawrence,Reptiles,16,perc_not_secure_state,56.54450261780105
-St. Lawrence,Reptiles,16,perc_not_secure_global,2.3255813953488373
-Steuben,All,245,perc_not_secure_state,33.755274261603375
-Steuben,All,245,perc_not_secure_global,2.8925619834710745
-Steuben,Amphibians,21,perc_not_secure_state,33.755274261603375
-Steuben,Amphibians,21,perc_not_secure_global,2.8925619834710745
-Steuben,Birds,155,perc_not_secure_state,33.755274261603375
-Steuben,Birds,155,perc_not_secure_global,2.8925619834710745
-Steuben,Dragonflies and Damselflies,6,perc_not_secure_state,33.755274261603375
-Steuben,Dragonflies and Damselflies,6,perc_not_secure_global,2.8925619834710745
-Steuben,Fish,6,perc_not_secure_state,33.755274261603375
-Steuben,Fish,6,perc_not_secure_global,2.8925619834710745
-Steuben,Flowering Plants,36,perc_not_secure_state,33.755274261603375
-Steuben,Flowering Plants,36,perc_not_secure_global,2.8925619834710745
-Steuben,Mammals,3,perc_not_secure_state,33.755274261603375
-Steuben,Mammals,3,perc_not_secure_global,2.8925619834710745
-Steuben,Mosses,1,perc_not_secure_state,33.755274261603375
-Steuben,Mosses,1,perc_not_secure_global,2.8925619834710745
-Steuben,Mussels and Clams,3,perc_not_secure_state,33.755274261603375
-Steuben,Mussels and Clams,3,perc_not_secure_global,2.8925619834710745
-Steuben,Reptiles,14,perc_not_secure_state,33.755274261603375
-Steuben,Reptiles,14,perc_not_secure_global,2.8925619834710745
-Suffolk,All,650,perc_not_secure_state,77.25040916530278
-Suffolk,All,650,perc_not_secure_global,4.813664596273292
-Suffolk,Amphibians,18,perc_not_secure_state,77.25040916530278
-Suffolk,Amphibians,18,perc_not_secure_global,4.813664596273292
-Suffolk,"Bees, Wasps, and Ants",2,perc_not_secure_state,77.25040916530278
-Suffolk,"Bees, Wasps, and Ants",2,perc_not_secure_global,4.813664596273292
-Suffolk,Birds,175,perc_not_secure_state,77.25040916530278
-Suffolk,Birds,175,perc_not_secure_global,4.813664596273292
-Suffolk,Butterflies and Moths,71,perc_not_secure_state,77.25040916530278
-Suffolk,Butterflies and Moths,71,perc_not_secure_global,4.813664596273292
-Suffolk,Conifers,3,perc_not_secure_state,77.25040916530278
-Suffolk,Conifers,3,perc_not_secure_global,4.813664596273292
-Suffolk,Dragonflies and Damselflies,23,perc_not_secure_state,77.25040916530278
-Suffolk,Dragonflies and Damselflies,23,perc_not_secure_global,4.813664596273292
-Suffolk,Ferns and Fern Allies,9,perc_not_secure_state,77.25040916530278
-Suffolk,Ferns and Fern Allies,9,perc_not_secure_global,4.813664596273292
-Suffolk,Fish,7,perc_not_secure_state,77.25040916530278
-Suffolk,Fish,7,perc_not_secure_global,4.813664596273292
-Suffolk,Flowering Plants,311,perc_not_secure_state,77.25040916530278
-Suffolk,Flowering Plants,311,perc_not_secure_global,4.813664596273292
-Suffolk,Mammals,4,perc_not_secure_state,77.25040916530278
-Suffolk,Mammals,4,perc_not_secure_global,4.813664596273292
-Suffolk,Reptiles,20,perc_not_secure_state,77.25040916530278
-Suffolk,Reptiles,20,perc_not_secure_global,4.813664596273292
-Suffolk,Beetles,7,perc_not_secure_state,77.25040916530278
-Suffolk,Beetles,7,perc_not_secure_global,4.813664596273292
-Sullivan,All,268,perc_not_secure_state,36.82170542635659
-Sullivan,All,268,perc_not_secure_global,4.545454545454546
-Sullivan,Amphibians,24,perc_not_secure_state,36.82170542635659
-Sullivan,Amphibians,24,perc_not_secure_global,4.545454545454546
-Sullivan,Birds,152,perc_not_secure_state,36.82170542635659
-Sullivan,Birds,152,perc_not_secure_global,4.545454545454546
-Sullivan,Butterflies and Moths,2,perc_not_secure_state,36.82170542635659
-Sullivan,Butterflies and Moths,2,perc_not_secure_global,4.545454545454546
-Sullivan,Dragonflies and Damselflies,13,perc_not_secure_state,36.82170542635659
-Sullivan,Dragonflies and Damselflies,13,perc_not_secure_global,4.545454545454546
-Sullivan,Ferns and Fern Allies,3,perc_not_secure_state,36.82170542635659
-Sullivan,Ferns and Fern Allies,3,perc_not_secure_global,4.545454545454546
-Sullivan,Fish,5,perc_not_secure_state,36.82170542635659
-Sullivan,Fish,5,perc_not_secure_global,4.545454545454546
-Sullivan,Flowering Plants,38,perc_not_secure_state,36.82170542635659
-Sullivan,Flowering Plants,38,perc_not_secure_global,4.545454545454546
-Sullivan,Mammals,4,perc_not_secure_state,36.82170542635659
-Sullivan,Mammals,4,perc_not_secure_global,4.545454545454546
-Sullivan,Mussels and Clams,4,perc_not_secure_state,36.82170542635659
-Sullivan,Mussels and Clams,4,perc_not_secure_global,4.545454545454546
-Sullivan,Reptiles,21,perc_not_secure_state,36.82170542635659
-Sullivan,Reptiles,21,perc_not_secure_global,4.545454545454546
-Sullivan,Beetles,2,perc_not_secure_state,36.82170542635659
-Sullivan,Beetles,2,perc_not_secure_global,4.545454545454546
-Tioga,All,245,perc_not_secure_state,35.294117647058826
-Tioga,All,245,perc_not_secure_global,3.292181069958848
-Tioga,Amphibians,18,perc_not_secure_state,35.294117647058826
-Tioga,Amphibians,18,perc_not_secure_global,3.292181069958848
-Tioga,Birds,147,perc_not_secure_state,35.294117647058826
-Tioga,Birds,147,perc_not_secure_global,3.292181069958848
-Tioga,Butterflies and Moths,1,perc_not_secure_state,35.294117647058826
-Tioga,Butterflies and Moths,1,perc_not_secure_global,3.292181069958848
-Tioga,Dragonflies and Damselflies,4,perc_not_secure_state,35.294117647058826
-Tioga,Dragonflies and Damselflies,4,perc_not_secure_global,3.292181069958848
-Tioga,Ferns and Fern Allies,1,perc_not_secure_state,35.294117647058826
-Tioga,Ferns and Fern Allies,1,perc_not_secure_global,3.292181069958848
-Tioga,Fish,5,perc_not_secure_state,35.294117647058826
-Tioga,Fish,5,perc_not_secure_global,3.292181069958848
-Tioga,Flowering Plants,50,perc_not_secure_state,35.294117647058826
-Tioga,Flowering Plants,50,perc_not_secure_global,3.292181069958848
-Tioga,Mammals,3,perc_not_secure_state,35.294117647058826
-Tioga,Mammals,3,perc_not_secure_global,3.292181069958848
-Tioga,Mussels and Clams,3,perc_not_secure_state,35.294117647058826
-Tioga,Mussels and Clams,3,perc_not_secure_global,3.292181069958848
-Tioga,Reptiles,13,perc_not_secure_state,35.294117647058826
-Tioga,Reptiles,13,perc_not_secure_global,3.292181069958848
-Tompkins,All,354,perc_not_secure_state,52.03488372093024
-Tompkins,All,354,perc_not_secure_global,2.881844380403458
-Tompkins,Amphibians,20,perc_not_secure_state,52.03488372093024
-Tompkins,Amphibians,20,perc_not_secure_global,2.881844380403458
-Tompkins,"Bees, Wasps, and Ants",6,perc_not_secure_state,52.03488372093024
-Tompkins,"Bees, Wasps, and Ants",6,perc_not_secure_global,2.881844380403458
-Tompkins,Birds,169,perc_not_secure_state,52.03488372093024
-Tompkins,Birds,169,perc_not_secure_global,2.881844380403458
-Tompkins,Butterflies and Moths,3,perc_not_secure_state,52.03488372093024
-Tompkins,Butterflies and Moths,3,perc_not_secure_global,2.881844380403458
-Tompkins,Dragonflies and Damselflies,11,perc_not_secure_state,52.03488372093024
-Tompkins,Dragonflies and Damselflies,11,perc_not_secure_global,2.881844380403458
-Tompkins,Ferns and Fern Allies,3,perc_not_secure_state,52.03488372093024
-Tompkins,Ferns and Fern Allies,3,perc_not_secure_global,2.881844380403458
-Tompkins,Fish,6,perc_not_secure_state,52.03488372093024
-Tompkins,Fish,6,perc_not_secure_global,2.881844380403458
-Tompkins,Flowering Plants,102,perc_not_secure_state,52.03488372093024
-Tompkins,Flowering Plants,102,perc_not_secure_global,2.881844380403458
-Tompkins,Mammals,4,perc_not_secure_state,52.03488372093024
-Tompkins,Mammals,4,perc_not_secure_global,2.881844380403458
-Tompkins,Mosses,12,perc_not_secure_state,52.03488372093024
-Tompkins,Mosses,12,perc_not_secure_global,2.881844380403458
-Tompkins,Reptiles,15,perc_not_secure_state,52.03488372093024
-Tompkins,Reptiles,15,perc_not_secure_global,2.881844380403458
-Tompkins,Beetles,2,perc_not_secure_state,52.03488372093024
-Tompkins,Beetles,2,perc_not_secure_global,2.881844380403458
-Tompkins,Snails,1,perc_not_secure_state,52.03488372093024
-Tompkins,Snails,1,perc_not_secure_global,2.881844380403458
-Ulster,All,404,perc_not_secure_state,57.21518987341773
-Ulster,All,404,perc_not_secure_global,4.5
-Ulster,Amphibians,26,perc_not_secure_state,57.21518987341773
-Ulster,Amphibians,26,perc_not_secure_global,4.5
-Ulster,"Bees, Wasps, and Ants",1,perc_not_secure_state,57.21518987341773
-Ulster,"Bees, Wasps, and Ants",1,perc_not_secure_global,4.5
-Ulster,Birds,165,perc_not_secure_state,57.21518987341773
-Ulster,Birds,165,perc_not_secure_global,4.5
-Ulster,Butterflies and Moths,7,perc_not_secure_state,57.21518987341773
-Ulster,Butterflies and Moths,7,perc_not_secure_global,4.5
-Ulster,Dragonflies and Damselflies,10,perc_not_secure_state,57.21518987341773
-Ulster,Dragonflies and Damselflies,10,perc_not_secure_global,4.5
-Ulster,Ferns and Fern Allies,11,perc_not_secure_state,57.21518987341773
-Ulster,Ferns and Fern Allies,11,perc_not_secure_global,4.5
-Ulster,Fish,9,perc_not_secure_state,57.21518987341773
-Ulster,Fish,9,perc_not_secure_global,4.5
-Ulster,Flowering Plants,133,perc_not_secure_state,57.21518987341773
-Ulster,Flowering Plants,133,perc_not_secure_global,4.5
-Ulster,Mammals,7,perc_not_secure_state,57.21518987341773
-Ulster,Mammals,7,perc_not_secure_global,4.5
-Ulster,Mosses,8,perc_not_secure_state,57.21518987341773
-Ulster,Mosses,8,perc_not_secure_global,4.5
-Ulster,Mussels and Clams,3,perc_not_secure_state,57.21518987341773
-Ulster,Mussels and Clams,3,perc_not_secure_global,4.5
-Ulster,Reptiles,22,perc_not_secure_state,57.21518987341773
-Ulster,Reptiles,22,perc_not_secure_global,4.5
-Ulster,Beetles,2,perc_not_secure_state,57.21518987341773
-Ulster,Beetles,2,perc_not_secure_global,4.5
-Warren,All,308,perc_not_secure_state,47.50830564784053
-Warren,All,308,perc_not_secure_global,3.9473684210526314
-Warren,Amphibians,20,perc_not_secure_state,47.50830564784053
-Warren,Amphibians,20,perc_not_secure_global,3.9473684210526314
-Warren,Birds,155,perc_not_secure_state,47.50830564784053
-Warren,Birds,155,perc_not_secure_global,3.9473684210526314
-Warren,Butterflies and Moths,3,perc_not_secure_state,47.50830564784053
-Warren,Butterflies and Moths,3,perc_not_secure_global,3.9473684210526314
-Warren,Conifers,1,perc_not_secure_state,47.50830564784053
-Warren,Conifers,1,perc_not_secure_global,3.9473684210526314
-Warren,Dragonflies and Damselflies,7,perc_not_secure_state,47.50830564784053
-Warren,Dragonflies and Damselflies,7,perc_not_secure_global,3.9473684210526314
-Warren,Ferns and Fern Allies,4,perc_not_secure_state,47.50830564784053
-Warren,Ferns and Fern Allies,4,perc_not_secure_global,3.9473684210526314
-Warren,Fish,5,perc_not_secure_state,47.50830564784053
-Warren,Fish,5,perc_not_secure_global,3.9473684210526314
-Warren,Flowering Plants,84,perc_not_secure_state,47.50830564784053
-Warren,Flowering Plants,84,perc_not_secure_global,3.9473684210526314
-Warren,Mammals,6,perc_not_secure_state,47.50830564784053
-Warren,Mammals,6,perc_not_secure_global,3.9473684210526314
-Warren,Mosses,4,perc_not_secure_state,47.50830564784053
-Warren,Mosses,4,perc_not_secure_global,3.9473684210526314
-Warren,Reptiles,18,perc_not_secure_state,47.50830564784053
-Warren,Reptiles,18,perc_not_secure_global,3.9473684210526314
-Warren,Beetles,1,perc_not_secure_state,47.50830564784053
-Warren,Beetles,1,perc_not_secure_global,3.9473684210526314
-Washington,All,319,perc_not_secure_state,48.38709677419355
-Washington,All,319,perc_not_secure_global,2.2222222222222223
-Washington,Amphibians,19,perc_not_secure_state,48.38709677419355
-Washington,Amphibians,19,perc_not_secure_global,2.2222222222222223
-Washington,Birds,160,perc_not_secure_state,48.38709677419355
-Washington,Birds,160,perc_not_secure_global,2.2222222222222223
-Washington,Dragonflies and Damselflies,5,perc_not_secure_state,48.38709677419355
-Washington,Dragonflies and Damselflies,5,perc_not_secure_global,2.2222222222222223
-Washington,Ferns and Fern Allies,7,perc_not_secure_state,48.38709677419355
-Washington,Ferns and Fern Allies,7,perc_not_secure_global,2.2222222222222223
-Washington,Fish,5,perc_not_secure_state,48.38709677419355
-Washington,Fish,5,perc_not_secure_global,2.2222222222222223
-Washington,Flowering Plants,90,perc_not_secure_state,48.38709677419355
-Washington,Flowering Plants,90,perc_not_secure_global,2.2222222222222223
-Washington,Mammals,3,perc_not_secure_state,48.38709677419355
-Washington,Mammals,3,perc_not_secure_global,2.2222222222222223
-Washington,Mosses,9,perc_not_secure_state,48.38709677419355
-Washington,Mosses,9,perc_not_secure_global,2.2222222222222223
-Washington,Mussels and Clams,3,perc_not_secure_state,48.38709677419355
-Washington,Mussels and Clams,3,perc_not_secure_global,2.2222222222222223
-Washington,Reptiles,18,perc_not_secure_state,48.38709677419355
-Washington,Reptiles,18,perc_not_secure_global,2.2222222222222223
-Wayne,All,275,perc_not_secure_state,44.73684210526316
-Wayne,All,275,perc_not_secure_global,3.6764705882352944
-Wayne,Amphibians,20,perc_not_secure_state,44.73684210526316
-Wayne,Amphibians,20,perc_not_secure_global,3.6764705882352944
-Wayne,Birds,154,perc_not_secure_state,44.73684210526316
-Wayne,Birds,154,perc_not_secure_global,3.6764705882352944
-Wayne,Fish,14,perc_not_secure_state,44.73684210526316
-Wayne,Fish,14,perc_not_secure_global,3.6764705882352944
-Wayne,Flowering Plants,66,perc_not_secure_state,44.73684210526316
-Wayne,Flowering Plants,66,perc_not_secure_global,3.6764705882352944
-Wayne,Mammals,4,perc_not_secure_state,44.73684210526316
-Wayne,Mammals,4,perc_not_secure_global,3.6764705882352944
-Wayne,Mussels and Clams,2,perc_not_secure_state,44.73684210526316
-Wayne,Mussels and Clams,2,perc_not_secure_global,3.6764705882352944
-Wayne,Reptiles,15,perc_not_secure_state,44.73684210526316
-Wayne,Reptiles,15,perc_not_secure_global,3.6764705882352944
-Westchester,All,422,perc_not_secure_state,64.47688564476886
-Westchester,All,422,perc_not_secure_global,3.0952380952380953
-Westchester,Amphibians,18,perc_not_secure_state,64.47688564476886
-Westchester,Amphibians,18,perc_not_secure_global,3.0952380952380953
-Westchester,Birds,155,perc_not_secure_state,64.47688564476886
-Westchester,Birds,155,perc_not_secure_global,3.0952380952380953
-Westchester,Butterflies and Moths,5,perc_not_secure_state,64.47688564476886
-Westchester,Butterflies and Moths,5,perc_not_secure_global,3.0952380952380953
-Westchester,Conifers,3,perc_not_secure_state,64.47688564476886
-Westchester,Conifers,3,perc_not_secure_global,3.0952380952380953
-Westchester,Dragonflies and Damselflies,17,perc_not_secure_state,64.47688564476886
-Westchester,Dragonflies and Damselflies,17,perc_not_secure_global,3.0952380952380953
-Westchester,Ferns and Fern Allies,6,perc_not_secure_state,64.47688564476886
-Westchester,Ferns and Fern Allies,6,perc_not_secure_global,3.0952380952380953
-Westchester,Fish,7,perc_not_secure_state,64.47688564476886
-Westchester,Fish,7,perc_not_secure_global,3.0952380952380953
-Westchester,Flowering Plants,182,perc_not_secure_state,64.47688564476886
-Westchester,Flowering Plants,182,perc_not_secure_global,3.0952380952380953
-Westchester,Mammals,4,perc_not_secure_state,64.47688564476886
-Westchester,Mammals,4,perc_not_secure_global,3.0952380952380953
-Westchester,Reptiles,24,perc_not_secure_state,64.47688564476886
-Westchester,Reptiles,24,perc_not_secure_global,3.0952380952380953
-Westchester,Beetles,1,perc_not_secure_state,64.47688564476886
-Westchester,Beetles,1,perc_not_secure_global,3.0952380952380953
-Wyoming,All,251,perc_not_secure_state,34.97942386831276
-Wyoming,All,251,perc_not_secure_global,2.0242914979757085
-Wyoming,Amphibians,21,perc_not_secure_state,34.97942386831276
-Wyoming,Amphibians,21,perc_not_secure_global,2.0242914979757085
-Wyoming,Birds,157,perc_not_secure_state,34.97942386831276
-Wyoming,Birds,157,perc_not_secure_global,2.0242914979757085
-Wyoming,Dragonflies and Damselflies,2,perc_not_secure_state,34.97942386831276
-Wyoming,Dragonflies and Damselflies,2,perc_not_secure_global,2.0242914979757085
-Wyoming,Ferns and Fern Allies,1,perc_not_secure_state,34.97942386831276
-Wyoming,Ferns and Fern Allies,1,perc_not_secure_global,2.0242914979757085
-Wyoming,Fish,6,perc_not_secure_state,34.97942386831276
-Wyoming,Fish,6,perc_not_secure_global,2.0242914979757085
-Wyoming,Flowering Plants,44,perc_not_secure_state,34.97942386831276
-Wyoming,Flowering Plants,44,perc_not_secure_global,2.0242914979757085
-Wyoming,Mammals,4,perc_not_secure_state,34.97942386831276
-Wyoming,Mammals,4,perc_not_secure_global,2.0242914979757085
-Wyoming,Mosses,1,perc_not_secure_state,34.97942386831276
-Wyoming,Mosses,1,perc_not_secure_global,2.0242914979757085
-Wyoming,Reptiles,13,perc_not_secure_state,34.97942386831276
-Wyoming,Reptiles,13,perc_not_secure_global,2.0242914979757085
-Wyoming,Beetles,2,perc_not_secure_state,34.97942386831276
-Wyoming,Beetles,2,perc_not_secure_global,2.0242914979757085
-Yates,All,238,perc_not_secure_state,36.206896551724135
-Yates,All,238,perc_not_secure_global,0.8438818565400843
-Yates,Amphibians,19,perc_not_secure_state,36.206896551724135
-Yates,Amphibians,19,perc_not_secure_global,0.8438818565400843
-Yates,Birds,140,perc_not_secure_state,36.206896551724135
-Yates,Birds,140,perc_not_secure_global,0.8438818565400843
-Yates,Butterflies and Moths,1,perc_not_secure_state,36.206896551724135
-Yates,Butterflies and Moths,1,perc_not_secure_global,0.8438818565400843
-Yates,Fish,3,perc_not_secure_state,36.206896551724135
-Yates,Fish,3,perc_not_secure_global,0.8438818565400843
-Yates,Flowering Plants,57,perc_not_secure_state,36.206896551724135
-Yates,Flowering Plants,57,perc_not_secure_global,0.8438818565400843
-Yates,Mammals,3,perc_not_secure_state,36.206896551724135
-Yates,Mammals,3,perc_not_secure_global,0.8438818565400843
-Yates,Mosses,1,perc_not_secure_state,36.206896551724135
-Yates,Mosses,1,perc_not_secure_global,0.8438818565400843
-Yates,Reptiles,13,perc_not_secure_state,36.206896551724135
-Yates,Reptiles,13,perc_not_secure_global,0.8438818565400843
-Yates,Beetles,1,perc_not_secure_state,36.206896551724135
-Yates,Beetles,1,perc_not_secure_global,0.8438818565400843
+county,perc_not_secure_state,perc_not_secure_global,taxonomic_group,n
+Albany,54.59610027855153,4.56989247311828,All,376
+Albany,54.59610027855153,4.56989247311828,Amphibians,23
+Albany,54.59610027855153,4.56989247311828,"Bees, Wasps, and Ants",3
+Albany,54.59610027855153,4.56989247311828,Birds,159
+Albany,54.59610027855153,4.56989247311828,Butterflies and Moths,31
+Albany,54.59610027855153,4.56989247311828,Conifers,1
+Albany,54.59610027855153,4.56989247311828,Dragonflies and Damselflies,7
+Albany,54.59610027855153,4.56989247311828,Ferns and Fern Allies,2
+Albany,54.59610027855153,4.56989247311828,Fish,4
+Albany,54.59610027855153,4.56989247311828,Flowering Plants,112
+Albany,54.59610027855153,4.56989247311828,Mammals,6
+Albany,54.59610027855153,4.56989247311828,Mosses,1
+Albany,54.59610027855153,4.56989247311828,Mussels and Clams,4
+Albany,54.59610027855153,4.56989247311828,Reptiles,23
+Allegany,28.57142857142857,3.0434782608695654,All,232
+Allegany,28.57142857142857,3.0434782608695654,Amphibians,26
+Allegany,28.57142857142857,3.0434782608695654,Birds,157
+Allegany,28.57142857142857,3.0434782608695654,Butterflies and Moths,2
+Allegany,28.57142857142857,3.0434782608695654,Dragonflies and Damselflies,1
+Allegany,28.57142857142857,3.0434782608695654,Ferns and Fern Allies,1
+Allegany,28.57142857142857,3.0434782608695654,Fish,8
+Allegany,28.57142857142857,3.0434782608695654,Flowering Plants,16
+Allegany,28.57142857142857,3.0434782608695654,Mammals,3
+Allegany,28.57142857142857,3.0434782608695654,Mussels and Clams,1
+Allegany,28.57142857142857,3.0434782608695654,Reptiles,15
+Allegany,28.57142857142857,3.0434782608695654,Beetles,2
+Bronx,67.8030303030303,3.308823529411765,All,275
+Bronx,67.8030303030303,3.308823529411765,Amphibians,9
+Bronx,67.8030303030303,3.308823529411765,"Bees, Wasps, and Ants",1
+Bronx,67.8030303030303,3.308823529411765,Birds,98
+Bronx,67.8030303030303,3.308823529411765,Butterflies and Moths,4
+Bronx,67.8030303030303,3.308823529411765,Dragonflies and Damselflies,2
+Bronx,67.8030303030303,3.308823529411765,Ferns and Fern Allies,4
+Bronx,67.8030303030303,3.308823529411765,Fish,4
+Bronx,67.8030303030303,3.308823529411765,Flowering Plants,142
+Bronx,67.8030303030303,3.308823529411765,Mammals,3
+Bronx,67.8030303030303,3.308823529411765,Reptiles,7
+Bronx,67.8030303030303,3.308823529411765,Beetles,1
+Broome,33.047210300429185,2.904564315352697,All,243
+Broome,33.047210300429185,2.904564315352697,Amphibians,19
+Broome,33.047210300429185,2.904564315352697,Birds,159
+Broome,33.047210300429185,2.904564315352697,Butterflies and Moths,1
+Broome,33.047210300429185,2.904564315352697,Dragonflies and Damselflies,12
+Broome,33.047210300429185,2.904564315352697,Ferns and Fern Allies,1
+Broome,33.047210300429185,2.904564315352697,Fish,4
+Broome,33.047210300429185,2.904564315352697,Flowering Plants,28
+Broome,33.047210300429185,2.904564315352697,Mammals,3
+Broome,33.047210300429185,2.904564315352697,Mussels and Clams,3
+Broome,33.047210300429185,2.904564315352697,Reptiles,13
+Cattaraugus,48.064516129032256,3.1746031746031744,All,318
+Cattaraugus,48.064516129032256,3.1746031746031744,Amphibians,24
+Cattaraugus,48.064516129032256,3.1746031746031744,"Bees, Wasps, and Ants",1
+Cattaraugus,48.064516129032256,3.1746031746031744,Birds,158
+Cattaraugus,48.064516129032256,3.1746031746031744,Butterflies and Moths,3
+Cattaraugus,48.064516129032256,3.1746031746031744,Dragonflies and Damselflies,8
+Cattaraugus,48.064516129032256,3.1746031746031744,Ferns and Fern Allies,5
+Cattaraugus,48.064516129032256,3.1746031746031744,Fish,18
+Cattaraugus,48.064516129032256,3.1746031746031744,Flowering Plants,71
+Cattaraugus,48.064516129032256,3.1746031746031744,Mammals,4
+Cattaraugus,48.064516129032256,3.1746031746031744,Mussels and Clams,8
+Cattaraugus,48.064516129032256,3.1746031746031744,Reptiles,16
+Cattaraugus,48.064516129032256,3.1746031746031744,Beetles,2
+Cayuga,48.3974358974359,3.1347962382445136,All,322
+Cayuga,48.3974358974359,3.1347962382445136,Amphibians,20
+Cayuga,48.3974358974359,3.1347962382445136,Birds,174
+Cayuga,48.3974358974359,3.1347962382445136,Butterflies and Moths,1
+Cayuga,48.3974358974359,3.1347962382445136,Ferns and Fern Allies,1
+Cayuga,48.3974358974359,3.1347962382445136,Fish,11
+Cayuga,48.3974358974359,3.1347962382445136,Flowering Plants,93
+Cayuga,48.3974358974359,3.1347962382445136,Mammals,4
+Cayuga,48.3974358974359,3.1347962382445136,Mosses,1
+Cayuga,48.3974358974359,3.1347962382445136,Mussels and Clams,2
+Cayuga,48.3974358974359,3.1347962382445136,Reptiles,15
+Chautauqua,43.83561643835616,3.0100334448160537,All,303
+Chautauqua,43.83561643835616,3.0100334448160537,Amphibians,22
+Chautauqua,43.83561643835616,3.0100334448160537,Birds,165
+Chautauqua,43.83561643835616,3.0100334448160537,Butterflies and Moths,1
+Chautauqua,43.83561643835616,3.0100334448160537,Dragonflies and Damselflies,3
+Chautauqua,43.83561643835616,3.0100334448160537,Ferns and Fern Allies,4
+Chautauqua,43.83561643835616,3.0100334448160537,Fish,22
+Chautauqua,43.83561643835616,3.0100334448160537,Flowering Plants,54
+Chautauqua,43.83561643835616,3.0100334448160537,Mammals,4
+Chautauqua,43.83561643835616,3.0100334448160537,Mussels and Clams,12
+Chautauqua,43.83561643835616,3.0100334448160537,Reptiles,16
+Chemung,40.909090909090914,2.6022304832713754,All,270
+Chemung,40.909090909090914,2.6022304832713754,Amphibians,17
+Chemung,40.909090909090914,2.6022304832713754,Birds,159
+Chemung,40.909090909090914,2.6022304832713754,Conifers,1
+Chemung,40.909090909090914,2.6022304832713754,Dragonflies and Damselflies,4
+Chemung,40.909090909090914,2.6022304832713754,Ferns and Fern Allies,1
+Chemung,40.909090909090914,2.6022304832713754,Fish,4
+Chemung,40.909090909090914,2.6022304832713754,Flowering Plants,64
+Chemung,40.909090909090914,2.6022304832713754,Mammals,3
+Chemung,40.909090909090914,2.6022304832713754,Mussels and Clams,3
+Chemung,40.909090909090914,2.6022304832713754,Reptiles,14
+Chenango,32.01754385964912,2.9787234042553195,All,237
+Chenango,32.01754385964912,2.9787234042553195,Amphibians,20
+Chenango,32.01754385964912,2.9787234042553195,Birds,157
+Chenango,32.01754385964912,2.9787234042553195,Butterflies and Moths,1
+Chenango,32.01754385964912,2.9787234042553195,Conifers,1
+Chenango,32.01754385964912,2.9787234042553195,Dragonflies and Damselflies,6
+Chenango,32.01754385964912,2.9787234042553195,Ferns and Fern Allies,2
+Chenango,32.01754385964912,2.9787234042553195,Fish,3
+Chenango,32.01754385964912,2.9787234042553195,Flowering Plants,28
+Chenango,32.01754385964912,2.9787234042553195,Mammals,3
+Chenango,32.01754385964912,2.9787234042553195,Mussels and Clams,3
+Chenango,32.01754385964912,2.9787234042553195,Reptiles,13
+Clinton,49.532710280373834,1.5151515151515151,All,332
+Clinton,49.532710280373834,1.5151515151515151,Amphibians,20
+Clinton,49.532710280373834,1.5151515151515151,Birds,185
+Clinton,49.532710280373834,1.5151515151515151,Butterflies and Moths,13
+Clinton,49.532710280373834,1.5151515151515151,Conifers,1
+Clinton,49.532710280373834,1.5151515151515151,Dragonflies and Damselflies,1
+Clinton,49.532710280373834,1.5151515151515151,Ferns and Fern Allies,3
+Clinton,49.532710280373834,1.5151515151515151,Fish,11
+Clinton,49.532710280373834,1.5151515151515151,Flowering Plants,75
+Clinton,49.532710280373834,1.5151515151515151,Mammals,4
+Clinton,49.532710280373834,1.5151515151515151,Mosses,1
+Clinton,49.532710280373834,1.5151515151515151,Mussels and Clams,2
+Clinton,49.532710280373834,1.5151515151515151,Reptiles,13
+Clinton,49.532710280373834,1.5151515151515151,Beetles,1
+Clinton,49.532710280373834,1.5151515151515151,Snails,2
+Columbia,45.57823129251701,4.697986577181208,All,305
+Columbia,45.57823129251701,4.697986577181208,Amphibians,20
+Columbia,45.57823129251701,4.697986577181208,Birds,153
+Columbia,45.57823129251701,4.697986577181208,Butterflies and Moths,4
+Columbia,45.57823129251701,4.697986577181208,Dragonflies and Damselflies,6
+Columbia,45.57823129251701,4.697986577181208,Ferns and Fern Allies,4
+Columbia,45.57823129251701,4.697986577181208,Fish,3
+Columbia,45.57823129251701,4.697986577181208,Flowering Plants,85
+Columbia,45.57823129251701,4.697986577181208,Mammals,5
+Columbia,45.57823129251701,4.697986577181208,Mosses,1
+Columbia,45.57823129251701,4.697986577181208,Mussels and Clams,3
+Columbia,45.57823129251701,4.697986577181208,Reptiles,21
+Cortland,31.25,3.056768558951965,All,231
+Cortland,31.25,3.056768558951965,Amphibians,18
+Cortland,31.25,3.056768558951965,Birds,151
+Cortland,31.25,3.056768558951965,Dragonflies and Damselflies,1
+Cortland,31.25,3.056768558951965,Ferns and Fern Allies,2
+Cortland,31.25,3.056768558951965,Fish,5
+Cortland,31.25,3.056768558951965,Flowering Plants,38
+Cortland,31.25,3.056768558951965,Mammals,3
+Cortland,31.25,3.056768558951965,Mussels and Clams,3
+Cortland,31.25,3.056768558951965,Reptiles,10
+Delaware,35.24590163934426,4,All,253
+Delaware,35.24590163934426,4,Amphibians,21
+Delaware,35.24590163934426,4,Birds,157
+Delaware,35.24590163934426,4,Butterflies and Moths,2
+Delaware,35.24590163934426,4,Dragonflies and Damselflies,8
+Delaware,35.24590163934426,4,Ferns and Fern Allies,3
+Delaware,35.24590163934426,4,Fish,4
+Delaware,35.24590163934426,4,Flowering Plants,34
+Delaware,35.24590163934426,4,Mammals,3
+Delaware,35.24590163934426,4,Mussels and Clams,6
+Delaware,35.24590163934426,4,Reptiles,15
+Dutchess,56.87830687830689,4.6875,All,389
+Dutchess,56.87830687830689,4.6875,Amphibians,23
+Dutchess,56.87830687830689,4.6875,Birds,161
+Dutchess,56.87830687830689,4.6875,Butterflies and Moths,5
+Dutchess,56.87830687830689,4.6875,Conifers,1
+Dutchess,56.87830687830689,4.6875,Dragonflies and Damselflies,8
+Dutchess,56.87830687830689,4.6875,Ferns and Fern Allies,8
+Dutchess,56.87830687830689,4.6875,Fish,6
+Dutchess,56.87830687830689,4.6875,Flowering Plants,131
+Dutchess,56.87830687830689,4.6875,Mammals,6
+Dutchess,56.87830687830689,4.6875,Mosses,9
+Dutchess,56.87830687830689,4.6875,Mussels and Clams,5
+Dutchess,56.87830687830689,4.6875,Reptiles,26
+Erie,57.8125,2.051282051282051,All,395
+Erie,57.8125,2.051282051282051,Amphibians,23
+Erie,57.8125,2.051282051282051,Birds,171
+Erie,57.8125,2.051282051282051,Butterflies and Moths,4
+Erie,57.8125,2.051282051282051,Dragonflies and Damselflies,5
+Erie,57.8125,2.051282051282051,Ferns and Fern Allies,4
+Erie,57.8125,2.051282051282051,Fish,17
+Erie,57.8125,2.051282051282051,Flowering Plants,128
+Erie,57.8125,2.051282051282051,Mammals,4
+Erie,57.8125,2.051282051282051,Mussels and Clams,14
+Erie,57.8125,2.051282051282051,Reptiles,18
+Erie,57.8125,2.051282051282051,Beetles,5
+Erie,57.8125,2.051282051282051,Snails,1
+Erie,57.8125,2.051282051282051,Crustaceans,1
+Essex,59.168704156479215,3.132530120481928,All,418
+Essex,59.168704156479215,3.132530120481928,Amphibians,20
+Essex,59.168704156479215,3.132530120481928,"Bees, Wasps, and Ants",1
+Essex,59.168704156479215,3.132530120481928,Birds,190
+Essex,59.168704156479215,3.132530120481928,Butterflies and Moths,4
+Essex,59.168704156479215,3.132530120481928,Conifers,1
+Essex,59.168704156479215,3.132530120481928,Dragonflies and Damselflies,20
+Essex,59.168704156479215,3.132530120481928,Ferns and Fern Allies,14
+Essex,59.168704156479215,3.132530120481928,Fish,11
+Essex,59.168704156479215,3.132530120481928,Flowering Plants,130
+Essex,59.168704156479215,3.132530120481928,Mammals,6
+Essex,59.168704156479215,3.132530120481928,Mussels and Clams,2
+Essex,59.168704156479215,3.132530120481928,Reptiles,17
+Essex,59.168704156479215,3.132530120481928,Beetles,2
+Franklin,45.51971326164875,1.4035087719298245,All,291
+Franklin,45.51971326164875,1.4035087719298245,Amphibians,20
+Franklin,45.51971326164875,1.4035087719298245,"Bees, Wasps, and Ants",1
+Franklin,45.51971326164875,1.4035087719298245,Birds,178
+Franklin,45.51971326164875,1.4035087719298245,Butterflies and Moths,5
+Franklin,45.51971326164875,1.4035087719298245,Dragonflies and Damselflies,10
+Franklin,45.51971326164875,1.4035087719298245,Ferns and Fern Allies,3
+Franklin,45.51971326164875,1.4035087719298245,Fish,10
+Franklin,45.51971326164875,1.4035087719298245,Flowering Plants,43
+Franklin,45.51971326164875,1.4035087719298245,Mammals,3
+Franklin,45.51971326164875,1.4035087719298245,Mussels and Clams,4
+Franklin,45.51971326164875,1.4035087719298245,Reptiles,13
+Franklin,45.51971326164875,1.4035087719298245,Beetles,1
+Fulton,23.076923076923077,2.336448598130841,All,216
+Fulton,23.076923076923077,2.336448598130841,Amphibians,18
+Fulton,23.076923076923077,2.336448598130841,Birds,158
+Fulton,23.076923076923077,2.336448598130841,Ferns and Fern Allies,1
+Fulton,23.076923076923077,2.336448598130841,Fish,2
+Fulton,23.076923076923077,2.336448598130841,Flowering Plants,21
+Fulton,23.076923076923077,2.336448598130841,Mammals,3
+Fulton,23.076923076923077,2.336448598130841,Reptiles,13
+Genesee,48.49498327759198,2.6143790849673203,All,309
+Genesee,48.49498327759198,2.6143790849673203,Amphibians,18
+Genesee,48.49498327759198,2.6143790849673203,Birds,169
+Genesee,48.49498327759198,2.6143790849673203,Butterflies and Moths,3
+Genesee,48.49498327759198,2.6143790849673203,Conifers,1
+Genesee,48.49498327759198,2.6143790849673203,Dragonflies and Damselflies,2
+Genesee,48.49498327759198,2.6143790849673203,Ferns and Fern Allies,3
+Genesee,48.49498327759198,2.6143790849673203,Fish,3
+Genesee,48.49498327759198,2.6143790849673203,Flowering Plants,83
+Genesee,48.49498327759198,2.6143790849673203,Mammals,3
+Genesee,48.49498327759198,2.6143790849673203,Mussels and Clams,6
+Genesee,48.49498327759198,2.6143790849673203,Reptiles,17
+Genesee,48.49498327759198,2.6143790849673203,Crustaceans,1
+Greene,42.18181818181818,4.285714285714286,All,284
+Greene,42.18181818181818,4.285714285714286,Amphibians,20
+Greene,42.18181818181818,4.285714285714286,Birds,161
+Greene,42.18181818181818,4.285714285714286,Butterflies and Moths,2
+Greene,42.18181818181818,4.285714285714286,Dragonflies and Damselflies,1
+Greene,42.18181818181818,4.285714285714286,Ferns and Fern Allies,10
+Greene,42.18181818181818,4.285714285714286,Fish,4
+Greene,42.18181818181818,4.285714285714286,Flowering Plants,59
+Greene,42.18181818181818,4.285714285714286,Mammals,4
+Greene,42.18181818181818,4.285714285714286,Mosses,5
+Greene,42.18181818181818,4.285714285714286,Reptiles,17
+Greene,42.18181818181818,4.285714285714286,Beetles,1
+Hamilton,41.796875,2.6923076923076925,All,260
+Hamilton,41.796875,2.6923076923076925,Amphibians,16
+Hamilton,41.796875,2.6923076923076925,"Bees, Wasps, and Ants",1
+Hamilton,41.796875,2.6923076923076925,Birds,157
+Hamilton,41.796875,2.6923076923076925,Conifers,1
+Hamilton,41.796875,2.6923076923076925,Dragonflies and Damselflies,5
+Hamilton,41.796875,2.6923076923076925,Ferns and Fern Allies,3
+Hamilton,41.796875,2.6923076923076925,Fish,8
+Hamilton,41.796875,2.6923076923076925,Flowering Plants,51
+Hamilton,41.796875,2.6923076923076925,Mammals,4
+Hamilton,41.796875,2.6923076923076925,Mosses,2
+Hamilton,41.796875,2.6923076923076925,Reptiles,11
+Hamilton,41.796875,2.6923076923076925,Beetles,1
+Herkimer,42.80701754385965,2.405498281786942,All,292
+Herkimer,42.80701754385965,2.405498281786942,Amphibians,20
+Herkimer,42.80701754385965,2.405498281786942,Birds,174
+Herkimer,42.80701754385965,2.405498281786942,Dragonflies and Damselflies,4
+Herkimer,42.80701754385965,2.405498281786942,Ferns and Fern Allies,5
+Herkimer,42.80701754385965,2.405498281786942,Fish,6
+Herkimer,42.80701754385965,2.405498281786942,Flowering Plants,66
+Herkimer,42.80701754385965,2.405498281786942,Mammals,3
+Herkimer,42.80701754385965,2.405498281786942,Mosses,2
+Herkimer,42.80701754385965,2.405498281786942,Reptiles,12
+Jefferson,53.86740331491713,2.956989247311828,All,378
+Jefferson,53.86740331491713,2.956989247311828,Amphibians,21
+Jefferson,53.86740331491713,2.956989247311828,"Bees, Wasps, and Ants",1
+Jefferson,53.86740331491713,2.956989247311828,Birds,186
+Jefferson,53.86740331491713,2.956989247311828,Butterflies and Moths,14
+Jefferson,53.86740331491713,2.956989247311828,Dragonflies and Damselflies,6
+Jefferson,53.86740331491713,2.956989247311828,Ferns and Fern Allies,2
+Jefferson,53.86740331491713,2.956989247311828,Fish,14
+Jefferson,53.86740331491713,2.956989247311828,Flowering Plants,106
+Jefferson,53.86740331491713,2.956989247311828,Mammals,5
+Jefferson,53.86740331491713,2.956989247311828,Mosses,1
+Jefferson,53.86740331491713,2.956989247311828,Mussels and Clams,2
+Jefferson,53.86740331491713,2.956989247311828,Reptiles,17
+Jefferson,53.86740331491713,2.956989247311828,Beetles,2
+Jefferson,53.86740331491713,2.956989247311828,Mayflies,1
+Kings,63.54679802955665,3.3175355450236967,All,213
+Kings,63.54679802955665,3.3175355450236967,Amphibians,7
+Kings,63.54679802955665,3.3175355450236967,"Bees, Wasps, and Ants",1
+Kings,63.54679802955665,3.3175355450236967,Birds,96
+Kings,63.54679802955665,3.3175355450236967,Butterflies and Moths,3
+Kings,63.54679802955665,3.3175355450236967,Dragonflies and Damselflies,2
+Kings,63.54679802955665,3.3175355450236967,Ferns and Fern Allies,1
+Kings,63.54679802955665,3.3175355450236967,Fish,3
+Kings,63.54679802955665,3.3175355450236967,Flowering Plants,83
+Kings,63.54679802955665,3.3175355450236967,Mammals,3
+Kings,63.54679802955665,3.3175355450236967,Reptiles,10
+Kings,63.54679802955665,3.3175355450236967,Beetles,4
+Lewis,44.79166666666667,2.7303754266211606,All,295
+Lewis,44.79166666666667,2.7303754266211606,Amphibians,20
+Lewis,44.79166666666667,2.7303754266211606,Birds,173
+Lewis,44.79166666666667,2.7303754266211606,Butterflies and Moths,1
+Lewis,44.79166666666667,2.7303754266211606,Dragonflies and Damselflies,6
+Lewis,44.79166666666667,2.7303754266211606,Ferns and Fern Allies,5
+Lewis,44.79166666666667,2.7303754266211606,Fish,4
+Lewis,44.79166666666667,2.7303754266211606,Flowering Plants,64
+Lewis,44.79166666666667,2.7303754266211606,Mammals,3
+Lewis,44.79166666666667,2.7303754266211606,Mosses,3
+Lewis,44.79166666666667,2.7303754266211606,Mussels and Clams,1
+Lewis,44.79166666666667,2.7303754266211606,Reptiles,14
+Lewis,44.79166666666667,2.7303754266211606,Mayflies,1
+Livingston,43.214285714285715,2.797202797202797,All,290
+Livingston,43.214285714285715,2.797202797202797,Amphibians,22
+Livingston,43.214285714285715,2.797202797202797,"Bees, Wasps, and Ants",1
+Livingston,43.214285714285715,2.797202797202797,Birds,162
+Livingston,43.214285714285715,2.797202797202797,Butterflies and Moths,2
+Livingston,43.214285714285715,2.797202797202797,Conifers,1
+Livingston,43.214285714285715,2.797202797202797,Dragonflies and Damselflies,4
+Livingston,43.214285714285715,2.797202797202797,Ferns and Fern Allies,1
+Livingston,43.214285714285715,2.797202797202797,Fish,4
+Livingston,43.214285714285715,2.797202797202797,Flowering Plants,65
+Livingston,43.214285714285715,2.797202797202797,Mammals,4
+Livingston,43.214285714285715,2.797202797202797,Mussels and Clams,5
+Livingston,43.214285714285715,2.797202797202797,Reptiles,16
+Livingston,43.214285714285715,2.797202797202797,Beetles,2
+Livingston,43.214285714285715,2.797202797202797,Snails,1
+Madison,39.922480620155035,3.4090909090909087,All,265
+Madison,39.922480620155035,3.4090909090909087,Amphibians,17
+Madison,39.922480620155035,3.4090909090909087,Birds,157
+Madison,39.922480620155035,3.4090909090909087,Conifers,1
+Madison,39.922480620155035,3.4090909090909087,Dragonflies and Damselflies,1
+Madison,39.922480620155035,3.4090909090909087,Ferns and Fern Allies,4
+Madison,39.922480620155035,3.4090909090909087,Fish,3
+Madison,39.922480620155035,3.4090909090909087,Flowering Plants,60
+Madison,39.922480620155035,3.4090909090909087,Mammals,3
+Madison,39.922480620155035,3.4090909090909087,Mosses,5
+Madison,39.922480620155035,3.4090909090909087,Mussels and Clams,3
+Madison,39.922480620155035,3.4090909090909087,Reptiles,10
+Madison,39.922480620155035,3.4090909090909087,Snails,1
+Monroe,58.791208791208796,2.6881720430107525,All,377
+Monroe,58.791208791208796,2.6881720430107525,Amphibians,21
+Monroe,58.791208791208796,2.6881720430107525,"Bees, Wasps, and Ants",2
+Monroe,58.791208791208796,2.6881720430107525,Birds,163
+Monroe,58.791208791208796,2.6881720430107525,Butterflies and Moths,1
+Monroe,58.791208791208796,2.6881720430107525,Conifers,1
+Monroe,58.791208791208796,2.6881720430107525,Dragonflies and Damselflies,3
+Monroe,58.791208791208796,2.6881720430107525,Ferns and Fern Allies,3
+Monroe,58.791208791208796,2.6881720430107525,Fish,17
+Monroe,58.791208791208796,2.6881720430107525,Flowering Plants,136
+Monroe,58.791208791208796,2.6881720430107525,Mammals,3
+Monroe,58.791208791208796,2.6881720430107525,Mosses,1
+Monroe,58.791208791208796,2.6881720430107525,Mussels and Clams,6
+Monroe,58.791208791208796,2.6881720430107525,Reptiles,18
+Monroe,58.791208791208796,2.6881720430107525,Beetles,2
+Montgomery,17.12707182320442,2.13903743315508,All,187
+Montgomery,17.12707182320442,2.13903743315508,Amphibians,17
+Montgomery,17.12707182320442,2.13903743315508,Birds,144
+Montgomery,17.12707182320442,2.13903743315508,Dragonflies and Damselflies,3
+Montgomery,17.12707182320442,2.13903743315508,Flowering Plants,7
+Montgomery,17.12707182320442,2.13903743315508,Mammals,4
+Montgomery,17.12707182320442,2.13903743315508,Reptiles,12
+Nassau,71.007371007371,3.5971223021582732,All,420
+Nassau,71.007371007371,3.5971223021582732,Amphibians,13
+Nassau,71.007371007371,3.5971223021582732,"Bees, Wasps, and Ants",1
+Nassau,71.007371007371,3.5971223021582732,Birds,149
+Nassau,71.007371007371,3.5971223021582732,Butterflies and Moths,5
+Nassau,71.007371007371,3.5971223021582732,Conifers,2
+Nassau,71.007371007371,3.5971223021582732,Dragonflies and Damselflies,5
+Nassau,71.007371007371,3.5971223021582732,Ferns and Fern Allies,4
+Nassau,71.007371007371,3.5971223021582732,Fish,3
+Nassau,71.007371007371,3.5971223021582732,Flowering Plants,216
+Nassau,71.007371007371,3.5971223021582732,Mammals,3
+Nassau,71.007371007371,3.5971223021582732,Reptiles,16
+Nassau,71.007371007371,3.5971223021582732,Beetles,3
+New York,70.2127659574468,4,All,150
+New York,70.2127659574468,4,Amphibians,1
+New York,70.2127659574468,4,"Bees, Wasps, and Ants",1
+New York,70.2127659574468,4,Birds,51
+New York,70.2127659574468,4,Butterflies and Moths,2
+New York,70.2127659574468,4,Ferns and Fern Allies,1
+New York,70.2127659574468,4,Fish,5
+New York,70.2127659574468,4,Flowering Plants,81
+New York,70.2127659574468,4,Mammals,3
+New York,70.2127659574468,4,Reptiles,5
+Niagara,53.09446254071661,1.89873417721519,All,318
+Niagara,53.09446254071661,1.89873417721519,Amphibians,19
+Niagara,53.09446254071661,1.89873417721519,Birds,160
+Niagara,53.09446254071661,1.89873417721519,Butterflies and Moths,2
+Niagara,53.09446254071661,1.89873417721519,Dragonflies and Damselflies,2
+Niagara,53.09446254071661,1.89873417721519,Ferns and Fern Allies,4
+Niagara,53.09446254071661,1.89873417721519,Fish,19
+Niagara,53.09446254071661,1.89873417721519,Flowering Plants,82
+Niagara,53.09446254071661,1.89873417721519,Mammals,3
+Niagara,53.09446254071661,1.89873417721519,Mussels and Clams,11
+Niagara,53.09446254071661,1.89873417721519,Reptiles,14
+Niagara,53.09446254071661,1.89873417721519,Snails,1
+Niagara,53.09446254071661,1.89873417721519,Crustaceans,1
+Oneida,52.79329608938548,2.203856749311295,All,369
+Oneida,52.79329608938548,2.203856749311295,Amphibians,22
+Oneida,52.79329608938548,2.203856749311295,Birds,178
+Oneida,52.79329608938548,2.203856749311295,Butterflies and Moths,4
+Oneida,52.79329608938548,2.203856749311295,Conifers,2
+Oneida,52.79329608938548,2.203856749311295,Dragonflies and Damselflies,2
+Oneida,52.79329608938548,2.203856749311295,Ferns and Fern Allies,9
+Oneida,52.79329608938548,2.203856749311295,Fish,6
+Oneida,52.79329608938548,2.203856749311295,Flowering Plants,126
+Oneida,52.79329608938548,2.203856749311295,Mammals,3
+Oneida,52.79329608938548,2.203856749311295,Reptiles,16
+Oneida,52.79329608938548,2.203856749311295,Beetles,1
+Onondaga,54.7486033519553,3.0303030303030303,All,368
+Onondaga,54.7486033519553,3.0303030303030303,Amphibians,21
+Onondaga,54.7486033519553,3.0303030303030303,Birds,168
+Onondaga,54.7486033519553,3.0303030303030303,Butterflies and Moths,2
+Onondaga,54.7486033519553,3.0303030303030303,Conifers,1
+Onondaga,54.7486033519553,3.0303030303030303,Dragonflies and Damselflies,2
+Onondaga,54.7486033519553,3.0303030303030303,Ferns and Fern Allies,8
+Onondaga,54.7486033519553,3.0303030303030303,Fish,8
+Onondaga,54.7486033519553,3.0303030303030303,Flowering Plants,131
+Onondaga,54.7486033519553,3.0303030303030303,Mammals,5
+Onondaga,54.7486033519553,3.0303030303030303,Mosses,1
+Onondaga,54.7486033519553,3.0303030303030303,Mussels and Clams,1
+Onondaga,54.7486033519553,3.0303030303030303,Reptiles,19
+Onondaga,54.7486033519553,3.0303030303030303,Snails,1
+Ontario,40.520446096654275,1.444043321299639,All,278
+Ontario,40.520446096654275,1.444043321299639,Amphibians,21
+Ontario,40.520446096654275,1.444043321299639,Birds,159
+Ontario,40.520446096654275,1.444043321299639,Dragonflies and Damselflies,2
+Ontario,40.520446096654275,1.444043321299639,Ferns and Fern Allies,2
+Ontario,40.520446096654275,1.444043321299639,Fish,4
+Ontario,40.520446096654275,1.444043321299639,Flowering Plants,66
+Ontario,40.520446096654275,1.444043321299639,Mammals,4
+Ontario,40.520446096654275,1.444043321299639,Mussels and Clams,1
+Ontario,40.520446096654275,1.444043321299639,Reptiles,18
+Ontario,40.520446096654275,1.444043321299639,Snails,1
+Orange,60.14319809069213,4,All,432
+Orange,60.14319809069213,4,Amphibians,26
+Orange,60.14319809069213,4,"Bees, Wasps, and Ants",1
+Orange,60.14319809069213,4,Birds,167
+Orange,60.14319809069213,4,Butterflies and Moths,10
+Orange,60.14319809069213,4,Conifers,3
+Orange,60.14319809069213,4,Dragonflies and Damselflies,27
+Orange,60.14319809069213,4,Ferns and Fern Allies,3
+Orange,60.14319809069213,4,Fish,12
+Orange,60.14319809069213,4,Flowering Plants,145
+Orange,60.14319809069213,4,Mammals,7
+Orange,60.14319809069213,4,Mussels and Clams,4
+Orange,60.14319809069213,4,Reptiles,26
+Orange,60.14319809069213,4,Snails,1
+Orleans,36.492890995260666,3.7037037037037033,All,220
+Orleans,36.492890995260666,3.7037037037037033,Amphibians,14
+Orleans,36.492890995260666,3.7037037037037033,Birds,149
+Orleans,36.492890995260666,3.7037037037037033,Dragonflies and Damselflies,1
+Orleans,36.492890995260666,3.7037037037037033,Ferns and Fern Allies,2
+Orleans,36.492890995260666,3.7037037037037033,Fish,14
+Orleans,36.492890995260666,3.7037037037037033,Flowering Plants,19
+Orleans,36.492890995260666,3.7037037037037033,Mammals,3
+Orleans,36.492890995260666,3.7037037037037033,Mussels and Clams,5
+Orleans,36.492890995260666,3.7037037037037033,Reptiles,12
+Orleans,36.492890995260666,3.7037037037037033,Crustaceans,1
+Oswego,46.30225080385852,4.075235109717868,All,323
+Oswego,46.30225080385852,4.075235109717868,Amphibians,22
+Oswego,46.30225080385852,4.075235109717868,"Bees, Wasps, and Ants",1
+Oswego,46.30225080385852,4.075235109717868,Birds,179
+Oswego,46.30225080385852,4.075235109717868,Butterflies and Moths,2
+Oswego,46.30225080385852,4.075235109717868,Dragonflies and Damselflies,3
+Oswego,46.30225080385852,4.075235109717868,Ferns and Fern Allies,1
+Oswego,46.30225080385852,4.075235109717868,Fish,18
+Oswego,46.30225080385852,4.075235109717868,Flowering Plants,70
+Oswego,46.30225080385852,4.075235109717868,Mammals,5
+Oswego,46.30225080385852,4.075235109717868,Mussels and Clams,3
+Oswego,46.30225080385852,4.075235109717868,Reptiles,17
+Oswego,46.30225080385852,4.075235109717868,Beetles,1
+Oswego,46.30225080385852,4.075235109717868,Snails,1
+Otsego,31.877729257641924,3.389830508474576,All,240
+Otsego,31.877729257641924,3.389830508474576,Amphibians,20
+Otsego,31.877729257641924,3.389830508474576,Birds,160
+Otsego,31.877729257641924,3.389830508474576,Dragonflies and Damselflies,3
+Otsego,31.877729257641924,3.389830508474576,Fish,5
+Otsego,31.877729257641924,3.389830508474576,Flowering Plants,33
+Otsego,31.877729257641924,3.389830508474576,Mammals,3
+Otsego,31.877729257641924,3.389830508474576,Mussels and Clams,3
+Otsego,31.877729257641924,3.389830508474576,Reptiles,13
+Putnam,43.89312977099237,4.089219330855019,All,272
+Putnam,43.89312977099237,4.089219330855019,Amphibians,21
+Putnam,43.89312977099237,4.089219330855019,Birds,136
+Putnam,43.89312977099237,4.089219330855019,Butterflies and Moths,4
+Putnam,43.89312977099237,4.089219330855019,Conifers,1
+Putnam,43.89312977099237,4.089219330855019,Dragonflies and Damselflies,8
+Putnam,43.89312977099237,4.089219330855019,Ferns and Fern Allies,2
+Putnam,43.89312977099237,4.089219330855019,Fish,7
+Putnam,43.89312977099237,4.089219330855019,Flowering Plants,65
+Putnam,43.89312977099237,4.089219330855019,Mammals,6
+Putnam,43.89312977099237,4.089219330855019,Reptiles,22
+Queens,71.24600638977637,2.786377708978328,All,324
+Queens,71.24600638977637,2.786377708978328,Amphibians,12
+Queens,71.24600638977637,2.786377708978328,"Bees, Wasps, and Ants",2
+Queens,71.24600638977637,2.786377708978328,Birds,115
+Queens,71.24600638977637,2.786377708978328,Butterflies and Moths,4
+Queens,71.24600638977637,2.786377708978328,Dragonflies and Damselflies,3
+Queens,71.24600638977637,2.786377708978328,Ferns and Fern Allies,1
+Queens,71.24600638977637,2.786377708978328,Fish,3
+Queens,71.24600638977637,2.786377708978328,Flowering Plants,166
+Queens,71.24600638977637,2.786377708978328,Mammals,3
+Queens,71.24600638977637,2.786377708978328,Reptiles,13
+Queens,71.24600638977637,2.786377708978328,Beetles,2
+Rensselaer,48.734177215189874,3.4161490683229814,All,324
+Rensselaer,48.734177215189874,3.4161490683229814,Amphibians,20
+Rensselaer,48.734177215189874,3.4161490683229814,Birds,157
+Rensselaer,48.734177215189874,3.4161490683229814,Butterflies and Moths,2
+Rensselaer,48.734177215189874,3.4161490683229814,Dragonflies and Damselflies,10
+Rensselaer,48.734177215189874,3.4161490683229814,Ferns and Fern Allies,3
+Rensselaer,48.734177215189874,3.4161490683229814,Fish,3
+Rensselaer,48.734177215189874,3.4161490683229814,Flowering Plants,101
+Rensselaer,48.734177215189874,3.4161490683229814,Mammals,4
+Rensselaer,48.734177215189874,3.4161490683229814,Mosses,2
+Rensselaer,48.734177215189874,3.4161490683229814,Mussels and Clams,3
+Rensselaer,48.734177215189874,3.4161490683229814,Reptiles,19
+Richmond,71.27371273712737,3.16622691292876,All,380
+Richmond,71.27371273712737,3.16622691292876,Amphibians,12
+Richmond,71.27371273712737,3.16622691292876,"Bees, Wasps, and Ants",2
+Richmond,71.27371273712737,3.16622691292876,Birds,126
+Richmond,71.27371273712737,3.16622691292876,Butterflies and Moths,4
+Richmond,71.27371273712737,3.16622691292876,Conifers,3
+Richmond,71.27371273712737,3.16622691292876,Dragonflies and Damselflies,8
+Richmond,71.27371273712737,3.16622691292876,Ferns and Fern Allies,5
+Richmond,71.27371273712737,3.16622691292876,Fish,4
+Richmond,71.27371273712737,3.16622691292876,Flowering Plants,195
+Richmond,71.27371273712737,3.16622691292876,Mammals,5
+Richmond,71.27371273712737,3.16622691292876,Reptiles,15
+Richmond,71.27371273712737,3.16622691292876,Beetles,1
+Rockland,53.799392097264445,3.857566765578635,All,340
+Rockland,53.799392097264445,3.857566765578635,Amphibians,23
+Rockland,53.799392097264445,3.857566765578635,Birds,143
+Rockland,53.799392097264445,3.857566765578635,Butterflies and Moths,3
+Rockland,53.799392097264445,3.857566765578635,Conifers,1
+Rockland,53.799392097264445,3.857566765578635,Dragonflies and Damselflies,15
+Rockland,53.799392097264445,3.857566765578635,Ferns and Fern Allies,4
+Rockland,53.799392097264445,3.857566765578635,Fish,11
+Rockland,53.799392097264445,3.857566765578635,Flowering Plants,110
+Rockland,53.799392097264445,3.857566765578635,Mammals,4
+Rockland,53.799392097264445,3.857566765578635,Mussels and Clams,2
+Rockland,53.799392097264445,3.857566765578635,Reptiles,24
+Saratoga,45.302013422818796,2.6402640264026402,All,306
+Saratoga,45.302013422818796,2.6402640264026402,Amphibians,21
+Saratoga,45.302013422818796,2.6402640264026402,"Bees, Wasps, and Ants",2
+Saratoga,45.302013422818796,2.6402640264026402,Birds,161
+Saratoga,45.302013422818796,2.6402640264026402,Butterflies and Moths,5
+Saratoga,45.302013422818796,2.6402640264026402,Dragonflies and Damselflies,13
+Saratoga,45.302013422818796,2.6402640264026402,Ferns and Fern Allies,3
+Saratoga,45.302013422818796,2.6402640264026402,Fish,2
+Saratoga,45.302013422818796,2.6402640264026402,Flowering Plants,70
+Saratoga,45.302013422818796,2.6402640264026402,Mammals,3
+Saratoga,45.302013422818796,2.6402640264026402,Mosses,3
+Saratoga,45.302013422818796,2.6402640264026402,Mussels and Clams,2
+Saratoga,45.302013422818796,2.6402640264026402,Reptiles,21
+Schenectady,39.48497854077253,1.6736401673640167,All,242
+Schenectady,39.48497854077253,1.6736401673640167,Amphibians,19
+Schenectady,39.48497854077253,1.6736401673640167,Birds,130
+Schenectady,39.48497854077253,1.6736401673640167,Butterflies and Moths,2
+Schenectady,39.48497854077253,1.6736401673640167,Dragonflies and Damselflies,1
+Schenectady,39.48497854077253,1.6736401673640167,Fish,1
+Schenectady,39.48497854077253,1.6736401673640167,Flowering Plants,69
+Schenectady,39.48497854077253,1.6736401673640167,Mammals,3
+Schenectady,39.48497854077253,1.6736401673640167,Mosses,2
+Schenectady,39.48497854077253,1.6736401673640167,Mussels and Clams,1
+Schenectady,39.48497854077253,1.6736401673640167,Reptiles,14
+Schoharie,25.471698113207548,1.8181818181818181,All,223
+Schoharie,25.471698113207548,1.8181818181818181,Amphibians,20
+Schoharie,25.471698113207548,1.8181818181818181,Birds,159
+Schoharie,25.471698113207548,1.8181818181818181,Dragonflies and Damselflies,1
+Schoharie,25.471698113207548,1.8181818181818181,Ferns and Fern Allies,2
+Schoharie,25.471698113207548,1.8181818181818181,Flowering Plants,19
+Schoharie,25.471698113207548,1.8181818181818181,Mammals,5
+Schoharie,25.471698113207548,1.8181818181818181,Mussels and Clams,1
+Schoharie,25.471698113207548,1.8181818181818181,Reptiles,16
+Schuyler,30.396475770925107,2.1459227467811157,All,236
+Schuyler,30.396475770925107,2.1459227467811157,Amphibians,20
+Schuyler,30.396475770925107,2.1459227467811157,Birds,157
+Schuyler,30.396475770925107,2.1459227467811157,Dragonflies and Damselflies,8
+Schuyler,30.396475770925107,2.1459227467811157,Ferns and Fern Allies,1
+Schuyler,30.396475770925107,2.1459227467811157,Fish,5
+Schuyler,30.396475770925107,2.1459227467811157,Flowering Plants,28
+Schuyler,30.396475770925107,2.1459227467811157,Mammals,3
+Schuyler,30.396475770925107,2.1459227467811157,Mussels and Clams,1
+Schuyler,30.396475770925107,2.1459227467811157,Reptiles,13
+Seneca,43.359375,1.8867924528301887,All,267
+Seneca,43.359375,1.8867924528301887,Amphibians,19
+Seneca,43.359375,1.8867924528301887,Birds,157
+Seneca,43.359375,1.8867924528301887,Butterflies and Moths,1
+Seneca,43.359375,1.8867924528301887,Ferns and Fern Allies,2
+Seneca,43.359375,1.8867924528301887,Fish,6
+Seneca,43.359375,1.8867924528301887,Flowering Plants,64
+Seneca,43.359375,1.8867924528301887,Mammals,4
+Seneca,43.359375,1.8867924528301887,Reptiles,14
+St. Lawrence,56.54450261780105,2.3255813953488373,All,393
+St. Lawrence,56.54450261780105,2.3255813953488373,Amphibians,21
+St. Lawrence,56.54450261780105,2.3255813953488373,Birds,191
+St. Lawrence,56.54450261780105,2.3255813953488373,Butterflies and Moths,2
+St. Lawrence,56.54450261780105,2.3255813953488373,Conifers,1
+St. Lawrence,56.54450261780105,2.3255813953488373,Dragonflies and Damselflies,12
+St. Lawrence,56.54450261780105,2.3255813953488373,Ferns and Fern Allies,14
+St. Lawrence,56.54450261780105,2.3255813953488373,Fish,15
+St. Lawrence,56.54450261780105,2.3255813953488373,Flowering Plants,111
+St. Lawrence,56.54450261780105,2.3255813953488373,Mammals,4
+St. Lawrence,56.54450261780105,2.3255813953488373,Mosses,1
+St. Lawrence,56.54450261780105,2.3255813953488373,Mussels and Clams,5
+St. Lawrence,56.54450261780105,2.3255813953488373,Reptiles,16
+Steuben,33.755274261603375,2.8925619834710745,All,245
+Steuben,33.755274261603375,2.8925619834710745,Amphibians,21
+Steuben,33.755274261603375,2.8925619834710745,Birds,155
+Steuben,33.755274261603375,2.8925619834710745,Dragonflies and Damselflies,6
+Steuben,33.755274261603375,2.8925619834710745,Fish,6
+Steuben,33.755274261603375,2.8925619834710745,Flowering Plants,36
+Steuben,33.755274261603375,2.8925619834710745,Mammals,3
+Steuben,33.755274261603375,2.8925619834710745,Mosses,1
+Steuben,33.755274261603375,2.8925619834710745,Mussels and Clams,3
+Steuben,33.755274261603375,2.8925619834710745,Reptiles,14
+Suffolk,77.25040916530278,4.813664596273292,All,650
+Suffolk,77.25040916530278,4.813664596273292,Amphibians,18
+Suffolk,77.25040916530278,4.813664596273292,"Bees, Wasps, and Ants",2
+Suffolk,77.25040916530278,4.813664596273292,Birds,175
+Suffolk,77.25040916530278,4.813664596273292,Butterflies and Moths,71
+Suffolk,77.25040916530278,4.813664596273292,Conifers,3
+Suffolk,77.25040916530278,4.813664596273292,Dragonflies and Damselflies,23
+Suffolk,77.25040916530278,4.813664596273292,Ferns and Fern Allies,9
+Suffolk,77.25040916530278,4.813664596273292,Fish,7
+Suffolk,77.25040916530278,4.813664596273292,Flowering Plants,311
+Suffolk,77.25040916530278,4.813664596273292,Mammals,4
+Suffolk,77.25040916530278,4.813664596273292,Reptiles,20
+Suffolk,77.25040916530278,4.813664596273292,Beetles,7
+Sullivan,36.82170542635659,4.545454545454546,All,268
+Sullivan,36.82170542635659,4.545454545454546,Amphibians,24
+Sullivan,36.82170542635659,4.545454545454546,Birds,152
+Sullivan,36.82170542635659,4.545454545454546,Butterflies and Moths,2
+Sullivan,36.82170542635659,4.545454545454546,Dragonflies and Damselflies,13
+Sullivan,36.82170542635659,4.545454545454546,Ferns and Fern Allies,3
+Sullivan,36.82170542635659,4.545454545454546,Fish,5
+Sullivan,36.82170542635659,4.545454545454546,Flowering Plants,38
+Sullivan,36.82170542635659,4.545454545454546,Mammals,4
+Sullivan,36.82170542635659,4.545454545454546,Mussels and Clams,4
+Sullivan,36.82170542635659,4.545454545454546,Reptiles,21
+Sullivan,36.82170542635659,4.545454545454546,Beetles,2
+Tioga,35.294117647058826,3.292181069958848,All,245
+Tioga,35.294117647058826,3.292181069958848,Amphibians,18
+Tioga,35.294117647058826,3.292181069958848,Birds,147
+Tioga,35.294117647058826,3.292181069958848,Butterflies and Moths,1
+Tioga,35.294117647058826,3.292181069958848,Dragonflies and Damselflies,4
+Tioga,35.294117647058826,3.292181069958848,Ferns and Fern Allies,1
+Tioga,35.294117647058826,3.292181069958848,Fish,5
+Tioga,35.294117647058826,3.292181069958848,Flowering Plants,50
+Tioga,35.294117647058826,3.292181069958848,Mammals,3
+Tioga,35.294117647058826,3.292181069958848,Mussels and Clams,3
+Tioga,35.294117647058826,3.292181069958848,Reptiles,13
+Tompkins,52.03488372093024,2.881844380403458,All,354
+Tompkins,52.03488372093024,2.881844380403458,Amphibians,20
+Tompkins,52.03488372093024,2.881844380403458,"Bees, Wasps, and Ants",6
+Tompkins,52.03488372093024,2.881844380403458,Birds,169
+Tompkins,52.03488372093024,2.881844380403458,Butterflies and Moths,3
+Tompkins,52.03488372093024,2.881844380403458,Dragonflies and Damselflies,11
+Tompkins,52.03488372093024,2.881844380403458,Ferns and Fern Allies,3
+Tompkins,52.03488372093024,2.881844380403458,Fish,6
+Tompkins,52.03488372093024,2.881844380403458,Flowering Plants,102
+Tompkins,52.03488372093024,2.881844380403458,Mammals,4
+Tompkins,52.03488372093024,2.881844380403458,Mosses,12
+Tompkins,52.03488372093024,2.881844380403458,Reptiles,15
+Tompkins,52.03488372093024,2.881844380403458,Beetles,2
+Tompkins,52.03488372093024,2.881844380403458,Snails,1
+Ulster,57.21518987341773,4.5,All,404
+Ulster,57.21518987341773,4.5,Amphibians,26
+Ulster,57.21518987341773,4.5,"Bees, Wasps, and Ants",1
+Ulster,57.21518987341773,4.5,Birds,165
+Ulster,57.21518987341773,4.5,Butterflies and Moths,7
+Ulster,57.21518987341773,4.5,Dragonflies and Damselflies,10
+Ulster,57.21518987341773,4.5,Ferns and Fern Allies,11
+Ulster,57.21518987341773,4.5,Fish,9
+Ulster,57.21518987341773,4.5,Flowering Plants,133
+Ulster,57.21518987341773,4.5,Mammals,7
+Ulster,57.21518987341773,4.5,Mosses,8
+Ulster,57.21518987341773,4.5,Mussels and Clams,3
+Ulster,57.21518987341773,4.5,Reptiles,22
+Ulster,57.21518987341773,4.5,Beetles,2
+Warren,47.50830564784053,3.9473684210526314,All,308
+Warren,47.50830564784053,3.9473684210526314,Amphibians,20
+Warren,47.50830564784053,3.9473684210526314,Birds,155
+Warren,47.50830564784053,3.9473684210526314,Butterflies and Moths,3
+Warren,47.50830564784053,3.9473684210526314,Conifers,1
+Warren,47.50830564784053,3.9473684210526314,Dragonflies and Damselflies,7
+Warren,47.50830564784053,3.9473684210526314,Ferns and Fern Allies,4
+Warren,47.50830564784053,3.9473684210526314,Fish,5
+Warren,47.50830564784053,3.9473684210526314,Flowering Plants,84
+Warren,47.50830564784053,3.9473684210526314,Mammals,6
+Warren,47.50830564784053,3.9473684210526314,Mosses,4
+Warren,47.50830564784053,3.9473684210526314,Reptiles,18
+Warren,47.50830564784053,3.9473684210526314,Beetles,1
+Washington,48.38709677419355,2.2222222222222223,All,319
+Washington,48.38709677419355,2.2222222222222223,Amphibians,19
+Washington,48.38709677419355,2.2222222222222223,Birds,160
+Washington,48.38709677419355,2.2222222222222223,Dragonflies and Damselflies,5
+Washington,48.38709677419355,2.2222222222222223,Ferns and Fern Allies,7
+Washington,48.38709677419355,2.2222222222222223,Fish,5
+Washington,48.38709677419355,2.2222222222222223,Flowering Plants,90
+Washington,48.38709677419355,2.2222222222222223,Mammals,3
+Washington,48.38709677419355,2.2222222222222223,Mosses,9
+Washington,48.38709677419355,2.2222222222222223,Mussels and Clams,3
+Washington,48.38709677419355,2.2222222222222223,Reptiles,18
+Wayne,44.73684210526316,3.6764705882352944,All,275
+Wayne,44.73684210526316,3.6764705882352944,Amphibians,20
+Wayne,44.73684210526316,3.6764705882352944,Birds,154
+Wayne,44.73684210526316,3.6764705882352944,Fish,14
+Wayne,44.73684210526316,3.6764705882352944,Flowering Plants,66
+Wayne,44.73684210526316,3.6764705882352944,Mammals,4
+Wayne,44.73684210526316,3.6764705882352944,Mussels and Clams,2
+Wayne,44.73684210526316,3.6764705882352944,Reptiles,15
+Westchester,64.47688564476886,3.0952380952380953,All,422
+Westchester,64.47688564476886,3.0952380952380953,Amphibians,18
+Westchester,64.47688564476886,3.0952380952380953,Birds,155
+Westchester,64.47688564476886,3.0952380952380953,Butterflies and Moths,5
+Westchester,64.47688564476886,3.0952380952380953,Conifers,3
+Westchester,64.47688564476886,3.0952380952380953,Dragonflies and Damselflies,17
+Westchester,64.47688564476886,3.0952380952380953,Ferns and Fern Allies,6
+Westchester,64.47688564476886,3.0952380952380953,Fish,7
+Westchester,64.47688564476886,3.0952380952380953,Flowering Plants,182
+Westchester,64.47688564476886,3.0952380952380953,Mammals,4
+Westchester,64.47688564476886,3.0952380952380953,Reptiles,24
+Westchester,64.47688564476886,3.0952380952380953,Beetles,1
+Wyoming,34.97942386831276,2.0242914979757085,All,251
+Wyoming,34.97942386831276,2.0242914979757085,Amphibians,21
+Wyoming,34.97942386831276,2.0242914979757085,Birds,157
+Wyoming,34.97942386831276,2.0242914979757085,Dragonflies and Damselflies,2
+Wyoming,34.97942386831276,2.0242914979757085,Ferns and Fern Allies,1
+Wyoming,34.97942386831276,2.0242914979757085,Fish,6
+Wyoming,34.97942386831276,2.0242914979757085,Flowering Plants,44
+Wyoming,34.97942386831276,2.0242914979757085,Mammals,4
+Wyoming,34.97942386831276,2.0242914979757085,Mosses,1
+Wyoming,34.97942386831276,2.0242914979757085,Reptiles,13
+Wyoming,34.97942386831276,2.0242914979757085,Beetles,2
+Yates,36.206896551724135,0.8438818565400843,All,238
+Yates,36.206896551724135,0.8438818565400843,Amphibians,19
+Yates,36.206896551724135,0.8438818565400843,Birds,140
+Yates,36.206896551724135,0.8438818565400843,Butterflies and Moths,1
+Yates,36.206896551724135,0.8438818565400843,Fish,3
+Yates,36.206896551724135,0.8438818565400843,Flowering Plants,57
+Yates,36.206896551724135,0.8438818565400843,Mammals,3
+Yates,36.206896551724135,0.8438818565400843,Mosses,1
+Yates,36.206896551724135,0.8438818565400843,Reptiles,13
+Yates,36.206896551724135,0.8438818565400843,Beetles,1

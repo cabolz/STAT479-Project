@@ -5,7 +5,8 @@ library("dplyr")
 library("plotly")
 
 # Load in datasets
-counties_taxonomic = read_csv("./data/counties_taxonomic.csv")
+#counties_taxonomic = read_csv("./data/counties_taxonomic.csv")
+taxonomic_security = read_csv("./data/taxonomic_security.csv")
 
 taxonomic_groups = counties_taxonomic %>% distinct(taxonomic_group)
 
@@ -27,6 +28,41 @@ ui <- fluidPage(
 
 server <- function(input, output) {
   
+  
+  
+  
+  
+  
+  # Create the scatterplot of number of species vs. percent not secure
+  output$scatterplot <- renderPlotly({
+    
+    plot = taxonomic_security %>% 
+      filter(taxonomic_group == input$tax_group,
+             group_secure == input$tax_group) %>% 
+      ggplot(aes(x = n, y = perc_secure, col = level, name = county)) + 
+      geom_point(alpha = 0.6, size = 1) +
+      theme_minimal() +
+      labs (
+        x = paste("Number of Species of", input$tax_group),
+        y = paste("% Not Secure of ", input$tax_group)
+      )
+    
+    # Remove ability to pan and zoom
+    ggplotly(plot, height = 400) %>% 
+      config(displayModeBar = FALSE) %>% 
+      layout(xaxis=list(fixedrange=TRUE),
+             yaxis=list(fixedrange=TRUE))
+  })
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  if (FALSE){
   # Create the scatterplot of number of species vs. percent not secure
   output$scatterplot <- renderPlotly({
     
@@ -46,6 +82,7 @@ server <- function(input, output) {
       layout(xaxis=list(fixedrange=TRUE),
              yaxis=list(fixedrange=TRUE))
   })
+  }
   
 }
 
