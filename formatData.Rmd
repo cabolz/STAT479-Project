@@ -14,7 +14,8 @@ library("stringr")
 
 ```{r, message=FALSE}
 # Contains names of plants and animals, as well as endangerment status, in NY at the county level
-biodiversity = read_csv("./data/Biodiversity.csv")
+#biodiversity = read_csv("./data/Biodiversity.csv")
+biodiversity = read_csv("./data/Biodiversity_Animals_Plants.csv")
 
 # Contains estimations for human populations and growth rate in each NY county
 countyPop = read_csv("./data/NYCounties.csv")
@@ -136,9 +137,12 @@ counties_taxonomic =
   #replace(is.na(.), 0) %>% 
   right_join(counties_derived, by = "county") %>%
   rename(All = n_species) %>% 
-  select(county, All, 2:18, perc_not_secure_state, perc_not_secure_global) %>% 
-  pivot_longer(2:19, names_to = "taxonomic_group", values_to = "n") %>% 
-  drop_na() #%>% 
+  select(county, All, 2:15, perc_not_secure_state, perc_not_secure_global) %>% 
+  pivot_longer(2:16, names_to = "taxonomic_group", values_to = "n") %>% 
+  drop_na() %>% 
+  mutate(n = as.integer(n))
+
+#%>% 
   #pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_secure")
 ```
 
