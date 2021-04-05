@@ -32,7 +32,7 @@ server <- function(input, output) {
     
     plot = counties_taxonomic %>% 
       filter(taxonomic_group == input$tax_group) %>% 
-      ggplot(aes(x = n, y = perc_secure, col = level)) + 
+      ggplot(aes(x = n, y = perc_secure, col = level, name = county)) + 
         geom_point(alpha = 0.6, size = 1) +
         theme_minimal() +
         labs (
