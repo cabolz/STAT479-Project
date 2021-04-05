@@ -1,0 +1,741 @@
+county,group_secure,perc_not_secure_state,perc_not_secure_global
+Albany,Amphibians,9.090909090909092,0
+Albany,"Bees, Wasps, and Ants",100,33.33333333333333
+Albany,Birds,17.218543046357617,0
+Albany,Butterflies and Moths,91.30434782608695,6.451612903225806
+Albany,Conifers,100,0
+Albany,Dragonflies and Damselflies,100,14.285714285714285
+Albany,Ferns and Fern Allies,100,0
+Albany,Fish,100,75
+Albany,Flowering Plants,97.32142857142857,4.464285714285714
+Albany,Mammals,100,50
+Albany,Mosses,100,0
+Albany,Mussels and Clams,100,0
+Albany,Reptiles,43.47826086956522,8.695652173913043
+Allegany,Amphibians,16,0
+Allegany,Beetles,100,100
+Allegany,Birds,15.333333333333332,0
+Allegany,Butterflies and Moths,100,50
+Allegany,Dragonflies and Damselflies,100,0
+Allegany,Ferns and Fern Allies,100,0
+Allegany,Fish,100,0
+Allegany,Flowering Plants,87.5,0
+Allegany,Mammals,100,66.66666666666666
+Allegany,Mussels and Clams,100,100
+Allegany,Reptiles,33.33333333333333,6.666666666666667
+Bronx,Amphibians,11.11111111111111,0
+Bronx,"Bees, Wasps, and Ants",100,0
+Bronx,Beetles,100,100
+Bronx,Birds,20.87912087912088,1.0204081632653061
+Bronx,Butterflies and Moths,100,0
+Bronx,Dragonflies and Damselflies,100,0
+Bronx,Ferns and Fern Allies,100,0
+Bronx,Fish,100,50
+Bronx,Flowering Plants,99.29577464788733,2.127659574468085
+Bronx,Mammals,100,66.66666666666666
+Bronx,Reptiles,20,0
+Broome,Amphibians,10.526315789473683,0
+Broome,Birds,14.093959731543624,0
+Broome,Butterflies and Moths,100,0
+Broome,Dragonflies and Damselflies,100,8.333333333333332
+Broome,Ferns and Fern Allies,100,0
+Broome,Fish,100,25
+Broome,Flowering Plants,92.85714285714286,0
+Broome,Mammals,100,66.66666666666666
+Broome,Mussels and Clams,100,66.66666666666666
+Broome,Reptiles,30.76923076923077,7.6923076923076925
+Cattaraugus,Amphibians,16.666666666666664,0
+Cattaraugus,"Bees, Wasps, and Ants",100,0
+Cattaraugus,Beetles,100,100
+Cattaraugus,Birds,14.000000000000002,0
+Cattaraugus,Butterflies and Moths,100,66.66666666666666
+Cattaraugus,Dragonflies and Damselflies,100,0
+Cattaraugus,Ferns and Fern Allies,100,0
+Cattaraugus,Fish,100,5.555555555555555
+Cattaraugus,Flowering Plants,95.77464788732394,0
+Cattaraugus,Mammals,100,75
+Cattaraugus,Mussels and Clams,100,12.5
+Cattaraugus,Reptiles,43.75,6.25
+Cayuga,Amphibians,5.263157894736842,0
+Cayuga,Birds,21.686746987951807,0
+Cayuga,Butterflies and Moths,NA,0
+Cayuga,Ferns and Fern Allies,100,0
+Cayuga,Fish,100,27.27272727272727
+Cayuga,Flowering Plants,96.7741935483871,2.1505376344086025
+Cayuga,Mammals,100,75
+Cayuga,Mosses,100,0
+Cayuga,Mussels and Clams,100,50
+Cayuga,Reptiles,33.33333333333333,6.666666666666667
+Chautauqua,Amphibians,4.761904761904762,0
+Chautauqua,Birds,14.838709677419354,0
+Chautauqua,Butterflies and Moths,100,100
+Chautauqua,Dragonflies and Damselflies,100,0
+Chautauqua,Ferns and Fern Allies,100,0
+Chautauqua,Fish,100,9.090909090909092
+Chautauqua,Flowering Plants,96.29629629629629,1.8867924528301887
+Chautauqua,Mammals,100,50
+Chautauqua,Mussels and Clams,100,16.666666666666664
+Chautauqua,Reptiles,37.5,6.25
+Chemung,Amphibians,5.88235294117647,0
+Chemung,Birds,16.33986928104575,0
+Chemung,Conifers,100,0
+Chemung,Dragonflies and Damselflies,100,0
+Chemung,Ferns and Fern Allies,100,0
+Chemung,Fish,100,25
+Chemung,Flowering Plants,95.3125,1.5625
+Chemung,Mammals,100,66.66666666666666
+Chemung,Mussels and Clams,100,66.66666666666666
+Chemung,Reptiles,35.714285714285715,7.142857142857142
+Chenango,Amphibians,10.526315789473683,0
+Chenango,Birds,15.333333333333332,0
+Chenango,Butterflies and Moths,NA,0
+Chenango,Conifers,100,0
+Chenango,Dragonflies and Damselflies,100,0
+Chenango,Ferns and Fern Allies,100,0
+Chenango,Fish,100,33.33333333333333
+Chenango,Flowering Plants,96.42857142857143,3.571428571428571
+Chenango,Mammals,100,66.66666666666666
+Chenango,Mussels and Clams,100,66.66666666666666
+Chenango,Reptiles,23.076923076923077,7.6923076923076925
+Clinton,Amphibians,5,0
+Clinton,Beetles,100,0
+Clinton,Birds,27.11864406779661,0
+Clinton,Butterflies and Moths,90,0
+Clinton,Conifers,100,0
+Clinton,Dragonflies and Damselflies,100,0
+Clinton,Ferns and Fern Allies,100,0
+Clinton,Fish,100,9.090909090909092
+Clinton,Flowering Plants,94.66666666666667,1.3333333333333335
+Clinton,Mammals,100,50
+Clinton,Mosses,100,0
+Clinton,Mussels and Clams,100,0
+Clinton,Reptiles,30.76923076923077,7.6923076923076925
+Clinton,Snails,100,0
+Columbia,Amphibians,5.263157894736842,0
+Columbia,Birds,13.194444444444445,0
+Columbia,Butterflies and Moths,75,25
+Columbia,Dragonflies and Damselflies,100,0
+Columbia,Ferns and Fern Allies,100,0
+Columbia,Fish,100,100
+Columbia,Flowering Plants,96.47058823529412,4.819277108433735
+Columbia,Mammals,100,80
+Columbia,Mosses,100,0
+Columbia,Mussels and Clams,100,0
+Columbia,Reptiles,35,9.523809523809524
+Cortland,Amphibians,0,0
+Cortland,Birds,12.413793103448276,0
+Cortland,Dragonflies and Damselflies,100,0
+Cortland,Ferns and Fern Allies,100,0
+Cortland,Fish,100,20
+Cortland,Flowering Plants,97.36842105263158,2.631578947368421
+Cortland,Mammals,100,66.66666666666666
+Cortland,Mussels and Clams,100,66.66666666666666
+Cortland,Reptiles,10,10
+Delaware,Amphibians,9.523809523809524,0
+Delaware,Birds,15.436241610738255,0
+Delaware,Butterflies and Moths,100,50
+Delaware,Dragonflies and Damselflies,100,12.5
+Delaware,Ferns and Fern Allies,100,0
+Delaware,Fish,100,25
+Delaware,Flowering Plants,94.11764705882352,3.0303030303030303
+Delaware,Mammals,100,66.66666666666666
+Delaware,Mussels and Clams,100,50
+Delaware,Reptiles,21.428571428571427,6.666666666666667
+Dutchess,Amphibians,18.181818181818183,0
+Dutchess,Birds,15.789473684210526,0
+Dutchess,Butterflies and Moths,80,0
+Dutchess,Conifers,100,0
+Dutchess,Dragonflies and Damselflies,100,0
+Dutchess,Ferns and Fern Allies,100,0
+Dutchess,Fish,100,50
+Dutchess,Flowering Plants,97.70992366412213,4.580152671755725
+Dutchess,Mammals,100,66.66666666666666
+Dutchess,Mosses,100,11.11111111111111
+Dutchess,Mussels and Clams,100,40
+Dutchess,Reptiles,48,7.6923076923076925
+Erie,Amphibians,4.545454545454546,0
+Erie,Beetles,100,100
+Erie,Birds,21.604938271604937,0
+Erie,Butterflies and Moths,100,25
+Erie,Crustaceans,100,0
+Erie,Dragonflies and Damselflies,100,0
+Erie,Ferns and Fern Allies,100,0
+Erie,Fish,100,0
+Erie,Flowering Plants,97.65625,0.78125
+Erie,Mammals,100,50
+Erie,Mussels and Clams,100,0
+Erie,Reptiles,35.294117647058826,5.555555555555555
+Erie,Snails,100,0
+Essex,Amphibians,5.263157894736842,0
+Essex,"Bees, Wasps, and Ants",100,0
+Essex,Beetles,100,50
+Essex,Birds,27.86885245901639,0
+Essex,Butterflies and Moths,100,25
+Essex,Conifers,100,0
+Essex,Dragonflies and Damselflies,100,5
+Essex,Ferns and Fern Allies,100,7.6923076923076925
+Essex,Fish,100,9.090909090909092
+Essex,Flowering Plants,96.15384615384616,2.307692307692308
+Essex,Mammals,100,66.66666666666666
+Essex,Mussels and Clams,100,0
+Essex,Reptiles,29.411764705882355,5.88235294117647
+Franklin,Amphibians,0,0
+Franklin,"Bees, Wasps, and Ants",100,0
+Franklin,Beetles,100,NA
+Franklin,Birds,27.976190476190478,0
+Franklin,Butterflies and Moths,75,0
+Franklin,Dragonflies and Damselflies,100,0
+Franklin,Ferns and Fern Allies,100,0
+Franklin,Fish,100,10
+Franklin,Flowering Plants,95.34883720930233,0
+Franklin,Mammals,100,66.66666666666666
+Franklin,Mussels and Clams,100,0
+Franklin,Reptiles,30.76923076923077,7.6923076923076925
+Fulton,Amphibians,0,0
+Fulton,Birds,13.245033112582782,0
+Fulton,Ferns and Fern Allies,100,0
+Fulton,Fish,100,50
+Fulton,Flowering Plants,95.23809523809523,4.761904761904762
+Fulton,Mammals,100,66.66666666666666
+Fulton,Reptiles,15.384615384615385,7.6923076923076925
+Genesee,Amphibians,5.88235294117647,0
+Genesee,Birds,21.875,0
+Genesee,Butterflies and Moths,100,33.33333333333333
+Genesee,Conifers,100,0
+Genesee,Crustaceans,100,0
+Genesee,Dragonflies and Damselflies,100,0
+Genesee,Ferns and Fern Allies,100,0
+Genesee,Fish,100,0
+Genesee,Flowering Plants,96.3855421686747,2.4096385542168677
+Genesee,Mammals,100,66.66666666666666
+Genesee,Mussels and Clams,100,0
+Genesee,Reptiles,41.17647058823529,17.647058823529413
+Greene,Amphibians,5,0
+Greene,Beetles,100,100
+Greene,Birds,17.105263157894736,0
+Greene,Butterflies and Moths,50,50
+Greene,Dragonflies and Damselflies,100,0
+Greene,Ferns and Fern Allies,100,11.11111111111111
+Greene,Fish,100,75
+Greene,Flowering Plants,96.61016949152543,3.389830508474576
+Greene,Mammals,100,75
+Greene,Mosses,100,0
+Greene,Reptiles,35.294117647058826,5.88235294117647
+Hamilton,Amphibians,0,0
+Hamilton,"Bees, Wasps, and Ants",100,0
+Hamilton,Beetles,100,100
+Hamilton,Birds,20.915032679738562,0
+Hamilton,Conifers,100,0
+Hamilton,Dragonflies and Damselflies,100,0
+Hamilton,Ferns and Fern Allies,100,33.33333333333333
+Hamilton,Fish,100,25
+Hamilton,Flowering Plants,94.11764705882352,0
+Hamilton,Mammals,100,50
+Hamilton,Mosses,100,0
+Hamilton,Reptiles,18.181818181818183,9.090909090909092
+Herkimer,Amphibians,0,0
+Herkimer,Birds,22.61904761904762,0
+Herkimer,Dragonflies and Damselflies,100,25
+Herkimer,Ferns and Fern Allies,100,20
+Herkimer,Fish,100,16.666666666666664
+Herkimer,Flowering Plants,95.45454545454545,1.5151515151515151
+Herkimer,Mammals,100,66.66666666666666
+Herkimer,Mosses,100,0
+Herkimer,Reptiles,8.333333333333332,8.333333333333332
+Jefferson,Amphibians,5,0
+Jefferson,"Bees, Wasps, and Ants",100,100
+Jefferson,Beetles,100,0
+Jefferson,Birds,25,0.5434782608695652
+Jefferson,Butterflies and Moths,100,0
+Jefferson,Dragonflies and Damselflies,100,0
+Jefferson,Ferns and Fern Allies,100,0
+Jefferson,Fish,100,14.285714285714285
+Jefferson,Flowering Plants,96.22641509433963,1.8867924528301887
+Jefferson,Mammals,100,60
+Jefferson,Mayflies,100,100
+Jefferson,Mosses,100,0
+Jefferson,Mussels and Clams,100,0
+Jefferson,Reptiles,29.411764705882355,5.88235294117647
+Kings,Amphibians,14.285714285714285,0
+Kings,"Bees, Wasps, and Ants",100,0
+Kings,Beetles,100,33.33333333333333
+Kings,Birds,31.46067415730337,1.0416666666666665
+Kings,Butterflies and Moths,100,0
+Kings,Dragonflies and Damselflies,100,0
+Kings,Ferns and Fern Allies,100,0
+Kings,Fish,100,0
+Kings,Flowering Plants,98.79518072289156,3.6585365853658534
+Kings,Mammals,100,66.66666666666666
+Kings,Reptiles,33.33333333333333,0
+Lewis,Amphibians,5.263157894736842,0
+Lewis,Birds,23.952095808383234,0
+Lewis,Butterflies and Moths,100,0
+Lewis,Dragonflies and Damselflies,100,0
+Lewis,Ferns and Fern Allies,100,0
+Lewis,Fish,100,0
+Lewis,Flowering Plants,95.3125,4.6875
+Lewis,Mammals,100,66.66666666666666
+Lewis,Mayflies,100,100
+Lewis,Mosses,100,50
+Lewis,Mussels and Clams,100,0
+Lewis,Reptiles,21.428571428571427,7.142857142857142
+Livingston,Amphibians,14.285714285714285,0
+Livingston,"Bees, Wasps, and Ants",100,0
+Livingston,Beetles,100,100
+Livingston,Birds,17.532467532467532,0
+Livingston,Butterflies and Moths,100,50
+Livingston,Conifers,100,0
+Livingston,Dragonflies and Damselflies,100,0
+Livingston,Ferns and Fern Allies,100,0
+Livingston,Fish,100,25
+Livingston,Flowering Plants,95.38461538461539,0
+Livingston,Mammals,100,50
+Livingston,Mussels and Clams,100,20
+Livingston,Reptiles,31.25,6.25
+Livingston,Snails,100,0
+Madison,Amphibians,0,0
+Madison,Birds,15.333333333333332,0
+Madison,Conifers,100,0
+Madison,Dragonflies and Damselflies,100,0
+Madison,Ferns and Fern Allies,100,25
+Madison,Fish,100,33.33333333333333
+Madison,Flowering Plants,95,3.3333333333333335
+Madison,Mammals,100,66.66666666666666
+Madison,Mosses,100,0
+Madison,Mussels and Clams,100,33.33333333333333
+Madison,Reptiles,20,10
+Madison,Snails,100,100
+Monroe,Amphibians,5,0
+Monroe,"Bees, Wasps, and Ants",100,0
+Monroe,Beetles,100,100
+Monroe,Birds,21.710526315789476,0
+Monroe,Butterflies and Moths,100,0
+Monroe,Conifers,100,0
+Monroe,Dragonflies and Damselflies,100,33.33333333333333
+Monroe,Ferns and Fern Allies,100,0
+Monroe,Fish,100,23.52941176470588
+Monroe,Flowering Plants,98.52941176470588,0.7352941176470588
+Monroe,Mammals,100,66.66666666666666
+Monroe,Mosses,100,0
+Monroe,Mussels and Clams,100,0
+Monroe,Reptiles,41.17647058823529,5.555555555555555
+Montgomery,Amphibians,0,0
+Montgomery,Birds,11.510791366906476,0
+Montgomery,Dragonflies and Damselflies,100,0
+Montgomery,Flowering Plants,85.71428571428571,14.285714285714285
+Montgomery,Mammals,100,50
+Montgomery,Reptiles,18.181818181818183,8.333333333333332
+Nassau,Amphibians,23.076923076923077,0
+Nassau,"Bees, Wasps, and Ants",100,0
+Nassau,Beetles,100,33.33333333333333
+Nassau,Birds,30.215827338129497,0.684931506849315
+Nassau,Butterflies and Moths,75,20
+Nassau,Conifers,100,0
+Nassau,Dragonflies and Damselflies,100,20
+Nassau,Ferns and Fern Allies,100,0
+Nassau,Fish,100,0
+Nassau,Flowering Plants,99.53703703703704,4.166666666666666
+Nassau,Mammals,100,66.66666666666666
+Nassau,Reptiles,35.714285714285715,0
+New York,Amphibians,0,0
+New York,"Bees, Wasps, and Ants",100,0
+New York,Birds,15.217391304347828,0
+New York,Butterflies and Moths,NA,0
+New York,Ferns and Fern Allies,100,0
+New York,Fish,100,40
+New York,Flowering Plants,100,2.4691358024691357
+New York,Mammals,100,66.66666666666666
+New York,Reptiles,33.33333333333333,0
+Niagara,Amphibians,5.263157894736842,0
+Niagara,Birds,23.333333333333332,0
+Niagara,Butterflies and Moths,100,0
+Niagara,Crustaceans,100,0
+Niagara,Dragonflies and Damselflies,100,0
+Niagara,Ferns and Fern Allies,100,0
+Niagara,Fish,100,15.789473684210526
+Niagara,Flowering Plants,97.5609756097561,1.2195121951219512
+Niagara,Mammals,100,66.66666666666666
+Niagara,Mussels and Clams,100,0
+Niagara,Reptiles,30.76923076923077,0
+Niagara,Snails,100,0
+Oneida,Amphibians,0,0
+Oneida,Beetles,100,NA
+Oneida,Birds,21.893491124260358,0
+Oneida,Butterflies and Moths,100,25
+Oneida,Conifers,100,0
+Oneida,Dragonflies and Damselflies,100,0
+Oneida,Ferns and Fern Allies,100,12.5
+Oneida,Fish,100,16.666666666666664
+Oneida,Flowering Plants,96.82539682539682,1.5873015873015872
+Oneida,Mammals,100,66.66666666666666
+Oneida,Reptiles,25,6.25
+Onondaga,Amphibians,0,0
+Onondaga,Birds,19.49685534591195,0
+Onondaga,Butterflies and Moths,100,0
+Onondaga,Conifers,100,0
+Onondaga,Dragonflies and Damselflies,100,0
+Onondaga,Ferns and Fern Allies,100,14.285714285714285
+Onondaga,Fish,100,12.5
+Onondaga,Flowering Plants,97.70992366412213,2.2900763358778624
+Onondaga,Mammals,100,60
+Onondaga,Mosses,100,0
+Onondaga,Mussels and Clams,100,0
+Onondaga,Reptiles,42.10526315789473,15.789473684210526
+Onondaga,Snails,100,0
+Ontario,Amphibians,9.523809523809524,0
+Ontario,Birds,16.55629139072848,0
+Ontario,Dragonflies and Damselflies,100,0
+Ontario,Ferns and Fern Allies,100,0
+Ontario,Fish,100,25
+Ontario,Flowering Plants,95.45454545454545,0
+Ontario,Mammals,100,50
+Ontario,Mussels and Clams,100,0
+Ontario,Reptiles,29.411764705882355,5.555555555555555
+Ontario,Snails,100,0
+Orange,Amphibians,16,0
+Orange,"Bees, Wasps, and Ants",100,0
+Orange,Birds,17.8343949044586,0
+Orange,Butterflies and Moths,77.77777777777779,10
+Orange,Conifers,100,0
+Orange,Dragonflies and Damselflies,100,7.4074074074074066
+Orange,Ferns and Fern Allies,100,0
+Orange,Fish,100,25
+Orange,Flowering Plants,98.62068965517241,2.797202797202797
+Orange,Mammals,100,42.857142857142854
+Orange,Mussels and Clams,100,50
+Orange,Reptiles,48,7.6923076923076925
+Orange,Snails,100,0
+Orleans,Amphibians,7.6923076923076925,0
+Orleans,Birds,21.98581560283688,0
+Orleans,Crustaceans,100,0
+Orleans,Dragonflies and Damselflies,100,0
+Orleans,Ferns and Fern Allies,100,0
+Orleans,Fish,100,21.428571428571427
+Orleans,Flowering Plants,84.21052631578947,11.11111111111111
+Orleans,Mammals,100,66.66666666666666
+Orleans,Mussels and Clams,100,0
+Orleans,Reptiles,25,8.333333333333332
+Oswego,Amphibians,4.761904761904762,0
+Oswego,"Bees, Wasps, and Ants",100,0
+Oswego,Beetles,100,0
+Oswego,Birds,21.764705882352942,0.5681818181818182
+Oswego,Butterflies and Moths,100,50
+Oswego,Dragonflies and Damselflies,100,0
+Oswego,Ferns and Fern Allies,100,0
+Oswego,Fish,100,16.666666666666664
+Oswego,Flowering Plants,95.71428571428572,4.285714285714286
+Oswego,Mammals,100,60
+Oswego,Mussels and Clams,100,0
+Oswego,Reptiles,31.25,11.76470588235294
+Oswego,Snails,100,0
+Otsego,Amphibians,5.263157894736842,0
+Otsego,Birds,16.55629139072848,0
+Otsego,Dragonflies and Damselflies,100,0
+Otsego,Fish,100,20
+Otsego,Flowering Plants,90.9090909090909,3.0303030303030303
+Otsego,Mammals,100,66.66666666666666
+Otsego,Mussels and Clams,100,66.66666666666666
+Otsego,Reptiles,25,15.384615384615385
+Putnam,Amphibians,10,0
+Putnam,Birds,10.077519379844961,0
+Putnam,Butterflies and Moths,66.66666666666666,0
+Putnam,Conifers,100,0
+Putnam,Dragonflies and Damselflies,100,0
+Putnam,Ferns and Fern Allies,100,0
+Putnam,Fish,100,42.857142857142854
+Putnam,Flowering Plants,96.92307692307692,3.076923076923077
+Putnam,Mammals,100,66.66666666666666
+Putnam,Reptiles,52.38095238095239,9.090909090909092
+Queens,Amphibians,16.666666666666664,0
+Queens,"Bees, Wasps, and Ants",100,0
+Queens,Beetles,100,0
+Queens,Birds,33.33333333333333,0.8771929824561403
+Queens,Butterflies and Moths,50,0
+Queens,Dragonflies and Damselflies,100,0
+Queens,Ferns and Fern Allies,100,0
+Queens,Fish,100,0
+Queens,Flowering Plants,99.3975903614458,3.614457831325301
+Queens,Mammals,100,66.66666666666666
+Queens,Reptiles,45.45454545454545,0
+Rensselaer,Amphibians,0,0
+Rensselaer,Birds,14.76510067114094,0
+Rensselaer,Butterflies and Moths,100,50
+Rensselaer,Dragonflies and Damselflies,100,0
+Rensselaer,Ferns and Fern Allies,100,0
+Rensselaer,Fish,100,100
+Rensselaer,Flowering Plants,97.02970297029702,0.9900990099009901
+Rensselaer,Mammals,100,75
+Rensselaer,Mosses,100,50
+Rensselaer,Mussels and Clams,100,0
+Rensselaer,Reptiles,36.84210526315789,10.526315789473683
+Richmond,Amphibians,16.666666666666664,0
+Richmond,"Bees, Wasps, and Ants",100,50
+Richmond,Beetles,100,100
+Richmond,Birds,27.11864406779661,0
+Richmond,Butterflies and Moths,100,25
+Richmond,Conifers,100,0
+Richmond,Dragonflies and Damselflies,100,0
+Richmond,Ferns and Fern Allies,100,0
+Richmond,Fish,100,25
+Richmond,Flowering Plants,99.48717948717949,2.5773195876288657
+Richmond,Mammals,100,60
+Richmond,Reptiles,35.714285714285715,0
+Rockland,Amphibians,17.391304347826086,0
+Rockland,Birds,13.333333333333334,0
+Rockland,Butterflies and Moths,0,0
+Rockland,Conifers,100,0
+Rockland,Dragonflies and Damselflies,100,0
+Rockland,Ferns and Fern Allies,100,0
+Rockland,Fish,100,27.27272727272727
+Rockland,Flowering Plants,97.27272727272728,4.545454545454546
+Rockland,Mammals,100,50
+Rockland,Mussels and Clams,100,50
+Rockland,Reptiles,47.82608695652174,8.333333333333332
+Saratoga,Amphibians,5,0
+Saratoga,"Bees, Wasps, and Ants",100,0
+Saratoga,Birds,17.419354838709676,0
+Saratoga,Butterflies and Moths,100,40
+Saratoga,Dragonflies and Damselflies,100,7.6923076923076925
+Saratoga,Ferns and Fern Allies,100,0
+Saratoga,Fish,100,50
+Saratoga,Flowering Plants,95.71428571428572,1.4285714285714286
+Saratoga,Mammals,100,66.66666666666666
+Saratoga,Mosses,100,0
+Saratoga,Mussels and Clams,100,0
+Saratoga,Reptiles,35,4.761904761904762
+Schenectady,Amphibians,0,0
+Schenectady,Birds,9.75609756097561,0
+Schenectady,Butterflies and Moths,100,0
+Schenectady,Dragonflies and Damselflies,100,0
+Schenectady,Fish,100,0
+Schenectady,Flowering Plants,95.65217391304348,1.4492753623188406
+Schenectady,Mammals,100,66.66666666666666
+Schenectady,Mosses,100,0
+Schenectady,Mussels and Clams,100,0
+Schenectady,Reptiles,30.76923076923077,7.142857142857142
+Schoharie,Amphibians,0,0
+Schoharie,Birds,15.333333333333332,0
+Schoharie,Dragonflies and Damselflies,100,0
+Schoharie,Ferns and Fern Allies,100,0
+Schoharie,Flowering Plants,89.47368421052632,0
+Schoharie,Mammals,100,60
+Schoharie,Mussels and Clams,100,0
+Schoharie,Reptiles,33.33333333333333,6.25
+Schuyler,Amphibians,5.263157894736842,0
+Schuyler,Birds,13.422818791946309,0
+Schuyler,Dragonflies and Damselflies,100,0
+Schuyler,Ferns and Fern Allies,100,0
+Schuyler,Fish,100,20
+Schuyler,Flowering Plants,92.85714285714286,0
+Schuyler,Mammals,100,66.66666666666666
+Schuyler,Mussels and Clams,100,100
+Schuyler,Reptiles,30.76923076923077,7.6923076923076925
+Seneca,Amphibians,5.555555555555555,0
+Seneca,Birds,21.62162162162162,0
+Seneca,Butterflies and Moths,NA,0
+Seneca,Ferns and Fern Allies,100,0
+Seneca,Fish,100,16.666666666666664
+Seneca,Flowering Plants,98.4375,0
+Seneca,Mammals,100,75
+Seneca,Reptiles,21.428571428571427,7.142857142857142
+St. Lawrence,Amphibians,5,0
+St. Lawrence,Birds,28.176795580110497,0
+St. Lawrence,Butterflies and Moths,100,50
+St. Lawrence,Conifers,100,0
+St. Lawrence,Dragonflies and Damselflies,100,8.333333333333332
+St. Lawrence,Ferns and Fern Allies,100,7.6923076923076925
+St. Lawrence,Fish,100,13.333333333333334
+St. Lawrence,Flowering Plants,95.4954954954955,0.9090909090909091
+St. Lawrence,Mammals,100,50
+St. Lawrence,Mosses,100,0
+St. Lawrence,Mussels and Clams,100,0
+St. Lawrence,Reptiles,25,6.25
+Steuben,Amphibians,15,0
+Steuben,Birds,14.18918918918919,0
+Steuben,Dragonflies and Damselflies,100,0
+Steuben,Fish,100,16.666666666666664
+Steuben,Flowering Plants,91.66666666666666,2.7777777777777777
+Steuben,Mammals,100,66.66666666666666
+Steuben,Mosses,100,0
+Steuben,Mussels and Clams,100,66.66666666666666
+Steuben,Reptiles,28.57142857142857,7.142857142857142
+Suffolk,Amphibians,27.77777777777778,0
+Suffolk,"Bees, Wasps, and Ants",100,50
+Suffolk,Beetles,100,50
+Suffolk,Birds,33.12883435582822,0.5780346820809248
+Suffolk,Butterflies and Moths,93.47826086956522,7.246376811594203
+Suffolk,Conifers,100,0
+Suffolk,Dragonflies and Damselflies,100,8.695652173913043
+Suffolk,Ferns and Fern Allies,100,0
+Suffolk,Fish,100,14.285714285714285
+Suffolk,Flowering Plants,99.35691318327974,4.823151125401929
+Suffolk,Mammals,100,75
+Suffolk,Reptiles,33.33333333333333,0
+Sullivan,Amphibians,13.043478260869565,0
+Sullivan,Beetles,100,100
+Sullivan,Birds,11.11111111111111,0
+Sullivan,Butterflies and Moths,100,0
+Sullivan,Dragonflies and Damselflies,100,7.6923076923076925
+Sullivan,Ferns and Fern Allies,100,0
+Sullivan,Fish,100,20
+Sullivan,Flowering Plants,94.73684210526315,2.7027027027027026
+Sullivan,Mammals,100,75
+Sullivan,Mussels and Clams,100,50
+Sullivan,Reptiles,35,9.523809523809524
+Tioga,Amphibians,5.555555555555555,0
+Tioga,Birds,12.142857142857142,0
+Tioga,Butterflies and Moths,100,100
+Tioga,Dragonflies and Damselflies,100,0
+Tioga,Ferns and Fern Allies,100,0
+Tioga,Fish,100,20
+Tioga,Flowering Plants,94,2
+Tioga,Mammals,100,66.66666666666666
+Tioga,Mussels and Clams,100,66.66666666666666
+Tioga,Reptiles,15.384615384615385,7.6923076923076925
+Tompkins,Amphibians,0,0
+Tompkins,"Bees, Wasps, and Ants",100,16.666666666666664
+Tompkins,Beetles,100,NA
+Tompkins,Birds,18.867924528301888,0
+Tompkins,Butterflies and Moths,33.33333333333333,33.33333333333333
+Tompkins,Dragonflies and Damselflies,100,0
+Tompkins,Ferns and Fern Allies,100,0
+Tompkins,Fish,100,16.666666666666664
+Tompkins,Flowering Plants,97.05882352941177,3
+Tompkins,Mammals,100,50
+Tompkins,Mosses,100,0
+Tompkins,Reptiles,26.666666666666668,13.333333333333334
+Tompkins,Snails,100,0
+Ulster,Amphibians,16,0
+Ulster,"Bees, Wasps, and Ants",100,0
+Ulster,Beetles,100,100
+Ulster,Birds,18.9873417721519,0
+Ulster,Butterflies and Moths,50,0
+Ulster,Dragonflies and Damselflies,100,0
+Ulster,Ferns and Fern Allies,100,0
+Ulster,Fish,100,33.33333333333333
+Ulster,Flowering Plants,96.99248120300751,3.787878787878788
+Ulster,Mammals,100,57.14285714285714
+Ulster,Mosses,100,12.5
+Ulster,Mussels and Clams,100,33.33333333333333
+Ulster,Reptiles,40.909090909090914,9.090909090909092
+Warren,Amphibians,0,0
+Warren,Beetles,100,100
+Warren,Birds,16.10738255033557,0
+Warren,Butterflies and Moths,100,33.33333333333333
+Warren,Conifers,100,0
+Warren,Dragonflies and Damselflies,100,14.285714285714285
+Warren,Ferns and Fern Allies,100,0
+Warren,Fish,100,20
+Warren,Flowering Plants,95.23809523809523,2.4096385542168677
+Warren,Mammals,100,66.66666666666666
+Warren,Mosses,100,0
+Warren,Reptiles,44.44444444444444,11.11111111111111
+Washington,Amphibians,0,0
+Washington,Birds,15.131578947368421,0
+Washington,Dragonflies and Damselflies,100,0
+Washington,Ferns and Fern Allies,100,0
+Washington,Fish,100,20
+Washington,Flowering Plants,97.77777777777777,3.3333333333333335
+Washington,Mammals,100,66.66666666666666
+Washington,Mosses,100,0
+Washington,Mussels and Clams,100,0
+Washington,Reptiles,38.88888888888889,5.555555555555555
+Wayne,Amphibians,5.263157894736842,0
+Wayne,Birds,19.863013698630137,0
+Wayne,Fish,100,28.57142857142857
+Wayne,Flowering Plants,95.45454545454545,4.545454545454546
+Wayne,Mammals,100,50
+Wayne,Mussels and Clams,100,0
+Wayne,Reptiles,40,6.666666666666667
+Westchester,Amphibians,11.76470588235294,0
+Westchester,Beetles,100,100
+Westchester,Birds,21.08843537414966,0
+Westchester,Butterflies and Moths,75,0
+Westchester,Conifers,100,0
+Westchester,Dragonflies and Damselflies,100,0
+Westchester,Ferns and Fern Allies,100,0
+Westchester,Fish,100,42.857142857142854
+Westchester,Flowering Plants,98.35164835164835,2.197802197802198
+Westchester,Mammals,100,75
+Westchester,Reptiles,52.17391304347826,8.333333333333332
+Wyoming,Amphibians,5,0
+Wyoming,Beetles,100,100
+Wyoming,Birds,15.333333333333332,0
+Wyoming,Dragonflies and Damselflies,100,0
+Wyoming,Ferns and Fern Allies,100,0
+Wyoming,Fish,100,0
+Wyoming,Flowering Plants,93.18181818181817,0
+Wyoming,Mammals,100,50
+Wyoming,Mosses,100,0
+Wyoming,Reptiles,30.76923076923077,7.6923076923076925
+Yates,Amphibians,5.263157894736842,0
+Yates,Beetles,100,NA
+Yates,Birds,11.194029850746269,0
+Yates,Butterflies and Moths,100,0
+Yates,Fish,100,0
+Yates,Flowering Plants,98.24561403508771,0
+Yates,Mammals,100,66.66666666666666
+Yates,Mosses,100,0
+Yates,Reptiles,23.076923076923077,0
+Albany,All,54.59610027855153,4.56989247311828
+Allegany,All,28.57142857142857,3.0434782608695654
+Bronx,All,67.8030303030303,3.308823529411765
+Broome,All,33.047210300429185,2.904564315352697
+Cattaraugus,All,48.064516129032256,3.1746031746031744
+Cayuga,All,48.3974358974359,3.1347962382445136
+Chautauqua,All,43.83561643835616,3.0100334448160537
+Chemung,All,40.909090909090914,2.6022304832713754
+Chenango,All,32.01754385964912,2.9787234042553195
+Clinton,All,49.532710280373834,1.5151515151515151
+Columbia,All,45.57823129251701,4.697986577181208
+Cortland,All,31.25,3.056768558951965
+Delaware,All,35.24590163934426,4
+Dutchess,All,56.87830687830689,4.6875
+Erie,All,57.8125,2.051282051282051
+Essex,All,59.168704156479215,3.132530120481928
+Franklin,All,45.51971326164875,1.4035087719298245
+Fulton,All,23.076923076923077,2.336448598130841
+Genesee,All,48.49498327759198,2.6143790849673203
+Greene,All,42.18181818181818,4.285714285714286
+Hamilton,All,41.796875,2.6923076923076925
+Herkimer,All,42.80701754385965,2.405498281786942
+Jefferson,All,53.86740331491713,2.956989247311828
+Kings,All,63.54679802955665,3.3175355450236967
+Lewis,All,44.79166666666667,2.7303754266211606
+Livingston,All,43.214285714285715,2.797202797202797
+Madison,All,39.922480620155035,3.4090909090909087
+Monroe,All,58.791208791208796,2.6881720430107525
+Montgomery,All,17.12707182320442,2.13903743315508
+Nassau,All,71.007371007371,3.5971223021582732
+New York,All,70.2127659574468,4
+Niagara,All,53.09446254071661,1.89873417721519
+Oneida,All,52.79329608938548,2.203856749311295
+Onondaga,All,54.7486033519553,3.0303030303030303
+Ontario,All,40.520446096654275,1.444043321299639
+Orange,All,60.14319809069213,4
+Orleans,All,36.492890995260666,3.7037037037037033
+Oswego,All,46.30225080385852,4.075235109717868
+Otsego,All,31.877729257641924,3.389830508474576
+Putnam,All,43.89312977099237,4.089219330855019
+Queens,All,71.24600638977637,2.786377708978328
+Rensselaer,All,48.734177215189874,3.4161490683229814
+Richmond,All,71.27371273712737,3.16622691292876
+Rockland,All,53.799392097264445,3.857566765578635
+Saratoga,All,45.302013422818796,2.6402640264026402
+Schenectady,All,39.48497854077253,1.6736401673640167
+Schoharie,All,25.471698113207548,1.8181818181818181
+Schuyler,All,30.396475770925107,2.1459227467811157
+Seneca,All,43.359375,1.8867924528301887
+St. Lawrence,All,56.54450261780105,2.3255813953488373
+Steuben,All,33.755274261603375,2.8925619834710745
+Suffolk,All,77.25040916530278,4.813664596273292
+Sullivan,All,36.82170542635659,4.545454545454546
+Tioga,All,35.294117647058826,3.292181069958848
+Tompkins,All,52.03488372093024,2.881844380403458
+Ulster,All,57.21518987341773,4.5
+Warren,All,47.50830564784053,3.9473684210526314
+Washington,All,48.38709677419355,2.2222222222222223
+Wayne,All,44.73684210526316,3.6764705882352944
+Westchester,All,64.47688564476886,3.0952380952380953
+Wyoming,All,34.97942386831276,2.0242914979757085
+Yates,All,36.206896551724135,0.8438818565400843

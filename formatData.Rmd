@@ -1,0 +1,183 @@
+---
+title: "Milestone 2"
+author: "Caitlin Bolz, Faith Kulzer, Samuel Peters, and Steven Xia"
+date: "3/7/2021"
+output: html_document
+---
+
+```{r, echo=FALSE, message=FALSE}
+library("readr")
+library("dplyr")
+library("tidyr")
+library("stringr")
+```
+
+```{r, message=FALSE}
+# Contains names of plants and animals, as well as endangerment status, in NY at the county level
+biodiversity = read_csv("./data/Biodiversity.csv")
+
+# Contains estimations for human populations and growth rate in each NY county
+countyPop = read_csv("./data/NYCounties.csv")
+
+# Contains estimated land mass of NY counties from 2010
+# Areas are in square miles
+countyArea = read_csv("./data/NYCountyArea.csv")
+```
+
+```{r, warning=FALSE}
+# Clean county population dataset
+countyPop = countyPop %>% 
+  extract(CTYNAME, into = "county", regex = "(.*)(?= County)") %>% 
+  rename(human_pop_county = pop2021, human_growth_rate = GrowthRate)
+
+# Clean county areas dataset
+countyArea = countyArea %>% 
+  select(BASENAME, AREALAND, AREAWATER) %>% 
+  rename(county = BASENAME,
+         land_area = AREALAND,
+         water_area = AREAWATER)
+
+# Change spaces into underscores and make lowercase for biodiversity column names
+names(biodiversity) = gsub(" ", "_", tolower(names(biodiversity)))
+
+# Clean the biodiversity dataset and join with other datasets
+biodiversity = biodiversity %>% 
+  # Remove unwanted columns
+  select(everything(), 
+         -ny_listing_status, 
+         -federal_listing_status, 
+         -distribution_status, 
+         -year_last_documented,
+         -scientific_name) %>% 
+  # Remove non-plant/animal entries as well as non-county entries
+  filter(category != "Natural Community", 
+         category != "not listed", 
+         taxonomic_group != "Animal Assemblages",
+         county %in% countyPop$county) %>% 
+  left_join(countyPop, by = "county") %>% 
+  left_join(countyArea, by = "county") %>% 
+  # Create pop/mi^2
+  mutate(pop_per_mi = human_pop_county / (land_area + water_area))
+```
+
+```{r, echo=FALSE}
+head(biodiversity)
+```
+
+```{r}
+biodiversity %>% group_by(category) %>% summarise(n = n_distinct(state_conservation_rank))
+biodiversity %>% summarise(n = n_distinct(global_conservation_rank))
+```
+
+```{r}
+# Derive human population densities for each county
+county <- full_join(countyArea, countyPop) %>%
+  mutate(total_area = land_area + water_area,
+         density = human_pop_county/total_area) %>%
+  select(county, total_area, human_pop_county, density)
+
+# Find number of species per county, join with dataset to to have pop density and number of species per county in one df
+county_data <- biodiversity %>%
+  group_by(county) %>%
+  summarise(n_species = n()) %>%
+  full_join(county, by="county")
+```
+
+```{r}
+# Derive number of species for each taxonomic group
+species_by_group <- biodiversity %>%
+  group_by(taxonomic_group) %>%
+  summarise(unique_species = unique(common_name)) %>%
+  group_by(taxonomic_group) %>%
+  summarise(n_species = n())
+```
+
+```{r}
+# Convert state and global status ranks into 'secure' 'not_secure' and 'NA'
+biodiversity_security <- biodiversity %>%
+  mutate(state_security = case_when(
+    state_conservation_rank %in% c("S3S4B") ~ "secure",
+    state_conservation_rank %in% c("SH", "SX", "S2S3B", "S2?B", "S3?B", "S2?", "S3?", "S1N", "S1?", "S3,SNRN", "SHB,S1N") ~ "not_secure",
+    state_conservation_rank %in% c("SNA", "SU", "SNRN") ~ "NA", 
+    str_detect(state_conservation_rank, "^S[123]B") | str_detect(state_conservation_rank, "^S[:digit:]S[123]") | str_detect(state_conservation_rank, "^S[123]$") ~ "not_secure",
+    str_detect(state_conservation_rank, "^S[45]B") | str_detect(state_conservation_rank, "^S[:digit:]S[45]") | str_detect(state_conservation_rank, "^S[45]$") ~ "secure"
+  ),
+  global_security = case_when(str_detect(global_conservation_rank, "^G[:digit:]G[45]") | str_detect(global_conservation_rank, "^G[45]T") | str_detect(global_conservation_rank, "^G[45]\\??$") | str_detect(global_conservation_rank, "^G[45]Q") | str_detect(global_conservation_rank, "^G[45]\\?T") ~ "secure",
+                              str_detect(global_conservation_rank, "^G[:digit:]G[123]") | str_detect(global_conservation_rank, "^G[123]T") | str_detect(global_conservation_rank, "^G[123HX]\\??$") | str_detect(global_conservation_rank, "^G[123]\\??Q") ~ "not_secure",
+                              global_conservation_rank %in% c("GU", "GNA", "GNR", "GUT1Q", "GNRTNR") ~ "NA"
+  )) 
+
+# Summarise by county and do math to get % not secure for each county
+county_security <- biodiversity_security %>%
+  group_by(county) %>%
+  summarise(state_secure = length(which(state_security == "secure")),
+            state_not_secure = length(which(state_security == "not_secure")), 
+            global_secure = length(which(global_security == "secure")),
+            global_not_secure = length(which(global_security == "not_secure")), 
+            total_state = state_not_secure + state_secure,
+            total_global = global_not_secure + global_secure,
+            perc_not_secure_state = state_not_secure/total_state * 100,
+            perc_not_secure_global = global_not_secure/total_global *100
+            )
+
+
+counties_derived <- full_join(county_data, county_security) %>%
+  select(-state_secure, -state_not_secure, -global_secure, -global_not_secure, -total_state, -total_global)
+```
+
+```{r}
+# Contains the number of each taxonomic group that occurs in each county
+# Also contains the security and population of the county
+counties_taxonomic = 
+  biodiversity %>% 
+  select(county, taxonomic_group) %>% 
+  count(county, taxonomic_group) %>% 
+  pivot_wider(names_from = taxonomic_group, values_from = n) %>% 
+  #replace(is.na(.), 0) %>% 
+  right_join(counties_derived, by = "county") %>%
+  rename(All = n_species) %>% 
+  select(county, All, 2:18, perc_not_secure_state, perc_not_secure_global) %>% 
+  pivot_longer(2:19, names_to = "taxonomic_group", values_to = "n") %>% 
+  drop_na() %>% 
+  pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_secure")
+```
+
+```{r}
+if (FALSE){
+# Summarise by county and do math to get % not secure for each county
+taxonomic_security <- biodiversity_security %>%
+  group_by(county, taxonomic_group) %>%
+  summarize(state_secure = length(which(state_security == "secure")),
+            state_not_secure = length(which(state_security == "not_secure")), 
+            global_secure = length(which(global_security == "secure")),
+            global_not_secure = length(which(global_security == "not_secure")), 
+            total_state = state_not_secure + state_secure,
+            total_global = global_not_secure + global_secure,
+            perc_not_secure_state = state_not_secure/total_state * 100,
+            perc_not_secure_global = global_not_secure/total_global *100
+  ) %>% 
+  select(county, taxonomic_group, perc_not_secure_state, perc_not_secure_global) %>% 
+  rename(group_secure = taxonomic_group)
+
+all_security = counties_derived %>% 
+  select(county, perc_not_secure_state, perc_not_secure_global) %>% 
+  mutate(group_secure = "All")
+
+taxonomic_security = rbind(taxonomic_security, all_security)
+
+taxonomic_security = counties_taxonomic %>% 
+  select(-perc_not_secure_state, -perc_not_secure_global) %>% 
+  left_join(taxonomic_security, by = "county")
+}
+```
+
+```{r message=FALSE, warning=FALSE}
+# write two main datasets to csv files
+write_csv(counties_derived, "./data/counties_derived.csv")
+
+write_csv(biodiversity, "./data/biodiversity_derived.csv")
+
+write_csv(counties_taxonomic, "./data/counties_taxonomic.csv")
+
+write_csv(taxonomic_security, "./data/taxonomic_security.csv")
+```
