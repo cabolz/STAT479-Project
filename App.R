@@ -40,7 +40,7 @@ server <- function(input, output) {
       filter(taxonomic_group == input$tax_group,
              group_secure == input$tax_group) %>% 
       ggplot(aes(x = n, y = perc_secure, col = level, name = county)) + 
-      geom_point(alpha = 0.6, size = 1) +
+      geom_jitter(alpha = 0.6, size = 1, width = 0.3) +
       theme_minimal() +
       labs (
         x = paste("Number of Species of", input$tax_group),
