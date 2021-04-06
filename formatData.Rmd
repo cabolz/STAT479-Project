@@ -16,7 +16,7 @@ library("stringr")
 # Contains names of plants and animals, as well as endangerment status, in NY at the county level
 #biodiversity = read_csv("./data/Biodiversity.csv")
 
-#https://data.ny.gov/Energy-Environment/Biodiversity-of-Rare-Threatened-or-Endangered-Anim/6x7f-k6wi
+#https://data.ny.gov/api/views/6x7f-k6wi/rows.csv?accessType=DOWNLOAD&sorting=true
 biodiversity = read_csv("./data/Biodiversity_Animals_Plants.csv")
 
 # Contains estimations for human populations and growth rate in each NY county
