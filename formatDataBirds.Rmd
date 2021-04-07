@@ -17,7 +17,10 @@ library("stringr")
 #biodiversity = read_csv("./data/Biodiversity.csv")
 
 #https://data.ny.gov/api/views/6x7f-k6wi/rows.csv?accessType=DOWNLOAD&sorting=true
-biodiversity = read_csv("./data/Biodiversity_Animals_Plants.csv")
+#biodiversity = read_csv("./data/Biodiversity_Animals_Plants.csv")
+
+#https://data.ny.gov/api/views/4asw-6tmc/rows.csv?accessType=DOWNLOAD&sorting=true
+biodiversity = read_csv("./data/Biodiversity_Birds.csv")
 
 # Contains estimations for human populations and growth rate in each NY county
 countyPop = read_csv("./data/NYCounties.csv")
@@ -140,13 +143,13 @@ counties_taxonomic =
   #replace(is.na(.), 0) %>% 
   right_join(counties_derived, by = "county") %>%
   rename(All = n_species) %>% 
-  select(county, All, 2:42, perc_not_secure_state, perc_not_secure_global) %>% 
-  pivot_longer(2:43, names_to = "taxonomic_subgroup", values_to = "n") %>% 
+  select(county, All, 2:40, perc_not_secure_state, perc_not_secure_global) %>% 
+  pivot_longer(2:41, names_to = "taxonomic_subgroup", values_to = "n") %>% 
   drop_na() %>% 
   mutate(n = as.integer(n))
 
 #%>% 
-  #pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_not_secure")
+  #pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_secure")
 ```
 
 ```{r}
@@ -192,6 +195,8 @@ write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 ```{r}
 # I followed this tutorial: https://www.r-bloggers.com/2017/10/county-level-choropleth-in-plotly-and-r/
 
+library("ggplot2")
+
 counties_nspecies = counties_derived %>% 
   select(county, n_species) %>% 
   mutate(county = tolower(county)) %>% 
@@ -205,4 +210,35 @@ ggplot(choropleth, aes(long, lat, group = subregion)) +
   geom_polygon(aes(fill = n_species), colour = alpha("grey", 1/2), size = 0.1)  +
   scale_fill_viridis_c() +
   theme_void()
+```
+
+```{r}
+ggplot(counties_derived, aes(x = human_pop_county, y = perc_not_secure_state)) + 
+    scale_x_log10() +
+    #geom_jitter(color = "#00BFC4", alpha = 0.6, size = 1, width = 0.3) +
+    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
+    theme_minimal() +
+    theme(legend.position = "none")
+
+ggplot(counties_derived, aes(x = human_pop_county, y = n_species)) + 
+    scale_x_log10() +
+    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
+    theme_minimal() +
+    theme(legend.position = "none")
+
+ggplot(counties_derived, aes(x = density, y = n_species)) + 
+    scale_x_log10() +
+    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
+    theme_minimal() +
+    theme(legend.position = "none")
+
+ggplot(counties_derived, aes(x = total_area, y = n_species)) + 
+    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
+    theme_minimal() +
+    theme(legend.position = "none")
+
+ggplot(counties_derived, aes(x = n_species, y = perc_not_secure_state)) + 
+    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
+    theme_minimal() +
+    theme(legend.position = "none")
 ```

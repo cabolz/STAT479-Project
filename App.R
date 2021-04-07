@@ -6,7 +6,9 @@ library("plotly")
 
 # Load in datasets
 #counties_taxonomic = read_csv("./data/counties_taxonomic.csv")
-taxonomic_security = read_csv("./data/taxonomic_security.csv")
+taxonomic_security = read_csv("./data/taxonomic_security.csv") %>% 
+  arrange(desc(n)) %>% 
+  mutate_at(vars(taxonomic_subgroup), list(~factor(., levels=unique(.))))
 
 taxonomic_subgroups = taxonomic_security %>% distinct(taxonomic_subgroup)
 
@@ -34,7 +36,7 @@ server <- function(input, output) {
       filter(taxonomic_subgroup == input$tax_subgroup,
              subgroup_secure == input$tax_subgroup,
              level == "perc_not_secure_state") %>% 
-      ggplot(aes(x = n, y = perc_secure, name = county)) + 
+      ggplot(aes(x = n, y = perc_not_secure, name = county)) + 
       geom_jitter(col = "#F8766D", alpha = 0.6, size = 1, width = 0.3) +
       theme_minimal() +
       theme(legend.position = "none") +
@@ -59,7 +61,7 @@ server <- function(input, output) {
       filter(taxonomic_subgroup == input$tax_subgroup,
              subgroup_secure == input$tax_subgroup,
              level == "perc_not_secure_global") %>% 
-      ggplot(aes(x = n, y = perc_secure, name = county)) + 
+      ggplot(aes(x = n, y = perc_not_secure, name = county)) + 
       geom_jitter(color = "#00BFC4", alpha = 0.6, size = 1, width = 0.3) +
       theme_minimal() +
       theme(legend.position = "none") +
