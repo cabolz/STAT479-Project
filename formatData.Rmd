@@ -187,3 +187,21 @@ write_csv(counties_taxonomic, "./data/counties_taxonomic.csv")
 
 write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 ```
+
+```{r}
+# I followed this tutorial: https://www.r-bloggers.com/2017/10/county-level-choropleth-in-plotly-and-r/
+
+counties_nspecies = counties_derived %>% 
+  select(county, n_species) %>% 
+  mutate(county = tolower(county)) %>% 
+  rename(subregion = county)
+
+choropleth = map_data("county") %>% 
+  filter(region == "new york") %>% 
+  inner_join(counties_nspecies, by = "subregion")
+
+ggplot(choropleth, aes(long, lat, group = subregion)) +
+  geom_polygon(aes(fill = n_species), colour = alpha("grey", 1/2), size = 0.1)  +
+  scale_fill_viridis_c() +
+  theme_void()
+```
