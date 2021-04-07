@@ -8,7 +8,7 @@ library("plotly")
 #counties_taxonomic = read_csv("./data/counties_taxonomic.csv")
 taxonomic_security = read_csv("./data/taxonomic_security.csv")
 
-taxonomic_groups = taxonomic_security %>% distinct(taxonomic_group)
+taxonomic_subgroups = taxonomic_security %>% distinct(taxonomic_subgroup)
 
 # Put two plots side-by-side with the inputs on the bottom
 ui <- fluidPage(
@@ -19,9 +19,9 @@ ui <- fluidPage(
     plotlyOutput(outputId = "globalSecurePlot")
   ),
   
-  selectInput(inputId = "tax_group",
-              label = "Taxonomic Group",
-              choices = taxonomic_groups
+  selectInput(inputId = "tax_subgroup",
+              label = "Taxonomic SubGroup",
+              choices = taxonomic_subgroups
   )
 )
 
@@ -31,8 +31,8 @@ server <- function(input, output) {
   output$stateSecurePlot <- renderPlotly({
     
     plot = taxonomic_security %>% 
-      filter(taxonomic_group == input$tax_group,
-             group_secure == input$tax_group,
+      filter(taxonomic_subgroup == input$tax_subgroup,
+             subgroup_secure == input$tax_subgroup,
              level == "perc_not_secure_state") %>% 
       ggplot(aes(x = n, y = perc_secure, name = county)) + 
       geom_jitter(col = "#F8766D", alpha = 0.6, size = 1, width = 0.3) +
@@ -40,8 +40,8 @@ server <- function(input, output) {
       theme(legend.position = "none") +
       labs (
         title = "Not Secure State",
-        x = paste("Number of Species of", input$tax_group),
-        y = paste("% Not Secure of ", input$tax_group)
+        x = paste("Number of Species of", input$tax_subgroup),
+        y = paste("% Not Secure of ", input$tax_subgroup)
       ) +
       scale_color_manual(values = c("#F8766D"), labels = c("State"))
     
@@ -52,12 +52,12 @@ server <- function(input, output) {
              yaxis=list(fixedrange=TRUE))
   })
   
-  # Create the scatterplot of number of species vs. percent not secure state
+  # Create the scatterplot of number of species vs. percent not secure global
   output$globalSecurePlot <- renderPlotly({
     
     plot = taxonomic_security %>% 
-      filter(taxonomic_group == input$tax_group,
-             group_secure == input$tax_group,
+      filter(taxonomic_subgroup == input$tax_subgroup,
+             subgroup_secure == input$tax_subgroup,
              level == "perc_not_secure_global") %>% 
       ggplot(aes(x = n, y = perc_secure, name = county)) + 
       geom_jitter(color = "#00BFC4", alpha = 0.6, size = 1, width = 0.3) +
@@ -65,8 +65,8 @@ server <- function(input, output) {
       theme(legend.position = "none") +
       labs (
         title = "Not Secure Global",
-        x = paste("Number of Species of", input$tax_group),
-        y = paste("% Not Secure of ", input$tax_group)
+        x = paste("Number of Species of", input$tax_subgroup),
+        y = paste("% Not Secure of ", input$tax_subgroup)
       ) +
       scale_color_manual(values = c("#00BFC4"), labels = c("Global"))
     

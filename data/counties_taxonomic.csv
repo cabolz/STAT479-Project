@@ -1,486 +1,1186 @@
-county,perc_not_secure_state,perc_not_secure_global,taxonomic_group,n
+county,perc_not_secure_state,perc_not_secure_global,taxonomic_subgroup,n
 Albany,100,8.130081300813007,All,123
-Albany,100,8.130081300813007,Amphibians,1
-Albany,100,8.130081300813007,Birds,9
-Albany,100,8.130081300813007,Butterflies and Moths,3
+Albany,100,8.130081300813007,"Asters, Goldenrods and Daisies",6
+Albany,100,8.130081300813007,Bats,2
+Albany,100,8.130081300813007,Butterflies and Skippers,3
 Albany,100,8.130081300813007,Conifers,1
-Albany,100,8.130081300813007,Ferns and Fern Allies,2
-Albany,100,8.130081300813007,Fish,2
-Albany,100,8.130081300813007,Flowering Plants,100
-Albany,100,8.130081300813007,Mammals,3
-Albany,100,8.130081300813007,Reptiles,2
+Albany,100,8.130081300813007,Ferns,2
+Albany,100,8.130081300813007,Grasses,7
+Albany,100,8.130081300813007,Grebes,1
+Albany,100,8.130081300813007,"Gulls, Terns, Plovers, Shorebirds",1
+Albany,100,8.130081300813007,"Hawks, Falcons, Eagles, Vultures",3
+Albany,100,8.130081300813007,"Herons, Bitterns, Egrets, Pelicans",1
+Albany,100,8.130081300813007,Orchids,8
+Albany,100,8.130081300813007,Other Flowering Plants,55
+Albany,100,8.130081300813007,"Rails, Coots and Cranes",1
+Albany,100,8.130081300813007,Rodents,1
+Albany,100,8.130081300813007,Salamanders,1
+Albany,100,8.130081300813007,Sedges,24
+Albany,100,8.130081300813007,Snakes,1
+Albany,100,8.130081300813007,Sparrows and Towhees,1
+Albany,100,8.130081300813007,Sturgeons and Paddlefish,2
+Albany,100,8.130081300813007,Turtles,1
+Albany,100,8.130081300813007,Wrens,1
 Allegany,100,7.6923076923076925,All,26
-Allegany,100,7.6923076923076925,Birds,8
-Allegany,100,7.6923076923076925,Ferns and Fern Allies,1
-Allegany,100,7.6923076923076925,Fish,1
-Allegany,100,7.6923076923076925,Flowering Plants,12
-Allegany,100,7.6923076923076925,Mammals,1
-Allegany,100,7.6923076923076925,Reptiles,2
-Allegany,100,7.6923076923076925,Mussels and Clams,1
+Allegany,100,7.6923076923076925,Bats,1
+Allegany,100,7.6923076923076925,Ferns,1
+Allegany,100,7.6923076923076925,Grebes,1
+Allegany,100,7.6923076923076925,"Gulls, Terns, Plovers, Shorebirds",1
+Allegany,100,7.6923076923076925,"Hawks, Falcons, Eagles, Vultures",3
+Allegany,100,7.6923076923076925,"Herons, Bitterns, Egrets, Pelicans",1
+Allegany,100,7.6923076923076925,Other Flowering Plants,10
+Allegany,100,7.6923076923076925,Sedges,2
+Allegany,100,7.6923076923076925,Snakes,2
+Allegany,100,7.6923076923076925,Sparrows and Towhees,1
+Allegany,100,7.6923076923076925,Darters and Sunfishes,1
+Allegany,100,7.6923076923076925,Freshwater Mussels,1
+Allegany,100,7.6923076923076925,Owls,1
 Bronx,100,5.839416058394161,All,139
-Bronx,100,5.839416058394161,Birds,3
-Bronx,100,5.839416058394161,Ferns and Fern Allies,3
-Bronx,100,5.839416058394161,Fish,2
-Bronx,100,5.839416058394161,Flowering Plants,129
-Bronx,100,5.839416058394161,Mammals,1
-Bronx,100,5.839416058394161,Beetles,1
+Bronx,100,5.839416058394161,"Asters, Goldenrods and Daisies",8
+Bronx,100,5.839416058394161,Bats,1
+Bronx,100,5.839416058394161,Ferns,2
+Bronx,100,5.839416058394161,Grasses,9
+Bronx,100,5.839416058394161,"Gulls, Terns, Plovers, Shorebirds",1
+Bronx,100,5.839416058394161,"Hawks, Falcons, Eagles, Vultures",2
+Bronx,100,5.839416058394161,Orchids,5
+Bronx,100,5.839416058394161,Other Flowering Plants,73
+Bronx,100,5.839416058394161,Sedges,29
+Bronx,100,5.839416058394161,Sturgeons and Paddlefish,2
+Bronx,100,5.839416058394161,Carrion Beetles,1
+Bronx,100,5.839416058394161,Quillworts,1
+Bronx,100,5.839416058394161,Rushes,5
 Broome,100,8.333333333333332,All,36
-Broome,100,8.333333333333332,Birds,7
-Broome,100,8.333333333333332,Ferns and Fern Allies,1
-Broome,100,8.333333333333332,Fish,1
-Broome,100,8.333333333333332,Flowering Plants,23
-Broome,100,8.333333333333332,Mammals,1
-Broome,100,8.333333333333332,Reptiles,1
-Broome,100,8.333333333333332,Mussels and Clams,2
+Broome,100,8.333333333333332,"Asters, Goldenrods and Daisies",1
+Broome,100,8.333333333333332,Bats,1
+Broome,100,8.333333333333332,Ferns,1
+Broome,100,8.333333333333332,Grasses,1
+Broome,100,8.333333333333332,Grebes,1
+Broome,100,8.333333333333332,"Gulls, Terns, Plovers, Shorebirds",1
+Broome,100,8.333333333333332,"Hawks, Falcons, Eagles, Vultures",3
+Broome,100,8.333333333333332,"Herons, Bitterns, Egrets, Pelicans",1
+Broome,100,8.333333333333332,Orchids,2
+Broome,100,8.333333333333332,Other Flowering Plants,19
+Broome,100,8.333333333333332,Snakes,1
+Broome,100,8.333333333333332,Sparrows and Towhees,1
+Broome,100,8.333333333333332,Freshwater Mussels,2
+Broome,100,8.333333333333332,"Minnows, Shiners, Suckers",1
 Cattaraugus,100,4.938271604938271,All,82
-Cattaraugus,100,4.938271604938271,Birds,6
-Cattaraugus,100,4.938271604938271,Butterflies and Moths,1
-Cattaraugus,100,4.938271604938271,Ferns and Fern Allies,5
-Cattaraugus,100,4.938271604938271,Fish,5
-Cattaraugus,100,4.938271604938271,Flowering Plants,60
-Cattaraugus,100,4.938271604938271,Mammals,1
-Cattaraugus,100,4.938271604938271,Reptiles,2
-Cattaraugus,100,4.938271604938271,Mussels and Clams,2
+Cattaraugus,100,4.938271604938271,"Asters, Goldenrods and Daisies",9
+Cattaraugus,100,4.938271604938271,Bats,1
+Cattaraugus,100,4.938271604938271,Butterflies and Skippers,1
+Cattaraugus,100,4.938271604938271,Ferns,5
+Cattaraugus,100,4.938271604938271,Grasses,2
+Cattaraugus,100,4.938271604938271,Grebes,1
+Cattaraugus,100,4.938271604938271,"Gulls, Terns, Plovers, Shorebirds",1
+Cattaraugus,100,4.938271604938271,"Hawks, Falcons, Eagles, Vultures",2
+Cattaraugus,100,4.938271604938271,"Herons, Bitterns, Egrets, Pelicans",1
+Cattaraugus,100,4.938271604938271,Orchids,3
+Cattaraugus,100,4.938271604938271,Other Flowering Plants,34
+Cattaraugus,100,4.938271604938271,Sedges,11
+Cattaraugus,100,4.938271604938271,Snakes,2
+Cattaraugus,100,4.938271604938271,Sparrows and Towhees,1
+Cattaraugus,100,4.938271604938271,Darters and Sunfishes,4
+Cattaraugus,100,4.938271604938271,Freshwater Mussels,2
+Cattaraugus,100,4.938271604938271,Rushes,1
+Cattaraugus,100,4.938271604938271,"Minnows, Shiners, Suckers",1
 Cayuga,100,4.9504950495049505,All,101
-Cayuga,100,4.9504950495049505,Birds,10
-Cayuga,100,4.9504950495049505,Ferns and Fern Allies,1
-Cayuga,100,4.9504950495049505,Fish,3
-Cayuga,100,4.9504950495049505,Flowering Plants,83
-Cayuga,100,4.9504950495049505,Mammals,2
-Cayuga,100,4.9504950495049505,Reptiles,1
-Cayuga,100,4.9504950495049505,Mussels and Clams,1
+Cayuga,100,4.9504950495049505,"Asters, Goldenrods and Daisies",5
+Cayuga,100,4.9504950495049505,Bats,2
+Cayuga,100,4.9504950495049505,Ferns,1
+Cayuga,100,4.9504950495049505,Grasses,4
+Cayuga,100,4.9504950495049505,Grebes,1
+Cayuga,100,4.9504950495049505,"Gulls, Terns, Plovers, Shorebirds",2
+Cayuga,100,4.9504950495049505,"Hawks, Falcons, Eagles, Vultures",2
+Cayuga,100,4.9504950495049505,"Herons, Bitterns, Egrets, Pelicans",1
+Cayuga,100,4.9504950495049505,Orchids,5
+Cayuga,100,4.9504950495049505,Other Flowering Plants,47
+Cayuga,100,4.9504950495049505,"Rails, Coots and Cranes",1
+Cayuga,100,4.9504950495049505,Sedges,22
+Cayuga,100,4.9504950495049505,Sparrows and Towhees,1
+Cayuga,100,4.9504950495049505,Sturgeons and Paddlefish,1
+Cayuga,100,4.9504950495049505,Turtles,1
+Cayuga,100,4.9504950495049505,Wrens,1
+Cayuga,100,4.9504950495049505,Freshwater Mussels,1
+Cayuga,100,4.9504950495049505,Owls,1
+Cayuga,100,4.9504950495049505,"Minnows, Shiners, Suckers",1
+Cayuga,100,4.9504950495049505,Sculpins,1
 Chautauqua,100,8.333333333333332,All,73
-Chautauqua,100,8.333333333333332,Birds,8
-Chautauqua,100,8.333333333333332,Ferns and Fern Allies,4
-Chautauqua,100,8.333333333333332,Fish,6
-Chautauqua,100,8.333333333333332,Flowering Plants,49
-Chautauqua,100,8.333333333333332,Mammals,1
-Chautauqua,100,8.333333333333332,Reptiles,2
-Chautauqua,100,8.333333333333332,Mussels and Clams,3
+Chautauqua,100,8.333333333333332,"Asters, Goldenrods and Daisies",3
+Chautauqua,100,8.333333333333332,Bats,1
+Chautauqua,100,8.333333333333332,Ferns,4
+Chautauqua,100,8.333333333333332,Grasses,1
+Chautauqua,100,8.333333333333332,Grebes,1
+Chautauqua,100,8.333333333333332,"Gulls, Terns, Plovers, Shorebirds",1
+Chautauqua,100,8.333333333333332,"Hawks, Falcons, Eagles, Vultures",2
+Chautauqua,100,8.333333333333332,"Herons, Bitterns, Egrets, Pelicans",1
+Chautauqua,100,8.333333333333332,Orchids,5
+Chautauqua,100,8.333333333333332,Other Flowering Plants,32
+Chautauqua,100,8.333333333333332,Sedges,8
+Chautauqua,100,8.333333333333332,Snakes,1
+Chautauqua,100,8.333333333333332,Sparrows and Towhees,1
+Chautauqua,100,8.333333333333332,Turtles,1
+Chautauqua,100,8.333333333333332,Wrens,1
+Chautauqua,100,8.333333333333332,Darters and Sunfishes,3
+Chautauqua,100,8.333333333333332,Freshwater Mussels,3
+Chautauqua,100,8.333333333333332,Owls,1
+Chautauqua,100,8.333333333333332,"Minnows, Shiners, Suckers",1
+Chautauqua,100,8.333333333333332,Sculpins,1
+Chautauqua,100,8.333333333333332,Mooneyes,1
 Chemung,100,5.797101449275362,All,69
-Chemung,100,5.797101449275362,Birds,7
+Chemung,100,5.797101449275362,"Asters, Goldenrods and Daisies",7
+Chemung,100,5.797101449275362,Bats,1
 Chemung,100,5.797101449275362,Conifers,1
-Chemung,100,5.797101449275362,Ferns and Fern Allies,1
-Chemung,100,5.797101449275362,Flowering Plants,56
-Chemung,100,5.797101449275362,Mammals,1
-Chemung,100,5.797101449275362,Reptiles,1
-Chemung,100,5.797101449275362,Mussels and Clams,2
+Chemung,100,5.797101449275362,Ferns,1
+Chemung,100,5.797101449275362,Grasses,4
+Chemung,100,5.797101449275362,Grebes,1
+Chemung,100,5.797101449275362,"Gulls, Terns, Plovers, Shorebirds",1
+Chemung,100,5.797101449275362,"Hawks, Falcons, Eagles, Vultures",2
+Chemung,100,5.797101449275362,"Herons, Bitterns, Egrets, Pelicans",1
+Chemung,100,5.797101449275362,Orchids,4
+Chemung,100,5.797101449275362,Other Flowering Plants,33
+Chemung,100,5.797101449275362,Sedges,8
+Chemung,100,5.797101449275362,Snakes,1
+Chemung,100,5.797101449275362,Sparrows and Towhees,1
+Chemung,100,5.797101449275362,Freshwater Mussels,2
+Chemung,100,5.797101449275362,Owls,1
 Chenango,100,11.11111111111111,All,36
-Chenango,100,11.11111111111111,Birds,6
+Chenango,100,11.11111111111111,"Asters, Goldenrods and Daisies",2
+Chenango,100,11.11111111111111,Bats,1
 Chenango,100,11.11111111111111,Conifers,1
-Chenango,100,11.11111111111111,Ferns and Fern Allies,2
-Chenango,100,11.11111111111111,Flowering Plants,24
-Chenango,100,11.11111111111111,Mammals,1
-Chenango,100,11.11111111111111,Mussels and Clams,2
+Chenango,100,11.11111111111111,Ferns,2
+Chenango,100,11.11111111111111,Grebes,1
+Chenango,100,11.11111111111111,"Hawks, Falcons, Eagles, Vultures",2
+Chenango,100,11.11111111111111,"Herons, Bitterns, Egrets, Pelicans",1
+Chenango,100,11.11111111111111,Orchids,2
+Chenango,100,11.11111111111111,Other Flowering Plants,19
+Chenango,100,11.11111111111111,Sedges,1
+Chenango,100,11.11111111111111,Sparrows and Towhees,1
+Chenango,100,11.11111111111111,Wrens,1
+Chenango,100,11.11111111111111,Freshwater Mussels,2
 Clinton,98.86363636363636,2.2988505747126435,All,88
-Clinton,98.86363636363636,2.2988505747126435,Birds,12
-Clinton,98.86363636363636,2.2988505747126435,Butterflies and Moths,1
+Clinton,98.86363636363636,2.2988505747126435,"Asters, Goldenrods and Daisies",6
+Clinton,98.86363636363636,2.2988505747126435,Bats,1
 Clinton,98.86363636363636,2.2988505747126435,Conifers,1
-Clinton,98.86363636363636,2.2988505747126435,Ferns and Fern Allies,3
-Clinton,98.86363636363636,2.2988505747126435,Fish,2
-Clinton,98.86363636363636,2.2988505747126435,Flowering Plants,67
-Clinton,98.86363636363636,2.2988505747126435,Mammals,1
-Clinton,98.86363636363636,2.2988505747126435,Reptiles,1
+Clinton,98.86363636363636,2.2988505747126435,Grasses,3
+Clinton,98.86363636363636,2.2988505747126435,Grebes,1
+Clinton,98.86363636363636,2.2988505747126435,"Gulls, Terns, Plovers, Shorebirds",2
+Clinton,98.86363636363636,2.2988505747126435,"Hawks, Falcons, Eagles, Vultures",3
+Clinton,98.86363636363636,2.2988505747126435,"Herons, Bitterns, Egrets, Pelicans",1
+Clinton,98.86363636363636,2.2988505747126435,Orchids,3
+Clinton,98.86363636363636,2.2988505747126435,Other Flowering Plants,38
+Clinton,98.86363636363636,2.2988505747126435,"Rails, Coots and Cranes",1
+Clinton,98.86363636363636,2.2988505747126435,Sedges,17
+Clinton,98.86363636363636,2.2988505747126435,Snakes,1
+Clinton,98.86363636363636,2.2988505747126435,Sturgeons and Paddlefish,1
+Clinton,98.86363636363636,2.2988505747126435,Wrens,1
+Clinton,98.86363636363636,2.2988505747126435,Owls,1
+Clinton,98.86363636363636,2.2988505747126435,Quillworts,1
+Clinton,98.86363636363636,2.2988505747126435,"Grouse, Pheasants, Turkeys",1
+Clinton,98.86363636363636,2.2988505747126435,Horsetails,2
+Clinton,98.86363636363636,2.2988505747126435,Moths,1
+Clinton,98.86363636363636,2.2988505747126435,Salmon and Trout,1
+Clinton,98.86363636363636,2.2988505747126435,Shrikes,1
 Columbia,100,7.865168539325842,All,91
-Columbia,100,7.865168539325842,Birds,6
-Columbia,100,7.865168539325842,Ferns and Fern Allies,4
-Columbia,100,7.865168539325842,Fish,2
-Columbia,100,7.865168539325842,Flowering Plants,75
-Columbia,100,7.865168539325842,Mammals,2
-Columbia,100,7.865168539325842,Reptiles,2
+Columbia,100,7.865168539325842,"Asters, Goldenrods and Daisies",5
+Columbia,100,7.865168539325842,Bats,2
+Columbia,100,7.865168539325842,Ferns,2
+Columbia,100,7.865168539325842,Grasses,3
+Columbia,100,7.865168539325842,Grebes,1
+Columbia,100,7.865168539325842,"Gulls, Terns, Plovers, Shorebirds",1
+Columbia,100,7.865168539325842,"Hawks, Falcons, Eagles, Vultures",3
+Columbia,100,7.865168539325842,"Herons, Bitterns, Egrets, Pelicans",1
+Columbia,100,7.865168539325842,Orchids,3
+Columbia,100,7.865168539325842,Other Flowering Plants,43
+Columbia,100,7.865168539325842,Sedges,21
+Columbia,100,7.865168539325842,Snakes,1
+Columbia,100,7.865168539325842,Sturgeons and Paddlefish,2
+Columbia,100,7.865168539325842,Turtles,1
+Columbia,100,7.865168539325842,Quillworts,2
 Cortland,100,9.75609756097561,All,41
-Cortland,100,9.75609756097561,Birds,6
-Cortland,100,9.75609756097561,Ferns and Fern Allies,2
-Cortland,100,9.75609756097561,Flowering Plants,30
-Cortland,100,9.75609756097561,Mammals,1
-Cortland,100,9.75609756097561,Mussels and Clams,2
+Cortland,100,9.75609756097561,"Asters, Goldenrods and Daisies",2
+Cortland,100,9.75609756097561,Bats,1
+Cortland,100,9.75609756097561,Ferns,1
+Cortland,100,9.75609756097561,Grasses,1
+Cortland,100,9.75609756097561,Grebes,1
+Cortland,100,9.75609756097561,"Gulls, Terns, Plovers, Shorebirds",1
+Cortland,100,9.75609756097561,"Hawks, Falcons, Eagles, Vultures",2
+Cortland,100,9.75609756097561,"Herons, Bitterns, Egrets, Pelicans",1
+Cortland,100,9.75609756097561,Orchids,5
+Cortland,100,9.75609756097561,Other Flowering Plants,18
+Cortland,100,9.75609756097561,Sedges,4
+Cortland,100,9.75609756097561,Sparrows and Towhees,1
+Cortland,100,9.75609756097561,Freshwater Mussels,2
+Cortland,100,9.75609756097561,Clubmosses,1
 Delaware,100,11.904761904761903,All,43
-Delaware,100,11.904761904761903,Birds,5
-Delaware,100,11.904761904761903,Ferns and Fern Allies,3
-Delaware,100,11.904761904761903,Flowering Plants,30
-Delaware,100,11.904761904761903,Mammals,1
-Delaware,100,11.904761904761903,Reptiles,1
-Delaware,100,11.904761904761903,Mussels and Clams,3
+Delaware,100,11.904761904761903,"Asters, Goldenrods and Daisies",2
+Delaware,100,11.904761904761903,Bats,1
+Delaware,100,11.904761904761903,Ferns,1
+Delaware,100,11.904761904761903,Grasses,1
+Delaware,100,11.904761904761903,Grebes,1
+Delaware,100,11.904761904761903,"Hawks, Falcons, Eagles, Vultures",2
+Delaware,100,11.904761904761903,Orchids,3
+Delaware,100,11.904761904761903,Other Flowering Plants,22
+Delaware,100,11.904761904761903,Snakes,1
+Delaware,100,11.904761904761903,Sparrows and Towhees,1
+Delaware,100,11.904761904761903,Freshwater Mussels,3
+Delaware,100,11.904761904761903,Owls,1
+Delaware,100,11.904761904761903,Rushes,2
+Delaware,100,11.904761904761903,Horsetails,1
+Delaware,100,11.904761904761903,Clubmosses,1
 Dutchess,99.33333333333333,7.38255033557047,All,150
-Dutchess,99.33333333333333,7.38255033557047,Amphibians,1
-Dutchess,99.33333333333333,7.38255033557047,Birds,9
+Dutchess,99.33333333333333,7.38255033557047,"Asters, Goldenrods and Daisies",8
+Dutchess,99.33333333333333,7.38255033557047,Bats,2
 Dutchess,99.33333333333333,7.38255033557047,Conifers,1
-Dutchess,99.33333333333333,7.38255033557047,Ferns and Fern Allies,8
-Dutchess,99.33333333333333,7.38255033557047,Fish,2
-Dutchess,99.33333333333333,7.38255033557047,Flowering Plants,121
-Dutchess,99.33333333333333,7.38255033557047,Mammals,2
-Dutchess,99.33333333333333,7.38255033557047,Reptiles,4
-Dutchess,99.33333333333333,7.38255033557047,Mussels and Clams,2
+Dutchess,99.33333333333333,7.38255033557047,Ferns,4
+Dutchess,99.33333333333333,7.38255033557047,Grasses,5
+Dutchess,99.33333333333333,7.38255033557047,Grebes,1
+Dutchess,99.33333333333333,7.38255033557047,"Gulls, Terns, Plovers, Shorebirds",1
+Dutchess,99.33333333333333,7.38255033557047,"Hawks, Falcons, Eagles, Vultures",4
+Dutchess,99.33333333333333,7.38255033557047,"Herons, Bitterns, Egrets, Pelicans",1
+Dutchess,99.33333333333333,7.38255033557047,Orchids,4
+Dutchess,99.33333333333333,7.38255033557047,Other Flowering Plants,75
+Dutchess,99.33333333333333,7.38255033557047,"Rails, Coots and Cranes",1
+Dutchess,99.33333333333333,7.38255033557047,Sedges,28
+Dutchess,99.33333333333333,7.38255033557047,Snakes,1
+Dutchess,99.33333333333333,7.38255033557047,Sturgeons and Paddlefish,2
+Dutchess,99.33333333333333,7.38255033557047,Turtles,2
+Dutchess,99.33333333333333,7.38255033557047,Wrens,1
+Dutchess,99.33333333333333,7.38255033557047,Freshwater Mussels,2
+Dutchess,99.33333333333333,7.38255033557047,Quillworts,2
+Dutchess,99.33333333333333,7.38255033557047,Rushes,1
+Dutchess,99.33333333333333,7.38255033557047,Horsetails,2
+Dutchess,99.33333333333333,7.38255033557047,Frogs and Toads,1
+Dutchess,99.33333333333333,7.38255033557047,Lizards,1
 Erie,100,2.797202797202797,All,143
-Erie,100,2.797202797202797,Birds,11
-Erie,100,2.797202797202797,Butterflies and Moths,3
-Erie,100,2.797202797202797,Ferns and Fern Allies,4
-Erie,100,2.797202797202797,Fish,7
-Erie,100,2.797202797202797,Flowering Plants,114
-Erie,100,2.797202797202797,Mammals,1
-Erie,100,2.797202797202797,Reptiles,2
-Erie,100,2.797202797202797,Beetles,1
+Erie,100,2.797202797202797,"Asters, Goldenrods and Daisies",8
+Erie,100,2.797202797202797,Bats,1
+Erie,100,2.797202797202797,Butterflies and Skippers,3
+Erie,100,2.797202797202797,Ferns,2
+Erie,100,2.797202797202797,Grasses,4
+Erie,100,2.797202797202797,Grebes,1
+Erie,100,2.797202797202797,"Gulls, Terns, Plovers, Shorebirds",3
+Erie,100,2.797202797202797,"Hawks, Falcons, Eagles, Vultures",3
+Erie,100,2.797202797202797,"Herons, Bitterns, Egrets, Pelicans",1
+Erie,100,2.797202797202797,Orchids,7
+Erie,100,2.797202797202797,Other Flowering Plants,73
+Erie,100,2.797202797202797,Sedges,21
+Erie,100,2.797202797202797,Snakes,1
+Erie,100,2.797202797202797,Sparrows and Towhees,1
+Erie,100,2.797202797202797,Sturgeons and Paddlefish,1
+Erie,100,2.797202797202797,Turtles,1
+Erie,100,2.797202797202797,Wrens,1
+Erie,100,2.797202797202797,Darters and Sunfishes,2
+Erie,100,2.797202797202797,Owls,1
+Erie,100,2.797202797202797,Carrion Beetles,1
+Erie,100,2.797202797202797,Quillworts,1
+Erie,100,2.797202797202797,Rushes,1
+Erie,100,2.797202797202797,"Minnows, Shiners, Suckers",2
+Erie,100,2.797202797202797,Sculpins,1
+Erie,100,2.797202797202797,Mooneyes,1
+Erie,100,2.797202797202797,Horsetails,1
 Essex,98.7012987012987,3.9215686274509802,All,154
-Essex,98.7012987012987,3.9215686274509802,Birds,11
+Essex,98.7012987012987,3.9215686274509802,"Asters, Goldenrods and Daisies",10
+Essex,98.7012987012987,3.9215686274509802,Bats,2
 Essex,98.7012987012987,3.9215686274509802,Conifers,1
-Essex,98.7012987012987,3.9215686274509802,Ferns and Fern Allies,14
-Essex,98.7012987012987,3.9215686274509802,Fish,4
-Essex,98.7012987012987,3.9215686274509802,Flowering Plants,121
-Essex,98.7012987012987,3.9215686274509802,Mammals,2
-Essex,98.7012987012987,3.9215686274509802,Reptiles,1
+Essex,98.7012987012987,3.9215686274509802,Ferns,6
+Essex,98.7012987012987,3.9215686274509802,Grasses,10
+Essex,98.7012987012987,3.9215686274509802,Grebes,1
+Essex,98.7012987012987,3.9215686274509802,"Gulls, Terns, Plovers, Shorebirds",2
+Essex,98.7012987012987,3.9215686274509802,"Hawks, Falcons, Eagles, Vultures",4
+Essex,98.7012987012987,3.9215686274509802,"Herons, Bitterns, Egrets, Pelicans",1
+Essex,98.7012987012987,3.9215686274509802,Orchids,5
+Essex,98.7012987012987,3.9215686274509802,Other Flowering Plants,66
+Essex,98.7012987012987,3.9215686274509802,Sedges,27
+Essex,98.7012987012987,3.9215686274509802,Snakes,1
+Essex,98.7012987012987,3.9215686274509802,Sturgeons and Paddlefish,1
+Essex,98.7012987012987,3.9215686274509802,Wrens,1
+Essex,98.7012987012987,3.9215686274509802,Darters and Sunfishes,1
+Essex,98.7012987012987,3.9215686274509802,Owls,1
+Essex,98.7012987012987,3.9215686274509802,Quillworts,2
+Essex,98.7012987012987,3.9215686274509802,Rushes,3
+Essex,98.7012987012987,3.9215686274509802,Mooneyes,1
+Essex,98.7012987012987,3.9215686274509802,"Grouse, Pheasants, Turkeys",1
+Essex,98.7012987012987,3.9215686274509802,Horsetails,1
+Essex,98.7012987012987,3.9215686274509802,Salmon and Trout,1
+Essex,98.7012987012987,3.9215686274509802,Clubmosses,5
 Franklin,98.33333333333333,1.6666666666666667,All,60
-Franklin,98.33333333333333,1.6666666666666667,Birds,12
-Franklin,98.33333333333333,1.6666666666666667,Ferns and Fern Allies,3
-Franklin,98.33333333333333,1.6666666666666667,Fish,3
-Franklin,98.33333333333333,1.6666666666666667,Flowering Plants,40
-Franklin,98.33333333333333,1.6666666666666667,Mammals,1
-Franklin,98.33333333333333,1.6666666666666667,Reptiles,1
+Franklin,98.33333333333333,1.6666666666666667,"Asters, Goldenrods and Daisies",4
+Franklin,98.33333333333333,1.6666666666666667,Bats,1
+Franklin,98.33333333333333,1.6666666666666667,Ferns,1
+Franklin,98.33333333333333,1.6666666666666667,Grasses,4
+Franklin,98.33333333333333,1.6666666666666667,Grebes,1
+Franklin,98.33333333333333,1.6666666666666667,"Gulls, Terns, Plovers, Shorebirds",2
+Franklin,98.33333333333333,1.6666666666666667,"Hawks, Falcons, Eagles, Vultures",4
+Franklin,98.33333333333333,1.6666666666666667,"Herons, Bitterns, Egrets, Pelicans",1
+Franklin,98.33333333333333,1.6666666666666667,Orchids,1
+Franklin,98.33333333333333,1.6666666666666667,Other Flowering Plants,20
+Franklin,98.33333333333333,1.6666666666666667,Sedges,11
+Franklin,98.33333333333333,1.6666666666666667,Sturgeons and Paddlefish,1
+Franklin,98.33333333333333,1.6666666666666667,Turtles,1
+Franklin,98.33333333333333,1.6666666666666667,Wrens,1
+Franklin,98.33333333333333,1.6666666666666667,Darters and Sunfishes,1
+Franklin,98.33333333333333,1.6666666666666667,Owls,1
+Franklin,98.33333333333333,1.6666666666666667,"Grouse, Pheasants, Turkeys",1
+Franklin,98.33333333333333,1.6666666666666667,Salmon and Trout,1
+Franklin,98.33333333333333,1.6666666666666667,Shrikes,1
+Franklin,98.33333333333333,1.6666666666666667,Clubmosses,2
 Fulton,100,8,All,25
-Fulton,100,8,Birds,7
-Fulton,100,8,Fish,1
-Fulton,100,8,Flowering Plants,16
-Fulton,100,8,Mammals,1
+Fulton,100,8,Bats,1
+Fulton,100,8,Grebes,1
+Fulton,100,8,"Gulls, Terns, Plovers, Shorebirds",1
+Fulton,100,8,"Hawks, Falcons, Eagles, Vultures",2
+Fulton,100,8,"Herons, Bitterns, Egrets, Pelicans",1
+Fulton,100,8,Orchids,3
+Fulton,100,8,Other Flowering Plants,7
+Fulton,100,8,Sedges,6
+Fulton,100,8,Sparrows and Towhees,1
+Fulton,100,8,Wrens,1
+Fulton,100,8,Salmon and Trout,1
 Genesee,100,6.0606060606060606,All,99
-Genesee,100,6.0606060606060606,Birds,10
-Genesee,100,6.0606060606060606,Butterflies and Moths,3
+Genesee,100,6.0606060606060606,"Asters, Goldenrods and Daisies",6
+Genesee,100,6.0606060606060606,Bats,1
+Genesee,100,6.0606060606060606,Butterflies and Skippers,3
 Genesee,100,6.0606060606060606,Conifers,1
-Genesee,100,6.0606060606060606,Ferns and Fern Allies,3
-Genesee,100,6.0606060606060606,Flowering Plants,77
-Genesee,100,6.0606060606060606,Mammals,1
-Genesee,100,6.0606060606060606,Reptiles,3
-Genesee,100,6.0606060606060606,Mussels and Clams,1
+Genesee,100,6.0606060606060606,Ferns,3
+Genesee,100,6.0606060606060606,Grasses,2
+Genesee,100,6.0606060606060606,Grebes,1
+Genesee,100,6.0606060606060606,"Gulls, Terns, Plovers, Shorebirds",2
+Genesee,100,6.0606060606060606,"Hawks, Falcons, Eagles, Vultures",2
+Genesee,100,6.0606060606060606,"Herons, Bitterns, Egrets, Pelicans",1
+Genesee,100,6.0606060606060606,Orchids,7
+Genesee,100,6.0606060606060606,Other Flowering Plants,45
+Genesee,100,6.0606060606060606,"Rails, Coots and Cranes",1
+Genesee,100,6.0606060606060606,Sedges,17
+Genesee,100,6.0606060606060606,Snakes,2
+Genesee,100,6.0606060606060606,Sparrows and Towhees,1
+Genesee,100,6.0606060606060606,Turtles,1
+Genesee,100,6.0606060606060606,Wrens,1
+Genesee,100,6.0606060606060606,Freshwater Mussels,1
+Genesee,100,6.0606060606060606,Owls,1
 Greene,100,6.8493150684931505,All,74
-Greene,100,6.8493150684931505,Birds,8
-Greene,100,6.8493150684931505,Ferns and Fern Allies,10
-Greene,100,6.8493150684931505,Fish,2
-Greene,100,6.8493150684931505,Flowering Plants,52
-Greene,100,6.8493150684931505,Mammals,1
-Greene,100,6.8493150684931505,Reptiles,1
+Greene,100,6.8493150684931505,"Asters, Goldenrods and Daisies",4
+Greene,100,6.8493150684931505,Bats,1
+Greene,100,6.8493150684931505,Ferns,6
+Greene,100,6.8493150684931505,Grasses,1
+Greene,100,6.8493150684931505,Grebes,1
+Greene,100,6.8493150684931505,"Gulls, Terns, Plovers, Shorebirds",1
+Greene,100,6.8493150684931505,"Hawks, Falcons, Eagles, Vultures",3
+Greene,100,6.8493150684931505,"Herons, Bitterns, Egrets, Pelicans",1
+Greene,100,6.8493150684931505,Orchids,2
+Greene,100,6.8493150684931505,Other Flowering Plants,29
+Greene,100,6.8493150684931505,"Rails, Coots and Cranes",1
+Greene,100,6.8493150684931505,Sedges,15
+Greene,100,6.8493150684931505,Snakes,1
+Greene,100,6.8493150684931505,Sturgeons and Paddlefish,2
+Greene,100,6.8493150684931505,Owls,1
+Greene,100,6.8493150684931505,Quillworts,2
+Greene,100,6.8493150684931505,Rushes,1
+Greene,100,6.8493150684931505,Clubmosses,2
 Hamilton,98.30508474576271,3.389830508474576,All,59
-Hamilton,98.30508474576271,3.389830508474576,Birds,7
+Hamilton,98.30508474576271,3.389830508474576,"Asters, Goldenrods and Daisies",3
+Hamilton,98.30508474576271,3.389830508474576,Bats,1
 Hamilton,98.30508474576271,3.389830508474576,Conifers,1
-Hamilton,98.30508474576271,3.389830508474576,Ferns and Fern Allies,3
-Hamilton,98.30508474576271,3.389830508474576,Fish,1
-Hamilton,98.30508474576271,3.389830508474576,Flowering Plants,45
-Hamilton,98.30508474576271,3.389830508474576,Mammals,1
-Hamilton,98.30508474576271,3.389830508474576,Reptiles,1
+Hamilton,98.30508474576271,3.389830508474576,Ferns,3
+Hamilton,98.30508474576271,3.389830508474576,Grasses,3
+Hamilton,98.30508474576271,3.389830508474576,Grebes,1
+Hamilton,98.30508474576271,3.389830508474576,"Hawks, Falcons, Eagles, Vultures",4
+Hamilton,98.30508474576271,3.389830508474576,"Herons, Bitterns, Egrets, Pelicans",1
+Hamilton,98.30508474576271,3.389830508474576,Orchids,3
+Hamilton,98.30508474576271,3.389830508474576,Other Flowering Plants,24
+Hamilton,98.30508474576271,3.389830508474576,Sedges,12
+Hamilton,98.30508474576271,3.389830508474576,Turtles,1
+Hamilton,98.30508474576271,3.389830508474576,"Grouse, Pheasants, Turkeys",1
+Hamilton,98.30508474576271,3.389830508474576,Salmon and Trout,1
 Herkimer,98.66666666666667,4,All,75
-Herkimer,98.66666666666667,4,Birds,10
-Herkimer,98.66666666666667,4,Ferns and Fern Allies,5
-Herkimer,98.66666666666667,4,Fish,1
-Herkimer,98.66666666666667,4,Flowering Plants,58
-Herkimer,98.66666666666667,4,Mammals,1
+Herkimer,98.66666666666667,4,"Asters, Goldenrods and Daisies",5
+Herkimer,98.66666666666667,4,Bats,1
+Herkimer,98.66666666666667,4,Ferns,3
+Herkimer,98.66666666666667,4,Grasses,3
+Herkimer,98.66666666666667,4,Grebes,1
+Herkimer,98.66666666666667,4,"Gulls, Terns, Plovers, Shorebirds",1
+Herkimer,98.66666666666667,4,"Hawks, Falcons, Eagles, Vultures",4
+Herkimer,98.66666666666667,4,"Herons, Bitterns, Egrets, Pelicans",1
+Herkimer,98.66666666666667,4,Orchids,3
+Herkimer,98.66666666666667,4,Other Flowering Plants,31
+Herkimer,98.66666666666667,4,Sedges,15
+Herkimer,98.66666666666667,4,Sparrows and Towhees,1
+Herkimer,98.66666666666667,4,Wrens,1
+Herkimer,98.66666666666667,4,Owls,1
+Herkimer,98.66666666666667,4,Quillworts,1
+Herkimer,98.66666666666667,4,Rushes,1
+Herkimer,98.66666666666667,4,Horsetails,1
+Herkimer,98.66666666666667,4,Salmon and Trout,1
 Jefferson,99.12280701754386,6.140350877192982,All,114
-Jefferson,99.12280701754386,6.140350877192982,Birds,13
-Jefferson,99.12280701754386,6.140350877192982,Butterflies and Moths,1
-Jefferson,99.12280701754386,6.140350877192982,Ferns and Fern Allies,2
-Jefferson,99.12280701754386,6.140350877192982,Fish,3
-Jefferson,99.12280701754386,6.140350877192982,Flowering Plants,91
-Jefferson,99.12280701754386,6.140350877192982,Mammals,2
-Jefferson,99.12280701754386,6.140350877192982,Reptiles,1
+Jefferson,99.12280701754386,6.140350877192982,"Asters, Goldenrods and Daisies",5
+Jefferson,99.12280701754386,6.140350877192982,Bats,2
+Jefferson,99.12280701754386,6.140350877192982,Butterflies and Skippers,1
+Jefferson,99.12280701754386,6.140350877192982,Ferns,1
+Jefferson,99.12280701754386,6.140350877192982,Grasses,6
+Jefferson,99.12280701754386,6.140350877192982,Grebes,1
+Jefferson,99.12280701754386,6.140350877192982,"Gulls, Terns, Plovers, Shorebirds",4
+Jefferson,99.12280701754386,6.140350877192982,"Hawks, Falcons, Eagles, Vultures",3
+Jefferson,99.12280701754386,6.140350877192982,"Herons, Bitterns, Egrets, Pelicans",1
+Jefferson,99.12280701754386,6.140350877192982,Orchids,6
+Jefferson,99.12280701754386,6.140350877192982,Other Flowering Plants,49
+Jefferson,99.12280701754386,6.140350877192982,Sedges,24
+Jefferson,99.12280701754386,6.140350877192982,Sparrows and Towhees,1
+Jefferson,99.12280701754386,6.140350877192982,Sturgeons and Paddlefish,1
+Jefferson,99.12280701754386,6.140350877192982,Turtles,1
+Jefferson,99.12280701754386,6.140350877192982,Wrens,1
+Jefferson,99.12280701754386,6.140350877192982,Owls,1
+Jefferson,99.12280701754386,6.140350877192982,Rushes,1
+Jefferson,99.12280701754386,6.140350877192982,"Minnows, Shiners, Suckers",1
+Jefferson,99.12280701754386,6.140350877192982,Mooneyes,1
+Jefferson,99.12280701754386,6.140350877192982,Horsetails,1
+Jefferson,99.12280701754386,6.140350877192982,Shrikes,1
 Jefferson,99.12280701754386,6.140350877192982,Mayflies,1
 Kings,98.79518072289156,7.317073170731707,All,83
-Kings,98.79518072289156,7.317073170731707,Birds,8
-Kings,98.79518072289156,7.317073170731707,Butterflies and Moths,1
-Kings,98.79518072289156,7.317073170731707,Flowering Plants,70
-Kings,98.79518072289156,7.317073170731707,Mammals,1
-Kings,98.79518072289156,7.317073170731707,Reptiles,1
-Kings,98.79518072289156,7.317073170731707,Beetles,2
+Kings,98.79518072289156,7.317073170731707,"Asters, Goldenrods and Daisies",7
+Kings,98.79518072289156,7.317073170731707,Bats,1
+Kings,98.79518072289156,7.317073170731707,Butterflies and Skippers,1
+Kings,98.79518072289156,7.317073170731707,Grasses,4
+Kings,98.79518072289156,7.317073170731707,Grebes,1
+Kings,98.79518072289156,7.317073170731707,"Gulls, Terns, Plovers, Shorebirds",3
+Kings,98.79518072289156,7.317073170731707,"Hawks, Falcons, Eagles, Vultures",2
+Kings,98.79518072289156,7.317073170731707,"Herons, Bitterns, Egrets, Pelicans",1
+Kings,98.79518072289156,7.317073170731707,Orchids,3
+Kings,98.79518072289156,7.317073170731707,Other Flowering Plants,44
+Kings,98.79518072289156,7.317073170731707,Sedges,12
+Kings,98.79518072289156,7.317073170731707,Owls,1
+Kings,98.79518072289156,7.317073170731707,Carrion Beetles,1
+Kings,98.79518072289156,7.317073170731707,Lizards,1
+Kings,98.79518072289156,7.317073170731707,Tiger Beetles,1
 Lewis,100,6.666666666666667,All,75
-Lewis,100,6.666666666666667,Birds,9
-Lewis,100,6.666666666666667,Ferns and Fern Allies,5
-Lewis,100,6.666666666666667,Fish,1
-Lewis,100,6.666666666666667,Flowering Plants,57
-Lewis,100,6.666666666666667,Mammals,1
-Lewis,100,6.666666666666667,Reptiles,1
+Lewis,100,6.666666666666667,"Asters, Goldenrods and Daisies",4
+Lewis,100,6.666666666666667,Bats,1
+Lewis,100,6.666666666666667,Ferns,3
+Lewis,100,6.666666666666667,Grasses,2
+Lewis,100,6.666666666666667,Grebes,1
+Lewis,100,6.666666666666667,"Gulls, Terns, Plovers, Shorebirds",2
+Lewis,100,6.666666666666667,"Hawks, Falcons, Eagles, Vultures",2
+Lewis,100,6.666666666666667,"Herons, Bitterns, Egrets, Pelicans",1
+Lewis,100,6.666666666666667,Orchids,9
+Lewis,100,6.666666666666667,Other Flowering Plants,27
+Lewis,100,6.666666666666667,Sedges,15
+Lewis,100,6.666666666666667,Sparrows and Towhees,1
+Lewis,100,6.666666666666667,Turtles,1
+Lewis,100,6.666666666666667,Wrens,1
+Lewis,100,6.666666666666667,Horsetails,1
+Lewis,100,6.666666666666667,Salmon and Trout,1
+Lewis,100,6.666666666666667,Shrikes,1
+Lewis,100,6.666666666666667,Clubmosses,1
 Lewis,100,6.666666666666667,Mayflies,1
 Livingston,100,4,All,75
-Livingston,100,4,Birds,10
+Livingston,100,4,"Asters, Goldenrods and Daisies",4
+Livingston,100,4,Bats,1
 Livingston,100,4,Conifers,1
-Livingston,100,4,Ferns and Fern Allies,1
-Livingston,100,4,Flowering Plants,58
-Livingston,100,4,Mammals,1
-Livingston,100,4,Reptiles,3
-Livingston,100,4,Mussels and Clams,1
+Livingston,100,4,Ferns,1
+Livingston,100,4,Grasses,1
+Livingston,100,4,Grebes,1
+Livingston,100,4,"Gulls, Terns, Plovers, Shorebirds",2
+Livingston,100,4,"Hawks, Falcons, Eagles, Vultures",2
+Livingston,100,4,"Herons, Bitterns, Egrets, Pelicans",1
+Livingston,100,4,Orchids,4
+Livingston,100,4,Other Flowering Plants,37
+Livingston,100,4,Sedges,12
+Livingston,100,4,Snakes,2
+Livingston,100,4,Sparrows and Towhees,1
+Livingston,100,4,Turtles,1
+Livingston,100,4,Wrens,1
+Livingston,100,4,Freshwater Mussels,1
+Livingston,100,4,Owls,1
+Livingston,100,4,Shrikes,1
 Madison,100,8.571428571428571,All,70
-Madison,100,8.571428571428571,Birds,9
+Madison,100,8.571428571428571,"Asters, Goldenrods and Daisies",3
+Madison,100,8.571428571428571,Bats,1
 Madison,100,8.571428571428571,Conifers,1
-Madison,100,8.571428571428571,Ferns and Fern Allies,4
-Madison,100,8.571428571428571,Fish,1
-Madison,100,8.571428571428571,Flowering Plants,51
-Madison,100,8.571428571428571,Mammals,1
-Madison,100,8.571428571428571,Reptiles,1
-Madison,100,8.571428571428571,Mussels and Clams,1
+Madison,100,8.571428571428571,Ferns,3
+Madison,100,8.571428571428571,Grasses,1
+Madison,100,8.571428571428571,Grebes,1
+Madison,100,8.571428571428571,"Gulls, Terns, Plovers, Shorebirds",2
+Madison,100,8.571428571428571,"Hawks, Falcons, Eagles, Vultures",2
+Madison,100,8.571428571428571,"Herons, Bitterns, Egrets, Pelicans",1
+Madison,100,8.571428571428571,Orchids,6
+Madison,100,8.571428571428571,Other Flowering Plants,29
+Madison,100,8.571428571428571,Sedges,12
+Madison,100,8.571428571428571,Snakes,1
+Madison,100,8.571428571428571,Sparrows and Towhees,1
+Madison,100,8.571428571428571,Sturgeons and Paddlefish,1
+Madison,100,8.571428571428571,Wrens,1
+Madison,100,8.571428571428571,Freshwater Mussels,1
+Madison,100,8.571428571428571,Owls,1
+Madison,100,8.571428571428571,Horsetails,1
 Madison,100,8.571428571428571,Snails,1
 Monroe,100,3.3112582781456954,All,151
-Monroe,100,3.3112582781456954,Birds,12
+Monroe,100,3.3112582781456954,"Asters, Goldenrods and Daisies",8
+Monroe,100,3.3112582781456954,Bats,1
 Monroe,100,3.3112582781456954,Conifers,1
-Monroe,100,3.3112582781456954,Ferns and Fern Allies,3
-Monroe,100,3.3112582781456954,Fish,4
-Monroe,100,3.3112582781456954,Flowering Plants,126
-Monroe,100,3.3112582781456954,Mammals,1
-Monroe,100,3.3112582781456954,Reptiles,3
-Monroe,100,3.3112582781456954,Beetles,1
+Monroe,100,3.3112582781456954,Ferns,2
+Monroe,100,3.3112582781456954,Grasses,6
+Monroe,100,3.3112582781456954,Grebes,1
+Monroe,100,3.3112582781456954,"Gulls, Terns, Plovers, Shorebirds",2
+Monroe,100,3.3112582781456954,"Hawks, Falcons, Eagles, Vultures",3
+Monroe,100,3.3112582781456954,"Herons, Bitterns, Egrets, Pelicans",1
+Monroe,100,3.3112582781456954,Orchids,8
+Monroe,100,3.3112582781456954,Other Flowering Plants,71
+Monroe,100,3.3112582781456954,"Rails, Coots and Cranes",1
+Monroe,100,3.3112582781456954,Sedges,32
+Monroe,100,3.3112582781456954,Snakes,2
+Monroe,100,3.3112582781456954,Sparrows and Towhees,1
+Monroe,100,3.3112582781456954,Turtles,1
+Monroe,100,3.3112582781456954,Wrens,1
+Monroe,100,3.3112582781456954,Darters and Sunfishes,1
+Monroe,100,3.3112582781456954,Owls,1
+Monroe,100,3.3112582781456954,Carrion Beetles,1
+Monroe,100,3.3112582781456954,Rushes,1
+Monroe,100,3.3112582781456954,"Minnows, Shiners, Suckers",2
+Monroe,100,3.3112582781456954,Sculpins,1
+Monroe,100,3.3112582781456954,Horsetails,1
+Monroe,100,3.3112582781456954,Shrikes,1
 Montgomery,100,15.384615384615385,All,13
-Montgomery,100,15.384615384615385,Birds,7
-Montgomery,100,15.384615384615385,Flowering Plants,4
-Montgomery,100,15.384615384615385,Mammals,1
-Montgomery,100,15.384615384615385,Reptiles,1
+Montgomery,100,15.384615384615385,Bats,1
+Montgomery,100,15.384615384615385,Grebes,1
+Montgomery,100,15.384615384615385,"Gulls, Terns, Plovers, Shorebirds",1
+Montgomery,100,15.384615384615385,"Hawks, Falcons, Eagles, Vultures",2
+Montgomery,100,15.384615384615385,Orchids,1
+Montgomery,100,15.384615384615385,Other Flowering Plants,2
+Montgomery,100,15.384615384615385,Sedges,1
+Montgomery,100,15.384615384615385,Snakes,1
+Montgomery,100,15.384615384615385,Sparrows and Towhees,1
+Montgomery,100,15.384615384615385,Wrens,1
+Montgomery,100,15.384615384615385,Owls,1
 Nassau,100,6.074766355140187,All,214
-Nassau,100,6.074766355140187,Amphibians,1
-Nassau,100,6.074766355140187,Birds,12
-Nassau,100,6.074766355140187,Butterflies and Moths,2
+Nassau,100,6.074766355140187,"Asters, Goldenrods and Daisies",19
+Nassau,100,6.074766355140187,Bats,1
+Nassau,100,6.074766355140187,Butterflies and Skippers,2
 Nassau,100,6.074766355140187,Conifers,2
-Nassau,100,6.074766355140187,Ferns and Fern Allies,3
-Nassau,100,6.074766355140187,Flowering Plants,190
-Nassau,100,6.074766355140187,Mammals,1
-Nassau,100,6.074766355140187,Beetles,2
-Nassau,100,6.074766355140187,Dragonflies and Damselflies,1
+Nassau,100,6.074766355140187,Ferns,2
+Nassau,100,6.074766355140187,Grasses,8
+Nassau,100,6.074766355140187,Grebes,1
+Nassau,100,6.074766355140187,"Gulls, Terns, Plovers, Shorebirds",5
+Nassau,100,6.074766355140187,"Hawks, Falcons, Eagles, Vultures",3
+Nassau,100,6.074766355140187,"Herons, Bitterns, Egrets, Pelicans",1
+Nassau,100,6.074766355140187,Orchids,7
+Nassau,100,6.074766355140187,Other Flowering Plants,111
+Nassau,100,6.074766355140187,"Rails, Coots and Cranes",1
+Nassau,100,6.074766355140187,Salamanders,1
+Nassau,100,6.074766355140187,Sedges,40
+Nassau,100,6.074766355140187,Owls,1
+Nassau,100,6.074766355140187,Carrion Beetles,1
+Nassau,100,6.074766355140187,Rushes,5
+Nassau,100,6.074766355140187,Clubmosses,1
+Nassau,100,6.074766355140187,Tiger Beetles,1
 New York,100,6.666666666666667,All,75
-New York,100,6.666666666666667,Birds,2
-New York,100,6.666666666666667,Ferns and Fern Allies,1
-New York,100,6.666666666666667,Fish,2
-New York,100,6.666666666666667,Flowering Plants,69
-New York,100,6.666666666666667,Mammals,1
+New York,100,6.666666666666667,"Asters, Goldenrods and Daisies",4
+New York,100,6.666666666666667,Bats,1
+New York,100,6.666666666666667,Ferns,1
+New York,100,6.666666666666667,Grasses,5
+New York,100,6.666666666666667,"Gulls, Terns, Plovers, Shorebirds",1
+New York,100,6.666666666666667,"Hawks, Falcons, Eagles, Vultures",1
+New York,100,6.666666666666667,Orchids,4
+New York,100,6.666666666666667,Other Flowering Plants,43
+New York,100,6.666666666666667,Sedges,13
+New York,100,6.666666666666667,Sturgeons and Paddlefish,2
 Niagara,100,2.1052631578947367,All,95
-Niagara,100,2.1052631578947367,Birds,12
-Niagara,100,2.1052631578947367,Butterflies and Moths,2
-Niagara,100,2.1052631578947367,Ferns and Fern Allies,4
-Niagara,100,2.1052631578947367,Fish,3
-Niagara,100,2.1052631578947367,Flowering Plants,71
-Niagara,100,2.1052631578947367,Mammals,1
-Niagara,100,2.1052631578947367,Reptiles,2
+Niagara,100,2.1052631578947367,"Asters, Goldenrods and Daisies",7
+Niagara,100,2.1052631578947367,Bats,1
+Niagara,100,2.1052631578947367,Butterflies and Skippers,2
+Niagara,100,2.1052631578947367,Ferns,2
+Niagara,100,2.1052631578947367,Grasses,2
+Niagara,100,2.1052631578947367,Grebes,1
+Niagara,100,2.1052631578947367,"Gulls, Terns, Plovers, Shorebirds",3
+Niagara,100,2.1052631578947367,"Hawks, Falcons, Eagles, Vultures",3
+Niagara,100,2.1052631578947367,"Herons, Bitterns, Egrets, Pelicans",1
+Niagara,100,2.1052631578947367,Orchids,3
+Niagara,100,2.1052631578947367,Other Flowering Plants,53
+Niagara,100,2.1052631578947367,"Rails, Coots and Cranes",1
+Niagara,100,2.1052631578947367,Sedges,5
+Niagara,100,2.1052631578947367,Snakes,1
+Niagara,100,2.1052631578947367,Sparrows and Towhees,1
+Niagara,100,2.1052631578947367,Sturgeons and Paddlefish,1
+Niagara,100,2.1052631578947367,Turtles,1
+Niagara,100,2.1052631578947367,Wrens,1
+Niagara,100,2.1052631578947367,Darters and Sunfishes,1
+Niagara,100,2.1052631578947367,Owls,1
+Niagara,100,2.1052631578947367,Rushes,1
+Niagara,100,2.1052631578947367,Sculpins,1
+Niagara,100,2.1052631578947367,Horsetails,2
 Oneida,99.3103448275862,3.4722222222222223,All,145
-Oneida,99.3103448275862,3.4722222222222223,Birds,12
-Oneida,99.3103448275862,3.4722222222222223,Butterflies and Moths,2
+Oneida,99.3103448275862,3.4722222222222223,"Asters, Goldenrods and Daisies",6
+Oneida,99.3103448275862,3.4722222222222223,Bats,1
+Oneida,99.3103448275862,3.4722222222222223,Butterflies and Skippers,2
 Oneida,99.3103448275862,3.4722222222222223,Conifers,2
-Oneida,99.3103448275862,3.4722222222222223,Ferns and Fern Allies,9
-Oneida,99.3103448275862,3.4722222222222223,Fish,2
-Oneida,99.3103448275862,3.4722222222222223,Flowering Plants,116
-Oneida,99.3103448275862,3.4722222222222223,Mammals,1
-Oneida,99.3103448275862,3.4722222222222223,Reptiles,1
+Oneida,99.3103448275862,3.4722222222222223,Ferns,5
+Oneida,99.3103448275862,3.4722222222222223,Grebes,1
+Oneida,99.3103448275862,3.4722222222222223,"Gulls, Terns, Plovers, Shorebirds",3
+Oneida,99.3103448275862,3.4722222222222223,"Hawks, Falcons, Eagles, Vultures",3
+Oneida,99.3103448275862,3.4722222222222223,"Herons, Bitterns, Egrets, Pelicans",1
+Oneida,99.3103448275862,3.4722222222222223,Orchids,11
+Oneida,99.3103448275862,3.4722222222222223,Other Flowering Plants,55
+Oneida,99.3103448275862,3.4722222222222223,Sedges,42
+Oneida,99.3103448275862,3.4722222222222223,Sparrows and Towhees,1
+Oneida,99.3103448275862,3.4722222222222223,Sturgeons and Paddlefish,1
+Oneida,99.3103448275862,3.4722222222222223,Turtles,1
+Oneida,99.3103448275862,3.4722222222222223,Wrens,1
+Oneida,99.3103448275862,3.4722222222222223,Owls,1
+Oneida,99.3103448275862,3.4722222222222223,Quillworts,1
+Oneida,99.3103448275862,3.4722222222222223,Rushes,2
+Oneida,99.3103448275862,3.4722222222222223,"Minnows, Shiners, Suckers",1
+Oneida,99.3103448275862,3.4722222222222223,Horsetails,2
+Oneida,99.3103448275862,3.4722222222222223,Shrikes,1
+Oneida,99.3103448275862,3.4722222222222223,Clubmosses,1
 Onondaga,100,5.47945205479452,All,147
-Onondaga,100,5.47945205479452,Birds,11
+Onondaga,100,5.47945205479452,"Asters, Goldenrods and Daisies",10
+Onondaga,100,5.47945205479452,Bats,2
 Onondaga,100,5.47945205479452,Conifers,1
-Onondaga,100,5.47945205479452,Ferns and Fern Allies,8
-Onondaga,100,5.47945205479452,Fish,3
-Onondaga,100,5.47945205479452,Flowering Plants,118
-Onondaga,100,5.47945205479452,Mammals,2
-Onondaga,100,5.47945205479452,Reptiles,4
+Onondaga,100,5.47945205479452,Ferns,7
+Onondaga,100,5.47945205479452,Grasses,2
+Onondaga,100,5.47945205479452,Grebes,1
+Onondaga,100,5.47945205479452,"Gulls, Terns, Plovers, Shorebirds",3
+Onondaga,100,5.47945205479452,"Hawks, Falcons, Eagles, Vultures",3
+Onondaga,100,5.47945205479452,"Herons, Bitterns, Egrets, Pelicans",1
+Onondaga,100,5.47945205479452,Orchids,15
+Onondaga,100,5.47945205479452,Other Flowering Plants,69
+Onondaga,100,5.47945205479452,Sedges,21
+Onondaga,100,5.47945205479452,Snakes,2
+Onondaga,100,5.47945205479452,Sparrows and Towhees,1
+Onondaga,100,5.47945205479452,Sturgeons and Paddlefish,1
+Onondaga,100,5.47945205479452,Turtles,2
+Onondaga,100,5.47945205479452,Wrens,1
+Onondaga,100,5.47945205479452,Darters and Sunfishes,1
+Onondaga,100,5.47945205479452,Owls,1
+Onondaga,100,5.47945205479452,Rushes,1
+Onondaga,100,5.47945205479452,"Minnows, Shiners, Suckers",1
+Onondaga,100,5.47945205479452,Horsetails,1
 Ontario,100,1.4492753623188406,All,69
-Ontario,100,1.4492753623188406,Birds,8
-Ontario,100,1.4492753623188406,Ferns and Fern Allies,1
-Ontario,100,1.4492753623188406,Fish,1
-Ontario,100,1.4492753623188406,Flowering Plants,57
-Ontario,100,1.4492753623188406,Mammals,1
-Ontario,100,1.4492753623188406,Reptiles,1
+Ontario,100,1.4492753623188406,"Asters, Goldenrods and Daisies",3
+Ontario,100,1.4492753623188406,Bats,1
+Ontario,100,1.4492753623188406,Ferns,1
+Ontario,100,1.4492753623188406,Grasses,1
+Ontario,100,1.4492753623188406,Grebes,1
+Ontario,100,1.4492753623188406,"Gulls, Terns, Plovers, Shorebirds",1
+Ontario,100,1.4492753623188406,"Hawks, Falcons, Eagles, Vultures",2
+Ontario,100,1.4492753623188406,"Herons, Bitterns, Egrets, Pelicans",1
+Ontario,100,1.4492753623188406,Orchids,3
+Ontario,100,1.4492753623188406,Other Flowering Plants,41
+Ontario,100,1.4492753623188406,Sedges,9
+Ontario,100,1.4492753623188406,Snakes,1
+Ontario,100,1.4492753623188406,Sparrows and Towhees,1
+Ontario,100,1.4492753623188406,Wrens,1
+Ontario,100,1.4492753623188406,Owls,1
+Ontario,100,1.4492753623188406,"Minnows, Shiners, Suckers",1
 Orange,100,5.521472392638037,All,165
-Orange,100,5.521472392638037,Amphibians,1
-Orange,100,5.521472392638037,Birds,10
-Orange,100,5.521472392638037,Butterflies and Moths,1
+Orange,100,5.521472392638037,"Asters, Goldenrods and Daisies",3
+Orange,100,5.521472392638037,Bats,2
+Orange,100,5.521472392638037,Butterflies and Skippers,1
 Orange,100,5.521472392638037,Conifers,3
-Orange,100,5.521472392638037,Ferns and Fern Allies,3
-Orange,100,5.521472392638037,Fish,5
-Orange,100,5.521472392638037,Flowering Plants,134
-Orange,100,5.521472392638037,Mammals,3
-Orange,100,5.521472392638037,Reptiles,3
-Orange,100,5.521472392638037,Mussels and Clams,2
+Orange,100,5.521472392638037,Ferns,2
+Orange,100,5.521472392638037,Grasses,4
+Orange,100,5.521472392638037,Grebes,1
+Orange,100,5.521472392638037,"Gulls, Terns, Plovers, Shorebirds",1
+Orange,100,5.521472392638037,"Hawks, Falcons, Eagles, Vultures",4
+Orange,100,5.521472392638037,"Herons, Bitterns, Egrets, Pelicans",1
+Orange,100,5.521472392638037,Orchids,6
+Orange,100,5.521472392638037,Other Flowering Plants,81
+Orange,100,5.521472392638037,Rodents,1
+Orange,100,5.521472392638037,Sedges,36
+Orange,100,5.521472392638037,Snakes,1
+Orange,100,5.521472392638037,Sparrows and Towhees,1
+Orange,100,5.521472392638037,Sturgeons and Paddlefish,2
+Orange,100,5.521472392638037,Turtles,1
+Orange,100,5.521472392638037,Wrens,1
+Orange,100,5.521472392638037,Darters and Sunfishes,2
+Orange,100,5.521472392638037,Freshwater Mussels,2
+Orange,100,5.521472392638037,Owls,1
+Orange,100,5.521472392638037,Quillworts,1
+Orange,100,5.521472392638037,Rushes,4
+Orange,100,5.521472392638037,"Minnows, Shiners, Suckers",1
+Orange,100,5.521472392638037,Frogs and Toads,1
+Orange,100,5.521472392638037,Lizards,1
 Orleans,96.7741935483871,10,All,31
-Orleans,96.7741935483871,10,Birds,10
-Orleans,96.7741935483871,10,Ferns and Fern Allies,2
-Orleans,96.7741935483871,10,Fish,3
-Orleans,96.7741935483871,10,Flowering Plants,15
-Orleans,96.7741935483871,10,Mammals,1
+Orleans,96.7741935483871,10,"Asters, Goldenrods and Daisies",2
+Orleans,96.7741935483871,10,Bats,1
+Orleans,96.7741935483871,10,Ferns,1
+Orleans,96.7741935483871,10,Grebes,1
+Orleans,96.7741935483871,10,"Gulls, Terns, Plovers, Shorebirds",2
+Orleans,96.7741935483871,10,"Hawks, Falcons, Eagles, Vultures",2
+Orleans,96.7741935483871,10,"Herons, Bitterns, Egrets, Pelicans",1
+Orleans,96.7741935483871,10,Orchids,3
+Orleans,96.7741935483871,10,Other Flowering Plants,9
+Orleans,96.7741935483871,10,Sedges,1
+Orleans,96.7741935483871,10,Sparrows and Towhees,1
+Orleans,96.7741935483871,10,Sturgeons and Paddlefish,1
+Orleans,96.7741935483871,10,Wrens,1
+Orleans,96.7741935483871,10,Darters and Sunfishes,1
+Orleans,96.7741935483871,10,Owls,1
+Orleans,96.7741935483871,10,Sculpins,1
+Orleans,96.7741935483871,10,Horsetails,1
+Orleans,96.7741935483871,10,Shrikes,1
 Oswego,98.80952380952381,9.523809523809524,All,84
-Oswego,98.80952380952381,9.523809523809524,Birds,13
-Oswego,98.80952380952381,9.523809523809524,Butterflies and Moths,1
-Oswego,98.80952380952381,9.523809523809524,Ferns and Fern Allies,1
-Oswego,98.80952380952381,9.523809523809524,Fish,6
-Oswego,98.80952380952381,9.523809523809524,Flowering Plants,60
-Oswego,98.80952380952381,9.523809523809524,Mammals,2
-Oswego,98.80952380952381,9.523809523809524,Reptiles,1
+Oswego,98.80952380952381,9.523809523809524,"Asters, Goldenrods and Daisies",3
+Oswego,98.80952380952381,9.523809523809524,Bats,2
+Oswego,98.80952380952381,9.523809523809524,Grebes,1
+Oswego,98.80952380952381,9.523809523809524,"Gulls, Terns, Plovers, Shorebirds",4
+Oswego,98.80952380952381,9.523809523809524,"Hawks, Falcons, Eagles, Vultures",3
+Oswego,98.80952380952381,9.523809523809524,"Herons, Bitterns, Egrets, Pelicans",1
+Oswego,98.80952380952381,9.523809523809524,Orchids,9
+Oswego,98.80952380952381,9.523809523809524,Other Flowering Plants,29
+Oswego,98.80952380952381,9.523809523809524,"Rails, Coots and Cranes",1
+Oswego,98.80952380952381,9.523809523809524,Sedges,19
+Oswego,98.80952380952381,9.523809523809524,Sparrows and Towhees,1
+Oswego,98.80952380952381,9.523809523809524,Sturgeons and Paddlefish,1
+Oswego,98.80952380952381,9.523809523809524,Turtles,1
+Oswego,98.80952380952381,9.523809523809524,Wrens,1
+Oswego,98.80952380952381,9.523809523809524,Darters and Sunfishes,1
+Oswego,98.80952380952381,9.523809523809524,"Minnows, Shiners, Suckers",1
+Oswego,98.80952380952381,9.523809523809524,Sculpins,1
+Oswego,98.80952380952381,9.523809523809524,Mooneyes,1
+Oswego,98.80952380952381,9.523809523809524,Horsetails,1
+Oswego,98.80952380952381,9.523809523809524,Moths,1
+Oswego,98.80952380952381,9.523809523809524,Salmon and Trout,1
+Oswego,98.80952380952381,9.523809523809524,Shrikes,1
 Otsego,100,13.157894736842104,All,38
-Otsego,100,13.157894736842104,Birds,7
-Otsego,100,13.157894736842104,Flowering Plants,26
-Otsego,100,13.157894736842104,Mammals,1
-Otsego,100,13.157894736842104,Reptiles,2
-Otsego,100,13.157894736842104,Mussels and Clams,2
+Otsego,100,13.157894736842104,"Asters, Goldenrods and Daisies",3
+Otsego,100,13.157894736842104,Bats,1
+Otsego,100,13.157894736842104,Grebes,1
+Otsego,100,13.157894736842104,"Gulls, Terns, Plovers, Shorebirds",1
+Otsego,100,13.157894736842104,"Hawks, Falcons, Eagles, Vultures",3
+Otsego,100,13.157894736842104,"Herons, Bitterns, Egrets, Pelicans",1
+Otsego,100,13.157894736842104,Orchids,6
+Otsego,100,13.157894736842104,Other Flowering Plants,13
+Otsego,100,13.157894736842104,Sedges,3
+Otsego,100,13.157894736842104,Snakes,1
+Otsego,100,13.157894736842104,Sparrows and Towhees,1
+Otsego,100,13.157894736842104,Turtles,1
+Otsego,100,13.157894736842104,Freshwater Mussels,2
+Otsego,100,13.157894736842104,Rushes,1
 Putnam,100,9.210526315789473,All,76
-Putnam,100,9.210526315789473,Birds,3
-Putnam,100,9.210526315789473,Butterflies and Moths,1
+Putnam,100,9.210526315789473,"Asters, Goldenrods and Daisies",4
+Putnam,100,9.210526315789473,Bats,2
+Putnam,100,9.210526315789473,Butterflies and Skippers,1
 Putnam,100,9.210526315789473,Conifers,1
-Putnam,100,9.210526315789473,Ferns and Fern Allies,2
-Putnam,100,9.210526315789473,Fish,2
-Putnam,100,9.210526315789473,Flowering Plants,61
-Putnam,100,9.210526315789473,Mammals,2
-Putnam,100,9.210526315789473,Reptiles,4
+Putnam,100,9.210526315789473,"Hawks, Falcons, Eagles, Vultures",2
+Putnam,100,9.210526315789473,"Herons, Bitterns, Egrets, Pelicans",1
+Putnam,100,9.210526315789473,Orchids,1
+Putnam,100,9.210526315789473,Other Flowering Plants,42
+Putnam,100,9.210526315789473,Sedges,14
+Putnam,100,9.210526315789473,Snakes,1
+Putnam,100,9.210526315789473,Sturgeons and Paddlefish,2
+Putnam,100,9.210526315789473,Turtles,2
+Putnam,100,9.210526315789473,Horsetails,2
+Putnam,100,9.210526315789473,Lizards,1
 Queens,100,3.125,All,160
-Queens,100,3.125,Birds,10
-Queens,100,3.125,Flowering Plants,147
-Queens,100,3.125,Mammals,1
-Queens,100,3.125,Beetles,1
-Queens,100,3.125,Dragonflies and Damselflies,1
+Queens,100,3.125,"Asters, Goldenrods and Daisies",14
+Queens,100,3.125,Bats,1
+Queens,100,3.125,Grasses,8
+Queens,100,3.125,Grebes,1
+Queens,100,3.125,"Gulls, Terns, Plovers, Shorebirds",5
+Queens,100,3.125,"Hawks, Falcons, Eagles, Vultures",2
+Queens,100,3.125,"Herons, Bitterns, Egrets, Pelicans",1
+Queens,100,3.125,Orchids,3
+Queens,100,3.125,Other Flowering Plants,84
+Queens,100,3.125,Sedges,37
+Queens,100,3.125,Owls,1
+Queens,100,3.125,Rushes,1
+Queens,100,3.125,Tiger Beetles,1
 Rensselaer,100,4.901960784313726,All,103
-Rensselaer,100,4.901960784313726,Birds,5
-Rensselaer,100,4.901960784313726,Ferns and Fern Allies,2
-Rensselaer,100,4.901960784313726,Fish,2
-Rensselaer,100,4.901960784313726,Flowering Plants,91
-Rensselaer,100,4.901960784313726,Mammals,1
-Rensselaer,100,4.901960784313726,Reptiles,2
+Rensselaer,100,4.901960784313726,"Asters, Goldenrods and Daisies",7
+Rensselaer,100,4.901960784313726,Bats,1
+Rensselaer,100,4.901960784313726,Ferns,1
+Rensselaer,100,4.901960784313726,Grasses,2
+Rensselaer,100,4.901960784313726,Grebes,1
+Rensselaer,100,4.901960784313726,"Hawks, Falcons, Eagles, Vultures",3
+Rensselaer,100,4.901960784313726,"Herons, Bitterns, Egrets, Pelicans",1
+Rensselaer,100,4.901960784313726,Orchids,6
+Rensselaer,100,4.901960784313726,Other Flowering Plants,54
+Rensselaer,100,4.901960784313726,Sedges,22
+Rensselaer,100,4.901960784313726,Snakes,1
+Rensselaer,100,4.901960784313726,Sturgeons and Paddlefish,2
+Rensselaer,100,4.901960784313726,Turtles,1
+Rensselaer,100,4.901960784313726,Quillworts,1
 Richmond,100,4.2105263157894735,All,191
-Richmond,100,4.2105263157894735,Amphibians,1
-Richmond,100,4.2105263157894735,Birds,7
-Richmond,100,4.2105263157894735,Butterflies and Moths,1
+Richmond,100,4.2105263157894735,"Asters, Goldenrods and Daisies",19
+Richmond,100,4.2105263157894735,Bats,1
+Richmond,100,4.2105263157894735,Butterflies and Skippers,1
 Richmond,100,4.2105263157894735,Conifers,3
-Richmond,100,4.2105263157894735,Ferns and Fern Allies,4
-Richmond,100,4.2105263157894735,Flowering Plants,171
-Richmond,100,4.2105263157894735,Mammals,1
-Richmond,100,4.2105263157894735,Reptiles,2
-Richmond,100,4.2105263157894735,Beetles,1
+Richmond,100,4.2105263157894735,Ferns,4
+Richmond,100,4.2105263157894735,Grasses,9
+Richmond,100,4.2105263157894735,Grebes,1
+Richmond,100,4.2105263157894735,"Gulls, Terns, Plovers, Shorebirds",1
+Richmond,100,4.2105263157894735,"Hawks, Falcons, Eagles, Vultures",3
+Richmond,100,4.2105263157894735,"Herons, Bitterns, Egrets, Pelicans",1
+Richmond,100,4.2105263157894735,Orchids,6
+Richmond,100,4.2105263157894735,Other Flowering Plants,110
+Richmond,100,4.2105263157894735,Sedges,25
+Richmond,100,4.2105263157894735,Turtles,1
+Richmond,100,4.2105263157894735,Owls,1
+Richmond,100,4.2105263157894735,Carrion Beetles,1
+Richmond,100,4.2105263157894735,Rushes,2
+Richmond,100,4.2105263157894735,Frogs and Toads,1
+Richmond,100,4.2105263157894735,Lizards,1
 Rockland,99.18032786885246,7.43801652892562,All,122
-Rockland,99.18032786885246,7.43801652892562,Amphibians,1
-Rockland,99.18032786885246,7.43801652892562,Birds,4
+Rockland,99.18032786885246,7.43801652892562,"Asters, Goldenrods and Daisies",6
+Rockland,99.18032786885246,7.43801652892562,Bats,1
 Rockland,99.18032786885246,7.43801652892562,Conifers,1
-Rockland,99.18032786885246,7.43801652892562,Ferns and Fern Allies,4
-Rockland,99.18032786885246,7.43801652892562,Fish,5
-Rockland,99.18032786885246,7.43801652892562,Flowering Plants,101
-Rockland,99.18032786885246,7.43801652892562,Mammals,2
-Rockland,99.18032786885246,7.43801652892562,Reptiles,3
-Rockland,99.18032786885246,7.43801652892562,Mussels and Clams,1
+Rockland,99.18032786885246,7.43801652892562,Ferns,3
+Rockland,99.18032786885246,7.43801652892562,Grasses,3
+Rockland,99.18032786885246,7.43801652892562,Grebes,1
+Rockland,99.18032786885246,7.43801652892562,"Hawks, Falcons, Eagles, Vultures",2
+Rockland,99.18032786885246,7.43801652892562,"Herons, Bitterns, Egrets, Pelicans",1
+Rockland,99.18032786885246,7.43801652892562,Orchids,4
+Rockland,99.18032786885246,7.43801652892562,Other Flowering Plants,61
+Rockland,99.18032786885246,7.43801652892562,Rodents,1
+Rockland,99.18032786885246,7.43801652892562,Sedges,25
+Rockland,99.18032786885246,7.43801652892562,Snakes,1
+Rockland,99.18032786885246,7.43801652892562,Sturgeons and Paddlefish,2
+Rockland,99.18032786885246,7.43801652892562,Turtles,1
+Rockland,99.18032786885246,7.43801652892562,Darters and Sunfishes,2
+Rockland,99.18032786885246,7.43801652892562,Freshwater Mussels,1
+Rockland,99.18032786885246,7.43801652892562,Quillworts,1
+Rockland,99.18032786885246,7.43801652892562,Rushes,2
+Rockland,99.18032786885246,7.43801652892562,"Minnows, Shiners, Suckers",1
+Rockland,99.18032786885246,7.43801652892562,Frogs and Toads,1
+Rockland,99.18032786885246,7.43801652892562,Lizards,1
 Saratoga,100,3.9473684210526314,All,77
-Saratoga,100,3.9473684210526314,Birds,8
-Saratoga,100,3.9473684210526314,Butterflies and Moths,3
-Saratoga,100,3.9473684210526314,Ferns and Fern Allies,3
-Saratoga,100,3.9473684210526314,Flowering Plants,60
-Saratoga,100,3.9473684210526314,Mammals,1
-Saratoga,100,3.9473684210526314,Reptiles,2
+Saratoga,100,3.9473684210526314,"Asters, Goldenrods and Daisies",1
+Saratoga,100,3.9473684210526314,Bats,1
+Saratoga,100,3.9473684210526314,Butterflies and Skippers,3
+Saratoga,100,3.9473684210526314,Ferns,2
+Saratoga,100,3.9473684210526314,Grebes,1
+Saratoga,100,3.9473684210526314,"Gulls, Terns, Plovers, Shorebirds",1
+Saratoga,100,3.9473684210526314,"Hawks, Falcons, Eagles, Vultures",3
+Saratoga,100,3.9473684210526314,"Herons, Bitterns, Egrets, Pelicans",1
+Saratoga,100,3.9473684210526314,Orchids,6
+Saratoga,100,3.9473684210526314,Other Flowering Plants,34
+Saratoga,100,3.9473684210526314,Sedges,18
+Saratoga,100,3.9473684210526314,Snakes,1
+Saratoga,100,3.9473684210526314,Sparrows and Towhees,1
+Saratoga,100,3.9473684210526314,Turtles,1
+Saratoga,100,3.9473684210526314,Owls,1
+Saratoga,100,3.9473684210526314,Quillworts,1
+Saratoga,100,3.9473684210526314,Rushes,1
 Schenectady,100,2.857142857142857,All,70
-Schenectady,100,2.857142857142857,Birds,6
-Schenectady,100,2.857142857142857,Butterflies and Moths,1
-Schenectady,100,2.857142857142857,Flowering Plants,61
-Schenectady,100,2.857142857142857,Mammals,1
-Schenectady,100,2.857142857142857,Reptiles,1
+Schenectady,100,2.857142857142857,"Asters, Goldenrods and Daisies",3
+Schenectady,100,2.857142857142857,Bats,1
+Schenectady,100,2.857142857142857,Butterflies and Skippers,1
+Schenectady,100,2.857142857142857,Grasses,1
+Schenectady,100,2.857142857142857,Grebes,1
+Schenectady,100,2.857142857142857,"Hawks, Falcons, Eagles, Vultures",3
+Schenectady,100,2.857142857142857,"Herons, Bitterns, Egrets, Pelicans",1
+Schenectady,100,2.857142857142857,Orchids,8
+Schenectady,100,2.857142857142857,Other Flowering Plants,34
+Schenectady,100,2.857142857142857,Sedges,14
+Schenectady,100,2.857142857142857,Snakes,1
+Schenectady,100,2.857142857142857,Sparrows and Towhees,1
+Schenectady,100,2.857142857142857,Rushes,1
 Schoharie,100,3.7037037037037033,All,27
-Schoharie,100,3.7037037037037033,Birds,8
-Schoharie,100,3.7037037037037033,Ferns and Fern Allies,2
-Schoharie,100,3.7037037037037033,Flowering Plants,15
-Schoharie,100,3.7037037037037033,Mammals,1
-Schoharie,100,3.7037037037037033,Reptiles,1
+Schoharie,100,3.7037037037037033,Bats,1
+Schoharie,100,3.7037037037037033,Ferns,2
+Schoharie,100,3.7037037037037033,Grebes,1
+Schoharie,100,3.7037037037037033,"Gulls, Terns, Plovers, Shorebirds",1
+Schoharie,100,3.7037037037037033,"Hawks, Falcons, Eagles, Vultures",3
+Schoharie,100,3.7037037037037033,Orchids,1
+Schoharie,100,3.7037037037037033,Other Flowering Plants,11
+Schoharie,100,3.7037037037037033,Sedges,3
+Schoharie,100,3.7037037037037033,Snakes,1
+Schoharie,100,3.7037037037037033,Sparrows and Towhees,1
+Schoharie,100,3.7037037037037033,Wrens,1
+Schoharie,100,3.7037037037037033,Owls,1
 Schuyler,100,5.88235294117647,All,34
-Schuyler,100,5.88235294117647,Birds,6
-Schuyler,100,5.88235294117647,Ferns and Fern Allies,1
-Schuyler,100,5.88235294117647,Fish,1
-Schuyler,100,5.88235294117647,Flowering Plants,23
-Schuyler,100,5.88235294117647,Mammals,1
-Schuyler,100,5.88235294117647,Reptiles,1
-Schuyler,100,5.88235294117647,Mussels and Clams,1
+Schuyler,100,5.88235294117647,"Asters, Goldenrods and Daisies",1
+Schuyler,100,5.88235294117647,Bats,1
+Schuyler,100,5.88235294117647,Grasses,1
+Schuyler,100,5.88235294117647,Grebes,1
+Schuyler,100,5.88235294117647,"Hawks, Falcons, Eagles, Vultures",2
+Schuyler,100,5.88235294117647,"Herons, Bitterns, Egrets, Pelicans",1
+Schuyler,100,5.88235294117647,Orchids,1
+Schuyler,100,5.88235294117647,Other Flowering Plants,16
+Schuyler,100,5.88235294117647,Sedges,4
+Schuyler,100,5.88235294117647,Snakes,1
+Schuyler,100,5.88235294117647,Sparrows and Towhees,1
+Schuyler,100,5.88235294117647,Freshwater Mussels,1
+Schuyler,100,5.88235294117647,Owls,1
+Schuyler,100,5.88235294117647,"Minnows, Shiners, Suckers",1
+Schuyler,100,5.88235294117647,Horsetails,1
 Seneca,100,3.8461538461538463,All,78
-Seneca,100,3.8461538461538463,Birds,12
-Seneca,100,3.8461538461538463,Ferns and Fern Allies,2
-Seneca,100,3.8461538461538463,Fish,2
-Seneca,100,3.8461538461538463,Flowering Plants,59
-Seneca,100,3.8461538461538463,Mammals,2
-Seneca,100,3.8461538461538463,Reptiles,1
+Seneca,100,3.8461538461538463,"Asters, Goldenrods and Daisies",3
+Seneca,100,3.8461538461538463,Bats,2
+Seneca,100,3.8461538461538463,Ferns,2
+Seneca,100,3.8461538461538463,Grasses,4
+Seneca,100,3.8461538461538463,Grebes,1
+Seneca,100,3.8461538461538463,"Gulls, Terns, Plovers, Shorebirds",3
+Seneca,100,3.8461538461538463,"Hawks, Falcons, Eagles, Vultures",2
+Seneca,100,3.8461538461538463,"Herons, Bitterns, Egrets, Pelicans",1
+Seneca,100,3.8461538461538463,Orchids,5
+Seneca,100,3.8461538461538463,Other Flowering Plants,34
+Seneca,100,3.8461538461538463,"Rails, Coots and Cranes",1
+Seneca,100,3.8461538461538463,Sedges,13
+Seneca,100,3.8461538461538463,Sparrows and Towhees,1
+Seneca,100,3.8461538461538463,Sturgeons and Paddlefish,1
+Seneca,100,3.8461538461538463,Turtles,1
+Seneca,100,3.8461538461538463,Wrens,1
+Seneca,100,3.8461538461538463,Owls,1
+Seneca,100,3.8461538461538463,"Minnows, Shiners, Suckers",1
+Seneca,100,3.8461538461538463,Shrikes,1
 St. Lawrence,98.51851851851852,3.007518796992481,All,135
-St. Lawrence,98.51851851851852,3.007518796992481,Birds,14
+St. Lawrence,98.51851851851852,3.007518796992481,"Asters, Goldenrods and Daisies",9
+St. Lawrence,98.51851851851852,3.007518796992481,Bats,1
 St. Lawrence,98.51851851851852,3.007518796992481,Conifers,1
-St. Lawrence,98.51851851851852,3.007518796992481,Ferns and Fern Allies,13
-St. Lawrence,98.51851851851852,3.007518796992481,Fish,5
-St. Lawrence,98.51851851851852,3.007518796992481,Flowering Plants,100
-St. Lawrence,98.51851851851852,3.007518796992481,Mammals,1
-St. Lawrence,98.51851851851852,3.007518796992481,Reptiles,1
+St. Lawrence,98.51851851851852,3.007518796992481,Ferns,4
+St. Lawrence,98.51851851851852,3.007518796992481,Grasses,5
+St. Lawrence,98.51851851851852,3.007518796992481,Grebes,1
+St. Lawrence,98.51851851851852,3.007518796992481,"Gulls, Terns, Plovers, Shorebirds",3
+St. Lawrence,98.51851851851852,3.007518796992481,"Hawks, Falcons, Eagles, Vultures",4
+St. Lawrence,98.51851851851852,3.007518796992481,"Herons, Bitterns, Egrets, Pelicans",1
+St. Lawrence,98.51851851851852,3.007518796992481,Orchids,4
+St. Lawrence,98.51851851851852,3.007518796992481,Other Flowering Plants,53
+St. Lawrence,98.51851851851852,3.007518796992481,Sedges,29
+St. Lawrence,98.51851851851852,3.007518796992481,Sparrows and Towhees,1
+St. Lawrence,98.51851851851852,3.007518796992481,Sturgeons and Paddlefish,1
+St. Lawrence,98.51851851851852,3.007518796992481,Turtles,1
+St. Lawrence,98.51851851851852,3.007518796992481,Wrens,1
+St. Lawrence,98.51851851851852,3.007518796992481,Darters and Sunfishes,1
+St. Lawrence,98.51851851851852,3.007518796992481,Owls,1
+St. Lawrence,98.51851851851852,3.007518796992481,Quillworts,3
+St. Lawrence,98.51851851851852,3.007518796992481,"Minnows, Shiners, Suckers",1
+St. Lawrence,98.51851851851852,3.007518796992481,Mooneyes,1
+St. Lawrence,98.51851851851852,3.007518796992481,"Grouse, Pheasants, Turkeys",1
+St. Lawrence,98.51851851851852,3.007518796992481,Horsetails,2
+St. Lawrence,98.51851851851852,3.007518796992481,Salmon and Trout,1
+St. Lawrence,98.51851851851852,3.007518796992481,Shrikes,1
+St. Lawrence,98.51851851851852,3.007518796992481,Clubmosses,4
 Steuben,100,10,All,40
-Steuben,100,10,Birds,6
-Steuben,100,10,Fish,1
-Steuben,100,10,Flowering Plants,29
-Steuben,100,10,Mammals,1
-Steuben,100,10,Reptiles,1
-Steuben,100,10,Mussels and Clams,2
+Steuben,100,10,"Asters, Goldenrods and Daisies",1
+Steuben,100,10,Bats,1
+Steuben,100,10,Grasses,1
+Steuben,100,10,Grebes,1
+Steuben,100,10,"Gulls, Terns, Plovers, Shorebirds",1
+Steuben,100,10,"Hawks, Falcons, Eagles, Vultures",2
+Steuben,100,10,"Herons, Bitterns, Egrets, Pelicans",1
+Steuben,100,10,Orchids,1
+Steuben,100,10,Other Flowering Plants,15
+Steuben,100,10,Sedges,11
+Steuben,100,10,Snakes,1
+Steuben,100,10,Sparrows and Towhees,1
+Steuben,100,10,Darters and Sunfishes,1
+Steuben,100,10,Freshwater Mussels,2
 Suffolk,99.68847352024922,6.25,All,321
-Suffolk,99.68847352024922,6.25,Amphibians,2
-Suffolk,99.68847352024922,6.25,Birds,14
-Suffolk,99.68847352024922,6.25,Butterflies and Moths,4
+Suffolk,99.68847352024922,6.25,"Asters, Goldenrods and Daisies",23
+Suffolk,99.68847352024922,6.25,Bats,1
+Suffolk,99.68847352024922,6.25,Butterflies and Skippers,4
 Suffolk,99.68847352024922,6.25,Conifers,3
-Suffolk,99.68847352024922,6.25,Ferns and Fern Allies,8
-Suffolk,99.68847352024922,6.25,Fish,2
-Suffolk,99.68847352024922,6.25,Flowering Plants,281
-Suffolk,99.68847352024922,6.25,Mammals,1
-Suffolk,99.68847352024922,6.25,Reptiles,1
-Suffolk,99.68847352024922,6.25,Beetles,2
-Suffolk,99.68847352024922,6.25,Dragonflies and Damselflies,3
+Suffolk,99.68847352024922,6.25,Ferns,5
+Suffolk,99.68847352024922,6.25,Grasses,18
+Suffolk,99.68847352024922,6.25,Grebes,1
+Suffolk,99.68847352024922,6.25,"Gulls, Terns, Plovers, Shorebirds",5
+Suffolk,99.68847352024922,6.25,"Hawks, Falcons, Eagles, Vultures",3
+Suffolk,99.68847352024922,6.25,"Herons, Bitterns, Egrets, Pelicans",1
+Suffolk,99.68847352024922,6.25,Orchids,9
+Suffolk,99.68847352024922,6.25,Other Flowering Plants,160
+Suffolk,99.68847352024922,6.25,"Rails, Coots and Cranes",1
+Suffolk,99.68847352024922,6.25,Salamanders,1
+Suffolk,99.68847352024922,6.25,Sedges,63
+Suffolk,99.68847352024922,6.25,Sparrows and Towhees,1
+Suffolk,99.68847352024922,6.25,Turtles,1
+Suffolk,99.68847352024922,6.25,Wrens,1
+Suffolk,99.68847352024922,6.25,Darters and Sunfishes,2
+Suffolk,99.68847352024922,6.25,Owls,1
+Suffolk,99.68847352024922,6.25,Carrion Beetles,1
+Suffolk,99.68847352024922,6.25,Quillworts,1
+Suffolk,99.68847352024922,6.25,Rushes,8
+Suffolk,99.68847352024922,6.25,Horsetails,1
+Suffolk,99.68847352024922,6.25,Clubmosses,1
+Suffolk,99.68847352024922,6.25,Frogs and Toads,1
+Suffolk,99.68847352024922,6.25,Tiger Beetles,1
 Sullivan,100,10.869565217391305,All,48
-Sullivan,100,10.869565217391305,Birds,5
-Sullivan,100,10.869565217391305,Butterflies and Moths,1
-Sullivan,100,10.869565217391305,Ferns and Fern Allies,3
-Sullivan,100,10.869565217391305,Flowering Plants,34
-Sullivan,100,10.869565217391305,Mammals,1
-Sullivan,100,10.869565217391305,Reptiles,2
-Sullivan,100,10.869565217391305,Mussels and Clams,2
+Sullivan,100,10.869565217391305,"Asters, Goldenrods and Daisies",2
+Sullivan,100,10.869565217391305,Bats,1
+Sullivan,100,10.869565217391305,Butterflies and Skippers,1
+Sullivan,100,10.869565217391305,Ferns,2
+Sullivan,100,10.869565217391305,Grebes,1
+Sullivan,100,10.869565217391305,"Hawks, Falcons, Eagles, Vultures",1
+Sullivan,100,10.869565217391305,"Herons, Bitterns, Egrets, Pelicans",1
+Sullivan,100,10.869565217391305,Orchids,2
+Sullivan,100,10.869565217391305,Other Flowering Plants,24
+Sullivan,100,10.869565217391305,Sedges,4
+Sullivan,100,10.869565217391305,Snakes,1
+Sullivan,100,10.869565217391305,Sparrows and Towhees,1
+Sullivan,100,10.869565217391305,Turtles,1
+Sullivan,100,10.869565217391305,Wrens,1
+Sullivan,100,10.869565217391305,Freshwater Mussels,2
+Sullivan,100,10.869565217391305,Quillworts,1
+Sullivan,100,10.869565217391305,Rushes,2
 Tioga,100,9.090909090909092,All,55
-Tioga,100,9.090909090909092,Birds,6
-Tioga,100,9.090909090909092,Butterflies and Moths,1
-Tioga,100,9.090909090909092,Ferns and Fern Allies,1
-Tioga,100,9.090909090909092,Flowering Plants,44
-Tioga,100,9.090909090909092,Mammals,1
-Tioga,100,9.090909090909092,Mussels and Clams,2
+Tioga,100,9.090909090909092,"Asters, Goldenrods and Daisies",4
+Tioga,100,9.090909090909092,Bats,1
+Tioga,100,9.090909090909092,Butterflies and Skippers,1
+Tioga,100,9.090909090909092,Ferns,1
+Tioga,100,9.090909090909092,Grasses,4
+Tioga,100,9.090909090909092,Grebes,1
+Tioga,100,9.090909090909092,"Hawks, Falcons, Eagles, Vultures",2
+Tioga,100,9.090909090909092,"Herons, Bitterns, Egrets, Pelicans",1
+Tioga,100,9.090909090909092,Orchids,1
+Tioga,100,9.090909090909092,Other Flowering Plants,27
+Tioga,100,9.090909090909092,Sedges,8
+Tioga,100,9.090909090909092,Sparrows and Towhees,1
+Tioga,100,9.090909090909092,Freshwater Mussels,2
+Tioga,100,9.090909090909092,Owls,1
 Tompkins,100,5.555555555555555,All,109
-Tompkins,100,5.555555555555555,Birds,9
-Tompkins,100,5.555555555555555,Butterflies and Moths,1
-Tompkins,100,5.555555555555555,Ferns and Fern Allies,3
-Tompkins,100,5.555555555555555,Fish,2
-Tompkins,100,5.555555555555555,Flowering Plants,91
-Tompkins,100,5.555555555555555,Mammals,1
-Tompkins,100,5.555555555555555,Reptiles,2
+Tompkins,100,5.555555555555555,"Asters, Goldenrods and Daisies",8
+Tompkins,100,5.555555555555555,Bats,1
+Tompkins,100,5.555555555555555,Butterflies and Skippers,1
+Tompkins,100,5.555555555555555,Ferns,2
+Tompkins,100,5.555555555555555,Grasses,5
+Tompkins,100,5.555555555555555,Grebes,1
+Tompkins,100,5.555555555555555,"Gulls, Terns, Plovers, Shorebirds",1
+Tompkins,100,5.555555555555555,"Hawks, Falcons, Eagles, Vultures",3
+Tompkins,100,5.555555555555555,"Herons, Bitterns, Egrets, Pelicans",1
+Tompkins,100,5.555555555555555,Orchids,6
+Tompkins,100,5.555555555555555,Other Flowering Plants,54
+Tompkins,100,5.555555555555555,Sedges,17
+Tompkins,100,5.555555555555555,Snakes,1
+Tompkins,100,5.555555555555555,Sparrows and Towhees,1
+Tompkins,100,5.555555555555555,Sturgeons and Paddlefish,1
+Tompkins,100,5.555555555555555,Turtles,1
+Tompkins,100,5.555555555555555,Wrens,1
+Tompkins,100,5.555555555555555,Owls,1
+Tompkins,100,5.555555555555555,Rushes,1
+Tompkins,100,5.555555555555555,"Minnows, Shiners, Suckers",1
+Tompkins,100,5.555555555555555,Horsetails,1
 Ulster,99.35897435897436,6.493506493506493,All,156
-Ulster,99.35897435897436,6.493506493506493,Amphibians,1
-Ulster,99.35897435897436,6.493506493506493,Birds,10
-Ulster,99.35897435897436,6.493506493506493,Ferns and Fern Allies,11
-Ulster,99.35897435897436,6.493506493506493,Fish,3
-Ulster,99.35897435897436,6.493506493506493,Flowering Plants,125
-Ulster,99.35897435897436,6.493506493506493,Mammals,3
-Ulster,99.35897435897436,6.493506493506493,Reptiles,2
-Ulster,99.35897435897436,6.493506493506493,Mussels and Clams,1
+Ulster,99.35897435897436,6.493506493506493,"Asters, Goldenrods and Daisies",6
+Ulster,99.35897435897436,6.493506493506493,Bats,2
+Ulster,99.35897435897436,6.493506493506493,Ferns,7
+Ulster,99.35897435897436,6.493506493506493,Grasses,6
+Ulster,99.35897435897436,6.493506493506493,Grebes,1
+Ulster,99.35897435897436,6.493506493506493,"Gulls, Terns, Plovers, Shorebirds",1
+Ulster,99.35897435897436,6.493506493506493,"Hawks, Falcons, Eagles, Vultures",3
+Ulster,99.35897435897436,6.493506493506493,"Herons, Bitterns, Egrets, Pelicans",1
+Ulster,99.35897435897436,6.493506493506493,Orchids,7
+Ulster,99.35897435897436,6.493506493506493,Other Flowering Plants,78
+Ulster,99.35897435897436,6.493506493506493,"Rails, Coots and Cranes",1
+Ulster,99.35897435897436,6.493506493506493,Rodents,1
+Ulster,99.35897435897436,6.493506493506493,Sedges,25
+Ulster,99.35897435897436,6.493506493506493,Snakes,1
+Ulster,99.35897435897436,6.493506493506493,Sparrows and Towhees,1
+Ulster,99.35897435897436,6.493506493506493,Sturgeons and Paddlefish,2
+Ulster,99.35897435897436,6.493506493506493,Turtles,1
+Ulster,99.35897435897436,6.493506493506493,Wrens,1
+Ulster,99.35897435897436,6.493506493506493,Darters and Sunfishes,1
+Ulster,99.35897435897436,6.493506493506493,Freshwater Mussels,1
+Ulster,99.35897435897436,6.493506493506493,Owls,1
+Ulster,99.35897435897436,6.493506493506493,Quillworts,1
+Ulster,99.35897435897436,6.493506493506493,Rushes,3
+Ulster,99.35897435897436,6.493506493506493,Horsetails,1
+Ulster,99.35897435897436,6.493506493506493,Clubmosses,2
+Ulster,99.35897435897436,6.493506493506493,Frogs and Toads,1
 Warren,98.9010989010989,6.666666666666667,All,91
-Warren,98.9010989010989,6.666666666666667,Birds,5
-Warren,98.9010989010989,6.666666666666667,Butterflies and Moths,2
+Warren,98.9010989010989,6.666666666666667,"Asters, Goldenrods and Daisies",5
+Warren,98.9010989010989,6.666666666666667,Bats,2
+Warren,98.9010989010989,6.666666666666667,Butterflies and Skippers,2
 Warren,98.9010989010989,6.666666666666667,Conifers,1
-Warren,98.9010989010989,6.666666666666667,Ferns and Fern Allies,4
-Warren,98.9010989010989,6.666666666666667,Fish,1
-Warren,98.9010989010989,6.666666666666667,Flowering Plants,74
-Warren,98.9010989010989,6.666666666666667,Mammals,2
-Warren,98.9010989010989,6.666666666666667,Reptiles,2
+Warren,98.9010989010989,6.666666666666667,Ferns,2
+Warren,98.9010989010989,6.666666666666667,Grasses,3
+Warren,98.9010989010989,6.666666666666667,Grebes,1
+Warren,98.9010989010989,6.666666666666667,"Hawks, Falcons, Eagles, Vultures",3
+Warren,98.9010989010989,6.666666666666667,"Herons, Bitterns, Egrets, Pelicans",1
+Warren,98.9010989010989,6.666666666666667,Orchids,6
+Warren,98.9010989010989,6.666666666666667,Other Flowering Plants,39
+Warren,98.9010989010989,6.666666666666667,Sedges,20
+Warren,98.9010989010989,6.666666666666667,Snakes,1
+Warren,98.9010989010989,6.666666666666667,Turtles,1
+Warren,98.9010989010989,6.666666666666667,Quillworts,1
+Warren,98.9010989010989,6.666666666666667,Rushes,1
+Warren,98.9010989010989,6.666666666666667,Salmon and Trout,1
+Warren,98.9010989010989,6.666666666666667,Clubmosses,1
 Washington,100,4.081632653061225,All,99
-Washington,100,4.081632653061225,Birds,9
-Washington,100,4.081632653061225,Ferns and Fern Allies,7
-Washington,100,4.081632653061225,Fish,1
-Washington,100,4.081632653061225,Flowering Plants,80
-Washington,100,4.081632653061225,Mammals,1
-Washington,100,4.081632653061225,Reptiles,1
+Washington,100,4.081632653061225,"Asters, Goldenrods and Daisies",8
+Washington,100,4.081632653061225,Bats,1
+Washington,100,4.081632653061225,Ferns,2
+Washington,100,4.081632653061225,Grasses,4
+Washington,100,4.081632653061225,Grebes,1
+Washington,100,4.081632653061225,"Gulls, Terns, Plovers, Shorebirds",1
+Washington,100,4.081632653061225,"Hawks, Falcons, Eagles, Vultures",3
+Washington,100,4.081632653061225,"Herons, Bitterns, Egrets, Pelicans",1
+Washington,100,4.081632653061225,Orchids,7
+Washington,100,4.081632653061225,Other Flowering Plants,43
+Washington,100,4.081632653061225,Sedges,18
+Washington,100,4.081632653061225,Snakes,1
+Washington,100,4.081632653061225,Sparrows and Towhees,1
+Washington,100,4.081632653061225,Wrens,1
+Washington,100,4.081632653061225,Darters and Sunfishes,1
+Washington,100,4.081632653061225,Owls,1
+Washington,100,4.081632653061225,Quillworts,2
+Washington,100,4.081632653061225,Horsetails,2
+Washington,100,4.081632653061225,Clubmosses,1
 Wayne,98.66666666666667,8,All,75
-Wayne,98.66666666666667,8,Birds,10
-Wayne,98.66666666666667,8,Fish,4
-Wayne,98.66666666666667,8,Flowering Plants,59
-Wayne,98.66666666666667,8,Mammals,1
-Wayne,98.66666666666667,8,Reptiles,1
+Wayne,98.66666666666667,8,"Asters, Goldenrods and Daisies",6
+Wayne,98.66666666666667,8,Bats,1
+Wayne,98.66666666666667,8,Grasses,3
+Wayne,98.66666666666667,8,Grebes,1
+Wayne,98.66666666666667,8,"Gulls, Terns, Plovers, Shorebirds",2
+Wayne,98.66666666666667,8,"Hawks, Falcons, Eagles, Vultures",3
+Wayne,98.66666666666667,8,"Herons, Bitterns, Egrets, Pelicans",1
+Wayne,98.66666666666667,8,Orchids,7
+Wayne,98.66666666666667,8,Other Flowering Plants,26
+Wayne,98.66666666666667,8,Sedges,17
+Wayne,98.66666666666667,8,Sparrows and Towhees,1
+Wayne,98.66666666666667,8,Sturgeons and Paddlefish,1
+Wayne,98.66666666666667,8,Turtles,1
+Wayne,98.66666666666667,8,Wrens,1
+Wayne,98.66666666666667,8,Owls,1
+Wayne,98.66666666666667,8,"Minnows, Shiners, Suckers",2
+Wayne,98.66666666666667,8,Sculpins,1
 Westchester,99.47368421052632,4.736842105263158,All,190
-Westchester,99.47368421052632,4.736842105263158,Birds,9
+Westchester,99.47368421052632,4.736842105263158,"Asters, Goldenrods and Daisies",13
+Westchester,99.47368421052632,4.736842105263158,Bats,1
 Westchester,99.47368421052632,4.736842105263158,Conifers,3
-Westchester,99.47368421052632,4.736842105263158,Ferns and Fern Allies,5
-Westchester,99.47368421052632,4.736842105263158,Fish,2
-Westchester,99.47368421052632,4.736842105263158,Flowering Plants,165
-Westchester,99.47368421052632,4.736842105263158,Mammals,1
-Westchester,99.47368421052632,4.736842105263158,Reptiles,4
-Westchester,99.47368421052632,4.736842105263158,Beetles,1
+Westchester,99.47368421052632,4.736842105263158,Ferns,3
+Westchester,99.47368421052632,4.736842105263158,Grasses,6
+Westchester,99.47368421052632,4.736842105263158,Grebes,1
+Westchester,99.47368421052632,4.736842105263158,"Gulls, Terns, Plovers, Shorebirds",1
+Westchester,99.47368421052632,4.736842105263158,"Hawks, Falcons, Eagles, Vultures",3
+Westchester,99.47368421052632,4.736842105263158,"Herons, Bitterns, Egrets, Pelicans",1
+Westchester,99.47368421052632,4.736842105263158,Orchids,7
+Westchester,99.47368421052632,4.736842105263158,Other Flowering Plants,101
+Westchester,99.47368421052632,4.736842105263158,"Rails, Coots and Cranes",1
+Westchester,99.47368421052632,4.736842105263158,Sedges,38
+Westchester,99.47368421052632,4.736842105263158,Snakes,1
+Westchester,99.47368421052632,4.736842105263158,Sturgeons and Paddlefish,2
+Westchester,99.47368421052632,4.736842105263158,Turtles,2
+Westchester,99.47368421052632,4.736842105263158,Wrens,1
+Westchester,99.47368421052632,4.736842105263158,Owls,1
+Westchester,99.47368421052632,4.736842105263158,Carrion Beetles,1
+Westchester,99.47368421052632,4.736842105263158,Horsetails,2
+Westchester,99.47368421052632,4.736842105263158,Lizards,1
 Wyoming,100,2.0408163265306123,All,50
-Wyoming,100,2.0408163265306123,Birds,8
-Wyoming,100,2.0408163265306123,Ferns and Fern Allies,1
-Wyoming,100,2.0408163265306123,Flowering Plants,38
-Wyoming,100,2.0408163265306123,Mammals,1
-Wyoming,100,2.0408163265306123,Reptiles,2
+Wyoming,100,2.0408163265306123,"Asters, Goldenrods and Daisies",4
+Wyoming,100,2.0408163265306123,Bats,1
+Wyoming,100,2.0408163265306123,Ferns,1
+Wyoming,100,2.0408163265306123,Grasses,1
+Wyoming,100,2.0408163265306123,Grebes,1
+Wyoming,100,2.0408163265306123,"Gulls, Terns, Plovers, Shorebirds",1
+Wyoming,100,2.0408163265306123,"Hawks, Falcons, Eagles, Vultures",2
+Wyoming,100,2.0408163265306123,"Herons, Bitterns, Egrets, Pelicans",1
+Wyoming,100,2.0408163265306123,Orchids,3
+Wyoming,100,2.0408163265306123,Other Flowering Plants,25
+Wyoming,100,2.0408163265306123,Sedges,5
+Wyoming,100,2.0408163265306123,Snakes,2
+Wyoming,100,2.0408163265306123,Sparrows and Towhees,1
+Wyoming,100,2.0408163265306123,Wrens,1
+Wyoming,100,2.0408163265306123,Owls,1
 Yates,100,1.6129032258064515,All,62
-Yates,100,1.6129032258064515,Birds,6
-Yates,100,1.6129032258064515,Butterflies and Moths,1
-Yates,100,1.6129032258064515,Fish,1
-Yates,100,1.6129032258064515,Flowering Plants,52
-Yates,100,1.6129032258064515,Mammals,1
-Yates,100,1.6129032258064515,Reptiles,1
+Yates,100,1.6129032258064515,"Asters, Goldenrods and Daisies",4
+Yates,100,1.6129032258064515,Bats,1
+Yates,100,1.6129032258064515,Butterflies and Skippers,1
+Yates,100,1.6129032258064515,Grasses,7
+Yates,100,1.6129032258064515,Grebes,1
+Yates,100,1.6129032258064515,"Hawks, Falcons, Eagles, Vultures",2
+Yates,100,1.6129032258064515,Orchids,2
+Yates,100,1.6129032258064515,Other Flowering Plants,23
+Yates,100,1.6129032258064515,Sedges,16
+Yates,100,1.6129032258064515,Snakes,1
+Yates,100,1.6129032258064515,Sparrows and Towhees,1
+Yates,100,1.6129032258064515,Wrens,1
+Yates,100,1.6129032258064515,Owls,1
+Yates,100,1.6129032258064515,"Minnows, Shiners, Suckers",1

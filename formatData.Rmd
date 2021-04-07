@@ -88,10 +88,10 @@ county_data <- biodiversity %>%
 
 ```{r}
 # Derive number of species for each taxonomic group
-species_by_group <- biodiversity %>%
-  group_by(taxonomic_group) %>%
+species_by_subgroup <- biodiversity %>%
+  group_by(taxonomic_subgroup) %>%
   summarise(unique_species = unique(common_name)) %>%
-  group_by(taxonomic_group) %>%
+  group_by(taxonomic_subgroup) %>%
   summarise(n_species = n())
 ```
 
@@ -130,17 +130,18 @@ counties_derived <- full_join(county_data, county_security) %>%
 
 ```{r}
 # Contains the number of each taxonomic group that occurs in each county
+# changed taxnomic group to taxnomic subgroup -- Caitlin
 # Also contains the security and population of the county
 counties_taxonomic = 
   biodiversity %>% 
-  select(county, taxonomic_group) %>% 
-  count(county, taxonomic_group) %>% 
-  pivot_wider(names_from = taxonomic_group, values_from = n) %>% 
+  select(county, taxonomic_subgroup) %>% 
+  count(county, taxonomic_subgroup) %>% 
+  pivot_wider(names_from = taxonomic_subgroup, values_from = n) %>% 
   #replace(is.na(.), 0) %>% 
   right_join(counties_derived, by = "county") %>%
   rename(All = n_species) %>% 
-  select(county, All, 2:15, perc_not_secure_state, perc_not_secure_global) %>% 
-  pivot_longer(2:16, names_to = "taxonomic_group", values_to = "n") %>% 
+  select(county, All, 2:42, perc_not_secure_state, perc_not_secure_global) %>% 
+  pivot_longer(2:43, names_to = "taxonomic_subgroup", values_to = "n") %>% 
   drop_na() %>% 
   mutate(n = as.integer(n))
 
@@ -151,7 +152,7 @@ counties_taxonomic =
 ```{r}
 # Summarise by county and do math to get % not secure for each county
 taxonomic_security <- biodiversity_security %>%
-  group_by(county, taxonomic_group) %>%
+  group_by(county, taxonomic_subgroup) %>%
   summarize(state_secure = length(which(state_security == "secure")),
             state_not_secure = length(which(state_security == "not_secure")), 
             global_secure = length(which(global_security == "secure")),
@@ -161,19 +162,19 @@ taxonomic_security <- biodiversity_security %>%
             perc_not_secure_state = state_not_secure/total_state * 100,
             perc_not_secure_global = global_not_secure/total_global *100
   ) %>% 
-  select(county, taxonomic_group, perc_not_secure_state, perc_not_secure_global) %>% 
-  rename(group_secure = taxonomic_group)
+  select(county, taxonomic_subgroup, perc_not_secure_state, perc_not_secure_global) %>% 
+  rename(subgroup_secure = taxonomic_subgroup)
 
 all_security = counties_derived %>% 
   select(county, perc_not_secure_state, perc_not_secure_global) %>% 
-  mutate(group_secure = "All")
+  mutate(subgroup_secure = "All")
 
 taxonomic_security = rbind(taxonomic_security, all_security)
 
 taxonomic_security = counties_taxonomic %>% 
   select(-perc_not_secure_state, -perc_not_secure_global) %>% 
   left_join(taxonomic_security, by = "county") %>% 
-  filter(taxonomic_group == group_secure) %>% 
+  filter(taxonomic_subgroup == subgroup_secure) %>% 
   pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_secure")
 ```
 
