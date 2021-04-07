@@ -1,1186 +1,2264 @@
 county,perc_not_secure_state,perc_not_secure_global,taxonomic_subgroup,n
-Albany,100,8.130081300813007,All,123
-Albany,100,8.130081300813007,"Asters, Goldenrods and Daisies",6
-Albany,100,8.130081300813007,Bats,2
-Albany,100,8.130081300813007,Butterflies and Skippers,3
-Albany,100,8.130081300813007,Conifers,1
-Albany,100,8.130081300813007,Ferns,2
-Albany,100,8.130081300813007,Grasses,7
-Albany,100,8.130081300813007,Grebes,1
-Albany,100,8.130081300813007,"Gulls, Terns, Plovers, Shorebirds",1
-Albany,100,8.130081300813007,"Hawks, Falcons, Eagles, Vultures",3
-Albany,100,8.130081300813007,"Herons, Bitterns, Egrets, Pelicans",1
-Albany,100,8.130081300813007,Orchids,8
-Albany,100,8.130081300813007,Other Flowering Plants,55
-Albany,100,8.130081300813007,"Rails, Coots and Cranes",1
-Albany,100,8.130081300813007,Rodents,1
-Albany,100,8.130081300813007,Salamanders,1
-Albany,100,8.130081300813007,Sedges,24
-Albany,100,8.130081300813007,Snakes,1
-Albany,100,8.130081300813007,Sparrows and Towhees,1
-Albany,100,8.130081300813007,Sturgeons and Paddlefish,2
-Albany,100,8.130081300813007,Turtles,1
-Albany,100,8.130081300813007,Wrens,1
-Allegany,100,7.6923076923076925,All,26
-Allegany,100,7.6923076923076925,Bats,1
-Allegany,100,7.6923076923076925,Ferns,1
-Allegany,100,7.6923076923076925,Grebes,1
-Allegany,100,7.6923076923076925,"Gulls, Terns, Plovers, Shorebirds",1
-Allegany,100,7.6923076923076925,"Hawks, Falcons, Eagles, Vultures",3
-Allegany,100,7.6923076923076925,"Herons, Bitterns, Egrets, Pelicans",1
-Allegany,100,7.6923076923076925,Other Flowering Plants,10
-Allegany,100,7.6923076923076925,Sedges,2
-Allegany,100,7.6923076923076925,Snakes,2
-Allegany,100,7.6923076923076925,Sparrows and Towhees,1
-Allegany,100,7.6923076923076925,Darters and Sunfishes,1
-Allegany,100,7.6923076923076925,Freshwater Mussels,1
-Allegany,100,7.6923076923076925,Owls,1
-Bronx,100,5.839416058394161,All,139
-Bronx,100,5.839416058394161,"Asters, Goldenrods and Daisies",8
-Bronx,100,5.839416058394161,Bats,1
-Bronx,100,5.839416058394161,Ferns,2
-Bronx,100,5.839416058394161,Grasses,9
-Bronx,100,5.839416058394161,"Gulls, Terns, Plovers, Shorebirds",1
-Bronx,100,5.839416058394161,"Hawks, Falcons, Eagles, Vultures",2
-Bronx,100,5.839416058394161,Orchids,5
-Bronx,100,5.839416058394161,Other Flowering Plants,73
-Bronx,100,5.839416058394161,Sedges,29
-Bronx,100,5.839416058394161,Sturgeons and Paddlefish,2
-Bronx,100,5.839416058394161,Carrion Beetles,1
-Bronx,100,5.839416058394161,Quillworts,1
-Bronx,100,5.839416058394161,Rushes,5
-Broome,100,8.333333333333332,All,36
-Broome,100,8.333333333333332,"Asters, Goldenrods and Daisies",1
-Broome,100,8.333333333333332,Bats,1
-Broome,100,8.333333333333332,Ferns,1
-Broome,100,8.333333333333332,Grasses,1
-Broome,100,8.333333333333332,Grebes,1
-Broome,100,8.333333333333332,"Gulls, Terns, Plovers, Shorebirds",1
-Broome,100,8.333333333333332,"Hawks, Falcons, Eagles, Vultures",3
-Broome,100,8.333333333333332,"Herons, Bitterns, Egrets, Pelicans",1
-Broome,100,8.333333333333332,Orchids,2
-Broome,100,8.333333333333332,Other Flowering Plants,19
-Broome,100,8.333333333333332,Snakes,1
-Broome,100,8.333333333333332,Sparrows and Towhees,1
-Broome,100,8.333333333333332,Freshwater Mussels,2
-Broome,100,8.333333333333332,"Minnows, Shiners, Suckers",1
-Cattaraugus,100,4.938271604938271,All,82
-Cattaraugus,100,4.938271604938271,"Asters, Goldenrods and Daisies",9
-Cattaraugus,100,4.938271604938271,Bats,1
-Cattaraugus,100,4.938271604938271,Butterflies and Skippers,1
-Cattaraugus,100,4.938271604938271,Ferns,5
-Cattaraugus,100,4.938271604938271,Grasses,2
-Cattaraugus,100,4.938271604938271,Grebes,1
-Cattaraugus,100,4.938271604938271,"Gulls, Terns, Plovers, Shorebirds",1
-Cattaraugus,100,4.938271604938271,"Hawks, Falcons, Eagles, Vultures",2
-Cattaraugus,100,4.938271604938271,"Herons, Bitterns, Egrets, Pelicans",1
-Cattaraugus,100,4.938271604938271,Orchids,3
-Cattaraugus,100,4.938271604938271,Other Flowering Plants,34
-Cattaraugus,100,4.938271604938271,Sedges,11
-Cattaraugus,100,4.938271604938271,Snakes,2
-Cattaraugus,100,4.938271604938271,Sparrows and Towhees,1
-Cattaraugus,100,4.938271604938271,Darters and Sunfishes,4
-Cattaraugus,100,4.938271604938271,Freshwater Mussels,2
-Cattaraugus,100,4.938271604938271,Rushes,1
-Cattaraugus,100,4.938271604938271,"Minnows, Shiners, Suckers",1
-Cayuga,100,4.9504950495049505,All,101
-Cayuga,100,4.9504950495049505,"Asters, Goldenrods and Daisies",5
-Cayuga,100,4.9504950495049505,Bats,2
-Cayuga,100,4.9504950495049505,Ferns,1
-Cayuga,100,4.9504950495049505,Grasses,4
-Cayuga,100,4.9504950495049505,Grebes,1
-Cayuga,100,4.9504950495049505,"Gulls, Terns, Plovers, Shorebirds",2
-Cayuga,100,4.9504950495049505,"Hawks, Falcons, Eagles, Vultures",2
-Cayuga,100,4.9504950495049505,"Herons, Bitterns, Egrets, Pelicans",1
-Cayuga,100,4.9504950495049505,Orchids,5
-Cayuga,100,4.9504950495049505,Other Flowering Plants,47
-Cayuga,100,4.9504950495049505,"Rails, Coots and Cranes",1
-Cayuga,100,4.9504950495049505,Sedges,22
-Cayuga,100,4.9504950495049505,Sparrows and Towhees,1
-Cayuga,100,4.9504950495049505,Sturgeons and Paddlefish,1
-Cayuga,100,4.9504950495049505,Turtles,1
-Cayuga,100,4.9504950495049505,Wrens,1
-Cayuga,100,4.9504950495049505,Freshwater Mussels,1
-Cayuga,100,4.9504950495049505,Owls,1
-Cayuga,100,4.9504950495049505,"Minnows, Shiners, Suckers",1
-Cayuga,100,4.9504950495049505,Sculpins,1
-Chautauqua,100,8.333333333333332,All,73
-Chautauqua,100,8.333333333333332,"Asters, Goldenrods and Daisies",3
-Chautauqua,100,8.333333333333332,Bats,1
-Chautauqua,100,8.333333333333332,Ferns,4
-Chautauqua,100,8.333333333333332,Grasses,1
-Chautauqua,100,8.333333333333332,Grebes,1
-Chautauqua,100,8.333333333333332,"Gulls, Terns, Plovers, Shorebirds",1
-Chautauqua,100,8.333333333333332,"Hawks, Falcons, Eagles, Vultures",2
-Chautauqua,100,8.333333333333332,"Herons, Bitterns, Egrets, Pelicans",1
-Chautauqua,100,8.333333333333332,Orchids,5
-Chautauqua,100,8.333333333333332,Other Flowering Plants,32
-Chautauqua,100,8.333333333333332,Sedges,8
-Chautauqua,100,8.333333333333332,Snakes,1
-Chautauqua,100,8.333333333333332,Sparrows and Towhees,1
-Chautauqua,100,8.333333333333332,Turtles,1
-Chautauqua,100,8.333333333333332,Wrens,1
-Chautauqua,100,8.333333333333332,Darters and Sunfishes,3
-Chautauqua,100,8.333333333333332,Freshwater Mussels,3
-Chautauqua,100,8.333333333333332,Owls,1
-Chautauqua,100,8.333333333333332,"Minnows, Shiners, Suckers",1
-Chautauqua,100,8.333333333333332,Sculpins,1
-Chautauqua,100,8.333333333333332,Mooneyes,1
-Chemung,100,5.797101449275362,All,69
-Chemung,100,5.797101449275362,"Asters, Goldenrods and Daisies",7
-Chemung,100,5.797101449275362,Bats,1
-Chemung,100,5.797101449275362,Conifers,1
-Chemung,100,5.797101449275362,Ferns,1
-Chemung,100,5.797101449275362,Grasses,4
-Chemung,100,5.797101449275362,Grebes,1
-Chemung,100,5.797101449275362,"Gulls, Terns, Plovers, Shorebirds",1
-Chemung,100,5.797101449275362,"Hawks, Falcons, Eagles, Vultures",2
-Chemung,100,5.797101449275362,"Herons, Bitterns, Egrets, Pelicans",1
-Chemung,100,5.797101449275362,Orchids,4
-Chemung,100,5.797101449275362,Other Flowering Plants,33
-Chemung,100,5.797101449275362,Sedges,8
-Chemung,100,5.797101449275362,Snakes,1
-Chemung,100,5.797101449275362,Sparrows and Towhees,1
-Chemung,100,5.797101449275362,Freshwater Mussels,2
-Chemung,100,5.797101449275362,Owls,1
-Chenango,100,11.11111111111111,All,36
-Chenango,100,11.11111111111111,"Asters, Goldenrods and Daisies",2
-Chenango,100,11.11111111111111,Bats,1
-Chenango,100,11.11111111111111,Conifers,1
-Chenango,100,11.11111111111111,Ferns,2
-Chenango,100,11.11111111111111,Grebes,1
-Chenango,100,11.11111111111111,"Hawks, Falcons, Eagles, Vultures",2
-Chenango,100,11.11111111111111,"Herons, Bitterns, Egrets, Pelicans",1
-Chenango,100,11.11111111111111,Orchids,2
-Chenango,100,11.11111111111111,Other Flowering Plants,19
-Chenango,100,11.11111111111111,Sedges,1
-Chenango,100,11.11111111111111,Sparrows and Towhees,1
-Chenango,100,11.11111111111111,Wrens,1
-Chenango,100,11.11111111111111,Freshwater Mussels,2
-Clinton,98.86363636363636,2.2988505747126435,All,88
-Clinton,98.86363636363636,2.2988505747126435,"Asters, Goldenrods and Daisies",6
-Clinton,98.86363636363636,2.2988505747126435,Bats,1
-Clinton,98.86363636363636,2.2988505747126435,Conifers,1
-Clinton,98.86363636363636,2.2988505747126435,Grasses,3
-Clinton,98.86363636363636,2.2988505747126435,Grebes,1
-Clinton,98.86363636363636,2.2988505747126435,"Gulls, Terns, Plovers, Shorebirds",2
-Clinton,98.86363636363636,2.2988505747126435,"Hawks, Falcons, Eagles, Vultures",3
-Clinton,98.86363636363636,2.2988505747126435,"Herons, Bitterns, Egrets, Pelicans",1
-Clinton,98.86363636363636,2.2988505747126435,Orchids,3
-Clinton,98.86363636363636,2.2988505747126435,Other Flowering Plants,38
-Clinton,98.86363636363636,2.2988505747126435,"Rails, Coots and Cranes",1
-Clinton,98.86363636363636,2.2988505747126435,Sedges,17
-Clinton,98.86363636363636,2.2988505747126435,Snakes,1
-Clinton,98.86363636363636,2.2988505747126435,Sturgeons and Paddlefish,1
-Clinton,98.86363636363636,2.2988505747126435,Wrens,1
-Clinton,98.86363636363636,2.2988505747126435,Owls,1
-Clinton,98.86363636363636,2.2988505747126435,Quillworts,1
-Clinton,98.86363636363636,2.2988505747126435,"Grouse, Pheasants, Turkeys",1
-Clinton,98.86363636363636,2.2988505747126435,Horsetails,2
-Clinton,98.86363636363636,2.2988505747126435,Moths,1
-Clinton,98.86363636363636,2.2988505747126435,Salmon and Trout,1
-Clinton,98.86363636363636,2.2988505747126435,Shrikes,1
-Columbia,100,7.865168539325842,All,91
-Columbia,100,7.865168539325842,"Asters, Goldenrods and Daisies",5
-Columbia,100,7.865168539325842,Bats,2
-Columbia,100,7.865168539325842,Ferns,2
-Columbia,100,7.865168539325842,Grasses,3
-Columbia,100,7.865168539325842,Grebes,1
-Columbia,100,7.865168539325842,"Gulls, Terns, Plovers, Shorebirds",1
-Columbia,100,7.865168539325842,"Hawks, Falcons, Eagles, Vultures",3
-Columbia,100,7.865168539325842,"Herons, Bitterns, Egrets, Pelicans",1
-Columbia,100,7.865168539325842,Orchids,3
-Columbia,100,7.865168539325842,Other Flowering Plants,43
-Columbia,100,7.865168539325842,Sedges,21
-Columbia,100,7.865168539325842,Snakes,1
-Columbia,100,7.865168539325842,Sturgeons and Paddlefish,2
-Columbia,100,7.865168539325842,Turtles,1
-Columbia,100,7.865168539325842,Quillworts,2
-Cortland,100,9.75609756097561,All,41
-Cortland,100,9.75609756097561,"Asters, Goldenrods and Daisies",2
-Cortland,100,9.75609756097561,Bats,1
-Cortland,100,9.75609756097561,Ferns,1
-Cortland,100,9.75609756097561,Grasses,1
-Cortland,100,9.75609756097561,Grebes,1
-Cortland,100,9.75609756097561,"Gulls, Terns, Plovers, Shorebirds",1
-Cortland,100,9.75609756097561,"Hawks, Falcons, Eagles, Vultures",2
-Cortland,100,9.75609756097561,"Herons, Bitterns, Egrets, Pelicans",1
-Cortland,100,9.75609756097561,Orchids,5
-Cortland,100,9.75609756097561,Other Flowering Plants,18
-Cortland,100,9.75609756097561,Sedges,4
-Cortland,100,9.75609756097561,Sparrows and Towhees,1
-Cortland,100,9.75609756097561,Freshwater Mussels,2
-Cortland,100,9.75609756097561,Clubmosses,1
-Delaware,100,11.904761904761903,All,43
-Delaware,100,11.904761904761903,"Asters, Goldenrods and Daisies",2
-Delaware,100,11.904761904761903,Bats,1
-Delaware,100,11.904761904761903,Ferns,1
-Delaware,100,11.904761904761903,Grasses,1
-Delaware,100,11.904761904761903,Grebes,1
-Delaware,100,11.904761904761903,"Hawks, Falcons, Eagles, Vultures",2
-Delaware,100,11.904761904761903,Orchids,3
-Delaware,100,11.904761904761903,Other Flowering Plants,22
-Delaware,100,11.904761904761903,Snakes,1
-Delaware,100,11.904761904761903,Sparrows and Towhees,1
-Delaware,100,11.904761904761903,Freshwater Mussels,3
-Delaware,100,11.904761904761903,Owls,1
-Delaware,100,11.904761904761903,Rushes,2
-Delaware,100,11.904761904761903,Horsetails,1
-Delaware,100,11.904761904761903,Clubmosses,1
-Dutchess,99.33333333333333,7.38255033557047,All,150
-Dutchess,99.33333333333333,7.38255033557047,"Asters, Goldenrods and Daisies",8
-Dutchess,99.33333333333333,7.38255033557047,Bats,2
-Dutchess,99.33333333333333,7.38255033557047,Conifers,1
-Dutchess,99.33333333333333,7.38255033557047,Ferns,4
-Dutchess,99.33333333333333,7.38255033557047,Grasses,5
-Dutchess,99.33333333333333,7.38255033557047,Grebes,1
-Dutchess,99.33333333333333,7.38255033557047,"Gulls, Terns, Plovers, Shorebirds",1
-Dutchess,99.33333333333333,7.38255033557047,"Hawks, Falcons, Eagles, Vultures",4
-Dutchess,99.33333333333333,7.38255033557047,"Herons, Bitterns, Egrets, Pelicans",1
-Dutchess,99.33333333333333,7.38255033557047,Orchids,4
-Dutchess,99.33333333333333,7.38255033557047,Other Flowering Plants,75
-Dutchess,99.33333333333333,7.38255033557047,"Rails, Coots and Cranes",1
-Dutchess,99.33333333333333,7.38255033557047,Sedges,28
-Dutchess,99.33333333333333,7.38255033557047,Snakes,1
-Dutchess,99.33333333333333,7.38255033557047,Sturgeons and Paddlefish,2
-Dutchess,99.33333333333333,7.38255033557047,Turtles,2
-Dutchess,99.33333333333333,7.38255033557047,Wrens,1
-Dutchess,99.33333333333333,7.38255033557047,Freshwater Mussels,2
-Dutchess,99.33333333333333,7.38255033557047,Quillworts,2
-Dutchess,99.33333333333333,7.38255033557047,Rushes,1
-Dutchess,99.33333333333333,7.38255033557047,Horsetails,2
-Dutchess,99.33333333333333,7.38255033557047,Frogs and Toads,1
-Dutchess,99.33333333333333,7.38255033557047,Lizards,1
-Erie,100,2.797202797202797,All,143
-Erie,100,2.797202797202797,"Asters, Goldenrods and Daisies",8
-Erie,100,2.797202797202797,Bats,1
-Erie,100,2.797202797202797,Butterflies and Skippers,3
-Erie,100,2.797202797202797,Ferns,2
-Erie,100,2.797202797202797,Grasses,4
-Erie,100,2.797202797202797,Grebes,1
-Erie,100,2.797202797202797,"Gulls, Terns, Plovers, Shorebirds",3
-Erie,100,2.797202797202797,"Hawks, Falcons, Eagles, Vultures",3
-Erie,100,2.797202797202797,"Herons, Bitterns, Egrets, Pelicans",1
-Erie,100,2.797202797202797,Orchids,7
-Erie,100,2.797202797202797,Other Flowering Plants,73
-Erie,100,2.797202797202797,Sedges,21
-Erie,100,2.797202797202797,Snakes,1
-Erie,100,2.797202797202797,Sparrows and Towhees,1
-Erie,100,2.797202797202797,Sturgeons and Paddlefish,1
-Erie,100,2.797202797202797,Turtles,1
-Erie,100,2.797202797202797,Wrens,1
-Erie,100,2.797202797202797,Darters and Sunfishes,2
-Erie,100,2.797202797202797,Owls,1
-Erie,100,2.797202797202797,Carrion Beetles,1
-Erie,100,2.797202797202797,Quillworts,1
-Erie,100,2.797202797202797,Rushes,1
-Erie,100,2.797202797202797,"Minnows, Shiners, Suckers",2
-Erie,100,2.797202797202797,Sculpins,1
-Erie,100,2.797202797202797,Mooneyes,1
-Erie,100,2.797202797202797,Horsetails,1
-Essex,98.7012987012987,3.9215686274509802,All,154
-Essex,98.7012987012987,3.9215686274509802,"Asters, Goldenrods and Daisies",10
-Essex,98.7012987012987,3.9215686274509802,Bats,2
-Essex,98.7012987012987,3.9215686274509802,Conifers,1
-Essex,98.7012987012987,3.9215686274509802,Ferns,6
-Essex,98.7012987012987,3.9215686274509802,Grasses,10
-Essex,98.7012987012987,3.9215686274509802,Grebes,1
-Essex,98.7012987012987,3.9215686274509802,"Gulls, Terns, Plovers, Shorebirds",2
-Essex,98.7012987012987,3.9215686274509802,"Hawks, Falcons, Eagles, Vultures",4
-Essex,98.7012987012987,3.9215686274509802,"Herons, Bitterns, Egrets, Pelicans",1
-Essex,98.7012987012987,3.9215686274509802,Orchids,5
-Essex,98.7012987012987,3.9215686274509802,Other Flowering Plants,66
-Essex,98.7012987012987,3.9215686274509802,Sedges,27
-Essex,98.7012987012987,3.9215686274509802,Snakes,1
-Essex,98.7012987012987,3.9215686274509802,Sturgeons and Paddlefish,1
-Essex,98.7012987012987,3.9215686274509802,Wrens,1
-Essex,98.7012987012987,3.9215686274509802,Darters and Sunfishes,1
-Essex,98.7012987012987,3.9215686274509802,Owls,1
-Essex,98.7012987012987,3.9215686274509802,Quillworts,2
-Essex,98.7012987012987,3.9215686274509802,Rushes,3
-Essex,98.7012987012987,3.9215686274509802,Mooneyes,1
-Essex,98.7012987012987,3.9215686274509802,"Grouse, Pheasants, Turkeys",1
-Essex,98.7012987012987,3.9215686274509802,Horsetails,1
-Essex,98.7012987012987,3.9215686274509802,Salmon and Trout,1
-Essex,98.7012987012987,3.9215686274509802,Clubmosses,5
-Franklin,98.33333333333333,1.6666666666666667,All,60
-Franklin,98.33333333333333,1.6666666666666667,"Asters, Goldenrods and Daisies",4
-Franklin,98.33333333333333,1.6666666666666667,Bats,1
-Franklin,98.33333333333333,1.6666666666666667,Ferns,1
-Franklin,98.33333333333333,1.6666666666666667,Grasses,4
-Franklin,98.33333333333333,1.6666666666666667,Grebes,1
-Franklin,98.33333333333333,1.6666666666666667,"Gulls, Terns, Plovers, Shorebirds",2
-Franklin,98.33333333333333,1.6666666666666667,"Hawks, Falcons, Eagles, Vultures",4
-Franklin,98.33333333333333,1.6666666666666667,"Herons, Bitterns, Egrets, Pelicans",1
-Franklin,98.33333333333333,1.6666666666666667,Orchids,1
-Franklin,98.33333333333333,1.6666666666666667,Other Flowering Plants,20
-Franklin,98.33333333333333,1.6666666666666667,Sedges,11
-Franklin,98.33333333333333,1.6666666666666667,Sturgeons and Paddlefish,1
-Franklin,98.33333333333333,1.6666666666666667,Turtles,1
-Franklin,98.33333333333333,1.6666666666666667,Wrens,1
-Franklin,98.33333333333333,1.6666666666666667,Darters and Sunfishes,1
-Franklin,98.33333333333333,1.6666666666666667,Owls,1
-Franklin,98.33333333333333,1.6666666666666667,"Grouse, Pheasants, Turkeys",1
-Franklin,98.33333333333333,1.6666666666666667,Salmon and Trout,1
-Franklin,98.33333333333333,1.6666666666666667,Shrikes,1
-Franklin,98.33333333333333,1.6666666666666667,Clubmosses,2
-Fulton,100,8,All,25
-Fulton,100,8,Bats,1
-Fulton,100,8,Grebes,1
-Fulton,100,8,"Gulls, Terns, Plovers, Shorebirds",1
-Fulton,100,8,"Hawks, Falcons, Eagles, Vultures",2
-Fulton,100,8,"Herons, Bitterns, Egrets, Pelicans",1
-Fulton,100,8,Orchids,3
-Fulton,100,8,Other Flowering Plants,7
-Fulton,100,8,Sedges,6
-Fulton,100,8,Sparrows and Towhees,1
-Fulton,100,8,Wrens,1
-Fulton,100,8,Salmon and Trout,1
-Genesee,100,6.0606060606060606,All,99
-Genesee,100,6.0606060606060606,"Asters, Goldenrods and Daisies",6
-Genesee,100,6.0606060606060606,Bats,1
-Genesee,100,6.0606060606060606,Butterflies and Skippers,3
-Genesee,100,6.0606060606060606,Conifers,1
-Genesee,100,6.0606060606060606,Ferns,3
-Genesee,100,6.0606060606060606,Grasses,2
-Genesee,100,6.0606060606060606,Grebes,1
-Genesee,100,6.0606060606060606,"Gulls, Terns, Plovers, Shorebirds",2
-Genesee,100,6.0606060606060606,"Hawks, Falcons, Eagles, Vultures",2
-Genesee,100,6.0606060606060606,"Herons, Bitterns, Egrets, Pelicans",1
-Genesee,100,6.0606060606060606,Orchids,7
-Genesee,100,6.0606060606060606,Other Flowering Plants,45
-Genesee,100,6.0606060606060606,"Rails, Coots and Cranes",1
-Genesee,100,6.0606060606060606,Sedges,17
-Genesee,100,6.0606060606060606,Snakes,2
-Genesee,100,6.0606060606060606,Sparrows and Towhees,1
-Genesee,100,6.0606060606060606,Turtles,1
-Genesee,100,6.0606060606060606,Wrens,1
-Genesee,100,6.0606060606060606,Freshwater Mussels,1
-Genesee,100,6.0606060606060606,Owls,1
-Greene,100,6.8493150684931505,All,74
-Greene,100,6.8493150684931505,"Asters, Goldenrods and Daisies",4
-Greene,100,6.8493150684931505,Bats,1
-Greene,100,6.8493150684931505,Ferns,6
-Greene,100,6.8493150684931505,Grasses,1
-Greene,100,6.8493150684931505,Grebes,1
-Greene,100,6.8493150684931505,"Gulls, Terns, Plovers, Shorebirds",1
-Greene,100,6.8493150684931505,"Hawks, Falcons, Eagles, Vultures",3
-Greene,100,6.8493150684931505,"Herons, Bitterns, Egrets, Pelicans",1
-Greene,100,6.8493150684931505,Orchids,2
-Greene,100,6.8493150684931505,Other Flowering Plants,29
-Greene,100,6.8493150684931505,"Rails, Coots and Cranes",1
-Greene,100,6.8493150684931505,Sedges,15
-Greene,100,6.8493150684931505,Snakes,1
-Greene,100,6.8493150684931505,Sturgeons and Paddlefish,2
-Greene,100,6.8493150684931505,Owls,1
-Greene,100,6.8493150684931505,Quillworts,2
-Greene,100,6.8493150684931505,Rushes,1
-Greene,100,6.8493150684931505,Clubmosses,2
-Hamilton,98.30508474576271,3.389830508474576,All,59
-Hamilton,98.30508474576271,3.389830508474576,"Asters, Goldenrods and Daisies",3
-Hamilton,98.30508474576271,3.389830508474576,Bats,1
-Hamilton,98.30508474576271,3.389830508474576,Conifers,1
-Hamilton,98.30508474576271,3.389830508474576,Ferns,3
-Hamilton,98.30508474576271,3.389830508474576,Grasses,3
-Hamilton,98.30508474576271,3.389830508474576,Grebes,1
-Hamilton,98.30508474576271,3.389830508474576,"Hawks, Falcons, Eagles, Vultures",4
-Hamilton,98.30508474576271,3.389830508474576,"Herons, Bitterns, Egrets, Pelicans",1
-Hamilton,98.30508474576271,3.389830508474576,Orchids,3
-Hamilton,98.30508474576271,3.389830508474576,Other Flowering Plants,24
-Hamilton,98.30508474576271,3.389830508474576,Sedges,12
-Hamilton,98.30508474576271,3.389830508474576,Turtles,1
-Hamilton,98.30508474576271,3.389830508474576,"Grouse, Pheasants, Turkeys",1
-Hamilton,98.30508474576271,3.389830508474576,Salmon and Trout,1
-Herkimer,98.66666666666667,4,All,75
-Herkimer,98.66666666666667,4,"Asters, Goldenrods and Daisies",5
-Herkimer,98.66666666666667,4,Bats,1
-Herkimer,98.66666666666667,4,Ferns,3
-Herkimer,98.66666666666667,4,Grasses,3
-Herkimer,98.66666666666667,4,Grebes,1
-Herkimer,98.66666666666667,4,"Gulls, Terns, Plovers, Shorebirds",1
-Herkimer,98.66666666666667,4,"Hawks, Falcons, Eagles, Vultures",4
-Herkimer,98.66666666666667,4,"Herons, Bitterns, Egrets, Pelicans",1
-Herkimer,98.66666666666667,4,Orchids,3
-Herkimer,98.66666666666667,4,Other Flowering Plants,31
-Herkimer,98.66666666666667,4,Sedges,15
-Herkimer,98.66666666666667,4,Sparrows and Towhees,1
-Herkimer,98.66666666666667,4,Wrens,1
-Herkimer,98.66666666666667,4,Owls,1
-Herkimer,98.66666666666667,4,Quillworts,1
-Herkimer,98.66666666666667,4,Rushes,1
-Herkimer,98.66666666666667,4,Horsetails,1
-Herkimer,98.66666666666667,4,Salmon and Trout,1
-Jefferson,99.12280701754386,6.140350877192982,All,114
-Jefferson,99.12280701754386,6.140350877192982,"Asters, Goldenrods and Daisies",5
-Jefferson,99.12280701754386,6.140350877192982,Bats,2
-Jefferson,99.12280701754386,6.140350877192982,Butterflies and Skippers,1
-Jefferson,99.12280701754386,6.140350877192982,Ferns,1
-Jefferson,99.12280701754386,6.140350877192982,Grasses,6
-Jefferson,99.12280701754386,6.140350877192982,Grebes,1
-Jefferson,99.12280701754386,6.140350877192982,"Gulls, Terns, Plovers, Shorebirds",4
-Jefferson,99.12280701754386,6.140350877192982,"Hawks, Falcons, Eagles, Vultures",3
-Jefferson,99.12280701754386,6.140350877192982,"Herons, Bitterns, Egrets, Pelicans",1
-Jefferson,99.12280701754386,6.140350877192982,Orchids,6
-Jefferson,99.12280701754386,6.140350877192982,Other Flowering Plants,49
-Jefferson,99.12280701754386,6.140350877192982,Sedges,24
-Jefferson,99.12280701754386,6.140350877192982,Sparrows and Towhees,1
-Jefferson,99.12280701754386,6.140350877192982,Sturgeons and Paddlefish,1
-Jefferson,99.12280701754386,6.140350877192982,Turtles,1
-Jefferson,99.12280701754386,6.140350877192982,Wrens,1
-Jefferson,99.12280701754386,6.140350877192982,Owls,1
-Jefferson,99.12280701754386,6.140350877192982,Rushes,1
-Jefferson,99.12280701754386,6.140350877192982,"Minnows, Shiners, Suckers",1
-Jefferson,99.12280701754386,6.140350877192982,Mooneyes,1
-Jefferson,99.12280701754386,6.140350877192982,Horsetails,1
-Jefferson,99.12280701754386,6.140350877192982,Shrikes,1
-Jefferson,99.12280701754386,6.140350877192982,Mayflies,1
-Kings,98.79518072289156,7.317073170731707,All,83
-Kings,98.79518072289156,7.317073170731707,"Asters, Goldenrods and Daisies",7
-Kings,98.79518072289156,7.317073170731707,Bats,1
-Kings,98.79518072289156,7.317073170731707,Butterflies and Skippers,1
-Kings,98.79518072289156,7.317073170731707,Grasses,4
-Kings,98.79518072289156,7.317073170731707,Grebes,1
-Kings,98.79518072289156,7.317073170731707,"Gulls, Terns, Plovers, Shorebirds",3
-Kings,98.79518072289156,7.317073170731707,"Hawks, Falcons, Eagles, Vultures",2
-Kings,98.79518072289156,7.317073170731707,"Herons, Bitterns, Egrets, Pelicans",1
-Kings,98.79518072289156,7.317073170731707,Orchids,3
-Kings,98.79518072289156,7.317073170731707,Other Flowering Plants,44
-Kings,98.79518072289156,7.317073170731707,Sedges,12
-Kings,98.79518072289156,7.317073170731707,Owls,1
-Kings,98.79518072289156,7.317073170731707,Carrion Beetles,1
-Kings,98.79518072289156,7.317073170731707,Lizards,1
-Kings,98.79518072289156,7.317073170731707,Tiger Beetles,1
-Lewis,100,6.666666666666667,All,75
-Lewis,100,6.666666666666667,"Asters, Goldenrods and Daisies",4
-Lewis,100,6.666666666666667,Bats,1
-Lewis,100,6.666666666666667,Ferns,3
-Lewis,100,6.666666666666667,Grasses,2
-Lewis,100,6.666666666666667,Grebes,1
-Lewis,100,6.666666666666667,"Gulls, Terns, Plovers, Shorebirds",2
-Lewis,100,6.666666666666667,"Hawks, Falcons, Eagles, Vultures",2
-Lewis,100,6.666666666666667,"Herons, Bitterns, Egrets, Pelicans",1
-Lewis,100,6.666666666666667,Orchids,9
-Lewis,100,6.666666666666667,Other Flowering Plants,27
-Lewis,100,6.666666666666667,Sedges,15
-Lewis,100,6.666666666666667,Sparrows and Towhees,1
-Lewis,100,6.666666666666667,Turtles,1
-Lewis,100,6.666666666666667,Wrens,1
-Lewis,100,6.666666666666667,Horsetails,1
-Lewis,100,6.666666666666667,Salmon and Trout,1
-Lewis,100,6.666666666666667,Shrikes,1
-Lewis,100,6.666666666666667,Clubmosses,1
-Lewis,100,6.666666666666667,Mayflies,1
-Livingston,100,4,All,75
-Livingston,100,4,"Asters, Goldenrods and Daisies",4
-Livingston,100,4,Bats,1
-Livingston,100,4,Conifers,1
-Livingston,100,4,Ferns,1
-Livingston,100,4,Grasses,1
-Livingston,100,4,Grebes,1
-Livingston,100,4,"Gulls, Terns, Plovers, Shorebirds",2
-Livingston,100,4,"Hawks, Falcons, Eagles, Vultures",2
-Livingston,100,4,"Herons, Bitterns, Egrets, Pelicans",1
-Livingston,100,4,Orchids,4
-Livingston,100,4,Other Flowering Plants,37
-Livingston,100,4,Sedges,12
-Livingston,100,4,Snakes,2
-Livingston,100,4,Sparrows and Towhees,1
-Livingston,100,4,Turtles,1
-Livingston,100,4,Wrens,1
-Livingston,100,4,Freshwater Mussels,1
-Livingston,100,4,Owls,1
-Livingston,100,4,Shrikes,1
-Madison,100,8.571428571428571,All,70
-Madison,100,8.571428571428571,"Asters, Goldenrods and Daisies",3
-Madison,100,8.571428571428571,Bats,1
-Madison,100,8.571428571428571,Conifers,1
-Madison,100,8.571428571428571,Ferns,3
-Madison,100,8.571428571428571,Grasses,1
-Madison,100,8.571428571428571,Grebes,1
-Madison,100,8.571428571428571,"Gulls, Terns, Plovers, Shorebirds",2
-Madison,100,8.571428571428571,"Hawks, Falcons, Eagles, Vultures",2
-Madison,100,8.571428571428571,"Herons, Bitterns, Egrets, Pelicans",1
-Madison,100,8.571428571428571,Orchids,6
-Madison,100,8.571428571428571,Other Flowering Plants,29
-Madison,100,8.571428571428571,Sedges,12
-Madison,100,8.571428571428571,Snakes,1
-Madison,100,8.571428571428571,Sparrows and Towhees,1
-Madison,100,8.571428571428571,Sturgeons and Paddlefish,1
-Madison,100,8.571428571428571,Wrens,1
-Madison,100,8.571428571428571,Freshwater Mussels,1
-Madison,100,8.571428571428571,Owls,1
-Madison,100,8.571428571428571,Horsetails,1
-Madison,100,8.571428571428571,Snails,1
-Monroe,100,3.3112582781456954,All,151
-Monroe,100,3.3112582781456954,"Asters, Goldenrods and Daisies",8
-Monroe,100,3.3112582781456954,Bats,1
-Monroe,100,3.3112582781456954,Conifers,1
-Monroe,100,3.3112582781456954,Ferns,2
-Monroe,100,3.3112582781456954,Grasses,6
-Monroe,100,3.3112582781456954,Grebes,1
-Monroe,100,3.3112582781456954,"Gulls, Terns, Plovers, Shorebirds",2
-Monroe,100,3.3112582781456954,"Hawks, Falcons, Eagles, Vultures",3
-Monroe,100,3.3112582781456954,"Herons, Bitterns, Egrets, Pelicans",1
-Monroe,100,3.3112582781456954,Orchids,8
-Monroe,100,3.3112582781456954,Other Flowering Plants,71
-Monroe,100,3.3112582781456954,"Rails, Coots and Cranes",1
-Monroe,100,3.3112582781456954,Sedges,32
-Monroe,100,3.3112582781456954,Snakes,2
-Monroe,100,3.3112582781456954,Sparrows and Towhees,1
-Monroe,100,3.3112582781456954,Turtles,1
-Monroe,100,3.3112582781456954,Wrens,1
-Monroe,100,3.3112582781456954,Darters and Sunfishes,1
-Monroe,100,3.3112582781456954,Owls,1
-Monroe,100,3.3112582781456954,Carrion Beetles,1
-Monroe,100,3.3112582781456954,Rushes,1
-Monroe,100,3.3112582781456954,"Minnows, Shiners, Suckers",2
-Monroe,100,3.3112582781456954,Sculpins,1
-Monroe,100,3.3112582781456954,Horsetails,1
-Monroe,100,3.3112582781456954,Shrikes,1
-Montgomery,100,15.384615384615385,All,13
-Montgomery,100,15.384615384615385,Bats,1
-Montgomery,100,15.384615384615385,Grebes,1
-Montgomery,100,15.384615384615385,"Gulls, Terns, Plovers, Shorebirds",1
-Montgomery,100,15.384615384615385,"Hawks, Falcons, Eagles, Vultures",2
-Montgomery,100,15.384615384615385,Orchids,1
-Montgomery,100,15.384615384615385,Other Flowering Plants,2
-Montgomery,100,15.384615384615385,Sedges,1
-Montgomery,100,15.384615384615385,Snakes,1
-Montgomery,100,15.384615384615385,Sparrows and Towhees,1
-Montgomery,100,15.384615384615385,Wrens,1
-Montgomery,100,15.384615384615385,Owls,1
-Nassau,100,6.074766355140187,All,214
-Nassau,100,6.074766355140187,"Asters, Goldenrods and Daisies",19
-Nassau,100,6.074766355140187,Bats,1
-Nassau,100,6.074766355140187,Butterflies and Skippers,2
-Nassau,100,6.074766355140187,Conifers,2
-Nassau,100,6.074766355140187,Ferns,2
-Nassau,100,6.074766355140187,Grasses,8
-Nassau,100,6.074766355140187,Grebes,1
-Nassau,100,6.074766355140187,"Gulls, Terns, Plovers, Shorebirds",5
-Nassau,100,6.074766355140187,"Hawks, Falcons, Eagles, Vultures",3
-Nassau,100,6.074766355140187,"Herons, Bitterns, Egrets, Pelicans",1
-Nassau,100,6.074766355140187,Orchids,7
-Nassau,100,6.074766355140187,Other Flowering Plants,111
-Nassau,100,6.074766355140187,"Rails, Coots and Cranes",1
-Nassau,100,6.074766355140187,Salamanders,1
-Nassau,100,6.074766355140187,Sedges,40
-Nassau,100,6.074766355140187,Owls,1
-Nassau,100,6.074766355140187,Carrion Beetles,1
-Nassau,100,6.074766355140187,Rushes,5
-Nassau,100,6.074766355140187,Clubmosses,1
-Nassau,100,6.074766355140187,Tiger Beetles,1
-New York,100,6.666666666666667,All,75
-New York,100,6.666666666666667,"Asters, Goldenrods and Daisies",4
-New York,100,6.666666666666667,Bats,1
-New York,100,6.666666666666667,Ferns,1
-New York,100,6.666666666666667,Grasses,5
-New York,100,6.666666666666667,"Gulls, Terns, Plovers, Shorebirds",1
-New York,100,6.666666666666667,"Hawks, Falcons, Eagles, Vultures",1
-New York,100,6.666666666666667,Orchids,4
-New York,100,6.666666666666667,Other Flowering Plants,43
-New York,100,6.666666666666667,Sedges,13
-New York,100,6.666666666666667,Sturgeons and Paddlefish,2
-Niagara,100,2.1052631578947367,All,95
-Niagara,100,2.1052631578947367,"Asters, Goldenrods and Daisies",7
-Niagara,100,2.1052631578947367,Bats,1
-Niagara,100,2.1052631578947367,Butterflies and Skippers,2
-Niagara,100,2.1052631578947367,Ferns,2
-Niagara,100,2.1052631578947367,Grasses,2
-Niagara,100,2.1052631578947367,Grebes,1
-Niagara,100,2.1052631578947367,"Gulls, Terns, Plovers, Shorebirds",3
-Niagara,100,2.1052631578947367,"Hawks, Falcons, Eagles, Vultures",3
-Niagara,100,2.1052631578947367,"Herons, Bitterns, Egrets, Pelicans",1
-Niagara,100,2.1052631578947367,Orchids,3
-Niagara,100,2.1052631578947367,Other Flowering Plants,53
-Niagara,100,2.1052631578947367,"Rails, Coots and Cranes",1
-Niagara,100,2.1052631578947367,Sedges,5
-Niagara,100,2.1052631578947367,Snakes,1
-Niagara,100,2.1052631578947367,Sparrows and Towhees,1
-Niagara,100,2.1052631578947367,Sturgeons and Paddlefish,1
-Niagara,100,2.1052631578947367,Turtles,1
-Niagara,100,2.1052631578947367,Wrens,1
-Niagara,100,2.1052631578947367,Darters and Sunfishes,1
-Niagara,100,2.1052631578947367,Owls,1
-Niagara,100,2.1052631578947367,Rushes,1
-Niagara,100,2.1052631578947367,Sculpins,1
-Niagara,100,2.1052631578947367,Horsetails,2
-Oneida,99.3103448275862,3.4722222222222223,All,145
-Oneida,99.3103448275862,3.4722222222222223,"Asters, Goldenrods and Daisies",6
-Oneida,99.3103448275862,3.4722222222222223,Bats,1
-Oneida,99.3103448275862,3.4722222222222223,Butterflies and Skippers,2
-Oneida,99.3103448275862,3.4722222222222223,Conifers,2
-Oneida,99.3103448275862,3.4722222222222223,Ferns,5
-Oneida,99.3103448275862,3.4722222222222223,Grebes,1
-Oneida,99.3103448275862,3.4722222222222223,"Gulls, Terns, Plovers, Shorebirds",3
-Oneida,99.3103448275862,3.4722222222222223,"Hawks, Falcons, Eagles, Vultures",3
-Oneida,99.3103448275862,3.4722222222222223,"Herons, Bitterns, Egrets, Pelicans",1
-Oneida,99.3103448275862,3.4722222222222223,Orchids,11
-Oneida,99.3103448275862,3.4722222222222223,Other Flowering Plants,55
-Oneida,99.3103448275862,3.4722222222222223,Sedges,42
-Oneida,99.3103448275862,3.4722222222222223,Sparrows and Towhees,1
-Oneida,99.3103448275862,3.4722222222222223,Sturgeons and Paddlefish,1
-Oneida,99.3103448275862,3.4722222222222223,Turtles,1
-Oneida,99.3103448275862,3.4722222222222223,Wrens,1
-Oneida,99.3103448275862,3.4722222222222223,Owls,1
-Oneida,99.3103448275862,3.4722222222222223,Quillworts,1
-Oneida,99.3103448275862,3.4722222222222223,Rushes,2
-Oneida,99.3103448275862,3.4722222222222223,"Minnows, Shiners, Suckers",1
-Oneida,99.3103448275862,3.4722222222222223,Horsetails,2
-Oneida,99.3103448275862,3.4722222222222223,Shrikes,1
-Oneida,99.3103448275862,3.4722222222222223,Clubmosses,1
-Onondaga,100,5.47945205479452,All,147
-Onondaga,100,5.47945205479452,"Asters, Goldenrods and Daisies",10
-Onondaga,100,5.47945205479452,Bats,2
-Onondaga,100,5.47945205479452,Conifers,1
-Onondaga,100,5.47945205479452,Ferns,7
-Onondaga,100,5.47945205479452,Grasses,2
-Onondaga,100,5.47945205479452,Grebes,1
-Onondaga,100,5.47945205479452,"Gulls, Terns, Plovers, Shorebirds",3
-Onondaga,100,5.47945205479452,"Hawks, Falcons, Eagles, Vultures",3
-Onondaga,100,5.47945205479452,"Herons, Bitterns, Egrets, Pelicans",1
-Onondaga,100,5.47945205479452,Orchids,15
-Onondaga,100,5.47945205479452,Other Flowering Plants,69
-Onondaga,100,5.47945205479452,Sedges,21
-Onondaga,100,5.47945205479452,Snakes,2
-Onondaga,100,5.47945205479452,Sparrows and Towhees,1
-Onondaga,100,5.47945205479452,Sturgeons and Paddlefish,1
-Onondaga,100,5.47945205479452,Turtles,2
-Onondaga,100,5.47945205479452,Wrens,1
-Onondaga,100,5.47945205479452,Darters and Sunfishes,1
-Onondaga,100,5.47945205479452,Owls,1
-Onondaga,100,5.47945205479452,Rushes,1
-Onondaga,100,5.47945205479452,"Minnows, Shiners, Suckers",1
-Onondaga,100,5.47945205479452,Horsetails,1
-Ontario,100,1.4492753623188406,All,69
-Ontario,100,1.4492753623188406,"Asters, Goldenrods and Daisies",3
-Ontario,100,1.4492753623188406,Bats,1
-Ontario,100,1.4492753623188406,Ferns,1
-Ontario,100,1.4492753623188406,Grasses,1
-Ontario,100,1.4492753623188406,Grebes,1
-Ontario,100,1.4492753623188406,"Gulls, Terns, Plovers, Shorebirds",1
-Ontario,100,1.4492753623188406,"Hawks, Falcons, Eagles, Vultures",2
-Ontario,100,1.4492753623188406,"Herons, Bitterns, Egrets, Pelicans",1
-Ontario,100,1.4492753623188406,Orchids,3
-Ontario,100,1.4492753623188406,Other Flowering Plants,41
-Ontario,100,1.4492753623188406,Sedges,9
-Ontario,100,1.4492753623188406,Snakes,1
-Ontario,100,1.4492753623188406,Sparrows and Towhees,1
-Ontario,100,1.4492753623188406,Wrens,1
-Ontario,100,1.4492753623188406,Owls,1
-Ontario,100,1.4492753623188406,"Minnows, Shiners, Suckers",1
-Orange,100,5.521472392638037,All,165
-Orange,100,5.521472392638037,"Asters, Goldenrods and Daisies",3
-Orange,100,5.521472392638037,Bats,2
-Orange,100,5.521472392638037,Butterflies and Skippers,1
-Orange,100,5.521472392638037,Conifers,3
-Orange,100,5.521472392638037,Ferns,2
-Orange,100,5.521472392638037,Grasses,4
-Orange,100,5.521472392638037,Grebes,1
-Orange,100,5.521472392638037,"Gulls, Terns, Plovers, Shorebirds",1
-Orange,100,5.521472392638037,"Hawks, Falcons, Eagles, Vultures",4
-Orange,100,5.521472392638037,"Herons, Bitterns, Egrets, Pelicans",1
-Orange,100,5.521472392638037,Orchids,6
-Orange,100,5.521472392638037,Other Flowering Plants,81
-Orange,100,5.521472392638037,Rodents,1
-Orange,100,5.521472392638037,Sedges,36
-Orange,100,5.521472392638037,Snakes,1
-Orange,100,5.521472392638037,Sparrows and Towhees,1
-Orange,100,5.521472392638037,Sturgeons and Paddlefish,2
-Orange,100,5.521472392638037,Turtles,1
-Orange,100,5.521472392638037,Wrens,1
-Orange,100,5.521472392638037,Darters and Sunfishes,2
-Orange,100,5.521472392638037,Freshwater Mussels,2
-Orange,100,5.521472392638037,Owls,1
-Orange,100,5.521472392638037,Quillworts,1
-Orange,100,5.521472392638037,Rushes,4
-Orange,100,5.521472392638037,"Minnows, Shiners, Suckers",1
-Orange,100,5.521472392638037,Frogs and Toads,1
-Orange,100,5.521472392638037,Lizards,1
-Orleans,96.7741935483871,10,All,31
-Orleans,96.7741935483871,10,"Asters, Goldenrods and Daisies",2
-Orleans,96.7741935483871,10,Bats,1
-Orleans,96.7741935483871,10,Ferns,1
-Orleans,96.7741935483871,10,Grebes,1
-Orleans,96.7741935483871,10,"Gulls, Terns, Plovers, Shorebirds",2
-Orleans,96.7741935483871,10,"Hawks, Falcons, Eagles, Vultures",2
-Orleans,96.7741935483871,10,"Herons, Bitterns, Egrets, Pelicans",1
-Orleans,96.7741935483871,10,Orchids,3
-Orleans,96.7741935483871,10,Other Flowering Plants,9
-Orleans,96.7741935483871,10,Sedges,1
-Orleans,96.7741935483871,10,Sparrows and Towhees,1
-Orleans,96.7741935483871,10,Sturgeons and Paddlefish,1
-Orleans,96.7741935483871,10,Wrens,1
-Orleans,96.7741935483871,10,Darters and Sunfishes,1
-Orleans,96.7741935483871,10,Owls,1
-Orleans,96.7741935483871,10,Sculpins,1
-Orleans,96.7741935483871,10,Horsetails,1
-Orleans,96.7741935483871,10,Shrikes,1
-Oswego,98.80952380952381,9.523809523809524,All,84
-Oswego,98.80952380952381,9.523809523809524,"Asters, Goldenrods and Daisies",3
-Oswego,98.80952380952381,9.523809523809524,Bats,2
-Oswego,98.80952380952381,9.523809523809524,Grebes,1
-Oswego,98.80952380952381,9.523809523809524,"Gulls, Terns, Plovers, Shorebirds",4
-Oswego,98.80952380952381,9.523809523809524,"Hawks, Falcons, Eagles, Vultures",3
-Oswego,98.80952380952381,9.523809523809524,"Herons, Bitterns, Egrets, Pelicans",1
-Oswego,98.80952380952381,9.523809523809524,Orchids,9
-Oswego,98.80952380952381,9.523809523809524,Other Flowering Plants,29
-Oswego,98.80952380952381,9.523809523809524,"Rails, Coots and Cranes",1
-Oswego,98.80952380952381,9.523809523809524,Sedges,19
-Oswego,98.80952380952381,9.523809523809524,Sparrows and Towhees,1
-Oswego,98.80952380952381,9.523809523809524,Sturgeons and Paddlefish,1
-Oswego,98.80952380952381,9.523809523809524,Turtles,1
-Oswego,98.80952380952381,9.523809523809524,Wrens,1
-Oswego,98.80952380952381,9.523809523809524,Darters and Sunfishes,1
-Oswego,98.80952380952381,9.523809523809524,"Minnows, Shiners, Suckers",1
-Oswego,98.80952380952381,9.523809523809524,Sculpins,1
-Oswego,98.80952380952381,9.523809523809524,Mooneyes,1
-Oswego,98.80952380952381,9.523809523809524,Horsetails,1
-Oswego,98.80952380952381,9.523809523809524,Moths,1
-Oswego,98.80952380952381,9.523809523809524,Salmon and Trout,1
-Oswego,98.80952380952381,9.523809523809524,Shrikes,1
-Otsego,100,13.157894736842104,All,38
-Otsego,100,13.157894736842104,"Asters, Goldenrods and Daisies",3
-Otsego,100,13.157894736842104,Bats,1
-Otsego,100,13.157894736842104,Grebes,1
-Otsego,100,13.157894736842104,"Gulls, Terns, Plovers, Shorebirds",1
-Otsego,100,13.157894736842104,"Hawks, Falcons, Eagles, Vultures",3
-Otsego,100,13.157894736842104,"Herons, Bitterns, Egrets, Pelicans",1
-Otsego,100,13.157894736842104,Orchids,6
-Otsego,100,13.157894736842104,Other Flowering Plants,13
-Otsego,100,13.157894736842104,Sedges,3
-Otsego,100,13.157894736842104,Snakes,1
-Otsego,100,13.157894736842104,Sparrows and Towhees,1
-Otsego,100,13.157894736842104,Turtles,1
-Otsego,100,13.157894736842104,Freshwater Mussels,2
-Otsego,100,13.157894736842104,Rushes,1
-Putnam,100,9.210526315789473,All,76
-Putnam,100,9.210526315789473,"Asters, Goldenrods and Daisies",4
-Putnam,100,9.210526315789473,Bats,2
-Putnam,100,9.210526315789473,Butterflies and Skippers,1
-Putnam,100,9.210526315789473,Conifers,1
-Putnam,100,9.210526315789473,"Hawks, Falcons, Eagles, Vultures",2
-Putnam,100,9.210526315789473,"Herons, Bitterns, Egrets, Pelicans",1
-Putnam,100,9.210526315789473,Orchids,1
-Putnam,100,9.210526315789473,Other Flowering Plants,42
-Putnam,100,9.210526315789473,Sedges,14
-Putnam,100,9.210526315789473,Snakes,1
-Putnam,100,9.210526315789473,Sturgeons and Paddlefish,2
-Putnam,100,9.210526315789473,Turtles,2
-Putnam,100,9.210526315789473,Horsetails,2
-Putnam,100,9.210526315789473,Lizards,1
-Queens,100,3.125,All,160
-Queens,100,3.125,"Asters, Goldenrods and Daisies",14
-Queens,100,3.125,Bats,1
-Queens,100,3.125,Grasses,8
-Queens,100,3.125,Grebes,1
-Queens,100,3.125,"Gulls, Terns, Plovers, Shorebirds",5
-Queens,100,3.125,"Hawks, Falcons, Eagles, Vultures",2
-Queens,100,3.125,"Herons, Bitterns, Egrets, Pelicans",1
-Queens,100,3.125,Orchids,3
-Queens,100,3.125,Other Flowering Plants,84
-Queens,100,3.125,Sedges,37
-Queens,100,3.125,Owls,1
-Queens,100,3.125,Rushes,1
-Queens,100,3.125,Tiger Beetles,1
-Rensselaer,100,4.901960784313726,All,103
-Rensselaer,100,4.901960784313726,"Asters, Goldenrods and Daisies",7
-Rensselaer,100,4.901960784313726,Bats,1
-Rensselaer,100,4.901960784313726,Ferns,1
-Rensselaer,100,4.901960784313726,Grasses,2
-Rensselaer,100,4.901960784313726,Grebes,1
-Rensselaer,100,4.901960784313726,"Hawks, Falcons, Eagles, Vultures",3
-Rensselaer,100,4.901960784313726,"Herons, Bitterns, Egrets, Pelicans",1
-Rensselaer,100,4.901960784313726,Orchids,6
-Rensselaer,100,4.901960784313726,Other Flowering Plants,54
-Rensselaer,100,4.901960784313726,Sedges,22
-Rensselaer,100,4.901960784313726,Snakes,1
-Rensselaer,100,4.901960784313726,Sturgeons and Paddlefish,2
-Rensselaer,100,4.901960784313726,Turtles,1
-Rensselaer,100,4.901960784313726,Quillworts,1
-Richmond,100,4.2105263157894735,All,191
-Richmond,100,4.2105263157894735,"Asters, Goldenrods and Daisies",19
-Richmond,100,4.2105263157894735,Bats,1
-Richmond,100,4.2105263157894735,Butterflies and Skippers,1
-Richmond,100,4.2105263157894735,Conifers,3
-Richmond,100,4.2105263157894735,Ferns,4
-Richmond,100,4.2105263157894735,Grasses,9
-Richmond,100,4.2105263157894735,Grebes,1
-Richmond,100,4.2105263157894735,"Gulls, Terns, Plovers, Shorebirds",1
-Richmond,100,4.2105263157894735,"Hawks, Falcons, Eagles, Vultures",3
-Richmond,100,4.2105263157894735,"Herons, Bitterns, Egrets, Pelicans",1
-Richmond,100,4.2105263157894735,Orchids,6
-Richmond,100,4.2105263157894735,Other Flowering Plants,110
-Richmond,100,4.2105263157894735,Sedges,25
-Richmond,100,4.2105263157894735,Turtles,1
-Richmond,100,4.2105263157894735,Owls,1
-Richmond,100,4.2105263157894735,Carrion Beetles,1
-Richmond,100,4.2105263157894735,Rushes,2
-Richmond,100,4.2105263157894735,Frogs and Toads,1
-Richmond,100,4.2105263157894735,Lizards,1
-Rockland,99.18032786885246,7.43801652892562,All,122
-Rockland,99.18032786885246,7.43801652892562,"Asters, Goldenrods and Daisies",6
-Rockland,99.18032786885246,7.43801652892562,Bats,1
-Rockland,99.18032786885246,7.43801652892562,Conifers,1
-Rockland,99.18032786885246,7.43801652892562,Ferns,3
-Rockland,99.18032786885246,7.43801652892562,Grasses,3
-Rockland,99.18032786885246,7.43801652892562,Grebes,1
-Rockland,99.18032786885246,7.43801652892562,"Hawks, Falcons, Eagles, Vultures",2
-Rockland,99.18032786885246,7.43801652892562,"Herons, Bitterns, Egrets, Pelicans",1
-Rockland,99.18032786885246,7.43801652892562,Orchids,4
-Rockland,99.18032786885246,7.43801652892562,Other Flowering Plants,61
-Rockland,99.18032786885246,7.43801652892562,Rodents,1
-Rockland,99.18032786885246,7.43801652892562,Sedges,25
-Rockland,99.18032786885246,7.43801652892562,Snakes,1
-Rockland,99.18032786885246,7.43801652892562,Sturgeons and Paddlefish,2
-Rockland,99.18032786885246,7.43801652892562,Turtles,1
-Rockland,99.18032786885246,7.43801652892562,Darters and Sunfishes,2
-Rockland,99.18032786885246,7.43801652892562,Freshwater Mussels,1
-Rockland,99.18032786885246,7.43801652892562,Quillworts,1
-Rockland,99.18032786885246,7.43801652892562,Rushes,2
-Rockland,99.18032786885246,7.43801652892562,"Minnows, Shiners, Suckers",1
-Rockland,99.18032786885246,7.43801652892562,Frogs and Toads,1
-Rockland,99.18032786885246,7.43801652892562,Lizards,1
-Saratoga,100,3.9473684210526314,All,77
-Saratoga,100,3.9473684210526314,"Asters, Goldenrods and Daisies",1
-Saratoga,100,3.9473684210526314,Bats,1
-Saratoga,100,3.9473684210526314,Butterflies and Skippers,3
-Saratoga,100,3.9473684210526314,Ferns,2
-Saratoga,100,3.9473684210526314,Grebes,1
-Saratoga,100,3.9473684210526314,"Gulls, Terns, Plovers, Shorebirds",1
-Saratoga,100,3.9473684210526314,"Hawks, Falcons, Eagles, Vultures",3
-Saratoga,100,3.9473684210526314,"Herons, Bitterns, Egrets, Pelicans",1
-Saratoga,100,3.9473684210526314,Orchids,6
-Saratoga,100,3.9473684210526314,Other Flowering Plants,34
-Saratoga,100,3.9473684210526314,Sedges,18
-Saratoga,100,3.9473684210526314,Snakes,1
-Saratoga,100,3.9473684210526314,Sparrows and Towhees,1
-Saratoga,100,3.9473684210526314,Turtles,1
-Saratoga,100,3.9473684210526314,Owls,1
-Saratoga,100,3.9473684210526314,Quillworts,1
-Saratoga,100,3.9473684210526314,Rushes,1
-Schenectady,100,2.857142857142857,All,70
-Schenectady,100,2.857142857142857,"Asters, Goldenrods and Daisies",3
-Schenectady,100,2.857142857142857,Bats,1
-Schenectady,100,2.857142857142857,Butterflies and Skippers,1
-Schenectady,100,2.857142857142857,Grasses,1
-Schenectady,100,2.857142857142857,Grebes,1
-Schenectady,100,2.857142857142857,"Hawks, Falcons, Eagles, Vultures",3
-Schenectady,100,2.857142857142857,"Herons, Bitterns, Egrets, Pelicans",1
-Schenectady,100,2.857142857142857,Orchids,8
-Schenectady,100,2.857142857142857,Other Flowering Plants,34
-Schenectady,100,2.857142857142857,Sedges,14
-Schenectady,100,2.857142857142857,Snakes,1
-Schenectady,100,2.857142857142857,Sparrows and Towhees,1
-Schenectady,100,2.857142857142857,Rushes,1
-Schoharie,100,3.7037037037037033,All,27
-Schoharie,100,3.7037037037037033,Bats,1
-Schoharie,100,3.7037037037037033,Ferns,2
-Schoharie,100,3.7037037037037033,Grebes,1
-Schoharie,100,3.7037037037037033,"Gulls, Terns, Plovers, Shorebirds",1
-Schoharie,100,3.7037037037037033,"Hawks, Falcons, Eagles, Vultures",3
-Schoharie,100,3.7037037037037033,Orchids,1
-Schoharie,100,3.7037037037037033,Other Flowering Plants,11
-Schoharie,100,3.7037037037037033,Sedges,3
-Schoharie,100,3.7037037037037033,Snakes,1
-Schoharie,100,3.7037037037037033,Sparrows and Towhees,1
-Schoharie,100,3.7037037037037033,Wrens,1
-Schoharie,100,3.7037037037037033,Owls,1
-Schuyler,100,5.88235294117647,All,34
-Schuyler,100,5.88235294117647,"Asters, Goldenrods and Daisies",1
-Schuyler,100,5.88235294117647,Bats,1
-Schuyler,100,5.88235294117647,Grasses,1
-Schuyler,100,5.88235294117647,Grebes,1
-Schuyler,100,5.88235294117647,"Hawks, Falcons, Eagles, Vultures",2
-Schuyler,100,5.88235294117647,"Herons, Bitterns, Egrets, Pelicans",1
-Schuyler,100,5.88235294117647,Orchids,1
-Schuyler,100,5.88235294117647,Other Flowering Plants,16
-Schuyler,100,5.88235294117647,Sedges,4
-Schuyler,100,5.88235294117647,Snakes,1
-Schuyler,100,5.88235294117647,Sparrows and Towhees,1
-Schuyler,100,5.88235294117647,Freshwater Mussels,1
-Schuyler,100,5.88235294117647,Owls,1
-Schuyler,100,5.88235294117647,"Minnows, Shiners, Suckers",1
-Schuyler,100,5.88235294117647,Horsetails,1
-Seneca,100,3.8461538461538463,All,78
-Seneca,100,3.8461538461538463,"Asters, Goldenrods and Daisies",3
-Seneca,100,3.8461538461538463,Bats,2
-Seneca,100,3.8461538461538463,Ferns,2
-Seneca,100,3.8461538461538463,Grasses,4
-Seneca,100,3.8461538461538463,Grebes,1
-Seneca,100,3.8461538461538463,"Gulls, Terns, Plovers, Shorebirds",3
-Seneca,100,3.8461538461538463,"Hawks, Falcons, Eagles, Vultures",2
-Seneca,100,3.8461538461538463,"Herons, Bitterns, Egrets, Pelicans",1
-Seneca,100,3.8461538461538463,Orchids,5
-Seneca,100,3.8461538461538463,Other Flowering Plants,34
-Seneca,100,3.8461538461538463,"Rails, Coots and Cranes",1
-Seneca,100,3.8461538461538463,Sedges,13
-Seneca,100,3.8461538461538463,Sparrows and Towhees,1
-Seneca,100,3.8461538461538463,Sturgeons and Paddlefish,1
-Seneca,100,3.8461538461538463,Turtles,1
-Seneca,100,3.8461538461538463,Wrens,1
-Seneca,100,3.8461538461538463,Owls,1
-Seneca,100,3.8461538461538463,"Minnows, Shiners, Suckers",1
-Seneca,100,3.8461538461538463,Shrikes,1
-St. Lawrence,98.51851851851852,3.007518796992481,All,135
-St. Lawrence,98.51851851851852,3.007518796992481,"Asters, Goldenrods and Daisies",9
-St. Lawrence,98.51851851851852,3.007518796992481,Bats,1
-St. Lawrence,98.51851851851852,3.007518796992481,Conifers,1
-St. Lawrence,98.51851851851852,3.007518796992481,Ferns,4
-St. Lawrence,98.51851851851852,3.007518796992481,Grasses,5
-St. Lawrence,98.51851851851852,3.007518796992481,Grebes,1
-St. Lawrence,98.51851851851852,3.007518796992481,"Gulls, Terns, Plovers, Shorebirds",3
-St. Lawrence,98.51851851851852,3.007518796992481,"Hawks, Falcons, Eagles, Vultures",4
-St. Lawrence,98.51851851851852,3.007518796992481,"Herons, Bitterns, Egrets, Pelicans",1
-St. Lawrence,98.51851851851852,3.007518796992481,Orchids,4
-St. Lawrence,98.51851851851852,3.007518796992481,Other Flowering Plants,53
-St. Lawrence,98.51851851851852,3.007518796992481,Sedges,29
-St. Lawrence,98.51851851851852,3.007518796992481,Sparrows and Towhees,1
-St. Lawrence,98.51851851851852,3.007518796992481,Sturgeons and Paddlefish,1
-St. Lawrence,98.51851851851852,3.007518796992481,Turtles,1
-St. Lawrence,98.51851851851852,3.007518796992481,Wrens,1
-St. Lawrence,98.51851851851852,3.007518796992481,Darters and Sunfishes,1
-St. Lawrence,98.51851851851852,3.007518796992481,Owls,1
-St. Lawrence,98.51851851851852,3.007518796992481,Quillworts,3
-St. Lawrence,98.51851851851852,3.007518796992481,"Minnows, Shiners, Suckers",1
-St. Lawrence,98.51851851851852,3.007518796992481,Mooneyes,1
-St. Lawrence,98.51851851851852,3.007518796992481,"Grouse, Pheasants, Turkeys",1
-St. Lawrence,98.51851851851852,3.007518796992481,Horsetails,2
-St. Lawrence,98.51851851851852,3.007518796992481,Salmon and Trout,1
-St. Lawrence,98.51851851851852,3.007518796992481,Shrikes,1
-St. Lawrence,98.51851851851852,3.007518796992481,Clubmosses,4
-Steuben,100,10,All,40
-Steuben,100,10,"Asters, Goldenrods and Daisies",1
-Steuben,100,10,Bats,1
-Steuben,100,10,Grasses,1
-Steuben,100,10,Grebes,1
-Steuben,100,10,"Gulls, Terns, Plovers, Shorebirds",1
-Steuben,100,10,"Hawks, Falcons, Eagles, Vultures",2
-Steuben,100,10,"Herons, Bitterns, Egrets, Pelicans",1
-Steuben,100,10,Orchids,1
-Steuben,100,10,Other Flowering Plants,15
-Steuben,100,10,Sedges,11
-Steuben,100,10,Snakes,1
-Steuben,100,10,Sparrows and Towhees,1
-Steuben,100,10,Darters and Sunfishes,1
-Steuben,100,10,Freshwater Mussels,2
-Suffolk,99.68847352024922,6.25,All,321
-Suffolk,99.68847352024922,6.25,"Asters, Goldenrods and Daisies",23
-Suffolk,99.68847352024922,6.25,Bats,1
-Suffolk,99.68847352024922,6.25,Butterflies and Skippers,4
-Suffolk,99.68847352024922,6.25,Conifers,3
-Suffolk,99.68847352024922,6.25,Ferns,5
-Suffolk,99.68847352024922,6.25,Grasses,18
-Suffolk,99.68847352024922,6.25,Grebes,1
-Suffolk,99.68847352024922,6.25,"Gulls, Terns, Plovers, Shorebirds",5
-Suffolk,99.68847352024922,6.25,"Hawks, Falcons, Eagles, Vultures",3
-Suffolk,99.68847352024922,6.25,"Herons, Bitterns, Egrets, Pelicans",1
-Suffolk,99.68847352024922,6.25,Orchids,9
-Suffolk,99.68847352024922,6.25,Other Flowering Plants,160
-Suffolk,99.68847352024922,6.25,"Rails, Coots and Cranes",1
-Suffolk,99.68847352024922,6.25,Salamanders,1
-Suffolk,99.68847352024922,6.25,Sedges,63
-Suffolk,99.68847352024922,6.25,Sparrows and Towhees,1
-Suffolk,99.68847352024922,6.25,Turtles,1
-Suffolk,99.68847352024922,6.25,Wrens,1
-Suffolk,99.68847352024922,6.25,Darters and Sunfishes,2
-Suffolk,99.68847352024922,6.25,Owls,1
-Suffolk,99.68847352024922,6.25,Carrion Beetles,1
-Suffolk,99.68847352024922,6.25,Quillworts,1
-Suffolk,99.68847352024922,6.25,Rushes,8
-Suffolk,99.68847352024922,6.25,Horsetails,1
-Suffolk,99.68847352024922,6.25,Clubmosses,1
-Suffolk,99.68847352024922,6.25,Frogs and Toads,1
-Suffolk,99.68847352024922,6.25,Tiger Beetles,1
-Sullivan,100,10.869565217391305,All,48
-Sullivan,100,10.869565217391305,"Asters, Goldenrods and Daisies",2
-Sullivan,100,10.869565217391305,Bats,1
-Sullivan,100,10.869565217391305,Butterflies and Skippers,1
-Sullivan,100,10.869565217391305,Ferns,2
-Sullivan,100,10.869565217391305,Grebes,1
-Sullivan,100,10.869565217391305,"Hawks, Falcons, Eagles, Vultures",1
-Sullivan,100,10.869565217391305,"Herons, Bitterns, Egrets, Pelicans",1
-Sullivan,100,10.869565217391305,Orchids,2
-Sullivan,100,10.869565217391305,Other Flowering Plants,24
-Sullivan,100,10.869565217391305,Sedges,4
-Sullivan,100,10.869565217391305,Snakes,1
-Sullivan,100,10.869565217391305,Sparrows and Towhees,1
-Sullivan,100,10.869565217391305,Turtles,1
-Sullivan,100,10.869565217391305,Wrens,1
-Sullivan,100,10.869565217391305,Freshwater Mussels,2
-Sullivan,100,10.869565217391305,Quillworts,1
-Sullivan,100,10.869565217391305,Rushes,2
-Tioga,100,9.090909090909092,All,55
-Tioga,100,9.090909090909092,"Asters, Goldenrods and Daisies",4
-Tioga,100,9.090909090909092,Bats,1
-Tioga,100,9.090909090909092,Butterflies and Skippers,1
-Tioga,100,9.090909090909092,Ferns,1
-Tioga,100,9.090909090909092,Grasses,4
-Tioga,100,9.090909090909092,Grebes,1
-Tioga,100,9.090909090909092,"Hawks, Falcons, Eagles, Vultures",2
-Tioga,100,9.090909090909092,"Herons, Bitterns, Egrets, Pelicans",1
-Tioga,100,9.090909090909092,Orchids,1
-Tioga,100,9.090909090909092,Other Flowering Plants,27
-Tioga,100,9.090909090909092,Sedges,8
-Tioga,100,9.090909090909092,Sparrows and Towhees,1
-Tioga,100,9.090909090909092,Freshwater Mussels,2
-Tioga,100,9.090909090909092,Owls,1
-Tompkins,100,5.555555555555555,All,109
-Tompkins,100,5.555555555555555,"Asters, Goldenrods and Daisies",8
-Tompkins,100,5.555555555555555,Bats,1
-Tompkins,100,5.555555555555555,Butterflies and Skippers,1
-Tompkins,100,5.555555555555555,Ferns,2
-Tompkins,100,5.555555555555555,Grasses,5
-Tompkins,100,5.555555555555555,Grebes,1
-Tompkins,100,5.555555555555555,"Gulls, Terns, Plovers, Shorebirds",1
-Tompkins,100,5.555555555555555,"Hawks, Falcons, Eagles, Vultures",3
-Tompkins,100,5.555555555555555,"Herons, Bitterns, Egrets, Pelicans",1
-Tompkins,100,5.555555555555555,Orchids,6
-Tompkins,100,5.555555555555555,Other Flowering Plants,54
-Tompkins,100,5.555555555555555,Sedges,17
-Tompkins,100,5.555555555555555,Snakes,1
-Tompkins,100,5.555555555555555,Sparrows and Towhees,1
-Tompkins,100,5.555555555555555,Sturgeons and Paddlefish,1
-Tompkins,100,5.555555555555555,Turtles,1
-Tompkins,100,5.555555555555555,Wrens,1
-Tompkins,100,5.555555555555555,Owls,1
-Tompkins,100,5.555555555555555,Rushes,1
-Tompkins,100,5.555555555555555,"Minnows, Shiners, Suckers",1
-Tompkins,100,5.555555555555555,Horsetails,1
-Ulster,99.35897435897436,6.493506493506493,All,156
-Ulster,99.35897435897436,6.493506493506493,"Asters, Goldenrods and Daisies",6
-Ulster,99.35897435897436,6.493506493506493,Bats,2
-Ulster,99.35897435897436,6.493506493506493,Ferns,7
-Ulster,99.35897435897436,6.493506493506493,Grasses,6
-Ulster,99.35897435897436,6.493506493506493,Grebes,1
-Ulster,99.35897435897436,6.493506493506493,"Gulls, Terns, Plovers, Shorebirds",1
-Ulster,99.35897435897436,6.493506493506493,"Hawks, Falcons, Eagles, Vultures",3
-Ulster,99.35897435897436,6.493506493506493,"Herons, Bitterns, Egrets, Pelicans",1
-Ulster,99.35897435897436,6.493506493506493,Orchids,7
-Ulster,99.35897435897436,6.493506493506493,Other Flowering Plants,78
-Ulster,99.35897435897436,6.493506493506493,"Rails, Coots and Cranes",1
-Ulster,99.35897435897436,6.493506493506493,Rodents,1
-Ulster,99.35897435897436,6.493506493506493,Sedges,25
-Ulster,99.35897435897436,6.493506493506493,Snakes,1
-Ulster,99.35897435897436,6.493506493506493,Sparrows and Towhees,1
-Ulster,99.35897435897436,6.493506493506493,Sturgeons and Paddlefish,2
-Ulster,99.35897435897436,6.493506493506493,Turtles,1
-Ulster,99.35897435897436,6.493506493506493,Wrens,1
-Ulster,99.35897435897436,6.493506493506493,Darters and Sunfishes,1
-Ulster,99.35897435897436,6.493506493506493,Freshwater Mussels,1
-Ulster,99.35897435897436,6.493506493506493,Owls,1
-Ulster,99.35897435897436,6.493506493506493,Quillworts,1
-Ulster,99.35897435897436,6.493506493506493,Rushes,3
-Ulster,99.35897435897436,6.493506493506493,Horsetails,1
-Ulster,99.35897435897436,6.493506493506493,Clubmosses,2
-Ulster,99.35897435897436,6.493506493506493,Frogs and Toads,1
-Warren,98.9010989010989,6.666666666666667,All,91
-Warren,98.9010989010989,6.666666666666667,"Asters, Goldenrods and Daisies",5
-Warren,98.9010989010989,6.666666666666667,Bats,2
-Warren,98.9010989010989,6.666666666666667,Butterflies and Skippers,2
-Warren,98.9010989010989,6.666666666666667,Conifers,1
-Warren,98.9010989010989,6.666666666666667,Ferns,2
-Warren,98.9010989010989,6.666666666666667,Grasses,3
-Warren,98.9010989010989,6.666666666666667,Grebes,1
-Warren,98.9010989010989,6.666666666666667,"Hawks, Falcons, Eagles, Vultures",3
-Warren,98.9010989010989,6.666666666666667,"Herons, Bitterns, Egrets, Pelicans",1
-Warren,98.9010989010989,6.666666666666667,Orchids,6
-Warren,98.9010989010989,6.666666666666667,Other Flowering Plants,39
-Warren,98.9010989010989,6.666666666666667,Sedges,20
-Warren,98.9010989010989,6.666666666666667,Snakes,1
-Warren,98.9010989010989,6.666666666666667,Turtles,1
-Warren,98.9010989010989,6.666666666666667,Quillworts,1
-Warren,98.9010989010989,6.666666666666667,Rushes,1
-Warren,98.9010989010989,6.666666666666667,Salmon and Trout,1
-Warren,98.9010989010989,6.666666666666667,Clubmosses,1
-Washington,100,4.081632653061225,All,99
-Washington,100,4.081632653061225,"Asters, Goldenrods and Daisies",8
-Washington,100,4.081632653061225,Bats,1
-Washington,100,4.081632653061225,Ferns,2
-Washington,100,4.081632653061225,Grasses,4
-Washington,100,4.081632653061225,Grebes,1
-Washington,100,4.081632653061225,"Gulls, Terns, Plovers, Shorebirds",1
-Washington,100,4.081632653061225,"Hawks, Falcons, Eagles, Vultures",3
-Washington,100,4.081632653061225,"Herons, Bitterns, Egrets, Pelicans",1
-Washington,100,4.081632653061225,Orchids,7
-Washington,100,4.081632653061225,Other Flowering Plants,43
-Washington,100,4.081632653061225,Sedges,18
-Washington,100,4.081632653061225,Snakes,1
-Washington,100,4.081632653061225,Sparrows and Towhees,1
-Washington,100,4.081632653061225,Wrens,1
-Washington,100,4.081632653061225,Darters and Sunfishes,1
-Washington,100,4.081632653061225,Owls,1
-Washington,100,4.081632653061225,Quillworts,2
-Washington,100,4.081632653061225,Horsetails,2
-Washington,100,4.081632653061225,Clubmosses,1
-Wayne,98.66666666666667,8,All,75
-Wayne,98.66666666666667,8,"Asters, Goldenrods and Daisies",6
-Wayne,98.66666666666667,8,Bats,1
-Wayne,98.66666666666667,8,Grasses,3
-Wayne,98.66666666666667,8,Grebes,1
-Wayne,98.66666666666667,8,"Gulls, Terns, Plovers, Shorebirds",2
-Wayne,98.66666666666667,8,"Hawks, Falcons, Eagles, Vultures",3
-Wayne,98.66666666666667,8,"Herons, Bitterns, Egrets, Pelicans",1
-Wayne,98.66666666666667,8,Orchids,7
-Wayne,98.66666666666667,8,Other Flowering Plants,26
-Wayne,98.66666666666667,8,Sedges,17
-Wayne,98.66666666666667,8,Sparrows and Towhees,1
-Wayne,98.66666666666667,8,Sturgeons and Paddlefish,1
-Wayne,98.66666666666667,8,Turtles,1
-Wayne,98.66666666666667,8,Wrens,1
-Wayne,98.66666666666667,8,Owls,1
-Wayne,98.66666666666667,8,"Minnows, Shiners, Suckers",2
-Wayne,98.66666666666667,8,Sculpins,1
-Westchester,99.47368421052632,4.736842105263158,All,190
-Westchester,99.47368421052632,4.736842105263158,"Asters, Goldenrods and Daisies",13
-Westchester,99.47368421052632,4.736842105263158,Bats,1
-Westchester,99.47368421052632,4.736842105263158,Conifers,3
-Westchester,99.47368421052632,4.736842105263158,Ferns,3
-Westchester,99.47368421052632,4.736842105263158,Grasses,6
-Westchester,99.47368421052632,4.736842105263158,Grebes,1
-Westchester,99.47368421052632,4.736842105263158,"Gulls, Terns, Plovers, Shorebirds",1
-Westchester,99.47368421052632,4.736842105263158,"Hawks, Falcons, Eagles, Vultures",3
-Westchester,99.47368421052632,4.736842105263158,"Herons, Bitterns, Egrets, Pelicans",1
-Westchester,99.47368421052632,4.736842105263158,Orchids,7
-Westchester,99.47368421052632,4.736842105263158,Other Flowering Plants,101
-Westchester,99.47368421052632,4.736842105263158,"Rails, Coots and Cranes",1
-Westchester,99.47368421052632,4.736842105263158,Sedges,38
-Westchester,99.47368421052632,4.736842105263158,Snakes,1
-Westchester,99.47368421052632,4.736842105263158,Sturgeons and Paddlefish,2
-Westchester,99.47368421052632,4.736842105263158,Turtles,2
-Westchester,99.47368421052632,4.736842105263158,Wrens,1
-Westchester,99.47368421052632,4.736842105263158,Owls,1
-Westchester,99.47368421052632,4.736842105263158,Carrion Beetles,1
-Westchester,99.47368421052632,4.736842105263158,Horsetails,2
-Westchester,99.47368421052632,4.736842105263158,Lizards,1
-Wyoming,100,2.0408163265306123,All,50
-Wyoming,100,2.0408163265306123,"Asters, Goldenrods and Daisies",4
-Wyoming,100,2.0408163265306123,Bats,1
-Wyoming,100,2.0408163265306123,Ferns,1
-Wyoming,100,2.0408163265306123,Grasses,1
-Wyoming,100,2.0408163265306123,Grebes,1
-Wyoming,100,2.0408163265306123,"Gulls, Terns, Plovers, Shorebirds",1
-Wyoming,100,2.0408163265306123,"Hawks, Falcons, Eagles, Vultures",2
-Wyoming,100,2.0408163265306123,"Herons, Bitterns, Egrets, Pelicans",1
-Wyoming,100,2.0408163265306123,Orchids,3
-Wyoming,100,2.0408163265306123,Other Flowering Plants,25
-Wyoming,100,2.0408163265306123,Sedges,5
-Wyoming,100,2.0408163265306123,Snakes,2
-Wyoming,100,2.0408163265306123,Sparrows and Towhees,1
-Wyoming,100,2.0408163265306123,Wrens,1
-Wyoming,100,2.0408163265306123,Owls,1
-Yates,100,1.6129032258064515,All,62
-Yates,100,1.6129032258064515,"Asters, Goldenrods and Daisies",4
-Yates,100,1.6129032258064515,Bats,1
-Yates,100,1.6129032258064515,Butterflies and Skippers,1
-Yates,100,1.6129032258064515,Grasses,7
-Yates,100,1.6129032258064515,Grebes,1
-Yates,100,1.6129032258064515,"Hawks, Falcons, Eagles, Vultures",2
-Yates,100,1.6129032258064515,Orchids,2
-Yates,100,1.6129032258064515,Other Flowering Plants,23
-Yates,100,1.6129032258064515,Sedges,16
-Yates,100,1.6129032258064515,Snakes,1
-Yates,100,1.6129032258064515,Sparrows and Towhees,1
-Yates,100,1.6129032258064515,Wrens,1
-Yates,100,1.6129032258064515,Owls,1
-Yates,100,1.6129032258064515,"Minnows, Shiners, Suckers",1
+Albany,17.218543046357617,0,All,159
+Albany,17.218543046357617,0,Blackbirds and Orioles,7
+Albany,17.218543046357617,0,Cardinals and Buntings,4
+Albany,17.218543046357617,0,Chickadees and Titmice,2
+Albany,17.218543046357617,0,Cormorants,1
+Albany,17.218543046357617,0,Creepers,1
+Albany,17.218543046357617,0,Crows and Jays,4
+Albany,17.218543046357617,0,Cuckoos,2
+Albany,17.218543046357617,0,"Ducks, Geese, Waterfowl",7
+Albany,17.218543046357617,0,Finches and Crossbills,6
+Albany,17.218543046357617,0,Flycatchers,7
+Albany,17.218543046357617,0,Gnatcatchers,1
+Albany,17.218543046357617,0,Grebes,1
+Albany,17.218543046357617,0,"Grouse, Pheasants, Turkeys",4
+Albany,17.218543046357617,0,"Gulls, Terns, Plovers, Shorebirds",5
+Albany,17.218543046357617,0,"Hawks, Falcons, Eagles, Vultures",12
+Albany,17.218543046357617,0,"Herons, Bitterns, Egrets, Pelicans",5
+Albany,17.218543046357617,0,Hummingbirds and Swifts,2
+Albany,17.218543046357617,0,Kingfishers,1
+Albany,17.218543046357617,0,Kinglets,2
+Albany,17.218543046357617,0,Mockingbirds and Thrashers,3
+Albany,17.218543046357617,0,Nightbirds,1
+Albany,17.218543046357617,0,Nuthatches,2
+Albany,17.218543046357617,0,Old World Sparrows,1
+Albany,17.218543046357617,0,Owls,6
+Albany,17.218543046357617,0,Pigeons and Doves,2
+Albany,17.218543046357617,0,"Rails, Coots and Cranes",4
+Albany,17.218543046357617,0,Sparrows and Towhees,11
+Albany,17.218543046357617,0,Starlings,1
+Albany,17.218543046357617,0,Swallows,6
+Albany,17.218543046357617,0,Thrushes and Bluebirds,6
+Albany,17.218543046357617,0,Vireos,4
+Albany,17.218543046357617,0,Waxwings,1
+Albany,17.218543046357617,0,Wood-Warblers,25
+Albany,17.218543046357617,0,Woodpeckers,7
+Albany,17.218543046357617,0,Wrens,5
+Allegany,15.333333333333332,0,All,157
+Allegany,15.333333333333332,0,Blackbirds and Orioles,7
+Allegany,15.333333333333332,0,Cardinals and Buntings,4
+Allegany,15.333333333333332,0,Chickadees and Titmice,2
+Allegany,15.333333333333332,0,Creepers,1
+Allegany,15.333333333333332,0,Crows and Jays,3
+Allegany,15.333333333333332,0,Cuckoos,2
+Allegany,15.333333333333332,0,"Ducks, Geese, Waterfowl",8
+Allegany,15.333333333333332,0,Finches and Crossbills,6
+Allegany,15.333333333333332,0,Flycatchers,8
+Allegany,15.333333333333332,0,Gnatcatchers,1
+Allegany,15.333333333333332,0,Grebes,1
+Allegany,15.333333333333332,0,"Grouse, Pheasants, Turkeys",4
+Allegany,15.333333333333332,0,"Gulls, Terns, Plovers, Shorebirds",5
+Allegany,15.333333333333332,0,"Hawks, Falcons, Eagles, Vultures",12
+Allegany,15.333333333333332,0,"Herons, Bitterns, Egrets, Pelicans",5
+Allegany,15.333333333333332,0,Hummingbirds and Swifts,2
+Allegany,15.333333333333332,0,Kingfishers,1
+Allegany,15.333333333333332,0,Kinglets,1
+Allegany,15.333333333333332,0,Mockingbirds and Thrashers,3
+Allegany,15.333333333333332,0,Nightbirds,1
+Allegany,15.333333333333332,0,Nuthatches,2
+Allegany,15.333333333333332,0,Old World Sparrows,1
+Allegany,15.333333333333332,0,Owls,6
+Allegany,15.333333333333332,0,Pigeons and Doves,2
+Allegany,15.333333333333332,0,"Rails, Coots and Cranes",3
+Allegany,15.333333333333332,0,Sparrows and Towhees,11
+Allegany,15.333333333333332,0,Starlings,1
+Allegany,15.333333333333332,0,Swallows,6
+Allegany,15.333333333333332,0,Thrushes and Bluebirds,6
+Allegany,15.333333333333332,0,Vireos,4
+Allegany,15.333333333333332,0,Waxwings,1
+Allegany,15.333333333333332,0,Wood-Warblers,25
+Allegany,15.333333333333332,0,Woodpeckers,7
+Allegany,15.333333333333332,0,Wrens,4
+Allegany,15.333333333333332,0,Larks,1
+Bronx,20.87912087912088,1.0204081632653061,All,98
+Bronx,20.87912087912088,1.0204081632653061,Blackbirds and Orioles,5
+Bronx,20.87912087912088,1.0204081632653061,Cardinals and Buntings,3
+Bronx,20.87912087912088,1.0204081632653061,Chickadees and Titmice,2
+Bronx,20.87912087912088,1.0204081632653061,Cormorants,1
+Bronx,20.87912087912088,1.0204081632653061,Crows and Jays,3
+Bronx,20.87912087912088,1.0204081632653061,Cuckoos,1
+Bronx,20.87912087912088,1.0204081632653061,"Ducks, Geese, Waterfowl",6
+Bronx,20.87912087912088,1.0204081632653061,Finches and Crossbills,2
+Bronx,20.87912087912088,1.0204081632653061,Flycatchers,5
+Bronx,20.87912087912088,1.0204081632653061,Gnatcatchers,1
+Bronx,20.87912087912088,1.0204081632653061,"Grouse, Pheasants, Turkeys",2
+Bronx,20.87912087912088,1.0204081632653061,"Gulls, Terns, Plovers, Shorebirds",7
+Bronx,20.87912087912088,1.0204081632653061,"Hawks, Falcons, Eagles, Vultures",5
+Bronx,20.87912087912088,1.0204081632653061,"Herons, Bitterns, Egrets, Pelicans",8
+Bronx,20.87912087912088,1.0204081632653061,Hummingbirds and Swifts,1
+Bronx,20.87912087912088,1.0204081632653061,Mockingbirds and Thrashers,3
+Bronx,20.87912087912088,1.0204081632653061,Nightbirds,1
+Bronx,20.87912087912088,1.0204081632653061,Nuthatches,1
+Bronx,20.87912087912088,1.0204081632653061,Old World Sparrows,1
+Bronx,20.87912087912088,1.0204081632653061,Owls,3
+Bronx,20.87912087912088,1.0204081632653061,Pigeons and Doves,2
+Bronx,20.87912087912088,1.0204081632653061,"Rails, Coots and Cranes",2
+Bronx,20.87912087912088,1.0204081632653061,Sparrows and Towhees,7
+Bronx,20.87912087912088,1.0204081632653061,Starlings,1
+Bronx,20.87912087912088,1.0204081632653061,Swallows,4
+Bronx,20.87912087912088,1.0204081632653061,Thrushes and Bluebirds,2
+Bronx,20.87912087912088,1.0204081632653061,Vireos,3
+Bronx,20.87912087912088,1.0204081632653061,Waxwings,1
+Bronx,20.87912087912088,1.0204081632653061,Wood-Warblers,7
+Bronx,20.87912087912088,1.0204081632653061,Woodpeckers,4
+Bronx,20.87912087912088,1.0204081632653061,Wrens,3
+Bronx,20.87912087912088,1.0204081632653061,Parrots and Parakeets,1
+Broome,14.093959731543624,0,All,159
+Broome,14.093959731543624,0,Blackbirds and Orioles,7
+Broome,14.093959731543624,0,Cardinals and Buntings,5
+Broome,14.093959731543624,0,Chickadees and Titmice,2
+Broome,14.093959731543624,0,Creepers,1
+Broome,14.093959731543624,0,Crows and Jays,4
+Broome,14.093959731543624,0,Cuckoos,2
+Broome,14.093959731543624,0,"Ducks, Geese, Waterfowl",8
+Broome,14.093959731543624,0,Finches and Crossbills,4
+Broome,14.093959731543624,0,Flycatchers,8
+Broome,14.093959731543624,0,Gnatcatchers,1
+Broome,14.093959731543624,0,Grebes,1
+Broome,14.093959731543624,0,"Grouse, Pheasants, Turkeys",4
+Broome,14.093959731543624,0,"Gulls, Terns, Plovers, Shorebirds",4
+Broome,14.093959731543624,0,"Hawks, Falcons, Eagles, Vultures",13
+Broome,14.093959731543624,0,"Herons, Bitterns, Egrets, Pelicans",5
+Broome,14.093959731543624,0,Hummingbirds and Swifts,2
+Broome,14.093959731543624,0,Kingfishers,1
+Broome,14.093959731543624,0,Kinglets,2
+Broome,14.093959731543624,0,Mockingbirds and Thrashers,3
+Broome,14.093959731543624,0,Nightbirds,1
+Broome,14.093959731543624,0,Nuthatches,2
+Broome,14.093959731543624,0,Old World Sparrows,1
+Broome,14.093959731543624,0,Owls,4
+Broome,14.093959731543624,0,Pigeons and Doves,2
+Broome,14.093959731543624,0,"Rails, Coots and Cranes",3
+Broome,14.093959731543624,0,Sparrows and Towhees,11
+Broome,14.093959731543624,0,Starlings,1
+Broome,14.093959731543624,0,Swallows,6
+Broome,14.093959731543624,0,Thrushes and Bluebirds,5
+Broome,14.093959731543624,0,Vireos,5
+Broome,14.093959731543624,0,Waxwings,1
+Broome,14.093959731543624,0,Wood-Warblers,28
+Broome,14.093959731543624,0,Woodpeckers,7
+Broome,14.093959731543624,0,Wrens,4
+Broome,14.093959731543624,0,Larks,1
+Cattaraugus,14.000000000000002,0,All,158
+Cattaraugus,14.000000000000002,0,Blackbirds and Orioles,7
+Cattaraugus,14.000000000000002,0,Cardinals and Buntings,4
+Cattaraugus,14.000000000000002,0,Chickadees and Titmice,2
+Cattaraugus,14.000000000000002,0,Creepers,1
+Cattaraugus,14.000000000000002,0,Crows and Jays,3
+Cattaraugus,14.000000000000002,0,Cuckoos,2
+Cattaraugus,14.000000000000002,0,"Ducks, Geese, Waterfowl",8
+Cattaraugus,14.000000000000002,0,Finches and Crossbills,4
+Cattaraugus,14.000000000000002,0,Flycatchers,8
+Cattaraugus,14.000000000000002,0,Gnatcatchers,1
+Cattaraugus,14.000000000000002,0,Grebes,1
+Cattaraugus,14.000000000000002,0,"Grouse, Pheasants, Turkeys",4
+Cattaraugus,14.000000000000002,0,"Gulls, Terns, Plovers, Shorebirds",5
+Cattaraugus,14.000000000000002,0,"Hawks, Falcons, Eagles, Vultures",12
+Cattaraugus,14.000000000000002,0,"Herons, Bitterns, Egrets, Pelicans",4
+Cattaraugus,14.000000000000002,0,Hummingbirds and Swifts,2
+Cattaraugus,14.000000000000002,0,Kingfishers,1
+Cattaraugus,14.000000000000002,0,Kinglets,1
+Cattaraugus,14.000000000000002,0,Mockingbirds and Thrashers,3
+Cattaraugus,14.000000000000002,0,Nightbirds,1
+Cattaraugus,14.000000000000002,0,Nuthatches,2
+Cattaraugus,14.000000000000002,0,Old World Sparrows,1
+Cattaraugus,14.000000000000002,0,Owls,4
+Cattaraugus,14.000000000000002,0,Pigeons and Doves,2
+Cattaraugus,14.000000000000002,0,"Rails, Coots and Cranes",3
+Cattaraugus,14.000000000000002,0,Sparrows and Towhees,11
+Cattaraugus,14.000000000000002,0,Starlings,1
+Cattaraugus,14.000000000000002,0,Swallows,6
+Cattaraugus,14.000000000000002,0,Thrushes and Bluebirds,6
+Cattaraugus,14.000000000000002,0,Vireos,5
+Cattaraugus,14.000000000000002,0,Waxwings,1
+Cattaraugus,14.000000000000002,0,Wood-Warblers,30
+Cattaraugus,14.000000000000002,0,Woodpeckers,7
+Cattaraugus,14.000000000000002,0,Wrens,4
+Cattaraugus,14.000000000000002,0,Larks,1
+Cayuga,21.686746987951807,0,All,174
+Cayuga,21.686746987951807,0,Blackbirds and Orioles,7
+Cayuga,21.686746987951807,0,Cardinals and Buntings,4
+Cayuga,21.686746987951807,0,Chickadees and Titmice,2
+Cayuga,21.686746987951807,0,Cormorants,1
+Cayuga,21.686746987951807,0,Creepers,1
+Cayuga,21.686746987951807,0,Crows and Jays,4
+Cayuga,21.686746987951807,0,Cuckoos,2
+Cayuga,21.686746987951807,0,"Ducks, Geese, Waterfowl",13
+Cayuga,21.686746987951807,0,Finches and Crossbills,7
+Cayuga,21.686746987951807,0,Flycatchers,8
+Cayuga,21.686746987951807,0,Gnatcatchers,1
+Cayuga,21.686746987951807,0,Grebes,1
+Cayuga,21.686746987951807,0,"Grouse, Pheasants, Turkeys",4
+Cayuga,21.686746987951807,0,"Gulls, Terns, Plovers, Shorebirds",6
+Cayuga,21.686746987951807,0,"Hawks, Falcons, Eagles, Vultures",12
+Cayuga,21.686746987951807,0,"Herons, Bitterns, Egrets, Pelicans",6
+Cayuga,21.686746987951807,0,Hummingbirds and Swifts,2
+Cayuga,21.686746987951807,0,Kingfishers,1
+Cayuga,21.686746987951807,0,Kinglets,1
+Cayuga,21.686746987951807,0,Mockingbirds and Thrashers,3
+Cayuga,21.686746987951807,0,Nightbirds,1
+Cayuga,21.686746987951807,0,Nuthatches,2
+Cayuga,21.686746987951807,0,Old World Sparrows,1
+Cayuga,21.686746987951807,0,Owls,7
+Cayuga,21.686746987951807,0,Pigeons and Doves,2
+Cayuga,21.686746987951807,0,"Rails, Coots and Cranes",6
+Cayuga,21.686746987951807,0,Sparrows and Towhees,11
+Cayuga,21.686746987951807,0,Starlings,1
+Cayuga,21.686746987951807,0,Swallows,6
+Cayuga,21.686746987951807,0,Thrushes and Bluebirds,5
+Cayuga,21.686746987951807,0,Vireos,4
+Cayuga,21.686746987951807,0,Waxwings,1
+Cayuga,21.686746987951807,0,Wood-Warblers,27
+Cayuga,21.686746987951807,0,Woodpeckers,7
+Cayuga,21.686746987951807,0,Wrens,5
+Cayuga,21.686746987951807,0,Larks,1
+Cayuga,21.686746987951807,0,Loons,1
+Chautauqua,14.838709677419354,0,All,165
+Chautauqua,14.838709677419354,0,Blackbirds and Orioles,7
+Chautauqua,14.838709677419354,0,Cardinals and Buntings,5
+Chautauqua,14.838709677419354,0,Chickadees and Titmice,2
+Chautauqua,14.838709677419354,0,Creepers,1
+Chautauqua,14.838709677419354,0,Crows and Jays,3
+Chautauqua,14.838709677419354,0,Cuckoos,2
+Chautauqua,14.838709677419354,0,"Ducks, Geese, Waterfowl",11
+Chautauqua,14.838709677419354,0,Finches and Crossbills,5
+Chautauqua,14.838709677419354,0,Flycatchers,9
+Chautauqua,14.838709677419354,0,Gnatcatchers,1
+Chautauqua,14.838709677419354,0,Grebes,1
+Chautauqua,14.838709677419354,0,"Grouse, Pheasants, Turkeys",4
+Chautauqua,14.838709677419354,0,"Gulls, Terns, Plovers, Shorebirds",8
+Chautauqua,14.838709677419354,0,"Hawks, Falcons, Eagles, Vultures",11
+Chautauqua,14.838709677419354,0,"Herons, Bitterns, Egrets, Pelicans",4
+Chautauqua,14.838709677419354,0,Hummingbirds and Swifts,2
+Chautauqua,14.838709677419354,0,Kingfishers,1
+Chautauqua,14.838709677419354,0,Kinglets,1
+Chautauqua,14.838709677419354,0,Mockingbirds and Thrashers,3
+Chautauqua,14.838709677419354,0,Nightbirds,1
+Chautauqua,14.838709677419354,0,Nuthatches,2
+Chautauqua,14.838709677419354,0,Old World Sparrows,1
+Chautauqua,14.838709677419354,0,Owls,5
+Chautauqua,14.838709677419354,0,Pigeons and Doves,2
+Chautauqua,14.838709677419354,0,"Rails, Coots and Cranes",4
+Chautauqua,14.838709677419354,0,Sparrows and Towhees,11
+Chautauqua,14.838709677419354,0,Starlings,1
+Chautauqua,14.838709677419354,0,Swallows,6
+Chautauqua,14.838709677419354,0,Thrushes and Bluebirds,6
+Chautauqua,14.838709677419354,0,Vireos,5
+Chautauqua,14.838709677419354,0,Waxwings,1
+Chautauqua,14.838709677419354,0,Wood-Warblers,25
+Chautauqua,14.838709677419354,0,Woodpeckers,7
+Chautauqua,14.838709677419354,0,Wrens,5
+Chautauqua,14.838709677419354,0,Larks,1
+Chautauqua,14.838709677419354,0,Loons,1
+Chemung,16.33986928104575,0,All,159
+Chemung,16.33986928104575,0,Blackbirds and Orioles,7
+Chemung,16.33986928104575,0,Cardinals and Buntings,4
+Chemung,16.33986928104575,0,Chickadees and Titmice,2
+Chemung,16.33986928104575,0,Creepers,1
+Chemung,16.33986928104575,0,Crows and Jays,4
+Chemung,16.33986928104575,0,Cuckoos,2
+Chemung,16.33986928104575,0,"Ducks, Geese, Waterfowl",11
+Chemung,16.33986928104575,0,Finches and Crossbills,4
+Chemung,16.33986928104575,0,Flycatchers,8
+Chemung,16.33986928104575,0,Gnatcatchers,1
+Chemung,16.33986928104575,0,Grebes,1
+Chemung,16.33986928104575,0,"Grouse, Pheasants, Turkeys",3
+Chemung,16.33986928104575,0,"Gulls, Terns, Plovers, Shorebirds",7
+Chemung,16.33986928104575,0,"Hawks, Falcons, Eagles, Vultures",12
+Chemung,16.33986928104575,0,"Herons, Bitterns, Egrets, Pelicans",4
+Chemung,16.33986928104575,0,Hummingbirds and Swifts,2
+Chemung,16.33986928104575,0,Kingfishers,1
+Chemung,16.33986928104575,0,Kinglets,1
+Chemung,16.33986928104575,0,Mockingbirds and Thrashers,3
+Chemung,16.33986928104575,0,Nightbirds,1
+Chemung,16.33986928104575,0,Nuthatches,2
+Chemung,16.33986928104575,0,Old World Sparrows,1
+Chemung,16.33986928104575,0,Owls,7
+Chemung,16.33986928104575,0,Pigeons and Doves,2
+Chemung,16.33986928104575,0,"Rails, Coots and Cranes",4
+Chemung,16.33986928104575,0,Sparrows and Towhees,11
+Chemung,16.33986928104575,0,Starlings,1
+Chemung,16.33986928104575,0,Swallows,6
+Chemung,16.33986928104575,0,Thrushes and Bluebirds,5
+Chemung,16.33986928104575,0,Vireos,4
+Chemung,16.33986928104575,0,Waxwings,1
+Chemung,16.33986928104575,0,Wood-Warblers,24
+Chemung,16.33986928104575,0,Woodpeckers,7
+Chemung,16.33986928104575,0,Wrens,4
+Chemung,16.33986928104575,0,Larks,1
+Chenango,15.333333333333332,0,All,157
+Chenango,15.333333333333332,0,Blackbirds and Orioles,7
+Chenango,15.333333333333332,0,Cardinals and Buntings,4
+Chenango,15.333333333333332,0,Chickadees and Titmice,2
+Chenango,15.333333333333332,0,Cormorants,1
+Chenango,15.333333333333332,0,Creepers,1
+Chenango,15.333333333333332,0,Crows and Jays,4
+Chenango,15.333333333333332,0,Cuckoos,2
+Chenango,15.333333333333332,0,"Ducks, Geese, Waterfowl",9
+Chenango,15.333333333333332,0,Finches and Crossbills,7
+Chenango,15.333333333333332,0,Flycatchers,8
+Chenango,15.333333333333332,0,Gnatcatchers,1
+Chenango,15.333333333333332,0,Grebes,1
+Chenango,15.333333333333332,0,"Grouse, Pheasants, Turkeys",4
+Chenango,15.333333333333332,0,"Gulls, Terns, Plovers, Shorebirds",4
+Chenango,15.333333333333332,0,"Hawks, Falcons, Eagles, Vultures",11
+Chenango,15.333333333333332,0,"Herons, Bitterns, Egrets, Pelicans",4
+Chenango,15.333333333333332,0,Hummingbirds and Swifts,2
+Chenango,15.333333333333332,0,Kingfishers,1
+Chenango,15.333333333333332,0,Kinglets,2
+Chenango,15.333333333333332,0,Mockingbirds and Thrashers,3
+Chenango,15.333333333333332,0,Nightbirds,2
+Chenango,15.333333333333332,0,Nuthatches,2
+Chenango,15.333333333333332,0,Old World Sparrows,1
+Chenango,15.333333333333332,0,Owls,4
+Chenango,15.333333333333332,0,Pigeons and Doves,2
+Chenango,15.333333333333332,0,"Rails, Coots and Cranes",2
+Chenango,15.333333333333332,0,Sparrows and Towhees,11
+Chenango,15.333333333333332,0,Starlings,1
+Chenango,15.333333333333332,0,Swallows,5
+Chenango,15.333333333333332,0,Thrushes and Bluebirds,6
+Chenango,15.333333333333332,0,Vireos,4
+Chenango,15.333333333333332,0,Waxwings,1
+Chenango,15.333333333333332,0,Wood-Warblers,25
+Chenango,15.333333333333332,0,Woodpeckers,7
+Chenango,15.333333333333332,0,Wrens,5
+Chenango,15.333333333333332,0,Larks,1
+Clinton,27.11864406779661,0,All,185
+Clinton,27.11864406779661,0,Blackbirds and Orioles,8
+Clinton,27.11864406779661,0,Cardinals and Buntings,4
+Clinton,27.11864406779661,0,Chickadees and Titmice,2
+Clinton,27.11864406779661,0,Creepers,1
+Clinton,27.11864406779661,0,Crows and Jays,3
+Clinton,27.11864406779661,0,Cuckoos,2
+Clinton,27.11864406779661,0,"Ducks, Geese, Waterfowl",15
+Clinton,27.11864406779661,0,Finches and Crossbills,7
+Clinton,27.11864406779661,0,Flycatchers,9
+Clinton,27.11864406779661,0,Gnatcatchers,1
+Clinton,27.11864406779661,0,Grebes,1
+Clinton,27.11864406779661,0,"Grouse, Pheasants, Turkeys",5
+Clinton,27.11864406779661,0,"Gulls, Terns, Plovers, Shorebirds",10
+Clinton,27.11864406779661,0,"Hawks, Falcons, Eagles, Vultures",13
+Clinton,27.11864406779661,0,"Herons, Bitterns, Egrets, Pelicans",7
+Clinton,27.11864406779661,0,Hummingbirds and Swifts,2
+Clinton,27.11864406779661,0,Kingfishers,1
+Clinton,27.11864406779661,0,Kinglets,2
+Clinton,27.11864406779661,0,Mockingbirds and Thrashers,3
+Clinton,27.11864406779661,0,Nightbirds,2
+Clinton,27.11864406779661,0,Nuthatches,2
+Clinton,27.11864406779661,0,Old World Sparrows,1
+Clinton,27.11864406779661,0,Owls,6
+Clinton,27.11864406779661,0,Pigeons and Doves,2
+Clinton,27.11864406779661,0,"Rails, Coots and Cranes",5
+Clinton,27.11864406779661,0,Sparrows and Towhees,12
+Clinton,27.11864406779661,0,Starlings,1
+Clinton,27.11864406779661,0,Swallows,6
+Clinton,27.11864406779661,0,Thrushes and Bluebirds,7
+Clinton,27.11864406779661,0,Vireos,5
+Clinton,27.11864406779661,0,Waxwings,1
+Clinton,27.11864406779661,0,Wood-Warblers,23
+Clinton,27.11864406779661,0,Woodpeckers,8
+Clinton,27.11864406779661,0,Wrens,5
+Clinton,27.11864406779661,0,Larks,1
+Clinton,27.11864406779661,0,Loons,1
+Clinton,27.11864406779661,0,Shrikes,1
+Columbia,13.194444444444445,0,All,153
+Columbia,13.194444444444445,0,Blackbirds and Orioles,7
+Columbia,13.194444444444445,0,Cardinals and Buntings,4
+Columbia,13.194444444444445,0,Chickadees and Titmice,2
+Columbia,13.194444444444445,0,Cormorants,1
+Columbia,13.194444444444445,0,Creepers,1
+Columbia,13.194444444444445,0,Crows and Jays,4
+Columbia,13.194444444444445,0,Cuckoos,2
+Columbia,13.194444444444445,0,"Ducks, Geese, Waterfowl",9
+Columbia,13.194444444444445,0,Finches and Crossbills,3
+Columbia,13.194444444444445,0,Flycatchers,7
+Columbia,13.194444444444445,0,Gnatcatchers,1
+Columbia,13.194444444444445,0,Grebes,1
+Columbia,13.194444444444445,0,"Grouse, Pheasants, Turkeys",4
+Columbia,13.194444444444445,0,"Gulls, Terns, Plovers, Shorebirds",5
+Columbia,13.194444444444445,0,"Hawks, Falcons, Eagles, Vultures",13
+Columbia,13.194444444444445,0,"Herons, Bitterns, Egrets, Pelicans",5
+Columbia,13.194444444444445,0,Hummingbirds and Swifts,2
+Columbia,13.194444444444445,0,Kingfishers,1
+Columbia,13.194444444444445,0,Kinglets,1
+Columbia,13.194444444444445,0,Mockingbirds and Thrashers,3
+Columbia,13.194444444444445,0,Nightbirds,2
+Columbia,13.194444444444445,0,Nuthatches,2
+Columbia,13.194444444444445,0,Old World Sparrows,1
+Columbia,13.194444444444445,0,Owls,4
+Columbia,13.194444444444445,0,Pigeons and Doves,2
+Columbia,13.194444444444445,0,"Rails, Coots and Cranes",3
+Columbia,13.194444444444445,0,Sparrows and Towhees,10
+Columbia,13.194444444444445,0,Starlings,1
+Columbia,13.194444444444445,0,Swallows,5
+Columbia,13.194444444444445,0,Thrushes and Bluebirds,6
+Columbia,13.194444444444445,0,Vireos,5
+Columbia,13.194444444444445,0,Waxwings,1
+Columbia,13.194444444444445,0,Wood-Warblers,24
+Columbia,13.194444444444445,0,Woodpeckers,7
+Columbia,13.194444444444445,0,Wrens,4
+Cortland,12.413793103448276,0,All,151
+Cortland,12.413793103448276,0,Blackbirds and Orioles,7
+Cortland,12.413793103448276,0,Cardinals and Buntings,4
+Cortland,12.413793103448276,0,Chickadees and Titmice,2
+Cortland,12.413793103448276,0,Creepers,1
+Cortland,12.413793103448276,0,Crows and Jays,3
+Cortland,12.413793103448276,0,Cuckoos,2
+Cortland,12.413793103448276,0,"Ducks, Geese, Waterfowl",6
+Cortland,12.413793103448276,0,Finches and Crossbills,6
+Cortland,12.413793103448276,0,Flycatchers,7
+Cortland,12.413793103448276,0,Gnatcatchers,1
+Cortland,12.413793103448276,0,Grebes,1
+Cortland,12.413793103448276,0,"Grouse, Pheasants, Turkeys",3
+Cortland,12.413793103448276,0,"Gulls, Terns, Plovers, Shorebirds",5
+Cortland,12.413793103448276,0,"Hawks, Falcons, Eagles, Vultures",12
+Cortland,12.413793103448276,0,"Herons, Bitterns, Egrets, Pelicans",4
+Cortland,12.413793103448276,0,Hummingbirds and Swifts,2
+Cortland,12.413793103448276,0,Kingfishers,1
+Cortland,12.413793103448276,0,Kinglets,1
+Cortland,12.413793103448276,0,Mockingbirds and Thrashers,3
+Cortland,12.413793103448276,0,Nightbirds,1
+Cortland,12.413793103448276,0,Nuthatches,2
+Cortland,12.413793103448276,0,Old World Sparrows,1
+Cortland,12.413793103448276,0,Owls,5
+Cortland,12.413793103448276,0,Pigeons and Doves,2
+Cortland,12.413793103448276,0,"Rails, Coots and Cranes",3
+Cortland,12.413793103448276,0,Sparrows and Towhees,11
+Cortland,12.413793103448276,0,Starlings,1
+Cortland,12.413793103448276,0,Swallows,6
+Cortland,12.413793103448276,0,Thrushes and Bluebirds,5
+Cortland,12.413793103448276,0,Vireos,4
+Cortland,12.413793103448276,0,Waxwings,1
+Cortland,12.413793103448276,0,Wood-Warblers,25
+Cortland,12.413793103448276,0,Woodpeckers,7
+Cortland,12.413793103448276,0,Wrens,4
+Cortland,12.413793103448276,0,Larks,1
+Cortland,12.413793103448276,0,Loons,1
+Delaware,15.436241610738255,0,All,157
+Delaware,15.436241610738255,0,Blackbirds and Orioles,6
+Delaware,15.436241610738255,0,Cardinals and Buntings,4
+Delaware,15.436241610738255,0,Chickadees and Titmice,2
+Delaware,15.436241610738255,0,Creepers,1
+Delaware,15.436241610738255,0,Crows and Jays,3
+Delaware,15.436241610738255,0,Cuckoos,2
+Delaware,15.436241610738255,0,"Ducks, Geese, Waterfowl",9
+Delaware,15.436241610738255,0,Finches and Crossbills,6
+Delaware,15.436241610738255,0,Flycatchers,8
+Delaware,15.436241610738255,0,Gnatcatchers,1
+Delaware,15.436241610738255,0,Grebes,1
+Delaware,15.436241610738255,0,"Grouse, Pheasants, Turkeys",4
+Delaware,15.436241610738255,0,"Gulls, Terns, Plovers, Shorebirds",5
+Delaware,15.436241610738255,0,"Hawks, Falcons, Eagles, Vultures",13
+Delaware,15.436241610738255,0,"Herons, Bitterns, Egrets, Pelicans",3
+Delaware,15.436241610738255,0,Hummingbirds and Swifts,2
+Delaware,15.436241610738255,0,Kingfishers,1
+Delaware,15.436241610738255,0,Kinglets,2
+Delaware,15.436241610738255,0,Mockingbirds and Thrashers,3
+Delaware,15.436241610738255,0,Nightbirds,2
+Delaware,15.436241610738255,0,Nuthatches,2
+Delaware,15.436241610738255,0,Old World Sparrows,1
+Delaware,15.436241610738255,0,Owls,6
+Delaware,15.436241610738255,0,Pigeons and Doves,2
+Delaware,15.436241610738255,0,"Rails, Coots and Cranes",1
+Delaware,15.436241610738255,0,Sparrows and Towhees,11
+Delaware,15.436241610738255,0,Starlings,1
+Delaware,15.436241610738255,0,Swallows,6
+Delaware,15.436241610738255,0,Thrushes and Bluebirds,6
+Delaware,15.436241610738255,0,Vireos,4
+Delaware,15.436241610738255,0,Waxwings,1
+Delaware,15.436241610738255,0,Wood-Warblers,27
+Delaware,15.436241610738255,0,Woodpeckers,7
+Delaware,15.436241610738255,0,Wrens,3
+Delaware,15.436241610738255,0,Larks,1
+Dutchess,15.789473684210526,0,All,161
+Dutchess,15.789473684210526,0,Blackbirds and Orioles,7
+Dutchess,15.789473684210526,0,Cardinals and Buntings,4
+Dutchess,15.789473684210526,0,Chickadees and Titmice,2
+Dutchess,15.789473684210526,0,Cormorants,1
+Dutchess,15.789473684210526,0,Creepers,1
+Dutchess,15.789473684210526,0,Crows and Jays,4
+Dutchess,15.789473684210526,0,Cuckoos,2
+Dutchess,15.789473684210526,0,"Ducks, Geese, Waterfowl",8
+Dutchess,15.789473684210526,0,Finches and Crossbills,4
+Dutchess,15.789473684210526,0,Flycatchers,8
+Dutchess,15.789473684210526,0,Gnatcatchers,1
+Dutchess,15.789473684210526,0,Grebes,1
+Dutchess,15.789473684210526,0,"Grouse, Pheasants, Turkeys",4
+Dutchess,15.789473684210526,0,"Gulls, Terns, Plovers, Shorebirds",5
+Dutchess,15.789473684210526,0,"Hawks, Falcons, Eagles, Vultures",14
+Dutchess,15.789473684210526,0,"Herons, Bitterns, Egrets, Pelicans",5
+Dutchess,15.789473684210526,0,Hummingbirds and Swifts,2
+Dutchess,15.789473684210526,0,Kingfishers,1
+Dutchess,15.789473684210526,0,Kinglets,1
+Dutchess,15.789473684210526,0,Mockingbirds and Thrashers,3
+Dutchess,15.789473684210526,0,Nightbirds,2
+Dutchess,15.789473684210526,0,Nuthatches,2
+Dutchess,15.789473684210526,0,Old World Sparrows,1
+Dutchess,15.789473684210526,0,Owls,5
+Dutchess,15.789473684210526,0,Pigeons and Doves,2
+Dutchess,15.789473684210526,0,"Rails, Coots and Cranes",3
+Dutchess,15.789473684210526,0,Sparrows and Towhees,10
+Dutchess,15.789473684210526,0,Starlings,1
+Dutchess,15.789473684210526,0,Swallows,6
+Dutchess,15.789473684210526,0,Thrushes and Bluebirds,5
+Dutchess,15.789473684210526,0,Vireos,5
+Dutchess,15.789473684210526,0,Waxwings,1
+Dutchess,15.789473684210526,0,Wood-Warblers,27
+Dutchess,15.789473684210526,0,Woodpeckers,7
+Dutchess,15.789473684210526,0,Wrens,5
+Dutchess,15.789473684210526,0,Larks,1
+Erie,21.604938271604937,0,All,171
+Erie,21.604938271604937,0,Blackbirds and Orioles,7
+Erie,21.604938271604937,0,Cardinals and Buntings,4
+Erie,21.604938271604937,0,Chickadees and Titmice,2
+Erie,21.604938271604937,0,Cormorants,1
+Erie,21.604938271604937,0,Creepers,1
+Erie,21.604938271604937,0,Crows and Jays,3
+Erie,21.604938271604937,0,Cuckoos,2
+Erie,21.604938271604937,0,"Ducks, Geese, Waterfowl",14
+Erie,21.604938271604937,0,Finches and Crossbills,4
+Erie,21.604938271604937,0,Flycatchers,8
+Erie,21.604938271604937,0,Gnatcatchers,1
+Erie,21.604938271604937,0,Grebes,1
+Erie,21.604938271604937,0,"Grouse, Pheasants, Turkeys",4
+Erie,21.604938271604937,0,"Gulls, Terns, Plovers, Shorebirds",9
+Erie,21.604938271604937,0,"Hawks, Falcons, Eagles, Vultures",13
+Erie,21.604938271604937,0,"Herons, Bitterns, Egrets, Pelicans",6
+Erie,21.604938271604937,0,Hummingbirds and Swifts,2
+Erie,21.604938271604937,0,Kingfishers,1
+Erie,21.604938271604937,0,Kinglets,1
+Erie,21.604938271604937,0,Mockingbirds and Thrashers,3
+Erie,21.604938271604937,0,Nightbirds,1
+Erie,21.604938271604937,0,Nuthatches,2
+Erie,21.604938271604937,0,Old World Sparrows,1
+Erie,21.604938271604937,0,Owls,7
+Erie,21.604938271604937,0,Pigeons and Doves,2
+Erie,21.604938271604937,0,"Rails, Coots and Cranes",4
+Erie,21.604938271604937,0,Sparrows and Towhees,10
+Erie,21.604938271604937,0,Starlings,1
+Erie,21.604938271604937,0,Swallows,6
+Erie,21.604938271604937,0,Thrushes and Bluebirds,5
+Erie,21.604938271604937,0,Vireos,4
+Erie,21.604938271604937,0,Waxwings,1
+Erie,21.604938271604937,0,Wood-Warblers,27
+Erie,21.604938271604937,0,Woodpeckers,7
+Erie,21.604938271604937,0,Wrens,5
+Erie,21.604938271604937,0,Larks,1
+Essex,27.86885245901639,0,All,190
+Essex,27.86885245901639,0,Blackbirds and Orioles,8
+Essex,27.86885245901639,0,Cardinals and Buntings,4
+Essex,27.86885245901639,0,Chickadees and Titmice,3
+Essex,27.86885245901639,0,Cormorants,1
+Essex,27.86885245901639,0,Creepers,1
+Essex,27.86885245901639,0,Crows and Jays,5
+Essex,27.86885245901639,0,Cuckoos,2
+Essex,27.86885245901639,0,"Ducks, Geese, Waterfowl",15
+Essex,27.86885245901639,0,Finches and Crossbills,7
+Essex,27.86885245901639,0,Flycatchers,9
+Essex,27.86885245901639,0,Gnatcatchers,1
+Essex,27.86885245901639,0,Grebes,1
+Essex,27.86885245901639,0,"Grouse, Pheasants, Turkeys",4
+Essex,27.86885245901639,0,"Gulls, Terns, Plovers, Shorebirds",10
+Essex,27.86885245901639,0,"Hawks, Falcons, Eagles, Vultures",14
+Essex,27.86885245901639,0,"Herons, Bitterns, Egrets, Pelicans",7
+Essex,27.86885245901639,0,Hummingbirds and Swifts,2
+Essex,27.86885245901639,0,Kingfishers,1
+Essex,27.86885245901639,0,Kinglets,2
+Essex,27.86885245901639,0,Mockingbirds and Thrashers,3
+Essex,27.86885245901639,0,Nightbirds,2
+Essex,27.86885245901639,0,Nuthatches,2
+Essex,27.86885245901639,0,Old World Sparrows,1
+Essex,27.86885245901639,0,Owls,7
+Essex,27.86885245901639,0,Pigeons and Doves,2
+Essex,27.86885245901639,0,"Rails, Coots and Cranes",4
+Essex,27.86885245901639,0,Sparrows and Towhees,10
+Essex,27.86885245901639,0,Starlings,1
+Essex,27.86885245901639,0,Swallows,6
+Essex,27.86885245901639,0,Thrushes and Bluebirds,7
+Essex,27.86885245901639,0,Vireos,5
+Essex,27.86885245901639,0,Waxwings,1
+Essex,27.86885245901639,0,Wood-Warblers,26
+Essex,27.86885245901639,0,Woodpeckers,9
+Essex,27.86885245901639,0,Wrens,5
+Essex,27.86885245901639,0,Larks,1
+Essex,27.86885245901639,0,Loons,1
+Franklin,27.976190476190478,0,All,178
+Franklin,27.976190476190478,0,Blackbirds and Orioles,7
+Franklin,27.976190476190478,0,Cardinals and Buntings,4
+Franklin,27.976190476190478,0,Chickadees and Titmice,3
+Franklin,27.976190476190478,0,Creepers,1
+Franklin,27.976190476190478,0,Crows and Jays,4
+Franklin,27.976190476190478,0,Cuckoos,2
+Franklin,27.976190476190478,0,"Ducks, Geese, Waterfowl",14
+Franklin,27.976190476190478,0,Finches and Crossbills,7
+Franklin,27.976190476190478,0,Flycatchers,9
+Franklin,27.976190476190478,0,Grebes,1
+Franklin,27.976190476190478,0,"Grouse, Pheasants, Turkeys",5
+Franklin,27.976190476190478,0,"Gulls, Terns, Plovers, Shorebirds",7
+Franklin,27.976190476190478,0,"Hawks, Falcons, Eagles, Vultures",14
+Franklin,27.976190476190478,0,"Herons, Bitterns, Egrets, Pelicans",5
+Franklin,27.976190476190478,0,Hummingbirds and Swifts,2
+Franklin,27.976190476190478,0,Kingfishers,1
+Franklin,27.976190476190478,0,Kinglets,2
+Franklin,27.976190476190478,0,Mockingbirds and Thrashers,3
+Franklin,27.976190476190478,0,Nightbirds,2
+Franklin,27.976190476190478,0,Nuthatches,2
+Franklin,27.976190476190478,0,Old World Sparrows,1
+Franklin,27.976190476190478,0,Owls,5
+Franklin,27.976190476190478,0,Pigeons and Doves,2
+Franklin,27.976190476190478,0,"Rails, Coots and Cranes",3
+Franklin,27.976190476190478,0,Sparrows and Towhees,11
+Franklin,27.976190476190478,0,Starlings,1
+Franklin,27.976190476190478,0,Swallows,5
+Franklin,27.976190476190478,0,Thrushes and Bluebirds,7
+Franklin,27.976190476190478,0,Vireos,5
+Franklin,27.976190476190478,0,Waxwings,1
+Franklin,27.976190476190478,0,Wood-Warblers,27
+Franklin,27.976190476190478,0,Woodpeckers,8
+Franklin,27.976190476190478,0,Wrens,4
+Franklin,27.976190476190478,0,Larks,1
+Franklin,27.976190476190478,0,Loons,1
+Franklin,27.976190476190478,0,Shrikes,1
+Fulton,13.245033112582782,0,All,158
+Fulton,13.245033112582782,0,Blackbirds and Orioles,6
+Fulton,13.245033112582782,0,Cardinals and Buntings,4
+Fulton,13.245033112582782,0,Chickadees and Titmice,2
+Fulton,13.245033112582782,0,Cormorants,1
+Fulton,13.245033112582782,0,Creepers,1
+Fulton,13.245033112582782,0,Crows and Jays,4
+Fulton,13.245033112582782,0,Cuckoos,2
+Fulton,13.245033112582782,0,"Ducks, Geese, Waterfowl",9
+Fulton,13.245033112582782,0,Finches and Crossbills,5
+Fulton,13.245033112582782,0,Flycatchers,9
+Fulton,13.245033112582782,0,Gnatcatchers,1
+Fulton,13.245033112582782,0,Grebes,1
+Fulton,13.245033112582782,0,"Grouse, Pheasants, Turkeys",3
+Fulton,13.245033112582782,0,"Gulls, Terns, Plovers, Shorebirds",7
+Fulton,13.245033112582782,0,"Hawks, Falcons, Eagles, Vultures",12
+Fulton,13.245033112582782,0,"Herons, Bitterns, Egrets, Pelicans",4
+Fulton,13.245033112582782,0,Hummingbirds and Swifts,2
+Fulton,13.245033112582782,0,Kingfishers,1
+Fulton,13.245033112582782,0,Kinglets,1
+Fulton,13.245033112582782,0,Mockingbirds and Thrashers,3
+Fulton,13.245033112582782,0,Nightbirds,2
+Fulton,13.245033112582782,0,Nuthatches,2
+Fulton,13.245033112582782,0,Old World Sparrows,1
+Fulton,13.245033112582782,0,Owls,4
+Fulton,13.245033112582782,0,Pigeons and Doves,2
+Fulton,13.245033112582782,0,"Rails, Coots and Cranes",3
+Fulton,13.245033112582782,0,Sparrows and Towhees,12
+Fulton,13.245033112582782,0,Starlings,1
+Fulton,13.245033112582782,0,Swallows,6
+Fulton,13.245033112582782,0,Thrushes and Bluebirds,6
+Fulton,13.245033112582782,0,Vireos,4
+Fulton,13.245033112582782,0,Waxwings,1
+Fulton,13.245033112582782,0,Wood-Warblers,22
+Fulton,13.245033112582782,0,Woodpeckers,7
+Fulton,13.245033112582782,0,Wrens,5
+Fulton,13.245033112582782,0,Larks,1
+Fulton,13.245033112582782,0,Loons,1
+Genesee,21.875,0,All,169
+Genesee,21.875,0,Blackbirds and Orioles,7
+Genesee,21.875,0,Cardinals and Buntings,4
+Genesee,21.875,0,Chickadees and Titmice,2
+Genesee,21.875,0,Creepers,1
+Genesee,21.875,0,Crows and Jays,3
+Genesee,21.875,0,Cuckoos,2
+Genesee,21.875,0,"Ducks, Geese, Waterfowl",16
+Genesee,21.875,0,Finches and Crossbills,4
+Genesee,21.875,0,Flycatchers,8
+Genesee,21.875,0,Gnatcatchers,1
+Genesee,21.875,0,Grebes,1
+Genesee,21.875,0,"Grouse, Pheasants, Turkeys",4
+Genesee,21.875,0,"Gulls, Terns, Plovers, Shorebirds",7
+Genesee,21.875,0,"Hawks, Falcons, Eagles, Vultures",11
+Genesee,21.875,0,"Herons, Bitterns, Egrets, Pelicans",5
+Genesee,21.875,0,Hummingbirds and Swifts,2
+Genesee,21.875,0,Kingfishers,1
+Genesee,21.875,0,Kinglets,1
+Genesee,21.875,0,Mockingbirds and Thrashers,3
+Genesee,21.875,0,Nightbirds,2
+Genesee,21.875,0,Nuthatches,2
+Genesee,21.875,0,Old World Sparrows,1
+Genesee,21.875,0,Owls,7
+Genesee,21.875,0,Pigeons and Doves,2
+Genesee,21.875,0,"Rails, Coots and Cranes",6
+Genesee,21.875,0,Sparrows and Towhees,11
+Genesee,21.875,0,Starlings,1
+Genesee,21.875,0,Swallows,6
+Genesee,21.875,0,Thrushes and Bluebirds,5
+Genesee,21.875,0,Vireos,4
+Genesee,21.875,0,Waxwings,1
+Genesee,21.875,0,Wood-Warblers,25
+Genesee,21.875,0,Woodpeckers,7
+Genesee,21.875,0,Wrens,5
+Genesee,21.875,0,Larks,1
+Greene,17.105263157894736,0,All,161
+Greene,17.105263157894736,0,Blackbirds and Orioles,7
+Greene,17.105263157894736,0,Cardinals and Buntings,4
+Greene,17.105263157894736,0,Chickadees and Titmice,2
+Greene,17.105263157894736,0,Cormorants,1
+Greene,17.105263157894736,0,Creepers,1
+Greene,17.105263157894736,0,Crows and Jays,4
+Greene,17.105263157894736,0,Cuckoos,2
+Greene,17.105263157894736,0,"Ducks, Geese, Waterfowl",8
+Greene,17.105263157894736,0,Finches and Crossbills,6
+Greene,17.105263157894736,0,Flycatchers,9
+Greene,17.105263157894736,0,Gnatcatchers,1
+Greene,17.105263157894736,0,Grebes,1
+Greene,17.105263157894736,0,"Grouse, Pheasants, Turkeys",3
+Greene,17.105263157894736,0,"Gulls, Terns, Plovers, Shorebirds",5
+Greene,17.105263157894736,0,"Hawks, Falcons, Eagles, Vultures",13
+Greene,17.105263157894736,0,"Herons, Bitterns, Egrets, Pelicans",3
+Greene,17.105263157894736,0,Hummingbirds and Swifts,2
+Greene,17.105263157894736,0,Kingfishers,1
+Greene,17.105263157894736,0,Kinglets,2
+Greene,17.105263157894736,0,Mockingbirds and Thrashers,3
+Greene,17.105263157894736,0,Nightbirds,2
+Greene,17.105263157894736,0,Nuthatches,2
+Greene,17.105263157894736,0,Old World Sparrows,1
+Greene,17.105263157894736,0,Owls,6
+Greene,17.105263157894736,0,Pigeons and Doves,2
+Greene,17.105263157894736,0,"Rails, Coots and Cranes",4
+Greene,17.105263157894736,0,Sparrows and Towhees,9
+Greene,17.105263157894736,0,Starlings,1
+Greene,17.105263157894736,0,Swallows,5
+Greene,17.105263157894736,0,Thrushes and Bluebirds,7
+Greene,17.105263157894736,0,Vireos,4
+Greene,17.105263157894736,0,Waxwings,1
+Greene,17.105263157894736,0,Wood-Warblers,28
+Greene,17.105263157894736,0,Woodpeckers,7
+Greene,17.105263157894736,0,Wrens,4
+Hamilton,20.915032679738562,0,All,157
+Hamilton,20.915032679738562,0,Blackbirds and Orioles,7
+Hamilton,20.915032679738562,0,Cardinals and Buntings,4
+Hamilton,20.915032679738562,0,Chickadees and Titmice,3
+Hamilton,20.915032679738562,0,Creepers,1
+Hamilton,20.915032679738562,0,Crows and Jays,4
+Hamilton,20.915032679738562,0,Cuckoos,2
+Hamilton,20.915032679738562,0,"Ducks, Geese, Waterfowl",9
+Hamilton,20.915032679738562,0,Finches and Crossbills,7
+Hamilton,20.915032679738562,0,Flycatchers,9
+Hamilton,20.915032679738562,0,Grebes,1
+Hamilton,20.915032679738562,0,"Grouse, Pheasants, Turkeys",3
+Hamilton,20.915032679738562,0,"Gulls, Terns, Plovers, Shorebirds",5
+Hamilton,20.915032679738562,0,"Hawks, Falcons, Eagles, Vultures",14
+Hamilton,20.915032679738562,0,"Herons, Bitterns, Egrets, Pelicans",4
+Hamilton,20.915032679738562,0,Hummingbirds and Swifts,2
+Hamilton,20.915032679738562,0,Kingfishers,1
+Hamilton,20.915032679738562,0,Kinglets,2
+Hamilton,20.915032679738562,0,Mockingbirds and Thrashers,3
+Hamilton,20.915032679738562,0,Nightbirds,2
+Hamilton,20.915032679738562,0,Nuthatches,2
+Hamilton,20.915032679738562,0,Old World Sparrows,1
+Hamilton,20.915032679738562,0,Owls,4
+Hamilton,20.915032679738562,0,Pigeons and Doves,2
+Hamilton,20.915032679738562,0,"Rails, Coots and Cranes",2
+Hamilton,20.915032679738562,0,Sparrows and Towhees,9
+Hamilton,20.915032679738562,0,Starlings,1
+Hamilton,20.915032679738562,0,Swallows,5
+Hamilton,20.915032679738562,0,Thrushes and Bluebirds,7
+Hamilton,20.915032679738562,0,Vireos,5
+Hamilton,20.915032679738562,0,Waxwings,1
+Hamilton,20.915032679738562,0,Wood-Warblers,22
+Hamilton,20.915032679738562,0,Woodpeckers,9
+Hamilton,20.915032679738562,0,Wrens,3
+Hamilton,20.915032679738562,0,Loons,1
+Herkimer,22.61904761904762,0,All,174
+Herkimer,22.61904761904762,0,Blackbirds and Orioles,8
+Herkimer,22.61904761904762,0,Cardinals and Buntings,4
+Herkimer,22.61904761904762,0,Chickadees and Titmice,3
+Herkimer,22.61904761904762,0,Creepers,1
+Herkimer,22.61904761904762,0,Crows and Jays,4
+Herkimer,22.61904761904762,0,Cuckoos,2
+Herkimer,22.61904761904762,0,"Ducks, Geese, Waterfowl",10
+Herkimer,22.61904761904762,0,Finches and Crossbills,7
+Herkimer,22.61904761904762,0,Flycatchers,9
+Herkimer,22.61904761904762,0,Gnatcatchers,1
+Herkimer,22.61904761904762,0,Grebes,1
+Herkimer,22.61904761904762,0,"Grouse, Pheasants, Turkeys",4
+Herkimer,22.61904761904762,0,"Gulls, Terns, Plovers, Shorebirds",6
+Herkimer,22.61904761904762,0,"Hawks, Falcons, Eagles, Vultures",14
+Herkimer,22.61904761904762,0,"Herons, Bitterns, Egrets, Pelicans",4
+Herkimer,22.61904761904762,0,Hummingbirds and Swifts,2
+Herkimer,22.61904761904762,0,Kingfishers,1
+Herkimer,22.61904761904762,0,Kinglets,2
+Herkimer,22.61904761904762,0,Mockingbirds and Thrashers,3
+Herkimer,22.61904761904762,0,Nightbirds,2
+Herkimer,22.61904761904762,0,Nuthatches,2
+Herkimer,22.61904761904762,0,Old World Sparrows,1
+Herkimer,22.61904761904762,0,Owls,5
+Herkimer,22.61904761904762,0,Pigeons and Doves,2
+Herkimer,22.61904761904762,0,"Rails, Coots and Cranes",4
+Herkimer,22.61904761904762,0,Sparrows and Towhees,12
+Herkimer,22.61904761904762,0,Starlings,1
+Herkimer,22.61904761904762,0,Swallows,5
+Herkimer,22.61904761904762,0,Thrushes and Bluebirds,6
+Herkimer,22.61904761904762,0,Vireos,5
+Herkimer,22.61904761904762,0,Waxwings,1
+Herkimer,22.61904761904762,0,Wood-Warblers,26
+Herkimer,22.61904761904762,0,Woodpeckers,9
+Herkimer,22.61904761904762,0,Wrens,5
+Herkimer,22.61904761904762,0,Larks,1
+Herkimer,22.61904761904762,0,Loons,1
+Jefferson,25,0.5434782608695652,All,186
+Jefferson,25,0.5434782608695652,Blackbirds and Orioles,7
+Jefferson,25,0.5434782608695652,Cardinals and Buntings,4
+Jefferson,25,0.5434782608695652,Chickadees and Titmice,2
+Jefferson,25,0.5434782608695652,Cormorants,1
+Jefferson,25,0.5434782608695652,Creepers,1
+Jefferson,25,0.5434782608695652,Crows and Jays,4
+Jefferson,25,0.5434782608695652,Cuckoos,2
+Jefferson,25,0.5434782608695652,"Ducks, Geese, Waterfowl",16
+Jefferson,25,0.5434782608695652,Finches and Crossbills,6
+Jefferson,25,0.5434782608695652,Flycatchers,10
+Jefferson,25,0.5434782608695652,Gnatcatchers,1
+Jefferson,25,0.5434782608695652,Grebes,1
+Jefferson,25,0.5434782608695652,"Grouse, Pheasants, Turkeys",4
+Jefferson,25,0.5434782608695652,"Gulls, Terns, Plovers, Shorebirds",13
+Jefferson,25,0.5434782608695652,"Hawks, Falcons, Eagles, Vultures",13
+Jefferson,25,0.5434782608695652,"Herons, Bitterns, Egrets, Pelicans",6
+Jefferson,25,0.5434782608695652,Hummingbirds and Swifts,2
+Jefferson,25,0.5434782608695652,Kingfishers,1
+Jefferson,25,0.5434782608695652,Kinglets,2
+Jefferson,25,0.5434782608695652,Mockingbirds and Thrashers,3
+Jefferson,25,0.5434782608695652,Nightbirds,2
+Jefferson,25,0.5434782608695652,Nuthatches,2
+Jefferson,25,0.5434782608695652,Old World Sparrows,1
+Jefferson,25,0.5434782608695652,Owls,7
+Jefferson,25,0.5434782608695652,Pigeons and Doves,2
+Jefferson,25,0.5434782608695652,"Rails, Coots and Cranes",4
+Jefferson,25,0.5434782608695652,Sparrows and Towhees,11
+Jefferson,25,0.5434782608695652,Starlings,1
+Jefferson,25,0.5434782608695652,Swallows,6
+Jefferson,25,0.5434782608695652,Thrushes and Bluebirds,6
+Jefferson,25,0.5434782608695652,Vireos,4
+Jefferson,25,0.5434782608695652,Waxwings,1
+Jefferson,25,0.5434782608695652,Wood-Warblers,25
+Jefferson,25,0.5434782608695652,Woodpeckers,7
+Jefferson,25,0.5434782608695652,Wrens,5
+Jefferson,25,0.5434782608695652,Larks,1
+Jefferson,25,0.5434782608695652,Loons,1
+Jefferson,25,0.5434782608695652,Shrikes,1
+Kings,31.46067415730337,1.0416666666666665,All,96
+Kings,31.46067415730337,1.0416666666666665,Blackbirds and Orioles,6
+Kings,31.46067415730337,1.0416666666666665,Cardinals and Buntings,2
+Kings,31.46067415730337,1.0416666666666665,Chickadees and Titmice,2
+Kings,31.46067415730337,1.0416666666666665,Cormorants,1
+Kings,31.46067415730337,1.0416666666666665,Crows and Jays,3
+Kings,31.46067415730337,1.0416666666666665,Cuckoos,1
+Kings,31.46067415730337,1.0416666666666665,"Ducks, Geese, Waterfowl",5
+Kings,31.46067415730337,1.0416666666666665,Finches and Crossbills,2
+Kings,31.46067415730337,1.0416666666666665,Flycatchers,6
+Kings,31.46067415730337,1.0416666666666665,Grebes,1
+Kings,31.46067415730337,1.0416666666666665,"Grouse, Pheasants, Turkeys",1
+Kings,31.46067415730337,1.0416666666666665,"Gulls, Terns, Plovers, Shorebirds",10
+Kings,31.46067415730337,1.0416666666666665,"Hawks, Falcons, Eagles, Vultures",4
+Kings,31.46067415730337,1.0416666666666665,"Herons, Bitterns, Egrets, Pelicans",10
+Kings,31.46067415730337,1.0416666666666665,Hummingbirds and Swifts,1
+Kings,31.46067415730337,1.0416666666666665,Mockingbirds and Thrashers,3
+Kings,31.46067415730337,1.0416666666666665,Nightbirds,1
+Kings,31.46067415730337,1.0416666666666665,Nuthatches,2
+Kings,31.46067415730337,1.0416666666666665,Old World Sparrows,1
+Kings,31.46067415730337,1.0416666666666665,Owls,2
+Kings,31.46067415730337,1.0416666666666665,Pigeons and Doves,2
+Kings,31.46067415730337,1.0416666666666665,"Rails, Coots and Cranes",1
+Kings,31.46067415730337,1.0416666666666665,Sparrows and Towhees,8
+Kings,31.46067415730337,1.0416666666666665,Starlings,1
+Kings,31.46067415730337,1.0416666666666665,Swallows,2
+Kings,31.46067415730337,1.0416666666666665,Thrushes and Bluebirds,2
+Kings,31.46067415730337,1.0416666666666665,Vireos,3
+Kings,31.46067415730337,1.0416666666666665,Waxwings,1
+Kings,31.46067415730337,1.0416666666666665,Wood-Warblers,4
+Kings,31.46067415730337,1.0416666666666665,Woodpeckers,4
+Kings,31.46067415730337,1.0416666666666665,Wrens,3
+Kings,31.46067415730337,1.0416666666666665,Parrots and Parakeets,1
+Lewis,23.952095808383234,0,All,173
+Lewis,23.952095808383234,0,Blackbirds and Orioles,7
+Lewis,23.952095808383234,0,Cardinals and Buntings,4
+Lewis,23.952095808383234,0,Chickadees and Titmice,2
+Lewis,23.952095808383234,0,Cormorants,1
+Lewis,23.952095808383234,0,Creepers,1
+Lewis,23.952095808383234,0,Crows and Jays,4
+Lewis,23.952095808383234,0,Cuckoos,2
+Lewis,23.952095808383234,0,"Ducks, Geese, Waterfowl",12
+Lewis,23.952095808383234,0,Finches and Crossbills,7
+Lewis,23.952095808383234,0,Flycatchers,10
+Lewis,23.952095808383234,0,Grebes,1
+Lewis,23.952095808383234,0,"Grouse, Pheasants, Turkeys",3
+Lewis,23.952095808383234,0,"Gulls, Terns, Plovers, Shorebirds",8
+Lewis,23.952095808383234,0,"Hawks, Falcons, Eagles, Vultures",12
+Lewis,23.952095808383234,0,"Herons, Bitterns, Egrets, Pelicans",4
+Lewis,23.952095808383234,0,Hummingbirds and Swifts,2
+Lewis,23.952095808383234,0,Kingfishers,1
+Lewis,23.952095808383234,0,Kinglets,2
+Lewis,23.952095808383234,0,Mockingbirds and Thrashers,3
+Lewis,23.952095808383234,0,Nightbirds,2
+Lewis,23.952095808383234,0,Nuthatches,2
+Lewis,23.952095808383234,0,Old World Sparrows,1
+Lewis,23.952095808383234,0,Owls,6
+Lewis,23.952095808383234,0,Pigeons and Doves,2
+Lewis,23.952095808383234,0,"Rails, Coots and Cranes",3
+Lewis,23.952095808383234,0,Sparrows and Towhees,12
+Lewis,23.952095808383234,0,Starlings,1
+Lewis,23.952095808383234,0,Swallows,6
+Lewis,23.952095808383234,0,Thrushes and Bluebirds,6
+Lewis,23.952095808383234,0,Vireos,5
+Lewis,23.952095808383234,0,Waxwings,1
+Lewis,23.952095808383234,0,Wood-Warblers,24
+Lewis,23.952095808383234,0,Woodpeckers,9
+Lewis,23.952095808383234,0,Wrens,4
+Lewis,23.952095808383234,0,Larks,1
+Lewis,23.952095808383234,0,Loons,1
+Lewis,23.952095808383234,0,Shrikes,1
+Livingston,17.532467532467532,0,All,162
+Livingston,17.532467532467532,0,Blackbirds and Orioles,7
+Livingston,17.532467532467532,0,Cardinals and Buntings,4
+Livingston,17.532467532467532,0,Chickadees and Titmice,2
+Livingston,17.532467532467532,0,Creepers,1
+Livingston,17.532467532467532,0,Crows and Jays,3
+Livingston,17.532467532467532,0,Cuckoos,2
+Livingston,17.532467532467532,0,"Ducks, Geese, Waterfowl",11
+Livingston,17.532467532467532,0,Finches and Crossbills,5
+Livingston,17.532467532467532,0,Flycatchers,8
+Livingston,17.532467532467532,0,Gnatcatchers,1
+Livingston,17.532467532467532,0,Grebes,1
+Livingston,17.532467532467532,0,"Grouse, Pheasants, Turkeys",3
+Livingston,17.532467532467532,0,"Gulls, Terns, Plovers, Shorebirds",6
+Livingston,17.532467532467532,0,"Hawks, Falcons, Eagles, Vultures",11
+Livingston,17.532467532467532,0,"Herons, Bitterns, Egrets, Pelicans",4
+Livingston,17.532467532467532,0,Hummingbirds and Swifts,2
+Livingston,17.532467532467532,0,Kingfishers,1
+Livingston,17.532467532467532,0,Kinglets,1
+Livingston,17.532467532467532,0,Mockingbirds and Thrashers,3
+Livingston,17.532467532467532,0,Nightbirds,1
+Livingston,17.532467532467532,0,Nuthatches,2
+Livingston,17.532467532467532,0,Old World Sparrows,1
+Livingston,17.532467532467532,0,Owls,7
+Livingston,17.532467532467532,0,Pigeons and Doves,2
+Livingston,17.532467532467532,0,"Rails, Coots and Cranes",4
+Livingston,17.532467532467532,0,Sparrows and Towhees,11
+Livingston,17.532467532467532,0,Starlings,1
+Livingston,17.532467532467532,0,Swallows,6
+Livingston,17.532467532467532,0,Thrushes and Bluebirds,6
+Livingston,17.532467532467532,0,Vireos,4
+Livingston,17.532467532467532,0,Waxwings,1
+Livingston,17.532467532467532,0,Wood-Warblers,26
+Livingston,17.532467532467532,0,Woodpeckers,7
+Livingston,17.532467532467532,0,Wrens,5
+Livingston,17.532467532467532,0,Larks,1
+Livingston,17.532467532467532,0,Shrikes,1
+Madison,15.333333333333332,0,All,157
+Madison,15.333333333333332,0,Blackbirds and Orioles,7
+Madison,15.333333333333332,0,Cardinals and Buntings,4
+Madison,15.333333333333332,0,Chickadees and Titmice,2
+Madison,15.333333333333332,0,Cormorants,1
+Madison,15.333333333333332,0,Creepers,1
+Madison,15.333333333333332,0,Crows and Jays,3
+Madison,15.333333333333332,0,Cuckoos,2
+Madison,15.333333333333332,0,"Ducks, Geese, Waterfowl",11
+Madison,15.333333333333332,0,Finches and Crossbills,7
+Madison,15.333333333333332,0,Flycatchers,7
+Madison,15.333333333333332,0,Gnatcatchers,1
+Madison,15.333333333333332,0,Grebes,1
+Madison,15.333333333333332,0,"Grouse, Pheasants, Turkeys",3
+Madison,15.333333333333332,0,"Gulls, Terns, Plovers, Shorebirds",7
+Madison,15.333333333333332,0,"Hawks, Falcons, Eagles, Vultures",11
+Madison,15.333333333333332,0,"Herons, Bitterns, Egrets, Pelicans",4
+Madison,15.333333333333332,0,Hummingbirds and Swifts,2
+Madison,15.333333333333332,0,Kingfishers,1
+Madison,15.333333333333332,0,Kinglets,1
+Madison,15.333333333333332,0,Mockingbirds and Thrashers,3
+Madison,15.333333333333332,0,Nightbirds,1
+Madison,15.333333333333332,0,Nuthatches,2
+Madison,15.333333333333332,0,Old World Sparrows,1
+Madison,15.333333333333332,0,Owls,4
+Madison,15.333333333333332,0,Pigeons and Doves,2
+Madison,15.333333333333332,0,"Rails, Coots and Cranes",4
+Madison,15.333333333333332,0,Sparrows and Towhees,11
+Madison,15.333333333333332,0,Starlings,1
+Madison,15.333333333333332,0,Swallows,6
+Madison,15.333333333333332,0,Thrushes and Bluebirds,5
+Madison,15.333333333333332,0,Vireos,4
+Madison,15.333333333333332,0,Waxwings,1
+Madison,15.333333333333332,0,Wood-Warblers,23
+Madison,15.333333333333332,0,Woodpeckers,7
+Madison,15.333333333333332,0,Wrens,5
+Madison,15.333333333333332,0,Larks,1
+Monroe,21.710526315789476,0,All,163
+Monroe,21.710526315789476,0,Blackbirds and Orioles,7
+Monroe,21.710526315789476,0,Cardinals and Buntings,4
+Monroe,21.710526315789476,0,Chickadees and Titmice,2
+Monroe,21.710526315789476,0,Creepers,1
+Monroe,21.710526315789476,0,Crows and Jays,3
+Monroe,21.710526315789476,0,Cuckoos,2
+Monroe,21.710526315789476,0,"Ducks, Geese, Waterfowl",11
+Monroe,21.710526315789476,0,Finches and Crossbills,5
+Monroe,21.710526315789476,0,Flycatchers,8
+Monroe,21.710526315789476,0,Gnatcatchers,1
+Monroe,21.710526315789476,0,Grebes,1
+Monroe,21.710526315789476,0,"Grouse, Pheasants, Turkeys",4
+Monroe,21.710526315789476,0,"Gulls, Terns, Plovers, Shorebirds",7
+Monroe,21.710526315789476,0,"Hawks, Falcons, Eagles, Vultures",11
+Monroe,21.710526315789476,0,"Herons, Bitterns, Egrets, Pelicans",5
+Monroe,21.710526315789476,0,Hummingbirds and Swifts,2
+Monroe,21.710526315789476,0,Kingfishers,1
+Monroe,21.710526315789476,0,Kinglets,1
+Monroe,21.710526315789476,0,Mockingbirds and Thrashers,3
+Monroe,21.710526315789476,0,Nightbirds,2
+Monroe,21.710526315789476,0,Nuthatches,2
+Monroe,21.710526315789476,0,Old World Sparrows,1
+Monroe,21.710526315789476,0,Owls,6
+Monroe,21.710526315789476,0,Pigeons and Doves,3
+Monroe,21.710526315789476,0,"Rails, Coots and Cranes",6
+Monroe,21.710526315789476,0,Sparrows and Towhees,11
+Monroe,21.710526315789476,0,Starlings,1
+Monroe,21.710526315789476,0,Swallows,6
+Monroe,21.710526315789476,0,Thrushes and Bluebirds,6
+Monroe,21.710526315789476,0,Vireos,4
+Monroe,21.710526315789476,0,Waxwings,1
+Monroe,21.710526315789476,0,Wood-Warblers,21
+Monroe,21.710526315789476,0,Woodpeckers,7
+Monroe,21.710526315789476,0,Wrens,5
+Monroe,21.710526315789476,0,Larks,1
+Monroe,21.710526315789476,0,Shrikes,1
+Montgomery,11.510791366906476,0,All,144
+Montgomery,11.510791366906476,0,Blackbirds and Orioles,7
+Montgomery,11.510791366906476,0,Cardinals and Buntings,4
+Montgomery,11.510791366906476,0,Chickadees and Titmice,2
+Montgomery,11.510791366906476,0,Creepers,1
+Montgomery,11.510791366906476,0,Crows and Jays,4
+Montgomery,11.510791366906476,0,Cuckoos,2
+Montgomery,11.510791366906476,0,"Ducks, Geese, Waterfowl",8
+Montgomery,11.510791366906476,0,Finches and Crossbills,6
+Montgomery,11.510791366906476,0,Flycatchers,7
+Montgomery,11.510791366906476,0,Gnatcatchers,1
+Montgomery,11.510791366906476,0,Grebes,1
+Montgomery,11.510791366906476,0,"Grouse, Pheasants, Turkeys",3
+Montgomery,11.510791366906476,0,"Gulls, Terns, Plovers, Shorebirds",5
+Montgomery,11.510791366906476,0,"Hawks, Falcons, Eagles, Vultures",10
+Montgomery,11.510791366906476,0,"Herons, Bitterns, Egrets, Pelicans",3
+Montgomery,11.510791366906476,0,Hummingbirds and Swifts,2
+Montgomery,11.510791366906476,0,Kingfishers,1
+Montgomery,11.510791366906476,0,Kinglets,1
+Montgomery,11.510791366906476,0,Mockingbirds and Thrashers,3
+Montgomery,11.510791366906476,0,Nightbirds,1
+Montgomery,11.510791366906476,0,Nuthatches,2
+Montgomery,11.510791366906476,0,Old World Sparrows,1
+Montgomery,11.510791366906476,0,Owls,4
+Montgomery,11.510791366906476,0,Pigeons and Doves,2
+Montgomery,11.510791366906476,0,"Rails, Coots and Cranes",3
+Montgomery,11.510791366906476,0,Sparrows and Towhees,11
+Montgomery,11.510791366906476,0,Starlings,1
+Montgomery,11.510791366906476,0,Swallows,5
+Montgomery,11.510791366906476,0,Thrushes and Bluebirds,5
+Montgomery,11.510791366906476,0,Vireos,4
+Montgomery,11.510791366906476,0,Waxwings,1
+Montgomery,11.510791366906476,0,Wood-Warblers,20
+Montgomery,11.510791366906476,0,Woodpeckers,7
+Montgomery,11.510791366906476,0,Wrens,5
+Montgomery,11.510791366906476,0,Larks,1
+Nassau,30.215827338129497,0.684931506849315,All,149
+Nassau,30.215827338129497,0.684931506849315,Blackbirds and Orioles,8
+Nassau,30.215827338129497,0.684931506849315,Cardinals and Buntings,4
+Nassau,30.215827338129497,0.684931506849315,Chickadees and Titmice,2
+Nassau,30.215827338129497,0.684931506849315,Cormorants,1
+Nassau,30.215827338129497,0.684931506849315,Creepers,1
+Nassau,30.215827338129497,0.684931506849315,Crows and Jays,3
+Nassau,30.215827338129497,0.684931506849315,Cuckoos,2
+Nassau,30.215827338129497,0.684931506849315,"Ducks, Geese, Waterfowl",8
+Nassau,30.215827338129497,0.684931506849315,Finches and Crossbills,2
+Nassau,30.215827338129497,0.684931506849315,Flycatchers,6
+Nassau,30.215827338129497,0.684931506849315,Gnatcatchers,1
+Nassau,30.215827338129497,0.684931506849315,Grebes,1
+Nassau,30.215827338129497,0.684931506849315,"Grouse, Pheasants, Turkeys",3
+Nassau,30.215827338129497,0.684931506849315,"Gulls, Terns, Plovers, Shorebirds",16
+Nassau,30.215827338129497,0.684931506849315,"Hawks, Falcons, Eagles, Vultures",9
+Nassau,30.215827338129497,0.684931506849315,"Herons, Bitterns, Egrets, Pelicans",10
+Nassau,30.215827338129497,0.684931506849315,Hummingbirds and Swifts,2
+Nassau,30.215827338129497,0.684931506849315,Kingfishers,1
+Nassau,30.215827338129497,0.684931506849315,Kinglets,1
+Nassau,30.215827338129497,0.684931506849315,Mockingbirds and Thrashers,3
+Nassau,30.215827338129497,0.684931506849315,Nightbirds,2
+Nassau,30.215827338129497,0.684931506849315,Nuthatches,2
+Nassau,30.215827338129497,0.684931506849315,Old World Sparrows,1
+Nassau,30.215827338129497,0.684931506849315,Owls,4
+Nassau,30.215827338129497,0.684931506849315,Pigeons and Doves,2
+Nassau,30.215827338129497,0.684931506849315,"Rails, Coots and Cranes",3
+Nassau,30.215827338129497,0.684931506849315,Sparrows and Towhees,8
+Nassau,30.215827338129497,0.684931506849315,Starlings,1
+Nassau,30.215827338129497,0.684931506849315,Swallows,5
+Nassau,30.215827338129497,0.684931506849315,Thrushes and Bluebirds,5
+Nassau,30.215827338129497,0.684931506849315,Vireos,4
+Nassau,30.215827338129497,0.684931506849315,Waxwings,1
+Nassau,30.215827338129497,0.684931506849315,Wood-Warblers,16
+Nassau,30.215827338129497,0.684931506849315,Woodpeckers,5
+Nassau,30.215827338129497,0.684931506849315,Wrens,3
+Nassau,30.215827338129497,0.684931506849315,Larks,1
+Nassau,30.215827338129497,0.684931506849315,Parrots and Parakeets,1
+Nassau,30.215827338129497,0.684931506849315,Loons,1
+New York,15.217391304347828,0,All,51
+New York,15.217391304347828,0,Blackbirds and Orioles,4
+New York,15.217391304347828,0,Cardinals and Buntings,1
+New York,15.217391304347828,0,Chickadees and Titmice,1
+New York,15.217391304347828,0,Cormorants,1
+New York,15.217391304347828,0,Crows and Jays,2
+New York,15.217391304347828,0,"Ducks, Geese, Waterfowl",4
+New York,15.217391304347828,0,Finches and Crossbills,1
+New York,15.217391304347828,0,Flycatchers,3
+New York,15.217391304347828,0,"Gulls, Terns, Plovers, Shorebirds",2
+New York,15.217391304347828,0,"Hawks, Falcons, Eagles, Vultures",3
+New York,15.217391304347828,0,"Herons, Bitterns, Egrets, Pelicans",3
+New York,15.217391304347828,0,Hummingbirds and Swifts,1
+New York,15.217391304347828,0,Mockingbirds and Thrashers,2
+New York,15.217391304347828,0,Nightbirds,1
+New York,15.217391304347828,0,Nuthatches,1
+New York,15.217391304347828,0,Old World Sparrows,1
+New York,15.217391304347828,0,Owls,2
+New York,15.217391304347828,0,Pigeons and Doves,2
+New York,15.217391304347828,0,Sparrows and Towhees,2
+New York,15.217391304347828,0,Starlings,1
+New York,15.217391304347828,0,Swallows,2
+New York,15.217391304347828,0,Thrushes and Bluebirds,2
+New York,15.217391304347828,0,Vireos,2
+New York,15.217391304347828,0,Waxwings,1
+New York,15.217391304347828,0,Woodpeckers,4
+New York,15.217391304347828,0,Wrens,2
+Niagara,23.333333333333332,0,All,160
+Niagara,23.333333333333332,0,Blackbirds and Orioles,7
+Niagara,23.333333333333332,0,Cardinals and Buntings,5
+Niagara,23.333333333333332,0,Chickadees and Titmice,2
+Niagara,23.333333333333332,0,Cormorants,1
+Niagara,23.333333333333332,0,Creepers,1
+Niagara,23.333333333333332,0,Crows and Jays,2
+Niagara,23.333333333333332,0,Cuckoos,2
+Niagara,23.333333333333332,0,"Ducks, Geese, Waterfowl",15
+Niagara,23.333333333333332,0,Finches and Crossbills,3
+Niagara,23.333333333333332,0,Flycatchers,8
+Niagara,23.333333333333332,0,Gnatcatchers,1
+Niagara,23.333333333333332,0,Grebes,1
+Niagara,23.333333333333332,0,"Grouse, Pheasants, Turkeys",3
+Niagara,23.333333333333332,0,"Gulls, Terns, Plovers, Shorebirds",10
+Niagara,23.333333333333332,0,"Hawks, Falcons, Eagles, Vultures",10
+Niagara,23.333333333333332,0,"Herons, Bitterns, Egrets, Pelicans",5
+Niagara,23.333333333333332,0,Hummingbirds and Swifts,2
+Niagara,23.333333333333332,0,Kingfishers,1
+Niagara,23.333333333333332,0,Kinglets,1
+Niagara,23.333333333333332,0,Mockingbirds and Thrashers,3
+Niagara,23.333333333333332,0,Nightbirds,2
+Niagara,23.333333333333332,0,Nuthatches,2
+Niagara,23.333333333333332,0,Old World Sparrows,1
+Niagara,23.333333333333332,0,Owls,5
+Niagara,23.333333333333332,0,Pigeons and Doves,2
+Niagara,23.333333333333332,0,"Rails, Coots and Cranes",5
+Niagara,23.333333333333332,0,Sparrows and Towhees,10
+Niagara,23.333333333333332,0,Starlings,1
+Niagara,23.333333333333332,0,Swallows,6
+Niagara,23.333333333333332,0,Thrushes and Bluebirds,4
+Niagara,23.333333333333332,0,Vireos,3
+Niagara,23.333333333333332,0,Waxwings,1
+Niagara,23.333333333333332,0,Wood-Warblers,22
+Niagara,23.333333333333332,0,Woodpeckers,7
+Niagara,23.333333333333332,0,Wrens,5
+Niagara,23.333333333333332,0,Larks,1
+Oneida,21.893491124260358,0,All,178
+Oneida,21.893491124260358,0,Blackbirds and Orioles,7
+Oneida,21.893491124260358,0,Cardinals and Buntings,4
+Oneida,21.893491124260358,0,Chickadees and Titmice,2
+Oneida,21.893491124260358,0,Cormorants,1
+Oneida,21.893491124260358,0,Creepers,1
+Oneida,21.893491124260358,0,Crows and Jays,4
+Oneida,21.893491124260358,0,Cuckoos,2
+Oneida,21.893491124260358,0,"Ducks, Geese, Waterfowl",13
+Oneida,21.893491124260358,0,Finches and Crossbills,7
+Oneida,21.893491124260358,0,Flycatchers,9
+Oneida,21.893491124260358,0,Gnatcatchers,1
+Oneida,21.893491124260358,0,Grebes,1
+Oneida,21.893491124260358,0,"Grouse, Pheasants, Turkeys",3
+Oneida,21.893491124260358,0,"Gulls, Terns, Plovers, Shorebirds",8
+Oneida,21.893491124260358,0,"Hawks, Falcons, Eagles, Vultures",12
+Oneida,21.893491124260358,0,"Herons, Bitterns, Egrets, Pelicans",5
+Oneida,21.893491124260358,0,Hummingbirds and Swifts,2
+Oneida,21.893491124260358,0,Kingfishers,1
+Oneida,21.893491124260358,0,Kinglets,1
+Oneida,21.893491124260358,0,Mockingbirds and Thrashers,3
+Oneida,21.893491124260358,0,Nightbirds,2
+Oneida,21.893491124260358,0,Nuthatches,2
+Oneida,21.893491124260358,0,Old World Sparrows,1
+Oneida,21.893491124260358,0,Owls,6
+Oneida,21.893491124260358,0,Pigeons and Doves,2
+Oneida,21.893491124260358,0,"Rails, Coots and Cranes",4
+Oneida,21.893491124260358,0,Sparrows and Towhees,12
+Oneida,21.893491124260358,0,Starlings,1
+Oneida,21.893491124260358,0,Swallows,6
+Oneida,21.893491124260358,0,Thrushes and Bluebirds,6
+Oneida,21.893491124260358,0,Vireos,5
+Oneida,21.893491124260358,0,Waxwings,1
+Oneida,21.893491124260358,0,Wood-Warblers,27
+Oneida,21.893491124260358,0,Woodpeckers,8
+Oneida,21.893491124260358,0,Wrens,5
+Oneida,21.893491124260358,0,Larks,1
+Oneida,21.893491124260358,0,Loons,1
+Oneida,21.893491124260358,0,Shrikes,1
+Onondaga,19.49685534591195,0,All,168
+Onondaga,19.49685534591195,0,Blackbirds and Orioles,7
+Onondaga,19.49685534591195,0,Cardinals and Buntings,4
+Onondaga,19.49685534591195,0,Chickadees and Titmice,2
+Onondaga,19.49685534591195,0,Cormorants,1
+Onondaga,19.49685534591195,0,Creepers,1
+Onondaga,19.49685534591195,0,Crows and Jays,4
+Onondaga,19.49685534591195,0,Cuckoos,2
+Onondaga,19.49685534591195,0,"Ducks, Geese, Waterfowl",11
+Onondaga,19.49685534591195,0,Finches and Crossbills,5
+Onondaga,19.49685534591195,0,Flycatchers,8
+Onondaga,19.49685534591195,0,Gnatcatchers,1
+Onondaga,19.49685534591195,0,Grebes,1
+Onondaga,19.49685534591195,0,"Grouse, Pheasants, Turkeys",3
+Onondaga,19.49685534591195,0,"Gulls, Terns, Plovers, Shorebirds",8
+Onondaga,19.49685534591195,0,"Hawks, Falcons, Eagles, Vultures",12
+Onondaga,19.49685534591195,0,"Herons, Bitterns, Egrets, Pelicans",4
+Onondaga,19.49685534591195,0,Hummingbirds and Swifts,2
+Onondaga,19.49685534591195,0,Kingfishers,1
+Onondaga,19.49685534591195,0,Kinglets,2
+Onondaga,19.49685534591195,0,Mockingbirds and Thrashers,3
+Onondaga,19.49685534591195,0,Nightbirds,2
+Onondaga,19.49685534591195,0,Nuthatches,2
+Onondaga,19.49685534591195,0,Old World Sparrows,1
+Onondaga,19.49685534591195,0,Owls,6
+Onondaga,19.49685534591195,0,Pigeons and Doves,2
+Onondaga,19.49685534591195,0,"Rails, Coots and Cranes",3
+Onondaga,19.49685534591195,0,Sparrows and Towhees,11
+Onondaga,19.49685534591195,0,Starlings,1
+Onondaga,19.49685534591195,0,Swallows,6
+Onondaga,19.49685534591195,0,Thrushes and Bluebirds,5
+Onondaga,19.49685534591195,0,Vireos,4
+Onondaga,19.49685534591195,0,Waxwings,1
+Onondaga,19.49685534591195,0,Wood-Warblers,28
+Onondaga,19.49685534591195,0,Woodpeckers,7
+Onondaga,19.49685534591195,0,Wrens,5
+Onondaga,19.49685534591195,0,Larks,1
+Onondaga,19.49685534591195,0,Loons,1
+Ontario,16.55629139072848,0,All,159
+Ontario,16.55629139072848,0,Blackbirds and Orioles,7
+Ontario,16.55629139072848,0,Cardinals and Buntings,4
+Ontario,16.55629139072848,0,Chickadees and Titmice,2
+Ontario,16.55629139072848,0,Cormorants,1
+Ontario,16.55629139072848,0,Creepers,1
+Ontario,16.55629139072848,0,Crows and Jays,3
+Ontario,16.55629139072848,0,Cuckoos,2
+Ontario,16.55629139072848,0,"Ducks, Geese, Waterfowl",10
+Ontario,16.55629139072848,0,Finches and Crossbills,5
+Ontario,16.55629139072848,0,Flycatchers,8
+Ontario,16.55629139072848,0,Gnatcatchers,1
+Ontario,16.55629139072848,0,Grebes,1
+Ontario,16.55629139072848,0,"Grouse, Pheasants, Turkeys",4
+Ontario,16.55629139072848,0,"Gulls, Terns, Plovers, Shorebirds",6
+Ontario,16.55629139072848,0,"Hawks, Falcons, Eagles, Vultures",11
+Ontario,16.55629139072848,0,"Herons, Bitterns, Egrets, Pelicans",4
+Ontario,16.55629139072848,0,Hummingbirds and Swifts,2
+Ontario,16.55629139072848,0,Kingfishers,1
+Ontario,16.55629139072848,0,Kinglets,1
+Ontario,16.55629139072848,0,Mockingbirds and Thrashers,3
+Ontario,16.55629139072848,0,Nightbirds,2
+Ontario,16.55629139072848,0,Nuthatches,2
+Ontario,16.55629139072848,0,Old World Sparrows,1
+Ontario,16.55629139072848,0,Owls,7
+Ontario,16.55629139072848,0,Pigeons and Doves,2
+Ontario,16.55629139072848,0,"Rails, Coots and Cranes",5
+Ontario,16.55629139072848,0,Sparrows and Towhees,11
+Ontario,16.55629139072848,0,Starlings,1
+Ontario,16.55629139072848,0,Swallows,6
+Ontario,16.55629139072848,0,Thrushes and Bluebirds,5
+Ontario,16.55629139072848,0,Vireos,4
+Ontario,16.55629139072848,0,Waxwings,1
+Ontario,16.55629139072848,0,Wood-Warblers,22
+Ontario,16.55629139072848,0,Woodpeckers,7
+Ontario,16.55629139072848,0,Wrens,5
+Ontario,16.55629139072848,0,Larks,1
+Orange,17.8343949044586,0,All,167
+Orange,17.8343949044586,0,Blackbirds and Orioles,7
+Orange,17.8343949044586,0,Cardinals and Buntings,4
+Orange,17.8343949044586,0,Chickadees and Titmice,2
+Orange,17.8343949044586,0,Cormorants,1
+Orange,17.8343949044586,0,Creepers,1
+Orange,17.8343949044586,0,Crows and Jays,4
+Orange,17.8343949044586,0,Cuckoos,2
+Orange,17.8343949044586,0,"Ducks, Geese, Waterfowl",11
+Orange,17.8343949044586,0,Finches and Crossbills,3
+Orange,17.8343949044586,0,Flycatchers,8
+Orange,17.8343949044586,0,Gnatcatchers,1
+Orange,17.8343949044586,0,Grebes,1
+Orange,17.8343949044586,0,"Grouse, Pheasants, Turkeys",4
+Orange,17.8343949044586,0,"Gulls, Terns, Plovers, Shorebirds",6
+Orange,17.8343949044586,0,"Hawks, Falcons, Eagles, Vultures",14
+Orange,17.8343949044586,0,"Herons, Bitterns, Egrets, Pelicans",5
+Orange,17.8343949044586,0,Hummingbirds and Swifts,2
+Orange,17.8343949044586,0,Kingfishers,1
+Orange,17.8343949044586,0,Kinglets,1
+Orange,17.8343949044586,0,Mockingbirds and Thrashers,3
+Orange,17.8343949044586,0,Nightbirds,2
+Orange,17.8343949044586,0,Nuthatches,2
+Orange,17.8343949044586,0,Old World Sparrows,1
+Orange,17.8343949044586,0,Owls,5
+Orange,17.8343949044586,0,Pigeons and Doves,2
+Orange,17.8343949044586,0,"Rails, Coots and Cranes",3
+Orange,17.8343949044586,0,Sparrows and Towhees,10
+Orange,17.8343949044586,0,Starlings,1
+Orange,17.8343949044586,0,Swallows,6
+Orange,17.8343949044586,0,Thrushes and Bluebirds,6
+Orange,17.8343949044586,0,Vireos,5
+Orange,17.8343949044586,0,Waxwings,1
+Orange,17.8343949044586,0,Wood-Warblers,29
+Orange,17.8343949044586,0,Woodpeckers,7
+Orange,17.8343949044586,0,Wrens,5
+Orange,17.8343949044586,0,Larks,1
+Orleans,21.98581560283688,0,All,149
+Orleans,21.98581560283688,0,Blackbirds and Orioles,7
+Orleans,21.98581560283688,0,Cardinals and Buntings,4
+Orleans,21.98581560283688,0,Chickadees and Titmice,2
+Orleans,21.98581560283688,0,Creepers,1
+Orleans,21.98581560283688,0,Crows and Jays,2
+Orleans,21.98581560283688,0,Cuckoos,2
+Orleans,21.98581560283688,0,"Ducks, Geese, Waterfowl",13
+Orleans,21.98581560283688,0,Finches and Crossbills,3
+Orleans,21.98581560283688,0,Flycatchers,8
+Orleans,21.98581560283688,0,Gnatcatchers,1
+Orleans,21.98581560283688,0,Grebes,1
+Orleans,21.98581560283688,0,"Grouse, Pheasants, Turkeys",3
+Orleans,21.98581560283688,0,"Gulls, Terns, Plovers, Shorebirds",6
+Orleans,21.98581560283688,0,"Hawks, Falcons, Eagles, Vultures",8
+Orleans,21.98581560283688,0,"Herons, Bitterns, Egrets, Pelicans",5
+Orleans,21.98581560283688,0,Hummingbirds and Swifts,2
+Orleans,21.98581560283688,0,Kingfishers,1
+Orleans,21.98581560283688,0,Kinglets,1
+Orleans,21.98581560283688,0,Mockingbirds and Thrashers,3
+Orleans,21.98581560283688,0,Nightbirds,1
+Orleans,21.98581560283688,0,Nuthatches,2
+Orleans,21.98581560283688,0,Old World Sparrows,1
+Orleans,21.98581560283688,0,Owls,6
+Orleans,21.98581560283688,0,Pigeons and Doves,2
+Orleans,21.98581560283688,0,"Rails, Coots and Cranes",4
+Orleans,21.98581560283688,0,Sparrows and Towhees,9
+Orleans,21.98581560283688,0,Starlings,1
+Orleans,21.98581560283688,0,Swallows,6
+Orleans,21.98581560283688,0,Thrushes and Bluebirds,5
+Orleans,21.98581560283688,0,Vireos,5
+Orleans,21.98581560283688,0,Waxwings,1
+Orleans,21.98581560283688,0,Wood-Warblers,20
+Orleans,21.98581560283688,0,Woodpeckers,7
+Orleans,21.98581560283688,0,Wrens,4
+Orleans,21.98581560283688,0,Larks,1
+Orleans,21.98581560283688,0,Shrikes,1
+Oswego,21.764705882352942,0.5681818181818182,All,179
+Oswego,21.764705882352942,0.5681818181818182,Blackbirds and Orioles,7
+Oswego,21.764705882352942,0.5681818181818182,Cardinals and Buntings,4
+Oswego,21.764705882352942,0.5681818181818182,Chickadees and Titmice,3
+Oswego,21.764705882352942,0.5681818181818182,Cormorants,1
+Oswego,21.764705882352942,0.5681818181818182,Creepers,1
+Oswego,21.764705882352942,0.5681818181818182,Crows and Jays,4
+Oswego,21.764705882352942,0.5681818181818182,Cuckoos,2
+Oswego,21.764705882352942,0.5681818181818182,"Ducks, Geese, Waterfowl",12
+Oswego,21.764705882352942,0.5681818181818182,Finches and Crossbills,6
+Oswego,21.764705882352942,0.5681818181818182,Flycatchers,10
+Oswego,21.764705882352942,0.5681818181818182,Gnatcatchers,1
+Oswego,21.764705882352942,0.5681818181818182,Grebes,1
+Oswego,21.764705882352942,0.5681818181818182,"Grouse, Pheasants, Turkeys",4
+Oswego,21.764705882352942,0.5681818181818182,"Gulls, Terns, Plovers, Shorebirds",11
+Oswego,21.764705882352942,0.5681818181818182,"Hawks, Falcons, Eagles, Vultures",12
+Oswego,21.764705882352942,0.5681818181818182,"Herons, Bitterns, Egrets, Pelicans",5
+Oswego,21.764705882352942,0.5681818181818182,Hummingbirds and Swifts,2
+Oswego,21.764705882352942,0.5681818181818182,Kingfishers,1
+Oswego,21.764705882352942,0.5681818181818182,Kinglets,2
+Oswego,21.764705882352942,0.5681818181818182,Mockingbirds and Thrashers,3
+Oswego,21.764705882352942,0.5681818181818182,Nightbirds,2
+Oswego,21.764705882352942,0.5681818181818182,Nuthatches,2
+Oswego,21.764705882352942,0.5681818181818182,Old World Sparrows,1
+Oswego,21.764705882352942,0.5681818181818182,Owls,5
+Oswego,21.764705882352942,0.5681818181818182,Pigeons and Doves,2
+Oswego,21.764705882352942,0.5681818181818182,"Rails, Coots and Cranes",4
+Oswego,21.764705882352942,0.5681818181818182,Sparrows and Towhees,11
+Oswego,21.764705882352942,0.5681818181818182,Starlings,1
+Oswego,21.764705882352942,0.5681818181818182,Swallows,6
+Oswego,21.764705882352942,0.5681818181818182,Thrushes and Bluebirds,6
+Oswego,21.764705882352942,0.5681818181818182,Vireos,5
+Oswego,21.764705882352942,0.5681818181818182,Waxwings,1
+Oswego,21.764705882352942,0.5681818181818182,Wood-Warblers,26
+Oswego,21.764705882352942,0.5681818181818182,Woodpeckers,7
+Oswego,21.764705882352942,0.5681818181818182,Wrens,5
+Oswego,21.764705882352942,0.5681818181818182,Larks,1
+Oswego,21.764705882352942,0.5681818181818182,Loons,1
+Oswego,21.764705882352942,0.5681818181818182,Shrikes,1
+Otsego,16.55629139072848,0,All,160
+Otsego,16.55629139072848,0,Blackbirds and Orioles,6
+Otsego,16.55629139072848,0,Cardinals and Buntings,4
+Otsego,16.55629139072848,0,Chickadees and Titmice,2
+Otsego,16.55629139072848,0,Creepers,1
+Otsego,16.55629139072848,0,Crows and Jays,3
+Otsego,16.55629139072848,0,Cuckoos,2
+Otsego,16.55629139072848,0,"Ducks, Geese, Waterfowl",10
+Otsego,16.55629139072848,0,Finches and Crossbills,6
+Otsego,16.55629139072848,0,Flycatchers,8
+Otsego,16.55629139072848,0,Gnatcatchers,1
+Otsego,16.55629139072848,0,Grebes,1
+Otsego,16.55629139072848,0,"Grouse, Pheasants, Turkeys",4
+Otsego,16.55629139072848,0,"Gulls, Terns, Plovers, Shorebirds",5
+Otsego,16.55629139072848,0,"Hawks, Falcons, Eagles, Vultures",12
+Otsego,16.55629139072848,0,"Herons, Bitterns, Egrets, Pelicans",5
+Otsego,16.55629139072848,0,Hummingbirds and Swifts,2
+Otsego,16.55629139072848,0,Kingfishers,1
+Otsego,16.55629139072848,0,Kinglets,2
+Otsego,16.55629139072848,0,Mockingbirds and Thrashers,3
+Otsego,16.55629139072848,0,Nightbirds,2
+Otsego,16.55629139072848,0,Nuthatches,2
+Otsego,16.55629139072848,0,Old World Sparrows,1
+Otsego,16.55629139072848,0,Owls,6
+Otsego,16.55629139072848,0,Pigeons and Doves,2
+Otsego,16.55629139072848,0,"Rails, Coots and Cranes",4
+Otsego,16.55629139072848,0,Sparrows and Towhees,11
+Otsego,16.55629139072848,0,Starlings,1
+Otsego,16.55629139072848,0,Swallows,5
+Otsego,16.55629139072848,0,Thrushes and Bluebirds,5
+Otsego,16.55629139072848,0,Vireos,4
+Otsego,16.55629139072848,0,Waxwings,1
+Otsego,16.55629139072848,0,Wood-Warblers,25
+Otsego,16.55629139072848,0,Woodpeckers,7
+Otsego,16.55629139072848,0,Wrens,4
+Otsego,16.55629139072848,0,Larks,1
+Otsego,16.55629139072848,0,Loons,1
+Putnam,10.077519379844961,0,All,136
+Putnam,10.077519379844961,0,Blackbirds and Orioles,7
+Putnam,10.077519379844961,0,Cardinals and Buntings,4
+Putnam,10.077519379844961,0,Chickadees and Titmice,2
+Putnam,10.077519379844961,0,Cormorants,1
+Putnam,10.077519379844961,0,Creepers,1
+Putnam,10.077519379844961,0,Crows and Jays,4
+Putnam,10.077519379844961,0,Cuckoos,2
+Putnam,10.077519379844961,0,"Ducks, Geese, Waterfowl",7
+Putnam,10.077519379844961,0,Finches and Crossbills,3
+Putnam,10.077519379844961,0,Flycatchers,8
+Putnam,10.077519379844961,0,Gnatcatchers,1
+Putnam,10.077519379844961,0,"Grouse, Pheasants, Turkeys",2
+Putnam,10.077519379844961,0,"Gulls, Terns, Plovers, Shorebirds",3
+Putnam,10.077519379844961,0,"Hawks, Falcons, Eagles, Vultures",12
+Putnam,10.077519379844961,0,"Herons, Bitterns, Egrets, Pelicans",3
+Putnam,10.077519379844961,0,Hummingbirds and Swifts,2
+Putnam,10.077519379844961,0,Kingfishers,1
+Putnam,10.077519379844961,0,Mockingbirds and Thrashers,3
+Putnam,10.077519379844961,0,Nightbirds,2
+Putnam,10.077519379844961,0,Nuthatches,1
+Putnam,10.077519379844961,0,Old World Sparrows,1
+Putnam,10.077519379844961,0,Owls,4
+Putnam,10.077519379844961,0,Pigeons and Doves,2
+Putnam,10.077519379844961,0,"Rails, Coots and Cranes",1
+Putnam,10.077519379844961,0,Sparrows and Towhees,7
+Putnam,10.077519379844961,0,Starlings,1
+Putnam,10.077519379844961,0,Swallows,6
+Putnam,10.077519379844961,0,Thrushes and Bluebirds,6
+Putnam,10.077519379844961,0,Vireos,5
+Putnam,10.077519379844961,0,Waxwings,1
+Putnam,10.077519379844961,0,Wood-Warblers,22
+Putnam,10.077519379844961,0,Woodpeckers,7
+Putnam,10.077519379844961,0,Wrens,4
+Queens,33.33333333333333,0.8771929824561403,All,115
+Queens,33.33333333333333,0.8771929824561403,Blackbirds and Orioles,7
+Queens,33.33333333333333,0.8771929824561403,Cardinals and Buntings,3
+Queens,33.33333333333333,0.8771929824561403,Chickadees and Titmice,2
+Queens,33.33333333333333,0.8771929824561403,Crows and Jays,3
+Queens,33.33333333333333,0.8771929824561403,Cuckoos,2
+Queens,33.33333333333333,0.8771929824561403,"Ducks, Geese, Waterfowl",10
+Queens,33.33333333333333,0.8771929824561403,Finches and Crossbills,2
+Queens,33.33333333333333,0.8771929824561403,Flycatchers,5
+Queens,33.33333333333333,0.8771929824561403,Gnatcatchers,1
+Queens,33.33333333333333,0.8771929824561403,Grebes,1
+Queens,33.33333333333333,0.8771929824561403,"Grouse, Pheasants, Turkeys",2
+Queens,33.33333333333333,0.8771929824561403,"Gulls, Terns, Plovers, Shorebirds",16
+Queens,33.33333333333333,0.8771929824561403,"Hawks, Falcons, Eagles, Vultures",5
+Queens,33.33333333333333,0.8771929824561403,"Herons, Bitterns, Egrets, Pelicans",10
+Queens,33.33333333333333,0.8771929824561403,Hummingbirds and Swifts,1
+Queens,33.33333333333333,0.8771929824561403,Mockingbirds and Thrashers,3
+Queens,33.33333333333333,0.8771929824561403,Nightbirds,1
+Queens,33.33333333333333,0.8771929824561403,Nuthatches,1
+Queens,33.33333333333333,0.8771929824561403,Old World Sparrows,1
+Queens,33.33333333333333,0.8771929824561403,Owls,4
+Queens,33.33333333333333,0.8771929824561403,Pigeons and Doves,2
+Queens,33.33333333333333,0.8771929824561403,"Rails, Coots and Cranes",3
+Queens,33.33333333333333,0.8771929824561403,Sparrows and Towhees,7
+Queens,33.33333333333333,0.8771929824561403,Starlings,1
+Queens,33.33333333333333,0.8771929824561403,Swallows,3
+Queens,33.33333333333333,0.8771929824561403,Thrushes and Bluebirds,2
+Queens,33.33333333333333,0.8771929824561403,Vireos,3
+Queens,33.33333333333333,0.8771929824561403,Waxwings,1
+Queens,33.33333333333333,0.8771929824561403,Wood-Warblers,6
+Queens,33.33333333333333,0.8771929824561403,Woodpeckers,4
+Queens,33.33333333333333,0.8771929824561403,Wrens,3
+Rensselaer,14.76510067114094,0,All,157
+Rensselaer,14.76510067114094,0,Blackbirds and Orioles,7
+Rensselaer,14.76510067114094,0,Cardinals and Buntings,4
+Rensselaer,14.76510067114094,0,Chickadees and Titmice,2
+Rensselaer,14.76510067114094,0,Cormorants,1
+Rensselaer,14.76510067114094,0,Creepers,1
+Rensselaer,14.76510067114094,0,Crows and Jays,4
+Rensselaer,14.76510067114094,0,Cuckoos,2
+Rensselaer,14.76510067114094,0,"Ducks, Geese, Waterfowl",9
+Rensselaer,14.76510067114094,0,Finches and Crossbills,6
+Rensselaer,14.76510067114094,0,Flycatchers,8
+Rensselaer,14.76510067114094,0,Gnatcatchers,1
+Rensselaer,14.76510067114094,0,Grebes,1
+Rensselaer,14.76510067114094,0,"Grouse, Pheasants, Turkeys",4
+Rensselaer,14.76510067114094,0,"Gulls, Terns, Plovers, Shorebirds",4
+Rensselaer,14.76510067114094,0,"Hawks, Falcons, Eagles, Vultures",13
+Rensselaer,14.76510067114094,0,"Herons, Bitterns, Egrets, Pelicans",5
+Rensselaer,14.76510067114094,0,Hummingbirds and Swifts,2
+Rensselaer,14.76510067114094,0,Kingfishers,1
+Rensselaer,14.76510067114094,0,Kinglets,2
+Rensselaer,14.76510067114094,0,Mockingbirds and Thrashers,3
+Rensselaer,14.76510067114094,0,Nightbirds,2
+Rensselaer,14.76510067114094,0,Nuthatches,2
+Rensselaer,14.76510067114094,0,Old World Sparrows,1
+Rensselaer,14.76510067114094,0,Owls,6
+Rensselaer,14.76510067114094,0,Pigeons and Doves,2
+Rensselaer,14.76510067114094,0,"Rails, Coots and Cranes",3
+Rensselaer,14.76510067114094,0,Sparrows and Towhees,10
+Rensselaer,14.76510067114094,0,Starlings,1
+Rensselaer,14.76510067114094,0,Swallows,6
+Rensselaer,14.76510067114094,0,Thrushes and Bluebirds,6
+Rensselaer,14.76510067114094,0,Vireos,4
+Rensselaer,14.76510067114094,0,Waxwings,1
+Rensselaer,14.76510067114094,0,Wood-Warblers,21
+Rensselaer,14.76510067114094,0,Woodpeckers,7
+Rensselaer,14.76510067114094,0,Wrens,4
+Rensselaer,14.76510067114094,0,Parrots and Parakeets,1
+Richmond,27.11864406779661,0,All,126
+Richmond,27.11864406779661,0,Blackbirds and Orioles,8
+Richmond,27.11864406779661,0,Cardinals and Buntings,4
+Richmond,27.11864406779661,0,Chickadees and Titmice,2
+Richmond,27.11864406779661,0,Cormorants,1
+Richmond,27.11864406779661,0,Crows and Jays,3
+Richmond,27.11864406779661,0,Cuckoos,2
+Richmond,27.11864406779661,0,"Ducks, Geese, Waterfowl",8
+Richmond,27.11864406779661,0,Finches and Crossbills,2
+Richmond,27.11864406779661,0,Flycatchers,6
+Richmond,27.11864406779661,0,Gnatcatchers,1
+Richmond,27.11864406779661,0,Grebes,1
+Richmond,27.11864406779661,0,"Grouse, Pheasants, Turkeys",2
+Richmond,27.11864406779661,0,"Gulls, Terns, Plovers, Shorebirds",10
+Richmond,27.11864406779661,0,"Hawks, Falcons, Eagles, Vultures",9
+Richmond,27.11864406779661,0,"Herons, Bitterns, Egrets, Pelicans",10
+Richmond,27.11864406779661,0,Hummingbirds and Swifts,2
+Richmond,27.11864406779661,0,Kingfishers,1
+Richmond,27.11864406779661,0,Mockingbirds and Thrashers,3
+Richmond,27.11864406779661,0,Nightbirds,3
+Richmond,27.11864406779661,0,Nuthatches,1
+Richmond,27.11864406779661,0,Old World Sparrows,1
+Richmond,27.11864406779661,0,Owls,4
+Richmond,27.11864406779661,0,Pigeons and Doves,2
+Richmond,27.11864406779661,0,"Rails, Coots and Cranes",3
+Richmond,27.11864406779661,0,Sparrows and Towhees,8
+Richmond,27.11864406779661,0,Starlings,1
+Richmond,27.11864406779661,0,Swallows,5
+Richmond,27.11864406779661,0,Thrushes and Bluebirds,4
+Richmond,27.11864406779661,0,Vireos,3
+Richmond,27.11864406779661,0,Waxwings,1
+Richmond,27.11864406779661,0,Wood-Warblers,7
+Richmond,27.11864406779661,0,Woodpeckers,4
+Richmond,27.11864406779661,0,Wrens,3
+Richmond,27.11864406779661,0,Parrots and Parakeets,1
+Rockland,13.333333333333334,0,All,143
+Rockland,13.333333333333334,0,Blackbirds and Orioles,5
+Rockland,13.333333333333334,0,Cardinals and Buntings,5
+Rockland,13.333333333333334,0,Chickadees and Titmice,2
+Rockland,13.333333333333334,0,Cormorants,1
+Rockland,13.333333333333334,0,Creepers,1
+Rockland,13.333333333333334,0,Crows and Jays,4
+Rockland,13.333333333333334,0,Cuckoos,2
+Rockland,13.333333333333334,0,"Ducks, Geese, Waterfowl",9
+Rockland,13.333333333333334,0,Finches and Crossbills,4
+Rockland,13.333333333333334,0,Flycatchers,8
+Rockland,13.333333333333334,0,Gnatcatchers,1
+Rockland,13.333333333333334,0,Grebes,1
+Rockland,13.333333333333334,0,"Grouse, Pheasants, Turkeys",2
+Rockland,13.333333333333334,0,"Gulls, Terns, Plovers, Shorebirds",4
+Rockland,13.333333333333334,0,"Hawks, Falcons, Eagles, Vultures",12
+Rockland,13.333333333333334,0,"Herons, Bitterns, Egrets, Pelicans",6
+Rockland,13.333333333333334,0,Hummingbirds and Swifts,2
+Rockland,13.333333333333334,0,Kingfishers,1
+Rockland,13.333333333333334,0,Kinglets,1
+Rockland,13.333333333333334,0,Mockingbirds and Thrashers,3
+Rockland,13.333333333333334,0,Nightbirds,2
+Rockland,13.333333333333334,0,Nuthatches,2
+Rockland,13.333333333333334,0,Old World Sparrows,1
+Rockland,13.333333333333334,0,Owls,3
+Rockland,13.333333333333334,0,Pigeons and Doves,2
+Rockland,13.333333333333334,0,"Rails, Coots and Cranes",2
+Rockland,13.333333333333334,0,Sparrows and Towhees,8
+Rockland,13.333333333333334,0,Starlings,1
+Rockland,13.333333333333334,0,Swallows,4
+Rockland,13.333333333333334,0,Thrushes and Bluebirds,5
+Rockland,13.333333333333334,0,Vireos,5
+Rockland,13.333333333333334,0,Waxwings,1
+Rockland,13.333333333333334,0,Wood-Warblers,23
+Rockland,13.333333333333334,0,Woodpeckers,6
+Rockland,13.333333333333334,0,Wrens,4
+Saratoga,17.419354838709676,0,All,161
+Saratoga,17.419354838709676,0,Blackbirds and Orioles,7
+Saratoga,17.419354838709676,0,Cardinals and Buntings,4
+Saratoga,17.419354838709676,0,Chickadees and Titmice,2
+Saratoga,17.419354838709676,0,Cormorants,1
+Saratoga,17.419354838709676,0,Creepers,1
+Saratoga,17.419354838709676,0,Crows and Jays,4
+Saratoga,17.419354838709676,0,Cuckoos,2
+Saratoga,17.419354838709676,0,"Ducks, Geese, Waterfowl",9
+Saratoga,17.419354838709676,0,Finches and Crossbills,7
+Saratoga,17.419354838709676,0,Flycatchers,9
+Saratoga,17.419354838709676,0,Gnatcatchers,1
+Saratoga,17.419354838709676,0,Grebes,1
+Saratoga,17.419354838709676,0,"Grouse, Pheasants, Turkeys",2
+Saratoga,17.419354838709676,0,"Gulls, Terns, Plovers, Shorebirds",5
+Saratoga,17.419354838709676,0,"Hawks, Falcons, Eagles, Vultures",13
+Saratoga,17.419354838709676,0,"Herons, Bitterns, Egrets, Pelicans",4
+Saratoga,17.419354838709676,0,Hummingbirds and Swifts,2
+Saratoga,17.419354838709676,0,Kingfishers,1
+Saratoga,17.419354838709676,0,Kinglets,2
+Saratoga,17.419354838709676,0,Mockingbirds and Thrashers,3
+Saratoga,17.419354838709676,0,Nightbirds,2
+Saratoga,17.419354838709676,0,Nuthatches,2
+Saratoga,17.419354838709676,0,Old World Sparrows,1
+Saratoga,17.419354838709676,0,Owls,5
+Saratoga,17.419354838709676,0,Pigeons and Doves,2
+Saratoga,17.419354838709676,0,"Rails, Coots and Cranes",4
+Saratoga,17.419354838709676,0,Sparrows and Towhees,11
+Saratoga,17.419354838709676,0,Starlings,1
+Saratoga,17.419354838709676,0,Swallows,6
+Saratoga,17.419354838709676,0,Thrushes and Bluebirds,6
+Saratoga,17.419354838709676,0,Vireos,4
+Saratoga,17.419354838709676,0,Waxwings,1
+Saratoga,17.419354838709676,0,Wood-Warblers,23
+Saratoga,17.419354838709676,0,Woodpeckers,7
+Saratoga,17.419354838709676,0,Wrens,4
+Saratoga,17.419354838709676,0,Larks,1
+Saratoga,17.419354838709676,0,Loons,1
+Schenectady,9.75609756097561,0,All,130
+Schenectady,9.75609756097561,0,Blackbirds and Orioles,6
+Schenectady,9.75609756097561,0,Cardinals and Buntings,4
+Schenectady,9.75609756097561,0,Chickadees and Titmice,2
+Schenectady,9.75609756097561,0,Creepers,1
+Schenectady,9.75609756097561,0,Crows and Jays,4
+Schenectady,9.75609756097561,0,Cuckoos,2
+Schenectady,9.75609756097561,0,"Ducks, Geese, Waterfowl",6
+Schenectady,9.75609756097561,0,Finches and Crossbills,3
+Schenectady,9.75609756097561,0,Flycatchers,7
+Schenectady,9.75609756097561,0,Gnatcatchers,1
+Schenectady,9.75609756097561,0,Grebes,1
+Schenectady,9.75609756097561,0,"Grouse, Pheasants, Turkeys",3
+Schenectady,9.75609756097561,0,"Gulls, Terns, Plovers, Shorebirds",4
+Schenectady,9.75609756097561,0,"Hawks, Falcons, Eagles, Vultures",10
+Schenectady,9.75609756097561,0,"Herons, Bitterns, Egrets, Pelicans",3
+Schenectady,9.75609756097561,0,Hummingbirds and Swifts,2
+Schenectady,9.75609756097561,0,Kingfishers,1
+Schenectady,9.75609756097561,0,Mockingbirds and Thrashers,3
+Schenectady,9.75609756097561,0,Nightbirds,2
+Schenectady,9.75609756097561,0,Nuthatches,2
+Schenectady,9.75609756097561,0,Old World Sparrows,1
+Schenectady,9.75609756097561,0,Owls,3
+Schenectady,9.75609756097561,0,Pigeons and Doves,2
+Schenectady,9.75609756097561,0,"Rails, Coots and Cranes",2
+Schenectady,9.75609756097561,0,Sparrows and Towhees,10
+Schenectady,9.75609756097561,0,Starlings,1
+Schenectady,9.75609756097561,0,Swallows,5
+Schenectady,9.75609756097561,0,Thrushes and Bluebirds,5
+Schenectady,9.75609756097561,0,Vireos,4
+Schenectady,9.75609756097561,0,Waxwings,1
+Schenectady,9.75609756097561,0,Wood-Warblers,19
+Schenectady,9.75609756097561,0,Woodpeckers,7
+Schenectady,9.75609756097561,0,Wrens,2
+Schenectady,9.75609756097561,0,Larks,1
+Schoharie,15.333333333333332,0,All,159
+Schoharie,15.333333333333332,0,Blackbirds and Orioles,7
+Schoharie,15.333333333333332,0,Cardinals and Buntings,5
+Schoharie,15.333333333333332,0,Chickadees and Titmice,2
+Schoharie,15.333333333333332,0,Cormorants,1
+Schoharie,15.333333333333332,0,Creepers,1
+Schoharie,15.333333333333332,0,Crows and Jays,3
+Schoharie,15.333333333333332,0,Cuckoos,2
+Schoharie,15.333333333333332,0,"Ducks, Geese, Waterfowl",10
+Schoharie,15.333333333333332,0,Finches and Crossbills,4
+Schoharie,15.333333333333332,0,Flycatchers,8
+Schoharie,15.333333333333332,0,Gnatcatchers,1
+Schoharie,15.333333333333332,0,Grebes,1
+Schoharie,15.333333333333332,0,"Grouse, Pheasants, Turkeys",4
+Schoharie,15.333333333333332,0,"Gulls, Terns, Plovers, Shorebirds",5
+Schoharie,15.333333333333332,0,"Hawks, Falcons, Eagles, Vultures",12
+Schoharie,15.333333333333332,0,"Herons, Bitterns, Egrets, Pelicans",3
+Schoharie,15.333333333333332,0,Hummingbirds and Swifts,2
+Schoharie,15.333333333333332,0,Kingfishers,1
+Schoharie,15.333333333333332,0,Kinglets,2
+Schoharie,15.333333333333332,0,Mockingbirds and Thrashers,3
+Schoharie,15.333333333333332,0,Nightbirds,1
+Schoharie,15.333333333333332,0,Nuthatches,2
+Schoharie,15.333333333333332,0,Old World Sparrows,1
+Schoharie,15.333333333333332,0,Owls,7
+Schoharie,15.333333333333332,0,Pigeons and Doves,2
+Schoharie,15.333333333333332,0,"Rails, Coots and Cranes",3
+Schoharie,15.333333333333332,0,Sparrows and Towhees,11
+Schoharie,15.333333333333332,0,Starlings,1
+Schoharie,15.333333333333332,0,Swallows,6
+Schoharie,15.333333333333332,0,Thrushes and Bluebirds,6
+Schoharie,15.333333333333332,0,Vireos,4
+Schoharie,15.333333333333332,0,Waxwings,1
+Schoharie,15.333333333333332,0,Wood-Warblers,24
+Schoharie,15.333333333333332,0,Woodpeckers,7
+Schoharie,15.333333333333332,0,Wrens,5
+Schoharie,15.333333333333332,0,Larks,1
+Schuyler,13.422818791946309,0,All,157
+Schuyler,13.422818791946309,0,Blackbirds and Orioles,7
+Schuyler,13.422818791946309,0,Cardinals and Buntings,4
+Schuyler,13.422818791946309,0,Chickadees and Titmice,2
+Schuyler,13.422818791946309,0,Cormorants,1
+Schuyler,13.422818791946309,0,Creepers,1
+Schuyler,13.422818791946309,0,Crows and Jays,3
+Schuyler,13.422818791946309,0,Cuckoos,2
+Schuyler,13.422818791946309,0,"Ducks, Geese, Waterfowl",10
+Schuyler,13.422818791946309,0,Finches and Crossbills,5
+Schuyler,13.422818791946309,0,Flycatchers,8
+Schuyler,13.422818791946309,0,Gnatcatchers,1
+Schuyler,13.422818791946309,0,Grebes,1
+Schuyler,13.422818791946309,0,"Grouse, Pheasants, Turkeys",4
+Schuyler,13.422818791946309,0,"Gulls, Terns, Plovers, Shorebirds",6
+Schuyler,13.422818791946309,0,"Hawks, Falcons, Eagles, Vultures",11
+Schuyler,13.422818791946309,0,"Herons, Bitterns, Egrets, Pelicans",5
+Schuyler,13.422818791946309,0,Hummingbirds and Swifts,2
+Schuyler,13.422818791946309,0,Kingfishers,1
+Schuyler,13.422818791946309,0,Kinglets,1
+Schuyler,13.422818791946309,0,Mockingbirds and Thrashers,3
+Schuyler,13.422818791946309,0,Nuthatches,2
+Schuyler,13.422818791946309,0,Old World Sparrows,1
+Schuyler,13.422818791946309,0,Owls,4
+Schuyler,13.422818791946309,0,Pigeons and Doves,2
+Schuyler,13.422818791946309,0,"Rails, Coots and Cranes",3
+Schuyler,13.422818791946309,0,Sparrows and Towhees,11
+Schuyler,13.422818791946309,0,Starlings,1
+Schuyler,13.422818791946309,0,Swallows,6
+Schuyler,13.422818791946309,0,Thrushes and Bluebirds,5
+Schuyler,13.422818791946309,0,Vireos,4
+Schuyler,13.422818791946309,0,Waxwings,1
+Schuyler,13.422818791946309,0,Wood-Warblers,26
+Schuyler,13.422818791946309,0,Woodpeckers,7
+Schuyler,13.422818791946309,0,Wrens,4
+Schuyler,13.422818791946309,0,Larks,1
+Schuyler,13.422818791946309,0,Loons,1
+Seneca,21.62162162162162,0,All,157
+Seneca,21.62162162162162,0,Blackbirds and Orioles,7
+Seneca,21.62162162162162,0,Cardinals and Buntings,4
+Seneca,21.62162162162162,0,Chickadees and Titmice,2
+Seneca,21.62162162162162,0,Cormorants,1
+Seneca,21.62162162162162,0,Creepers,1
+Seneca,21.62162162162162,0,Crows and Jays,3
+Seneca,21.62162162162162,0,Cuckoos,2
+Seneca,21.62162162162162,0,"Ducks, Geese, Waterfowl",17
+Seneca,21.62162162162162,0,Finches and Crossbills,3
+Seneca,21.62162162162162,0,Flycatchers,7
+Seneca,21.62162162162162,0,Gnatcatchers,1
+Seneca,21.62162162162162,0,Grebes,1
+Seneca,21.62162162162162,0,"Grouse, Pheasants, Turkeys",3
+Seneca,21.62162162162162,0,"Gulls, Terns, Plovers, Shorebirds",9
+Seneca,21.62162162162162,0,"Hawks, Falcons, Eagles, Vultures",8
+Seneca,21.62162162162162,0,"Herons, Bitterns, Egrets, Pelicans",6
+Seneca,21.62162162162162,0,Hummingbirds and Swifts,2
+Seneca,21.62162162162162,0,Kingfishers,1
+Seneca,21.62162162162162,0,Mockingbirds and Thrashers,3
+Seneca,21.62162162162162,0,Nuthatches,2
+Seneca,21.62162162162162,0,Old World Sparrows,1
+Seneca,21.62162162162162,0,Owls,5
+Seneca,21.62162162162162,0,Pigeons and Doves,2
+Seneca,21.62162162162162,0,"Rails, Coots and Cranes",5
+Seneca,21.62162162162162,0,Sparrows and Towhees,11
+Seneca,21.62162162162162,0,Starlings,1
+Seneca,21.62162162162162,0,Swallows,5
+Seneca,21.62162162162162,0,Thrushes and Bluebirds,5
+Seneca,21.62162162162162,0,Vireos,4
+Seneca,21.62162162162162,0,Waxwings,1
+Seneca,21.62162162162162,0,Wood-Warblers,19
+Seneca,21.62162162162162,0,Woodpeckers,7
+Seneca,21.62162162162162,0,Wrens,5
+Seneca,21.62162162162162,0,Larks,1
+Seneca,21.62162162162162,0,Loons,1
+Seneca,21.62162162162162,0,Shrikes,1
+St. Lawrence,28.176795580110497,0,All,191
+St. Lawrence,28.176795580110497,0,Blackbirds and Orioles,7
+St. Lawrence,28.176795580110497,0,Cardinals and Buntings,4
+St. Lawrence,28.176795580110497,0,Chickadees and Titmice,3
+St. Lawrence,28.176795580110497,0,Cormorants,1
+St. Lawrence,28.176795580110497,0,Creepers,1
+St. Lawrence,28.176795580110497,0,Crows and Jays,4
+St. Lawrence,28.176795580110497,0,Cuckoos,2
+St. Lawrence,28.176795580110497,0,"Ducks, Geese, Waterfowl",18
+St. Lawrence,28.176795580110497,0,Finches and Crossbills,7
+St. Lawrence,28.176795580110497,0,Flycatchers,9
+St. Lawrence,28.176795580110497,0,Gnatcatchers,1
+St. Lawrence,28.176795580110497,0,Grebes,1
+St. Lawrence,28.176795580110497,0,"Grouse, Pheasants, Turkeys",4
+St. Lawrence,28.176795580110497,0,"Gulls, Terns, Plovers, Shorebirds",10
+St. Lawrence,28.176795580110497,0,"Hawks, Falcons, Eagles, Vultures",14
+St. Lawrence,28.176795580110497,0,"Herons, Bitterns, Egrets, Pelicans",5
+St. Lawrence,28.176795580110497,0,Hummingbirds and Swifts,2
+St. Lawrence,28.176795580110497,0,Kingfishers,1
+St. Lawrence,28.176795580110497,0,Kinglets,2
+St. Lawrence,28.176795580110497,0,Mockingbirds and Thrashers,3
+St. Lawrence,28.176795580110497,0,Nightbirds,2
+St. Lawrence,28.176795580110497,0,Nuthatches,2
+St. Lawrence,28.176795580110497,0,Old World Sparrows,1
+St. Lawrence,28.176795580110497,0,Owls,7
+St. Lawrence,28.176795580110497,0,Pigeons and Doves,2
+St. Lawrence,28.176795580110497,0,"Rails, Coots and Cranes",4
+St. Lawrence,28.176795580110497,0,Sparrows and Towhees,12
+St. Lawrence,28.176795580110497,0,Starlings,1
+St. Lawrence,28.176795580110497,0,Swallows,6
+St. Lawrence,28.176795580110497,0,Thrushes and Bluebirds,6
+St. Lawrence,28.176795580110497,0,Vireos,5
+St. Lawrence,28.176795580110497,0,Waxwings,1
+St. Lawrence,28.176795580110497,0,Wood-Warblers,27
+St. Lawrence,28.176795580110497,0,Woodpeckers,8
+St. Lawrence,28.176795580110497,0,Wrens,5
+St. Lawrence,28.176795580110497,0,Larks,1
+St. Lawrence,28.176795580110497,0,Loons,1
+St. Lawrence,28.176795580110497,0,Shrikes,1
+Steuben,14.18918918918919,0,All,155
+Steuben,14.18918918918919,0,Blackbirds and Orioles,7
+Steuben,14.18918918918919,0,Cardinals and Buntings,4
+Steuben,14.18918918918919,0,Chickadees and Titmice,2
+Steuben,14.18918918918919,0,Creepers,1
+Steuben,14.18918918918919,0,Crows and Jays,4
+Steuben,14.18918918918919,0,Cuckoos,2
+Steuben,14.18918918918919,0,"Ducks, Geese, Waterfowl",7
+Steuben,14.18918918918919,0,Finches and Crossbills,4
+Steuben,14.18918918918919,0,Flycatchers,8
+Steuben,14.18918918918919,0,Gnatcatchers,1
+Steuben,14.18918918918919,0,Grebes,1
+Steuben,14.18918918918919,0,"Grouse, Pheasants, Turkeys",4
+Steuben,14.18918918918919,0,"Gulls, Terns, Plovers, Shorebirds",5
+Steuben,14.18918918918919,0,"Hawks, Falcons, Eagles, Vultures",11
+Steuben,14.18918918918919,0,"Herons, Bitterns, Egrets, Pelicans",3
+Steuben,14.18918918918919,0,Hummingbirds and Swifts,2
+Steuben,14.18918918918919,0,Kingfishers,1
+Steuben,14.18918918918919,0,Kinglets,1
+Steuben,14.18918918918919,0,Mockingbirds and Thrashers,3
+Steuben,14.18918918918919,0,Nightbirds,2
+Steuben,14.18918918918919,0,Nuthatches,2
+Steuben,14.18918918918919,0,Old World Sparrows,1
+Steuben,14.18918918918919,0,Owls,6
+Steuben,14.18918918918919,0,Pigeons and Doves,2
+Steuben,14.18918918918919,0,"Rails, Coots and Cranes",3
+Steuben,14.18918918918919,0,Sparrows and Towhees,11
+Steuben,14.18918918918919,0,Starlings,1
+Steuben,14.18918918918919,0,Swallows,6
+Steuben,14.18918918918919,0,Thrushes and Bluebirds,6
+Steuben,14.18918918918919,0,Vireos,4
+Steuben,14.18918918918919,0,Waxwings,1
+Steuben,14.18918918918919,0,Wood-Warblers,26
+Steuben,14.18918918918919,0,Woodpeckers,7
+Steuben,14.18918918918919,0,Wrens,4
+Steuben,14.18918918918919,0,Larks,1
+Steuben,14.18918918918919,0,Loons,1
+Suffolk,33.12883435582822,0.5780346820809248,All,175
+Suffolk,33.12883435582822,0.5780346820809248,Blackbirds and Orioles,9
+Suffolk,33.12883435582822,0.5780346820809248,Cardinals and Buntings,6
+Suffolk,33.12883435582822,0.5780346820809248,Chickadees and Titmice,2
+Suffolk,33.12883435582822,0.5780346820809248,Cormorants,1
+Suffolk,33.12883435582822,0.5780346820809248,Creepers,1
+Suffolk,33.12883435582822,0.5780346820809248,Crows and Jays,3
+Suffolk,33.12883435582822,0.5780346820809248,Cuckoos,2
+Suffolk,33.12883435582822,0.5780346820809248,"Ducks, Geese, Waterfowl",13
+Suffolk,33.12883435582822,0.5780346820809248,Finches and Crossbills,3
+Suffolk,33.12883435582822,0.5780346820809248,Flycatchers,7
+Suffolk,33.12883435582822,0.5780346820809248,Gnatcatchers,1
+Suffolk,33.12883435582822,0.5780346820809248,Grebes,1
+Suffolk,33.12883435582822,0.5780346820809248,"Grouse, Pheasants, Turkeys",4
+Suffolk,33.12883435582822,0.5780346820809248,"Gulls, Terns, Plovers, Shorebirds",16
+Suffolk,33.12883435582822,0.5780346820809248,"Hawks, Falcons, Eagles, Vultures",9
+Suffolk,33.12883435582822,0.5780346820809248,"Herons, Bitterns, Egrets, Pelicans",11
+Suffolk,33.12883435582822,0.5780346820809248,Hummingbirds and Swifts,2
+Suffolk,33.12883435582822,0.5780346820809248,Kingfishers,1
+Suffolk,33.12883435582822,0.5780346820809248,Mockingbirds and Thrashers,3
+Suffolk,33.12883435582822,0.5780346820809248,Nightbirds,3
+Suffolk,33.12883435582822,0.5780346820809248,Nuthatches,2
+Suffolk,33.12883435582822,0.5780346820809248,Old World Sparrows,1
+Suffolk,33.12883435582822,0.5780346820809248,Owls,6
+Suffolk,33.12883435582822,0.5780346820809248,Pigeons and Doves,2
+Suffolk,33.12883435582822,0.5780346820809248,"Rails, Coots and Cranes",6
+Suffolk,33.12883435582822,0.5780346820809248,Sparrows and Towhees,11
+Suffolk,33.12883435582822,0.5780346820809248,Starlings,1
+Suffolk,33.12883435582822,0.5780346820809248,Swallows,6
+Suffolk,33.12883435582822,0.5780346820809248,Thrushes and Bluebirds,5
+Suffolk,33.12883435582822,0.5780346820809248,Vireos,4
+Suffolk,33.12883435582822,0.5780346820809248,Waxwings,1
+Suffolk,33.12883435582822,0.5780346820809248,Wood-Warblers,20
+Suffolk,33.12883435582822,0.5780346820809248,Woodpeckers,5
+Suffolk,33.12883435582822,0.5780346820809248,Wrens,4
+Suffolk,33.12883435582822,0.5780346820809248,Larks,1
+Suffolk,33.12883435582822,0.5780346820809248,Parrots and Parakeets,1
+Suffolk,33.12883435582822,0.5780346820809248,Loons,1
+Sullivan,11.11111111111111,0,All,152
+Sullivan,11.11111111111111,0,Blackbirds and Orioles,7
+Sullivan,11.11111111111111,0,Cardinals and Buntings,4
+Sullivan,11.11111111111111,0,Chickadees and Titmice,2
+Sullivan,11.11111111111111,0,Creepers,1
+Sullivan,11.11111111111111,0,Crows and Jays,4
+Sullivan,11.11111111111111,0,Cuckoos,2
+Sullivan,11.11111111111111,0,"Ducks, Geese, Waterfowl",8
+Sullivan,11.11111111111111,0,Finches and Crossbills,5
+Sullivan,11.11111111111111,0,Flycatchers,8
+Sullivan,11.11111111111111,0,Gnatcatchers,1
+Sullivan,11.11111111111111,0,Grebes,1
+Sullivan,11.11111111111111,0,"Grouse, Pheasants, Turkeys",4
+Sullivan,11.11111111111111,0,"Gulls, Terns, Plovers, Shorebirds",4
+Sullivan,11.11111111111111,0,"Hawks, Falcons, Eagles, Vultures",11
+Sullivan,11.11111111111111,0,"Herons, Bitterns, Egrets, Pelicans",4
+Sullivan,11.11111111111111,0,Hummingbirds and Swifts,2
+Sullivan,11.11111111111111,0,Kingfishers,1
+Sullivan,11.11111111111111,0,Kinglets,1
+Sullivan,11.11111111111111,0,Mockingbirds and Thrashers,3
+Sullivan,11.11111111111111,0,Nightbirds,1
+Sullivan,11.11111111111111,0,Nuthatches,2
+Sullivan,11.11111111111111,0,Old World Sparrows,1
+Sullivan,11.11111111111111,0,Owls,5
+Sullivan,11.11111111111111,0,Pigeons and Doves,2
+Sullivan,11.11111111111111,0,"Rails, Coots and Cranes",3
+Sullivan,11.11111111111111,0,Sparrows and Towhees,10
+Sullivan,11.11111111111111,0,Starlings,1
+Sullivan,11.11111111111111,0,Swallows,5
+Sullivan,11.11111111111111,0,Thrushes and Bluebirds,6
+Sullivan,11.11111111111111,0,Vireos,4
+Sullivan,11.11111111111111,0,Waxwings,1
+Sullivan,11.11111111111111,0,Wood-Warblers,25
+Sullivan,11.11111111111111,0,Woodpeckers,7
+Sullivan,11.11111111111111,0,Wrens,5
+Sullivan,11.11111111111111,0,Parrots and Parakeets,1
+Tioga,12.142857142857142,0,All,147
+Tioga,12.142857142857142,0,Blackbirds and Orioles,7
+Tioga,12.142857142857142,0,Cardinals and Buntings,4
+Tioga,12.142857142857142,0,Chickadees and Titmice,2
+Tioga,12.142857142857142,0,Creepers,1
+Tioga,12.142857142857142,0,Crows and Jays,4
+Tioga,12.142857142857142,0,Cuckoos,2
+Tioga,12.142857142857142,0,"Ducks, Geese, Waterfowl",6
+Tioga,12.142857142857142,0,Finches and Crossbills,4
+Tioga,12.142857142857142,0,Flycatchers,8
+Tioga,12.142857142857142,0,Gnatcatchers,1
+Tioga,12.142857142857142,0,Grebes,1
+Tioga,12.142857142857142,0,"Grouse, Pheasants, Turkeys",4
+Tioga,12.142857142857142,0,"Gulls, Terns, Plovers, Shorebirds",4
+Tioga,12.142857142857142,0,"Hawks, Falcons, Eagles, Vultures",11
+Tioga,12.142857142857142,0,"Herons, Bitterns, Egrets, Pelicans",3
+Tioga,12.142857142857142,0,Hummingbirds and Swifts,2
+Tioga,12.142857142857142,0,Kingfishers,1
+Tioga,12.142857142857142,0,Kinglets,2
+Tioga,12.142857142857142,0,Mockingbirds and Thrashers,3
+Tioga,12.142857142857142,0,Nightbirds,1
+Tioga,12.142857142857142,0,Nuthatches,2
+Tioga,12.142857142857142,0,Old World Sparrows,1
+Tioga,12.142857142857142,0,Owls,5
+Tioga,12.142857142857142,0,Pigeons and Doves,2
+Tioga,12.142857142857142,0,"Rails, Coots and Cranes",1
+Tioga,12.142857142857142,0,Sparrows and Towhees,11
+Tioga,12.142857142857142,0,Starlings,1
+Tioga,12.142857142857142,0,Swallows,6
+Tioga,12.142857142857142,0,Thrushes and Bluebirds,5
+Tioga,12.142857142857142,0,Vireos,4
+Tioga,12.142857142857142,0,Waxwings,1
+Tioga,12.142857142857142,0,Wood-Warblers,26
+Tioga,12.142857142857142,0,Woodpeckers,7
+Tioga,12.142857142857142,0,Wrens,3
+Tioga,12.142857142857142,0,Larks,1
+Tompkins,18.867924528301888,0,All,169
+Tompkins,18.867924528301888,0,Blackbirds and Orioles,8
+Tompkins,18.867924528301888,0,Cardinals and Buntings,5
+Tompkins,18.867924528301888,0,Chickadees and Titmice,2
+Tompkins,18.867924528301888,0,Cormorants,1
+Tompkins,18.867924528301888,0,Creepers,1
+Tompkins,18.867924528301888,0,Crows and Jays,4
+Tompkins,18.867924528301888,0,Cuckoos,2
+Tompkins,18.867924528301888,0,"Ducks, Geese, Waterfowl",10
+Tompkins,18.867924528301888,0,Finches and Crossbills,4
+Tompkins,18.867924528301888,0,Flycatchers,8
+Tompkins,18.867924528301888,0,Gnatcatchers,1
+Tompkins,18.867924528301888,0,Grebes,1
+Tompkins,18.867924528301888,0,"Grouse, Pheasants, Turkeys",4
+Tompkins,18.867924528301888,0,"Gulls, Terns, Plovers, Shorebirds",6
+Tompkins,18.867924528301888,0,"Hawks, Falcons, Eagles, Vultures",13
+Tompkins,18.867924528301888,0,"Herons, Bitterns, Egrets, Pelicans",5
+Tompkins,18.867924528301888,0,Hummingbirds and Swifts,2
+Tompkins,18.867924528301888,0,Kingfishers,1
+Tompkins,18.867924528301888,0,Kinglets,1
+Tompkins,18.867924528301888,0,Mockingbirds and Thrashers,3
+Tompkins,18.867924528301888,0,Nightbirds,2
+Tompkins,18.867924528301888,0,Nuthatches,2
+Tompkins,18.867924528301888,0,Old World Sparrows,1
+Tompkins,18.867924528301888,0,Owls,7
+Tompkins,18.867924528301888,0,Pigeons and Doves,2
+Tompkins,18.867924528301888,0,"Rails, Coots and Cranes",4
+Tompkins,18.867924528301888,0,Sparrows and Towhees,11
+Tompkins,18.867924528301888,0,Starlings,1
+Tompkins,18.867924528301888,0,Swallows,6
+Tompkins,18.867924528301888,0,Thrushes and Bluebirds,5
+Tompkins,18.867924528301888,0,Vireos,4
+Tompkins,18.867924528301888,0,Waxwings,1
+Tompkins,18.867924528301888,0,Wood-Warblers,28
+Tompkins,18.867924528301888,0,Woodpeckers,7
+Tompkins,18.867924528301888,0,Wrens,5
+Tompkins,18.867924528301888,0,Larks,1
+Ulster,18.9873417721519,0,All,165
+Ulster,18.9873417721519,0,Blackbirds and Orioles,7
+Ulster,18.9873417721519,0,Cardinals and Buntings,4
+Ulster,18.9873417721519,0,Chickadees and Titmice,2
+Ulster,18.9873417721519,0,Cormorants,1
+Ulster,18.9873417721519,0,Creepers,1
+Ulster,18.9873417721519,0,Crows and Jays,4
+Ulster,18.9873417721519,0,Cuckoos,2
+Ulster,18.9873417721519,0,"Ducks, Geese, Waterfowl",8
+Ulster,18.9873417721519,0,Finches and Crossbills,5
+Ulster,18.9873417721519,0,Flycatchers,10
+Ulster,18.9873417721519,0,Gnatcatchers,1
+Ulster,18.9873417721519,0,Grebes,1
+Ulster,18.9873417721519,0,"Grouse, Pheasants, Turkeys",3
+Ulster,18.9873417721519,0,"Gulls, Terns, Plovers, Shorebirds",5
+Ulster,18.9873417721519,0,"Hawks, Falcons, Eagles, Vultures",13
+Ulster,18.9873417721519,0,"Herons, Bitterns, Egrets, Pelicans",4
+Ulster,18.9873417721519,0,Hummingbirds and Swifts,2
+Ulster,18.9873417721519,0,Kingfishers,1
+Ulster,18.9873417721519,0,Kinglets,1
+Ulster,18.9873417721519,0,Mockingbirds and Thrashers,3
+Ulster,18.9873417721519,0,Nightbirds,2
+Ulster,18.9873417721519,0,Nuthatches,2
+Ulster,18.9873417721519,0,Old World Sparrows,1
+Ulster,18.9873417721519,0,Owls,6
+Ulster,18.9873417721519,0,Pigeons and Doves,2
+Ulster,18.9873417721519,0,"Rails, Coots and Cranes",3
+Ulster,18.9873417721519,0,Sparrows and Towhees,11
+Ulster,18.9873417721519,0,Starlings,1
+Ulster,18.9873417721519,0,Swallows,6
+Ulster,18.9873417721519,0,Thrushes and Bluebirds,7
+Ulster,18.9873417721519,0,Vireos,5
+Ulster,18.9873417721519,0,Waxwings,1
+Ulster,18.9873417721519,0,Wood-Warblers,28
+Ulster,18.9873417721519,0,Woodpeckers,7
+Ulster,18.9873417721519,0,Wrens,5
+Warren,16.10738255033557,0,All,155
+Warren,16.10738255033557,0,Blackbirds and Orioles,8
+Warren,16.10738255033557,0,Cardinals and Buntings,4
+Warren,16.10738255033557,0,Chickadees and Titmice,3
+Warren,16.10738255033557,0,Cormorants,1
+Warren,16.10738255033557,0,Creepers,1
+Warren,16.10738255033557,0,Crows and Jays,4
+Warren,16.10738255033557,0,Cuckoos,2
+Warren,16.10738255033557,0,"Ducks, Geese, Waterfowl",9
+Warren,16.10738255033557,0,Finches and Crossbills,6
+Warren,16.10738255033557,0,Flycatchers,9
+Warren,16.10738255033557,0,Grebes,1
+Warren,16.10738255033557,0,"Grouse, Pheasants, Turkeys",3
+Warren,16.10738255033557,0,"Gulls, Terns, Plovers, Shorebirds",6
+Warren,16.10738255033557,0,"Hawks, Falcons, Eagles, Vultures",13
+Warren,16.10738255033557,0,"Herons, Bitterns, Egrets, Pelicans",4
+Warren,16.10738255033557,0,Hummingbirds and Swifts,2
+Warren,16.10738255033557,0,Kingfishers,1
+Warren,16.10738255033557,0,Kinglets,2
+Warren,16.10738255033557,0,Mockingbirds and Thrashers,3
+Warren,16.10738255033557,0,Nightbirds,2
+Warren,16.10738255033557,0,Nuthatches,2
+Warren,16.10738255033557,0,Old World Sparrows,1
+Warren,16.10738255033557,0,Owls,5
+Warren,16.10738255033557,0,Pigeons and Doves,2
+Warren,16.10738255033557,0,"Rails, Coots and Cranes",1
+Warren,16.10738255033557,0,Sparrows and Towhees,9
+Warren,16.10738255033557,0,Starlings,1
+Warren,16.10738255033557,0,Swallows,5
+Warren,16.10738255033557,0,Thrushes and Bluebirds,7
+Warren,16.10738255033557,0,Vireos,4
+Warren,16.10738255033557,0,Waxwings,1
+Warren,16.10738255033557,0,Wood-Warblers,21
+Warren,16.10738255033557,0,Woodpeckers,7
+Warren,16.10738255033557,0,Wrens,4
+Warren,16.10738255033557,0,Loons,1
+Washington,15.131578947368421,0,All,160
+Washington,15.131578947368421,0,Blackbirds and Orioles,7
+Washington,15.131578947368421,0,Cardinals and Buntings,4
+Washington,15.131578947368421,0,Chickadees and Titmice,2
+Washington,15.131578947368421,0,Cormorants,1
+Washington,15.131578947368421,0,Creepers,1
+Washington,15.131578947368421,0,Crows and Jays,4
+Washington,15.131578947368421,0,Cuckoos,2
+Washington,15.131578947368421,0,"Ducks, Geese, Waterfowl",8
+Washington,15.131578947368421,0,Finches and Crossbills,5
+Washington,15.131578947368421,0,Flycatchers,8
+Washington,15.131578947368421,0,Gnatcatchers,1
+Washington,15.131578947368421,0,Grebes,1
+Washington,15.131578947368421,0,"Grouse, Pheasants, Turkeys",3
+Washington,15.131578947368421,0,"Gulls, Terns, Plovers, Shorebirds",8
+Washington,15.131578947368421,0,"Hawks, Falcons, Eagles, Vultures",12
+Washington,15.131578947368421,0,"Herons, Bitterns, Egrets, Pelicans",5
+Washington,15.131578947368421,0,Hummingbirds and Swifts,2
+Washington,15.131578947368421,0,Kingfishers,1
+Washington,15.131578947368421,0,Kinglets,1
+Washington,15.131578947368421,0,Mockingbirds and Thrashers,3
+Washington,15.131578947368421,0,Nightbirds,2
+Washington,15.131578947368421,0,Nuthatches,2
+Washington,15.131578947368421,0,Old World Sparrows,1
+Washington,15.131578947368421,0,Owls,5
+Washington,15.131578947368421,0,Pigeons and Doves,2
+Washington,15.131578947368421,0,"Rails, Coots and Cranes",4
+Washington,15.131578947368421,0,Sparrows and Towhees,10
+Washington,15.131578947368421,0,Starlings,1
+Washington,15.131578947368421,0,Swallows,6
+Washington,15.131578947368421,0,Thrushes and Bluebirds,6
+Washington,15.131578947368421,0,Vireos,4
+Washington,15.131578947368421,0,Waxwings,1
+Washington,15.131578947368421,0,Wood-Warblers,23
+Washington,15.131578947368421,0,Woodpeckers,7
+Washington,15.131578947368421,0,Wrens,5
+Washington,15.131578947368421,0,Larks,1
+Washington,15.131578947368421,0,Loons,1
+Wayne,19.863013698630137,0,All,154
+Wayne,19.863013698630137,0,Blackbirds and Orioles,7
+Wayne,19.863013698630137,0,Cardinals and Buntings,4
+Wayne,19.863013698630137,0,Chickadees and Titmice,2
+Wayne,19.863013698630137,0,Creepers,1
+Wayne,19.863013698630137,0,Crows and Jays,2
+Wayne,19.863013698630137,0,Cuckoos,2
+Wayne,19.863013698630137,0,"Ducks, Geese, Waterfowl",11
+Wayne,19.863013698630137,0,Finches and Crossbills,4
+Wayne,19.863013698630137,0,Flycatchers,8
+Wayne,19.863013698630137,0,Gnatcatchers,1
+Wayne,19.863013698630137,0,Grebes,1
+Wayne,19.863013698630137,0,"Grouse, Pheasants, Turkeys",4
+Wayne,19.863013698630137,0,"Gulls, Terns, Plovers, Shorebirds",6
+Wayne,19.863013698630137,0,"Hawks, Falcons, Eagles, Vultures",10
+Wayne,19.863013698630137,0,"Herons, Bitterns, Egrets, Pelicans",5
+Wayne,19.863013698630137,0,Hummingbirds and Swifts,2
+Wayne,19.863013698630137,0,Kingfishers,1
+Wayne,19.863013698630137,0,Kinglets,1
+Wayne,19.863013698630137,0,Mockingbirds and Thrashers,3
+Wayne,19.863013698630137,0,Nightbirds,2
+Wayne,19.863013698630137,0,Nuthatches,2
+Wayne,19.863013698630137,0,Old World Sparrows,1
+Wayne,19.863013698630137,0,Owls,6
+Wayne,19.863013698630137,0,Pigeons and Doves,2
+Wayne,19.863013698630137,0,"Rails, Coots and Cranes",5
+Wayne,19.863013698630137,0,Sparrows and Towhees,11
+Wayne,19.863013698630137,0,Starlings,1
+Wayne,19.863013698630137,0,Swallows,6
+Wayne,19.863013698630137,0,Thrushes and Bluebirds,5
+Wayne,19.863013698630137,0,Vireos,4
+Wayne,19.863013698630137,0,Waxwings,1
+Wayne,19.863013698630137,0,Wood-Warblers,20
+Wayne,19.863013698630137,0,Woodpeckers,7
+Wayne,19.863013698630137,0,Wrens,5
+Wayne,19.863013698630137,0,Larks,1
+Westchester,21.08843537414966,0,All,155
+Westchester,21.08843537414966,0,Blackbirds and Orioles,7
+Westchester,21.08843537414966,0,Cardinals and Buntings,4
+Westchester,21.08843537414966,0,Chickadees and Titmice,2
+Westchester,21.08843537414966,0,Cormorants,1
+Westchester,21.08843537414966,0,Creepers,1
+Westchester,21.08843537414966,0,Crows and Jays,4
+Westchester,21.08843537414966,0,Cuckoos,2
+Westchester,21.08843537414966,0,"Ducks, Geese, Waterfowl",7
+Westchester,21.08843537414966,0,Finches and Crossbills,3
+Westchester,21.08843537414966,0,Flycatchers,8
+Westchester,21.08843537414966,0,Gnatcatchers,1
+Westchester,21.08843537414966,0,Grebes,1
+Westchester,21.08843537414966,0,"Grouse, Pheasants, Turkeys",3
+Westchester,21.08843537414966,0,"Gulls, Terns, Plovers, Shorebirds",8
+Westchester,21.08843537414966,0,"Hawks, Falcons, Eagles, Vultures",13
+Westchester,21.08843537414966,0,"Herons, Bitterns, Egrets, Pelicans",8
+Westchester,21.08843537414966,0,Hummingbirds and Swifts,2
+Westchester,21.08843537414966,0,Kingfishers,1
+Westchester,21.08843537414966,0,Kinglets,1
+Westchester,21.08843537414966,0,Mockingbirds and Thrashers,3
+Westchester,21.08843537414966,0,Nightbirds,2
+Westchester,21.08843537414966,0,Nuthatches,2
+Westchester,21.08843537414966,0,Old World Sparrows,1
+Westchester,21.08843537414966,0,Owls,4
+Westchester,21.08843537414966,0,Pigeons and Doves,2
+Westchester,21.08843537414966,0,"Rails, Coots and Cranes",4
+Westchester,21.08843537414966,0,Sparrows and Towhees,9
+Westchester,21.08843537414966,0,Starlings,1
+Westchester,21.08843537414966,0,Swallows,6
+Westchester,21.08843537414966,0,Thrushes and Bluebirds,5
+Westchester,21.08843537414966,0,Vireos,5
+Westchester,21.08843537414966,0,Waxwings,1
+Westchester,21.08843537414966,0,Wood-Warblers,20
+Westchester,21.08843537414966,0,Woodpeckers,6
+Westchester,21.08843537414966,0,Wrens,5
+Westchester,21.08843537414966,0,Parrots and Parakeets,1
+Westchester,21.08843537414966,0,Loons,1
+Wyoming,15.333333333333332,0,All,157
+Wyoming,15.333333333333332,0,Blackbirds and Orioles,7
+Wyoming,15.333333333333332,0,Cardinals and Buntings,4
+Wyoming,15.333333333333332,0,Chickadees and Titmice,2
+Wyoming,15.333333333333332,0,Creepers,1
+Wyoming,15.333333333333332,0,Crows and Jays,3
+Wyoming,15.333333333333332,0,Cuckoos,2
+Wyoming,15.333333333333332,0,"Ducks, Geese, Waterfowl",9
+Wyoming,15.333333333333332,0,Finches and Crossbills,5
+Wyoming,15.333333333333332,0,Flycatchers,8
+Wyoming,15.333333333333332,0,Gnatcatchers,1
+Wyoming,15.333333333333332,0,Grebes,1
+Wyoming,15.333333333333332,0,"Grouse, Pheasants, Turkeys",4
+Wyoming,15.333333333333332,0,"Gulls, Terns, Plovers, Shorebirds",5
+Wyoming,15.333333333333332,0,"Hawks, Falcons, Eagles, Vultures",11
+Wyoming,15.333333333333332,0,"Herons, Bitterns, Egrets, Pelicans",4
+Wyoming,15.333333333333332,0,Hummingbirds and Swifts,2
+Wyoming,15.333333333333332,0,Kingfishers,1
+Wyoming,15.333333333333332,0,Kinglets,1
+Wyoming,15.333333333333332,0,Mockingbirds and Thrashers,3
+Wyoming,15.333333333333332,0,Nightbirds,1
+Wyoming,15.333333333333332,0,Nuthatches,2
+Wyoming,15.333333333333332,0,Old World Sparrows,1
+Wyoming,15.333333333333332,0,Owls,7
+Wyoming,15.333333333333332,0,Pigeons and Doves,2
+Wyoming,15.333333333333332,0,"Rails, Coots and Cranes",3
+Wyoming,15.333333333333332,0,Sparrows and Towhees,11
+Wyoming,15.333333333333332,0,Starlings,1
+Wyoming,15.333333333333332,0,Swallows,6
+Wyoming,15.333333333333332,0,Thrushes and Bluebirds,6
+Wyoming,15.333333333333332,0,Vireos,4
+Wyoming,15.333333333333332,0,Waxwings,1
+Wyoming,15.333333333333332,0,Wood-Warblers,25
+Wyoming,15.333333333333332,0,Woodpeckers,7
+Wyoming,15.333333333333332,0,Wrens,5
+Wyoming,15.333333333333332,0,Larks,1
+Yates,11.194029850746269,0,All,140
+Yates,11.194029850746269,0,Blackbirds and Orioles,7
+Yates,11.194029850746269,0,Cardinals and Buntings,4
+Yates,11.194029850746269,0,Chickadees and Titmice,2
+Yates,11.194029850746269,0,Creepers,1
+Yates,11.194029850746269,0,Crows and Jays,3
+Yates,11.194029850746269,0,Cuckoos,2
+Yates,11.194029850746269,0,"Ducks, Geese, Waterfowl",9
+Yates,11.194029850746269,0,Finches and Crossbills,3
+Yates,11.194029850746269,0,Flycatchers,8
+Yates,11.194029850746269,0,Gnatcatchers,1
+Yates,11.194029850746269,0,Grebes,1
+Yates,11.194029850746269,0,"Grouse, Pheasants, Turkeys",4
+Yates,11.194029850746269,0,"Gulls, Terns, Plovers, Shorebirds",4
+Yates,11.194029850746269,0,"Hawks, Falcons, Eagles, Vultures",10
+Yates,11.194029850746269,0,"Herons, Bitterns, Egrets, Pelicans",2
+Yates,11.194029850746269,0,Hummingbirds and Swifts,2
+Yates,11.194029850746269,0,Kingfishers,1
+Yates,11.194029850746269,0,Kinglets,1
+Yates,11.194029850746269,0,Mockingbirds and Thrashers,3
+Yates,11.194029850746269,0,Nuthatches,2
+Yates,11.194029850746269,0,Old World Sparrows,1
+Yates,11.194029850746269,0,Owls,5
+Yates,11.194029850746269,0,Pigeons and Doves,2
+Yates,11.194029850746269,0,"Rails, Coots and Cranes",3
+Yates,11.194029850746269,0,Sparrows and Towhees,10
+Yates,11.194029850746269,0,Starlings,1
+Yates,11.194029850746269,0,Swallows,6
+Yates,11.194029850746269,0,Thrushes and Bluebirds,5
+Yates,11.194029850746269,0,Vireos,4
+Yates,11.194029850746269,0,Waxwings,1
+Yates,11.194029850746269,0,Wood-Warblers,19
+Yates,11.194029850746269,0,Woodpeckers,7
+Yates,11.194029850746269,0,Wrens,5
+Yates,11.194029850746269,0,Larks,1

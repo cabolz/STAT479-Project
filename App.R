@@ -38,6 +38,7 @@ server <- function(input, output) {
              level == "perc_not_secure_state") %>% 
       ggplot(aes(x = n, y = perc_not_secure, name = county)) + 
       geom_jitter(col = "#F8766D", alpha = 0.6, size = 1, width = 0.3) +
+      #geom_point(col = "#F8766D", alpha = 0.6, size = 1) +
       theme_minimal() +
       theme(legend.position = "none") +
       labs (
