@@ -96,6 +96,12 @@ species_by_subgroup <- biodiversity %>%
   summarise(unique_species = unique(common_name)) %>%
   group_by(taxonomic_subgroup) %>%
   summarise(n_species = n())
+
+individuals_per_subgroup = biodiversity %>% 
+  #select(county, taxonomic_subgroup) %>% 
+  count(county, taxonomic_subgroup) %>% 
+  group_by(taxonomic_subgroup) %>% 
+  summarize(full_count = sum(n))
 ```
 
 ```{r}
@@ -111,7 +117,11 @@ biodiversity_security <- biodiversity %>%
   global_security = case_when(str_detect(global_conservation_rank, "^G[:digit:]G[45]") | str_detect(global_conservation_rank, "^G[45]T") | str_detect(global_conservation_rank, "^G[45]\\??$") | str_detect(global_conservation_rank, "^G[45]Q") | str_detect(global_conservation_rank, "^G[45]\\?T") ~ "secure",
                               str_detect(global_conservation_rank, "^G[:digit:]G[123]") | str_detect(global_conservation_rank, "^G[123]T") | str_detect(global_conservation_rank, "^G[123HX]\\??$") | str_detect(global_conservation_rank, "^G[123]\\??Q") ~ "not_secure",
                               global_conservation_rank %in% c("GU", "GNA", "GNR", "GUT1Q", "GNRTNR") ~ "NA"
-  )) 
+  ))
+
+# Remove any sub-species that have NAs for a conservation rank
+biodiversity_security <- biodiversity_security %>% 
+  drop_na()
 
 # Summarise by county and do math to get % not secure for each county
 county_security <- biodiversity_security %>%
@@ -142,8 +152,8 @@ counties_taxonomic =
   pivot_wider(names_from = taxonomic_subgroup, values_from = n) %>% 
   #replace(is.na(.), 0) %>% 
   right_join(counties_derived, by = "county") %>%
-  rename(All = n_species) %>% 
-  select(county, All, 2:40, perc_not_secure_state, perc_not_secure_global) %>% 
+  rename(All = n_species) %>%
+  select(county, All, 2:40, perc_not_secure_state) %>% 
   pivot_longer(2:41, names_to = "taxonomic_subgroup", values_to = "n") %>% 
   drop_na() %>% 
   mutate(n = as.integer(n))
@@ -158,27 +168,28 @@ taxonomic_security <- biodiversity_security %>%
   group_by(county, taxonomic_subgroup) %>%
   summarize(state_secure = length(which(state_security == "secure")),
             state_not_secure = length(which(state_security == "not_secure")), 
-            global_secure = length(which(global_security == "secure")),
-            global_not_secure = length(which(global_security == "not_secure")), 
             total_state = state_not_secure + state_secure,
-            total_global = global_not_secure + global_secure,
-            perc_not_secure_state = state_not_secure/total_state * 100,
-            perc_not_secure_global = global_not_secure/total_global *100
+            perc_not_secure_state = state_not_secure/total_state * 100
   ) %>% 
-  select(county, taxonomic_subgroup, perc_not_secure_state, perc_not_secure_global) %>% 
-  rename(subgroup_secure = taxonomic_subgroup)
+  select(county, taxonomic_subgroup, perc_not_secure_state) %>% 
+  rename(subgroup_secure = taxonomic_subgroup) %>%
+  # Remove NaN values caused from division by zero
+  mutate_at(vars(perc_not_secure_state), ~replace(., is.nan(.), 0))
 
 all_security = counties_derived %>% 
-  select(county, perc_not_secure_state, perc_not_secure_global) %>% 
+  select(county, perc_not_secure_state) %>% 
   mutate(subgroup_secure = "All")
 
 taxonomic_security = rbind(taxonomic_security, all_security)
 
+wanted_list = c("All", "Wood-Warblers", "Ducks, Geese, Waterfowl", "Gulls, Terns, Plovers, Shorebirds", "Hawks, Falcons, Eagles, Vultures", "Sparrows and Towhees", "Herons, Bitterns, Egrets, Pelicans", "Flycatchers", "Woodpeckers", "Blackbirds and Orioles", "Finches and Crossbills", "Owls", "Rails, Coots and Cranes")
+
 taxonomic_security = counties_taxonomic %>% 
-  select(-perc_not_secure_state, -perc_not_secure_global) %>% 
+  select(-perc_not_secure_state) %>% 
   left_join(taxonomic_security, by = "county") %>% 
   filter(taxonomic_subgroup == subgroup_secure) %>% 
-  pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_not_secure")
+  #pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_not_secure") %>% 
+  filter(taxonomic_subgroup %in% wanted_list)
 ```
 
 ```{r message=FALSE, warning=FALSE}
@@ -241,4 +252,13 @@ ggplot(counties_derived, aes(x = n_species, y = perc_not_secure_state)) +
     geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
     theme_minimal() +
     theme(legend.position = "none")
+```
+
+```{r}
+counties_nameless = counties_derived %>% 
+  select(-county)
+
+# Note that density = human_pop_county / total_area
+model = lm(perc_not_secure_state ~ ., data = counties_nameless)
+summary(model)
 ```
