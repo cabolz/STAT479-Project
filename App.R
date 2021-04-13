@@ -4,30 +4,29 @@ library("ggplot2")
 library("dplyr")
 library("plotly")
 
-# Load in datasets
-#counties_taxonomic = read_csv("./data/counties_taxonomic.csv")
-# Remove:
-# Shrikes, Loons, Parrots and Parakeets, Larks, Maxwings, Starlings, Old World Sparrows,
-# Kingfishers, Grebes, Gnatcatchers, Creepers, Cormorants, Nuthatches, Kinglets, 
-# Hummingbirds and Swifts, Cuckoos, Nightbirds, Pigeons and Doves, Chickadees and Titmice
+# Load in dataset, ordering by largest taxonomic subgroup
 taxonomic_security = read_csv("./data/taxonomic_security.csv") %>% 
   arrange(desc(n)) %>% 
   mutate_at(vars(taxonomic_subgroup), list(~factor(., levels=unique(.))))
 
+# Get a list of all the taxonomic subgroups
 taxonomic_subgroups = taxonomic_security %>% distinct(taxonomic_subgroup)
 
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
   
-  
-  plotlyOutput(outputId = "stateSecurePlot"),
-  
-  checkboxGroupInput(
-    inputId = "tax_subgroup",
-    label = "Taxonomic SubGroup",
-    choices = taxonomic_subgroups[[1]],
-    selected = taxonomic_subgroups[[1]][1],
-    inline = TRUE
+  splitLayout(
+    
+    plotlyOutput(outputId = "stateSecurePlot"),
+    
+    checkboxGroupInput(
+      inputId = "tax_subgroup",
+      label = "Taxonomic SubGroup",
+      choices = taxonomic_subgroups[[1]],
+      selected = taxonomic_subgroups[[1]][1],
+      inline = FALSE
+    )
+    
   ),
   
   mainPanel(
@@ -41,6 +40,7 @@ ui <- fluidPage(
       for all taxonomic subgroups, even those which are not available for selection here."
       )
   )
+  
 )
 
 server <- function(input, output) {
@@ -58,13 +58,13 @@ server <- function(input, output) {
         legend.position="none"
       ) +
       labs (
-        title = "Not Secure State",
+        title = "Percent of Species not Secure",
         x = "Number of Species of Subgroup",
         y = "% Not Secure of Subgroup"
       )
     
     # Remove ability to pan and zoom
-    ggplotly(plot, height = 400) %>% 
+    ggplotly(plot) %>% 
       config(displayModeBar = FALSE) %>% 
       layout(xaxis=list(fixedrange=TRUE),
              yaxis=list(fixedrange=TRUE))
