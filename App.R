@@ -28,6 +28,18 @@ ui <- fluidPage(
     choices = taxonomic_subgroups[[1]],
     selected = taxonomic_subgroups[[1]][1],
     inline = TRUE
+  ),
+  
+  mainPanel(
+    p("This plot aims to show the correlation between the number of species in a county, 
+      and the percentage of those species that are not secure. Taxonomic subgroups  are 
+      selectable and control which data is plotted. Each point represents a county. The 
+      x-value is the number of species belonging to that taxonomic subgroup that are found 
+      in that county. The y-value is the percentage of species in that taxonomic subgroup 
+      and county that are not secure at a state level. Color corresponds to the taxonomic 
+      subgroup, which is shown on mouseover. The \"All\" selection displays values combined 
+      for all taxonomic subgroups, even those which are not available for selection here."
+      )
   )
 )
 
