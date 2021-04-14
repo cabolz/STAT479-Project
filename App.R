@@ -14,7 +14,8 @@ taxonomic_security = read_csv("./data/taxonomic_security.csv") %>%
   arrange(desc(Num_Species)) %>% 
   mutate_at(vars(Subgroup), list(~factor(., levels=unique(.))))
 
-species_by_subgroup = read_csv("./data/species_by_subgroup.csv")
+species_by_subgroup = read_csv("./data/species_by_subgroup.csv") %>%
+  arrange(desc(n_species))
 
 
 # Plot on top with the inputs on the bottom
@@ -108,11 +109,11 @@ server <- function(input, output) {
   
   output$subgroupPlot <- renderPlotly({
     
-    ggplot(species_by_subgroup, aes(x=n_species, y=taxonomic_subgroup)) +
+    ggplot(species_factored, aes(x=n_species, y=taxonomic_subgroup)) +
       geom_col() +
       xlab("Number of Species") +
       ylab("Taxonomic Subgroup") +
-      theme(axis.ticks.y = element_text(size=7))
+      theme(axis.text.y = element_text(size=7))
   })
 }
 

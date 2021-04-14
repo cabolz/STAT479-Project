@@ -98,8 +98,8 @@ species_by_subgroup <- biodiversity %>%
   summarise(n_species = n())
 
 subgroups_ordered <- species_by_subgroup %>%
-  arrange(desc(n_species))
-species_by_subgroup <- species_by_subgroup %>%
+  arrange(n_species)
+species_factored <- species_by_subgroup %>%
   mutate(taxonomic_subgroup = factor(taxonomic_subgroup, levels = subgroups_ordered$taxonomic_subgroup))
 
 individuals_per_subgroup = biodiversity %>% 
@@ -207,7 +207,7 @@ write_csv(counties_taxonomic, "./data/counties_taxonomic.csv")
 
 write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 
-write_csv(species_by_subgroup, "./data/species_by_subgroup.csv")
+write_csv(species_factored, "./data/species_by_subgroup.csv")
 ```
 
 ```{r}
