@@ -17,8 +17,6 @@ taxonomic_security = read_csv("./data/taxonomic_security.csv") %>%
 species_by_subgroup = read_csv("./data/species_by_subgroup.csv")
 
 
-
-
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
 
@@ -110,7 +108,7 @@ server <- function(input, output) {
   
   output$subgroupPlot <- renderPlotly({
     
-    ggplot(subgroups_factor, aes(x=n_species, y=taxonomic_subgroup)) +
+    ggplot(species_by_subgroup, aes(x=n_species, y=taxonomic_subgroup)) +
       geom_col() +
       xlab("Number of Species") +
       ylab("Taxonomic Subgroup") +
