@@ -6,11 +6,15 @@ library("plotly")
 
 # Load in dataset, ordering by largest taxonomic subgroup
 taxonomic_security = read_csv("./data/taxonomic_security.csv") %>% 
-  arrange(desc(n)) %>% 
-  mutate_at(vars(taxonomic_subgroup), list(~factor(., levels=unique(.))))
+  rename(Num_Species = n,
+         Subgroup = taxonomic_subgroup,
+         County = county,
+         `%Unsecure` = perc_not_secure_state) %>% 
+  arrange(desc(Num_Species)) %>% 
+  mutate_at(vars(Subgroup), list(~factor(., levels=unique(.))))
 
 # Get a list of all the taxonomic subgroups
-taxonomic_subgroups = taxonomic_security %>% distinct(taxonomic_subgroup)
+taxonomic_subgroups = taxonomic_security %>% distinct(Subgroup)
 
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
@@ -49,8 +53,8 @@ server <- function(input, output) {
   output$stateSecurePlot <- renderPlotly({
     
     plot = taxonomic_security %>% 
-      filter(taxonomic_subgroup %in% input$tax_subgroup) %>% 
-      ggplot(aes(x = n, y = perc_not_secure_state, name = county, col = taxonomic_subgroup)) + 
+      filter(Subgroup %in% input$tax_subgroup) %>% 
+      ggplot(aes(x = Num_Species, y = `%Unsecure`, name = County, col = Subgroup)) + 
       geom_jitter(alpha = 0.5, size = 1, width = 0.3, height = 0.3) +
       theme_bw() +
       theme(
