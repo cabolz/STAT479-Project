@@ -14,6 +14,11 @@ taxonomic_security = read_csv("./data/taxonomic_security.csv") %>%
   arrange(desc(Num_Species)) %>% 
   mutate_at(vars(Subgroup), list(~factor(., levels=unique(.))))
 
+species_by_subgroup = read_csv("./data/species_by_subgroup.csv")
+
+
+
+
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
 
@@ -42,7 +47,11 @@ ui <- fluidPage(
       p("The above graph is the same as the previous graph, except that information is plotted
       across all taxonomic subgroups, including those which were previously not available 
       for selection.")
-    )
+    ),
+    
+    HTML("<br><br><br>"), 
+    
+    plotlyOutput(outputId = "subgroupPlot")
     
   
 )
@@ -97,6 +106,15 @@ server <- function(input, output) {
       config(displayModeBar = FALSE) %>% 
       layout(xaxis=list(fixedrange=TRUE),
              yaxis=list(fixedrange=TRUE))
+  })
+  
+  output$subgroupPlot <- renderPlotly({
+    
+    ggplot(subgroups_factor, aes(x=n_species, y=taxonomic_subgroup)) +
+      geom_col() +
+      xlab("Number of Species") +
+      ylab("Taxonomic Subgroup") +
+      theme(axis.ticks.y = element_text(size=7))
   })
 }
 
