@@ -115,11 +115,17 @@ server <- function(input, output) {
   
   output$subgroupPlot <- renderPlotly({
     
-    ggplot(species_by_subgroup, aes(x=n_species, y=taxonomic_subgroup)) +
+    plot = ggplot(species_by_subgroup, aes(x=n_species, y=taxonomic_subgroup)) +
       geom_col() +
       xlab("Number of Species") +
       ylab("Taxonomic Subgroup") +
       theme(axis.text.y = element_text(size=7))
+    
+    # Remove ability to pan and zoom
+    ggplotly(plot, width = 700) %>% 
+      config(displayModeBar = FALSE) %>% 
+      layout(xaxis=list(fixedrange=TRUE),
+             yaxis=list(fixedrange=TRUE))
   })
   
   # Create the scatterplot of number of species vs. percent unsecure state
