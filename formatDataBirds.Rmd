@@ -219,11 +219,11 @@ choropleth = map_data("county") %>%
 
 ```{r message=FALSE, warning=FALSE}
 # write two main datasets to csv files
-write_csv(counties_derived, "./data/counties_derived.csv")
+#write_csv(counties_derived, "./data/counties_derived.csv")
 
-write_csv(biodiversity, "./data/biodiversity_derived.csv")
+#write_csv(biodiversity, "./data/biodiversity_derived.csv")
 
-write_csv(counties_taxonomic, "./data/counties_taxonomic.csv")
+#write_csv(counties_taxonomic, "./data/counties_taxonomic.csv")
 
 write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 
