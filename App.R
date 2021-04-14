@@ -18,6 +18,7 @@ species_by_subgroup = read_csv("./data/species_by_subgroup.csv") %>%
   arrange(desc(n_species)) %>% 
   mutate_at(vars(taxonomic_subgroup), list(~factor(., levels=unique(.))))
 
+choropleth = read_csv("./data/choropleth.csv")
 
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
@@ -48,6 +49,10 @@ ui <- fluidPage(
       across all taxonomic subgroups, including those which were previously not available 
       for selection.")
     ),
+    
+    HTML("<br><br><br>"),
+    
+    plotlyOutput(outputId = "countyChoropleth"),
     
     HTML("<br><br><br>"), 
     
@@ -116,6 +121,28 @@ server <- function(input, output) {
       ylab("Taxonomic Subgroup") +
       theme(axis.text.y = element_text(size=7))
   })
+  
+  # Create the scatterplot of number of species vs. percent unsecure state
+  output$countyChoropleth <- renderPlotly({
+    
+    plot = ggplot(choropleth, aes(long, lat, group = County)) +
+      geom_polygon(aes(fill = Species), colour = alpha("black", 1/2), size = 0.1)  +
+      scale_fill_viridis_c() +
+      theme_void() +
+      theme(panel.grid = element_blank()) +
+      labs (
+        title = "Number of Species by County",
+        fill = "County"
+      )
+    
+    # Remove ability to pan and zoom
+    ggplotly(plot, width = 600) %>% 
+      config(displayModeBar = FALSE) %>% 
+      layout(xaxis=list(fixedrange=TRUE),
+             yaxis=list(fixedrange=TRUE))
+  })
+  
+  
 }
 
 shinyApp(ui = ui, server = server)

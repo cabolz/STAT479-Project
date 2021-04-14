@@ -197,6 +197,19 @@ taxonomic_security = counties_taxonomic %>%
   filter(taxonomic_subgroup %in% wanted_list)
 ```
 
+```{r}
+counties_nspecies = counties_derived %>% 
+  select(county, n_species) %>% 
+  rename(Species = n_species) %>% 
+  mutate(county = tolower(county)) %>% 
+  rename(subregion = county)
+    
+choropleth = map_data("county") %>% 
+  filter(region == "new york") %>% 
+  inner_join(counties_nspecies, by = "subregion") %>% 
+  rename(County = subregion)
+```
+
 ```{r message=FALSE, warning=FALSE}
 # write two main datasets to csv files
 write_csv(counties_derived, "./data/counties_derived.csv")
@@ -208,6 +221,8 @@ write_csv(counties_taxonomic, "./data/counties_taxonomic.csv")
 write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 
 write_csv(species_factored, "./data/species_by_subgroup.csv")
+
+write_csv(choropleth, "./data/choropleth.csv")
 ```
 
 ```{r}
