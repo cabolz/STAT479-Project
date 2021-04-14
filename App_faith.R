@@ -12,6 +12,11 @@ taxonomic_security = read_csv("./data/taxonomic_security.csv") %>%
 
 taxonomic_subgroups = taxonomic_security %>% distinct(taxonomic_subgroup)
 
+subgroups_ordered <- species_by_subgroup %>%
+  arrange(desc(n_species))
+subgroups_factor <- species_by_subgroup %>%
+  mutate(taxonomic_subgroup = factor(taxonomic_subgroup, levels = subgroups_ordered$taxonomic_subgroup))
+
 # Put two plots side-by-side with the inputs on the bottom
 ui <- fluidPage(
   fluidRow(
