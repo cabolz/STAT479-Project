@@ -99,8 +99,11 @@ species_by_subgroup <- biodiversity %>%
 
 subgroups_ordered <- species_by_subgroup %>%
   arrange(n_species)
+
 species_factored <- species_by_subgroup %>%
-  mutate(taxonomic_subgroup = factor(taxonomic_subgroup, levels = subgroups_ordered$taxonomic_subgroup))
+  mutate(taxonomic_subgroup = factor(taxonomic_subgroup, levels = subgroups_ordered$taxonomic_subgroup)) %>% 
+  rename(Species = n_species,
+         Subgroup = taxonomic_subgroup)
 
 individuals_per_subgroup = biodiversity %>% 
   #select(county, taxonomic_subgroup) %>% 
@@ -194,7 +197,11 @@ taxonomic_security = counties_taxonomic %>%
   left_join(taxonomic_security, by = "county") %>% 
   filter(taxonomic_subgroup == subgroup_secure) %>% 
   #pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_not_secure") %>% 
-  filter(taxonomic_subgroup %in% wanted_list)
+  filter(taxonomic_subgroup %in% wanted_list) %>% 
+  rename(Species = n,
+         Subgroup = taxonomic_subgroup,
+         County = county,
+         `%Not Secure` = perc_not_secure_state)
 ```
 
 ```{r}
@@ -223,26 +230,6 @@ write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 write_csv(species_factored, "./data/species_by_subgroup.csv")
 
 write_csv(choropleth, "./data/choropleth.csv")
-```
-
-```{r}
-# I followed this tutorial: https://www.r-bloggers.com/2017/10/county-level-choropleth-in-plotly-and-r/
-
-library("ggplot2")
-
-counties_nspecies = counties_derived %>% 
-  select(county, n_species) %>% 
-  mutate(county = tolower(county)) %>% 
-  rename(subregion = county)
-
-choropleth = map_data("county") %>% 
-  filter(region == "new york") %>% 
-  inner_join(counties_nspecies, by = "subregion")
-
-ggplot(choropleth, aes(long, lat, group = subregion)) +
-  geom_polygon(aes(fill = n_species), colour = alpha("black", 1/2), size = 0.1)  +
-  scale_fill_viridis_c() +
-  theme_void()
 ```
 
 ```{r}
