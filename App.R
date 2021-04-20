@@ -134,30 +134,6 @@ server <- function(input, output) {
              yaxis=list(fixedrange=TRUE))
   })
   
-  # Bar plot of the number of species for each taxonomic subgroup
-  output$subgroupPlot <- renderPlotly({
-    
-    plot = ggplot(species_by_subgroup, aes(x= Species, y = Subgroup, fill = Subgroup)) +
-      geom_col() +
-      labs(
-        x = "Number of Species",
-        y = "Taxonomic Subgroup"
-      ) +
-      theme_minimal() +
-      theme(
-        axis.text.y = element_text(size=7),
-        panel.grid.major.y = element_blank(),
-        legend.position="none"
-      ) +
-      scale_x_continuous(breaks = seq(from = 0, to = 35, by = 5))
-    
-    # Remove ability to pan and zoom, set plot dimensions
-    ggplotly(plot, width = 700, tooltip = c("x", "y")) %>% 
-      config(displayModeBar = FALSE) %>% 
-      layout(xaxis=list(fixedrange=TRUE),
-             yaxis=list(fixedrange=TRUE))
-  })
-  
   # Choropleth map of NY counties, filling by the number of species
   output$countyChoropleth <- renderPlotly({
     
@@ -184,6 +160,30 @@ server <- function(input, output) {
              yaxis=list(fixedrange=TRUE))
   })
   
+  # Bar plot of the number of species for each taxonomic subgroup
+  output$subgroupPlot <- renderPlotly({
+    
+    plot = ggplot(species_by_subgroup, aes(x= Species, y = Subgroup, fill = Subgroup)) +
+      geom_col() +
+      labs(
+        x = "Number of Species",
+        y = "Taxonomic Subgroup",
+        title = "Number of Species in each Subgroup"
+      ) +
+      theme_minimal() +
+      theme(
+        axis.text.y = element_text(size=7),
+        panel.grid.major.y = element_blank(),
+        legend.position="none"
+      ) +
+      scale_x_continuous(breaks = seq(from = 0, to = 35, by = 5))
+    
+    # Remove ability to pan and zoom, set plot dimensions
+    ggplotly(plot, width = 700, tooltip = c("x", "y")) %>% 
+      config(displayModeBar = FALSE) %>% 
+      layout(xaxis=list(fixedrange=TRUE),
+             yaxis=list(fixedrange=TRUE))
+  })
   
 }
 
