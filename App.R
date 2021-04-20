@@ -18,7 +18,14 @@ choropleth = read_csv("./data/choropleth.csv")
 
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
+  
+    mainPanel(
+      p("Introduction"
+        )
+    ),
 
+    HTML("<br><br><br>"),
+    
     plotlyOutput(outputId = "stateSecurePlot"),
     
     HTML("<br><br><br>"),
@@ -52,7 +59,21 @@ ui <- fluidPage(
     
     HTML("<br><br><br>"), 
     
-    plotlyOutput(outputId = "subgroupPlot")
+    mainPanel(
+      p("Graph Description"
+      )
+    ),
+    
+    HTML("<br><br><br>"),
+    
+    plotlyOutput(outputId = "subgroupPlot"),
+    
+    mainPanel(
+      p("Graph Description"
+      )
+    ),
+    
+    HTML("<br><br><br>"),
   
 )
 
