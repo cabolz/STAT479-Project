@@ -97,8 +97,9 @@ ui <- fluidPage(
         there tends to be fewer breeding bird species, but northern counties tend to have 
         more breeding bird species. This could be due to some of the Northern counties 
         simply having more area, or it could be something to do with the weather and 
-        climate of upstate New York. 
-")
+        climate of upstate New York."),
+  
+  HTML("<br>")
   
 )
 
