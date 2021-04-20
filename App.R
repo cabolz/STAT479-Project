@@ -18,11 +18,14 @@ choropleth = read_csv("./data/choropleth.csv")
 
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
-  titlePanel("Group 11"),
   
-  mainPanel("Caitlin Bolz, Faith Kulzer, Sam Peters, Steven Xia"),
+  h1("Group 11"),
   
-  HTML("<br><br>"),
+  h3("Caitlin Bolz, Faith Kulzer, Sam Peters, Steven Xia"),
+  
+  HTML("<br>"),
+  
+  h3("Introduction"),
   
   mainPanel("Birds are a critical part of many ecosystems. They play an active role in pest 
         control, pollination, and seed dispersion that is vital to keeping the balance of 
@@ -36,6 +39,8 @@ ui <- fluidPage(
 
   HTML("<br><br><br><br><br><br><br><br><br>"),
     
+  h3("Visualizations"),
+  
   plotlyOutput(outputId = "stateSecurePlot"),
   
   HTML("<br><br><br>"),
@@ -78,7 +83,11 @@ ui <- fluidPage(
         number of species present in New York on the x-axis. The user can hover over a 
         taxonomic subgroup to show more specifically the number of species in that group."),
     
-  HTML("<br><br><br>")
+  HTML("<br><br><br><br>"),
+  
+  h3("Conclusion"),
+  
+  mainPanel("Conclusion text here")
   
 )
 
