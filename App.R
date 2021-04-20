@@ -35,9 +35,23 @@ ui <- fluidPage(
           This project focuses on species diversity and conservation status of birds in New York, 
           and how these factors vary across the landscape. Our data was taken from the 2nd 
           New York State Breeding Bird Atlas which can be found <a href=\"https://data.ny.gov/Energy-Environment/Biodiversity-of-Birds-Distribution-by-County/4asw-6tmc\">here</a>. 
-          The code and resulting processed datasets can be found <a href=\"https://github.com/cabolz/STAT479-Project\">here</a>. 
           Volunteer birders recorded instances of different species of birds breeding in each county 
           in New York from 2000 to 2005.<p>")
+  ),
+  
+  HTML("<br><br><br><br><br><br><br>"),
+  
+  h3("Data Processing"),
+  
+  HTML("<br>"),
+  
+  mainPanel(
+    HTML("<p>Each species of animal is assigned a conservation status rank, which is described 
+    in detail <a href=\"https://guides.nynhp.org/definitions/\">here</a>. We condensed the 8+ variables into a binary variable of secure or not secure. 
+    Essentially, rankings of 4 and 5 classified as secure, while rankings of 1, 2, and 3 classified 
+    as not secure. Some species had a range of rankings. For these species, we used the higher numbered, 
+    more-secure ranking. We then used this binary variable to calculate the percentage of species that 
+    are not secure by county and by taxonomic subgroup. The code and resulting processed datasets can be found <a href=\"https://github.com/cabolz/STAT479-Project\">here</a>.<p>")
   ),
   
   HTML("<br><br><br><br><br><br><br><br><br>"),
