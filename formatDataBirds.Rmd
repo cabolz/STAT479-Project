@@ -1,7 +1,6 @@
 ---
 title: "Milestone 2"
 author: "Caitlin Bolz, Faith Kulzer, Samuel Peters, and Steven Xia"
-date: "3/7/2021"
 output: html_document
 ---
 
@@ -218,56 +217,11 @@ choropleth = map_data("county") %>%
 ```
 
 ```{r message=FALSE, warning=FALSE}
-# write two main datasets to csv files
-#write_csv(counties_derived, "./data/counties_derived.csv")
-
-#write_csv(biodiversity, "./data/biodiversity_derived.csv")
-
-#write_csv(counties_taxonomic, "./data/counties_taxonomic.csv")
+# write three main datasets to csv files
 
 write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 
 write_csv(species_factored, "./data/species_by_subgroup.csv")
 
 write_csv(choropleth, "./data/choropleth.csv")
-```
-
-```{r}
-ggplot(counties_derived, aes(x = human_pop_county, y = perc_not_secure_state)) + 
-    scale_x_log10() +
-    #geom_jitter(color = "#00BFC4", alpha = 0.6, size = 1, width = 0.3) +
-    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
-    theme_minimal() +
-    theme(legend.position = "none")
-
-ggplot(counties_derived, aes(x = human_pop_county, y = n_species)) + 
-    scale_x_log10() +
-    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
-    theme_minimal() +
-    theme(legend.position = "none")
-
-ggplot(counties_derived, aes(x = density, y = n_species)) + 
-    scale_x_log10() +
-    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
-    theme_minimal() +
-    theme(legend.position = "none")
-
-ggplot(counties_derived, aes(x = total_area, y = n_species)) + 
-    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
-    theme_minimal() +
-    theme(legend.position = "none")
-
-ggplot(counties_derived, aes(x = n_species, y = perc_not_secure_state)) + 
-    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
-    theme_minimal() +
-    theme(legend.position = "none")
-```
-
-```{r}
-counties_nameless = counties_derived %>% 
-  select(-county)
-
-# Note that density = human_pop_county / total_area
-model = lm(perc_not_secure_state ~ ., data = counties_nameless)
-summary(model)
 ```
