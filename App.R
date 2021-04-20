@@ -63,7 +63,7 @@ ui <- fluidPage(
   HTML("<br><br><br>"),
   
   mainPanel("This plot aims to show the correlation between the number of species in a county, 
-        and the percentage of those species that are not secure Taxonomic subgroups are 
+        and the percentage of those species that are not secure. Taxonomic subgroups are 
         selectable (by clicking on its legend entry) and control which data is plotted. Each 
         point represents a county. The x-value is the number of species belonging to that 
         taxonomic subgroup that are found in that county. The y-value is the percentage of 
@@ -81,15 +81,22 @@ ui <- fluidPage(
         plotted across all taxonomic subgroups, including those which were previously not 
         available for selection."),
     
-  HTML("<br><br><br>"),
+  HTML("<br><br><br><br><br><br><br>"),
     
   plotlyOutput(outputId = "countyChoropleth"),
     
-  HTML("<br><br><br>"), 
+  HTML("<br>"), 
     
-  mainPanel("Graph Description"),
+  mainPanel("This map provides comparisons between the total number of 
+        species for each county in New York. As we can see above, the number of species
+        in each county has been encoded in color, with more biodiverse counties displaying
+        a lighter shade and less biodiverse counties displaying a darker shade. A notable 
+        characteristic of this figure is that the least biodiverse region of New York State
+        appears to be at the furthest southern tip of New York State, right where New York City 
+        is located. Contrarily, the most biodiverse region of New York appears to be
+        located near the northern border of the state."),
     
-  HTML("<br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br>"),
     
   plotlyOutput(outputId = "subgroupPlot"),
   
@@ -189,7 +196,7 @@ server <- function(input, output) {
         axis.title.x = element_blank(),
         axis.title.y = element_blank()
       ) +
-      scale_fill_viridis_c(limits = c(50, 200))
+      scale_fill_viridis_c(option = "magma", limits = c(50, 200))
     
     # Remove ability to pan and zoom, set plot dimensions
     ggplotly(plot, width = 700) %>% 
