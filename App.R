@@ -87,7 +87,18 @@ ui <- fluidPage(
   
   h3("Conclusion"),
   
-  mainPanel("Conclusion text here")
+  mainPanel("We can see that there is a loose trend between the number of bird species per 
+        county and the percent that are not secure, with more diverse counties having more 
+        endangered or threatened species. We also saw that subgroups like wood-warblers 
+        tend to be more diverse but have a fairly low level of insecurity, while groups 
+        like the ducks, geese, and waterfowl are less diverse but have a higher level of 
+        insecurity. Another unexpected observation is that there is some trend, albeit 
+        small, in species diversity in correlation with latitude. In southern counties, 
+        there tends to be fewer breeding bird species, but northern counties tend to have 
+        more breeding bird species. This could be due to some of the Northern counties 
+        simply having more area, or it could be something to do with the weather and 
+        climate of upstate New York. 
+")
   
 )
 
