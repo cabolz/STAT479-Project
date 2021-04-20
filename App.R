@@ -20,11 +20,20 @@ choropleth = read_csv("./data/choropleth.csv")
 ui <- fluidPage(
   
     mainPanel(
-      p("Introduction"
+      p("Introduction:
+        Birds are a critical part of many ecosystems. They play an active role in pest 
+        control, pollination, and seed dispersion that is vital to keeping the balance of 
+        nature. However, many species of birds are in decline and in danger of extinction 
+        due to many threats, especially destruction and fragmentation of their natural habitat. 
+        This project focuses on species diversity and conservation status of birds in New York, 
+        and how these factors vary across the landscape.
+        Our data was taken from the 2nd New York State Breeding Bird Atlas which can be 
+        found at this link. Volunteer birders recorded instances of different species of 
+        birds breeding in each county in New York from 2000 to 2005."
         )
     ),
 
-    HTML("<br><br><br>"),
+    HTML("<br><br><br><br><br><br><br><br>"),
     
     plotlyOutput(outputId = "stateSecurePlot"),
     
