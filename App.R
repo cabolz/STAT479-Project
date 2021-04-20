@@ -69,7 +69,10 @@ ui <- fluidPage(
     plotlyOutput(outputId = "subgroupPlot"),
     
     mainPanel(
-      p("Graph Description"
+      p("This graph provides information on the number of species found in New York for 
+        each taxonomic subgroup. The bars show the subgroup along the y-axis and the 
+        number of species present in New York on the x-axis. The user can hover over a 
+        taxonomic subgroup to show more specifically the number of species in that group."
       )
     ),
     
