@@ -64,11 +64,11 @@ ui <- fluidPage(
   
   mainPanel("This plot aims to show the correlation between the number of species in a county, 
         and the percentage of those species that are not secure Taxonomic subgroups are 
-        selectable and control which data is plotted. Each point represents a county. The 
-        x-value is the number of species belonging to that taxonomic subgroup that are found 
-        in that county. The y-value is the percentage of species in that taxonomic subgroup 
-        and county that are not secure at a state level. Color corresponds to the taxonomic 
-        subgroup, which is shown on mouseover."),
+        selectable (by clicking on its legend entry) and control which data is plotted. Each 
+        point represents a county. The x-value is the number of species belonging to that 
+        taxonomic subgroup that are found in that county. The y-value is the percentage of 
+        species in that taxonomic subgroup and county that are not secure at a state level. 
+        Color corresponds to the taxonomic subgroup, which is shown on mouseover."),
     
     
   HTML("<br><br><br><br><br><br><br><br><br>"),
@@ -98,7 +98,7 @@ ui <- fluidPage(
   mainPanel("This graph provides information on the number of species found in New York for 
         each taxonomic subgroup. The bars show the subgroup along the y-axis and the 
         number of species present in New York on the x-axis. The user can hover over a 
-        taxonomic subgroup to show more specifically the number of species in that group."),
+        taxonomic subgroup to show the exact number of species in that group."),
     
   HTML("<br><br><br><br>"),
   
