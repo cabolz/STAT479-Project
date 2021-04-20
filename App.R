@@ -19,9 +19,9 @@ choropleth = read_csv("./data/choropleth.csv")
 # Plot on top with the inputs on the bottom
 ui <- fluidPage(
   
-  h1("Group 11"),
+  h1("Biodiversity of Birds"),
   
-  h3("Caitlin Bolz, Faith Kulzer, Sam Peters, Steven Xia"),
+  h4("Group 11: Caitlin Bolz, Faith Kulzer, Sam Peters, Steven Xia"),
   
   HTML("<br>"),
   
