@@ -129,7 +129,7 @@ ui <- fluidPage(
         county and the percent that are not secure, with more diverse counties generally 
         containing more insecure species as well. However, we also saw that subgroups 
         like wood-warblers tend to be more diverse but have a fairly low level of insecurity, 
-        while groups like the ducks, geese, and waterfowl are less diverse but have a higher
+        while groups like ducks, geese, and waterfowl are less diverse but have a higher
         level of insecurity. Another unexpected observation is that there appears to exist 
         a trend in species diversity correlating with latitude. In southern counties, 
         there tends to be fewer breeding bird species, but northern counties tend to have 
