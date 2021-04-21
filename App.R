@@ -45,11 +45,9 @@ ui <- fluidPage(
           in New York from 2000 to 2005.<p>")
   ),
   
-  HTML("<br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br>"),
   
   h3("Data Processing"),
-  
-  HTML("<br>"),
   
   mainPanel(
     HTML("<p>Each species of animal is assigned a conservation status rank, which is described 
@@ -64,6 +62,35 @@ ui <- fluidPage(
     
   h3("Visualizations"),
   
+  HTML("<br>"),
+    
+  plotlyOutput(outputId = "subgroupPlot"),
+  
+  HTML("<br>"),
+    
+  mainPanel("This graph provides information on the number of species found in New York for 
+        each taxonomic subgroup. The bars show the subgroup along the y-axis and the 
+        number of species present in New York on the x-axis. The user can hover over a 
+        taxonomic subgroup to show the exact number of species in that group."),
+    
+  HTML("<br><br><br><br><br>"),
+  
+  plotlyOutput(outputId = "countyChoropleth"),
+  
+  HTML("<br><br><br>"),
+  
+  mainPanel("This map provides comparisons between the total number of 
+        species for each county in New York. As we can see above, the number of species
+        in each county has been encoded in color, with more biodiverse counties displaying
+        a lighter shade and less biodiverse counties displaying a darker shade. A notable 
+        characteristic of this figure is that the least biodiverse region of New York State
+        appears to be at the furthest southern tip of New York State, right where New York City 
+        is located. Contrarily, the most biodiverse region of New York appears to be
+        located near the northern border of the state."),
+  
+  
+  HTML("<br><br><br><br><br>"),
+  
   plotlyOutput(outputId = "stateSecurePlot"),
   
   HTML("<br><br><br>"),
@@ -75,45 +102,19 @@ ui <- fluidPage(
         taxonomic subgroup that are found in that county. The y-value is the percentage of 
         species in that taxonomic subgroup and county that are not secure at a state level. 
         Color corresponds to the taxonomic subgroup, which is shown on mouseover."),
-    
-    
+  
+  
   HTML("<br><br><br><br><br><br><br><br><br>"),
   
   plotlyOutput(outputId = "allSecurePlot"),
-    
+  
   HTML("<br>"),
-    
+  
   mainPanel("The above graph is the same as the previous graph, except that information is 
         plotted across all taxonomic subgroups, including those which were previously not 
         available for selection."),
-    
-  HTML("<br><br><br><br><br><br><br>"),
-    
-  plotlyOutput(outputId = "countyChoropleth"),
-    
-  HTML("<br>"), 
-    
-  mainPanel("This map provides comparisons between the total number of 
-        species for each county in New York. As we can see above, the number of species
-        in each county has been encoded in color, with more biodiverse counties displaying
-        a lighter shade and less biodiverse counties displaying a darker shade. A notable 
-        characteristic of this figure is that the least biodiverse region of New York State
-        appears to be at the furthest southern tip of New York State, right where New York City 
-        is located. Contrarily, the most biodiverse region of New York appears to be
-        located near the northern border of the state."),
-    
-  HTML("<br><br><br><br><br><br><br><br><br>"),
-    
-  plotlyOutput(outputId = "subgroupPlot"),
   
-  HTML("<br>"),
-    
-  mainPanel("This graph provides information on the number of species found in New York for 
-        each taxonomic subgroup. The bars show the subgroup along the y-axis and the 
-        number of species present in New York on the x-axis. The user can hover over a 
-        taxonomic subgroup to show the exact number of species in that group."),
-    
-  HTML("<br><br><br><br>"),
+  HTML("<br><br><br>"),
   
   h3("Conclusion"),
   
@@ -128,8 +129,6 @@ ui <- fluidPage(
         more breeding bird species. This could be due to some of the Northern counties 
         simply having more area, or it could be something to do with the weather and 
         climate of upstate New York."),
-  
-  HTML("<br>")
   
 )
 
