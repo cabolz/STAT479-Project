@@ -84,7 +84,7 @@ ui <- fluidPage(
   
   plotlyOutput(outputId = "countyChoropleth"),
   
-  HTML("<br><br><br>"),
+  HTML("<br>"),
   
   mainPanel("This map provides comparisons between the total number of 
         species for each county in New York. As we can see above, the number of species
@@ -96,11 +96,11 @@ ui <- fluidPage(
         located near the northern border of the state."),
   
   
-  HTML("<br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br>"),
   
   plotlyOutput(outputId = "stateSecurePlot"),
   
-  HTML("<br><br><br>"),
+  HTML("<br><br><br><br><br>"),
   
   mainPanel("This plot aims to show the correlation between the number of species in a county, 
         and the percentage of those species that are not secure. Taxonomic subgroups are 
