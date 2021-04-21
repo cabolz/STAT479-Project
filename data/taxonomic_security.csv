@@ -1,7 +1,7 @@
 County,Subgroup,Species,subgroup_secure,%Not Secure
-Albany,All,159,All,17.218543046357617
+Albany,All,159,All,17.2
 Albany,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Albany,"Ducks, Geese, Waterfowl",7,"Ducks, Geese, Waterfowl",33.33333333333333
+Albany,"Ducks, Geese, Waterfowl",7,"Ducks, Geese, Waterfowl",33.3
 Albany,Finches and Crossbills,6,Finches and Crossbills,40
 Albany,Flycatchers,7,Flycatchers,0
 Albany,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
@@ -9,12 +9,12 @@ Albany,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",
 Albany,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Albany,Owls,6,Owls,50
 Albany,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Albany,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Albany,Wood-Warblers,25,Wood-Warblers,13.043478260869565
-Albany,Woodpeckers,7,Woodpeckers,14.285714285714285
-Allegany,All,157,All,15.333333333333332
+Albany,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Albany,Wood-Warblers,25,Wood-Warblers,13
+Albany,Woodpeckers,7,Woodpeckers,14.3
+Allegany,All,157,All,15.3
 Allegany,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Allegany,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",28.57142857142857
+Allegany,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",28.6
 Allegany,Finches and Crossbills,6,Finches and Crossbills,40
 Allegany,Flycatchers,8,Flycatchers,12.5
 Allegany,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
@@ -22,36 +22,36 @@ Allegany,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures
 Allegany,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Allegany,Owls,6,Owls,50
 Allegany,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Allegany,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Allegany,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Allegany,Wood-Warblers,25,Wood-Warblers,12.5
-Allegany,Woodpeckers,7,Woodpeckers,14.285714285714285
-Bronx,All,98,All,20.87912087912088
+Allegany,Woodpeckers,7,Woodpeckers,14.3
+Bronx,All,98,All,20.9
 Bronx,Blackbirds and Orioles,5,Blackbirds and Orioles,0
 Bronx,"Ducks, Geese, Waterfowl",6,"Ducks, Geese, Waterfowl",40
 Bronx,Finches and Crossbills,2,Finches and Crossbills,0
 Bronx,Flycatchers,5,Flycatchers,0
-Bronx,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.57142857142857
+Bronx,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.6
 Bronx,"Hawks, Falcons, Eagles, Vultures",5,"Hawks, Falcons, Eagles, Vultures",40
 Bronx,"Herons, Bitterns, Egrets, Pelicans",8,"Herons, Bitterns, Egrets, Pelicans",75
-Bronx,Owls,3,Owls,33.33333333333333
+Bronx,Owls,3,Owls,33.3
 Bronx,"Rails, Coots and Cranes",2,"Rails, Coots and Cranes",50
-Bronx,Sparrows and Towhees,7,Sparrows and Towhees,28.57142857142857
-Bronx,Wood-Warblers,7,Wood-Warblers,14.285714285714285
+Bronx,Sparrows and Towhees,7,Sparrows and Towhees,28.6
+Bronx,Wood-Warblers,7,Wood-Warblers,14.3
 Bronx,Woodpeckers,4,Woodpeckers,0
-Broome,All,159,All,14.093959731543624
+Broome,All,159,All,14.1
 Broome,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Broome,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.666666666666664
+Broome,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.7
 Broome,Finches and Crossbills,4,Finches and Crossbills,0
 Broome,Flycatchers,8,Flycatchers,12.5
 Broome,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",25
-Broome,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Broome,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Broome,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Broome,Owls,4,Owls,25
 Broome,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Broome,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Broome,Wood-Warblers,28,Wood-Warblers,15.384615384615385
-Broome,Woodpeckers,7,Woodpeckers,14.285714285714285
-Cattaraugus,All,158,All,14.000000000000002
+Broome,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Broome,Wood-Warblers,28,Wood-Warblers,15.4
+Broome,Woodpeckers,7,Woodpeckers,14.3
+Cattaraugus,All,158,All,14
 Cattaraugus,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Cattaraugus,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",37.5
 Cattaraugus,Finches and Crossbills,4,Finches and Crossbills,0
@@ -61,248 +61,248 @@ Cattaraugus,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultu
 Cattaraugus,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Cattaraugus,Owls,4,Owls,25
 Cattaraugus,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Cattaraugus,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Cattaraugus,Wood-Warblers,30,Wood-Warblers,18.51851851851852
-Cattaraugus,Woodpeckers,7,Woodpeckers,14.285714285714285
-Cayuga,All,174,All,21.686746987951807
+Cattaraugus,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Cattaraugus,Wood-Warblers,30,Wood-Warblers,18.5
+Cattaraugus,Woodpeckers,7,Woodpeckers,14.3
+Cayuga,All,174,All,21.7
 Cayuga,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Cayuga,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",54.54545454545454
-Cayuga,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
+Cayuga,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",54.5
+Cayuga,Finches and Crossbills,7,Finches and Crossbills,33.3
 Cayuga,Flycatchers,8,Flycatchers,12.5
-Cayuga,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.33333333333333
+Cayuga,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.3
 Cayuga,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
 Cayuga,"Herons, Bitterns, Egrets, Pelicans",6,"Herons, Bitterns, Egrets, Pelicans",50
-Cayuga,Owls,7,Owls,57.14285714285714
+Cayuga,Owls,7,Owls,57.1
 Cayuga,"Rails, Coots and Cranes",6,"Rails, Coots and Cranes",50
-Cayuga,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Cayuga,Wood-Warblers,27,Wood-Warblers,15.384615384615385
-Cayuga,Woodpeckers,7,Woodpeckers,14.285714285714285
-Chautauqua,All,165,All,14.838709677419354
+Cayuga,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Cayuga,Wood-Warblers,27,Wood-Warblers,15.4
+Cayuga,Woodpeckers,7,Woodpeckers,14.3
+Chautauqua,All,165,All,14.8
 Chautauqua,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Chautauqua,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.44444444444444
+Chautauqua,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.4
 Chautauqua,Finches and Crossbills,5,Finches and Crossbills,0
 Chautauqua,Flycatchers,9,Flycatchers,12.5
 Chautauqua,"Gulls, Terns, Plovers, Shorebirds",8,"Gulls, Terns, Plovers, Shorebirds",25
-Chautauqua,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Chautauqua,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Chautauqua,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Chautauqua,Owls,5,Owls,40
 Chautauqua,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Chautauqua,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Chautauqua,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Chautauqua,Wood-Warblers,25,Wood-Warblers,12.5
-Chautauqua,Woodpeckers,7,Woodpeckers,14.285714285714285
-Chemung,All,159,All,16.33986928104575
+Chautauqua,Woodpeckers,7,Woodpeckers,14.3
+Chemung,All,159,All,16.3
 Chemung,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Chemung,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",50
 Chemung,Finches and Crossbills,4,Finches and Crossbills,0
 Chemung,Flycatchers,8,Flycatchers,12.5
-Chemung,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",14.285714285714285
+Chemung,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",14.3
 Chemung,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
 Chemung,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
-Chemung,Owls,7,Owls,57.14285714285714
+Chemung,Owls,7,Owls,57.1
 Chemung,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Chemung,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Chemung,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Chemung,Wood-Warblers,24,Wood-Warblers,12.5
-Chemung,Woodpeckers,7,Woodpeckers,14.285714285714285
-Chenango,All,157,All,15.333333333333332
+Chemung,Woodpeckers,7,Woodpeckers,14.3
+Chenango,All,157,All,15.3
 Chenango,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Chenango,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.57142857142857
-Chenango,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
+Chenango,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.6
+Chenango,Finches and Crossbills,7,Finches and Crossbills,33.3
 Chenango,Flycatchers,8,Flycatchers,12.5
 Chenango,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",0
-Chenango,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Chenango,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Chenango,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Chenango,Owls,4,Owls,25
 Chenango,"Rails, Coots and Cranes",2,"Rails, Coots and Cranes",0
-Chenango,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Chenango,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Chenango,Wood-Warblers,25,Wood-Warblers,16
-Chenango,Woodpeckers,7,Woodpeckers,14.285714285714285
-Clinton,All,185,All,27.11864406779661
+Chenango,Woodpeckers,7,Woodpeckers,14.3
+Clinton,All,185,All,27.1
 Clinton,Blackbirds and Orioles,8,Blackbirds and Orioles,12.5
-Clinton,"Ducks, Geese, Waterfowl",15,"Ducks, Geese, Waterfowl",64.28571428571429
-Clinton,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-Clinton,Flycatchers,9,Flycatchers,22.22222222222222
+Clinton,"Ducks, Geese, Waterfowl",15,"Ducks, Geese, Waterfowl",64.3
+Clinton,Finches and Crossbills,7,Finches and Crossbills,33.3
+Clinton,Flycatchers,9,Flycatchers,22.2
 Clinton,"Gulls, Terns, Plovers, Shorebirds",10,"Gulls, Terns, Plovers, Shorebirds",40
-Clinton,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
-Clinton,"Herons, Bitterns, Egrets, Pelicans",7,"Herons, Bitterns, Egrets, Pelicans",57.14285714285714
+Clinton,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
+Clinton,"Herons, Bitterns, Egrets, Pelicans",7,"Herons, Bitterns, Egrets, Pelicans",57.1
 Clinton,Owls,6,Owls,50
 Clinton,"Rails, Coots and Cranes",5,"Rails, Coots and Cranes",40
-Clinton,Sparrows and Towhees,12,Sparrows and Towhees,18.181818181818183
-Clinton,Wood-Warblers,23,Wood-Warblers,17.391304347826086
+Clinton,Sparrows and Towhees,12,Sparrows and Towhees,18.2
+Clinton,Wood-Warblers,23,Wood-Warblers,17.4
 Clinton,Woodpeckers,8,Woodpeckers,25
-Columbia,All,153,All,13.194444444444445
+Columbia,All,153,All,13.2
 Columbia,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Columbia,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.57142857142857
+Columbia,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.6
 Columbia,Finches and Crossbills,3,Finches and Crossbills,0
 Columbia,Flycatchers,7,Flycatchers,0
 Columbia,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
-Columbia,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Columbia,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Columbia,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Columbia,Owls,4,Owls,25
 Columbia,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
 Columbia,Sparrows and Towhees,10,Sparrows and Towhees,20
-Columbia,Wood-Warblers,24,Wood-Warblers,9.090909090909092
-Columbia,Woodpeckers,7,Woodpeckers,14.285714285714285
-Cortland,All,151,All,12.413793103448276
+Columbia,Wood-Warblers,24,Wood-Warblers,9.1
+Columbia,Woodpeckers,7,Woodpeckers,14.3
+Cortland,All,151,All,12.4
 Cortland,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Cortland,"Ducks, Geese, Waterfowl",6,"Ducks, Geese, Waterfowl",16.666666666666664
+Cortland,"Ducks, Geese, Waterfowl",6,"Ducks, Geese, Waterfowl",16.7
 Cortland,Finches and Crossbills,6,Finches and Crossbills,20
 Cortland,Flycatchers,7,Flycatchers,0
 Cortland,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
 Cortland,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
 Cortland,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Cortland,Owls,5,Owls,40
-Cortland,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
-Cortland,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Cortland,Wood-Warblers,25,Wood-Warblers,8.333333333333332
-Cortland,Woodpeckers,7,Woodpeckers,14.285714285714285
-Delaware,All,157,All,15.436241610738255
+Cortland,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
+Cortland,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Cortland,Wood-Warblers,25,Wood-Warblers,8.3
+Cortland,Woodpeckers,7,Woodpeckers,14.3
+Delaware,All,157,All,15.4
 Delaware,Blackbirds and Orioles,6,Blackbirds and Orioles,0
-Delaware,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.57142857142857
+Delaware,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.6
 Delaware,Finches and Crossbills,6,Finches and Crossbills,20
 Delaware,Flycatchers,8,Flycatchers,12.5
 Delaware,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",0
-Delaware,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Delaware,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Delaware,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",0
 Delaware,Owls,6,Owls,50
 Delaware,"Rails, Coots and Cranes",1,"Rails, Coots and Cranes",0
-Delaware,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Delaware,Wood-Warblers,27,Wood-Warblers,15.384615384615385
-Delaware,Woodpeckers,7,Woodpeckers,14.285714285714285
-Dutchess,All,161,All,15.789473684210526
+Delaware,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Delaware,Wood-Warblers,27,Wood-Warblers,15.4
+Delaware,Woodpeckers,7,Woodpeckers,14.3
+Dutchess,All,161,All,15.8
 Dutchess,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Dutchess,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.666666666666664
+Dutchess,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.7
 Dutchess,Finches and Crossbills,4,Finches and Crossbills,0
 Dutchess,Flycatchers,8,Flycatchers,12.5
 Dutchess,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
-Dutchess,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.714285714285715
+Dutchess,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.7
 Dutchess,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Dutchess,Owls,5,Owls,40
-Dutchess,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
+Dutchess,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
 Dutchess,Sparrows and Towhees,10,Sparrows and Towhees,20
 Dutchess,Wood-Warblers,27,Wood-Warblers,12
-Dutchess,Woodpeckers,7,Woodpeckers,14.285714285714285
-Erie,All,171,All,21.604938271604937
+Dutchess,Woodpeckers,7,Woodpeckers,14.3
+Erie,All,171,All,21.6
 Erie,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Erie,"Ducks, Geese, Waterfowl",14,"Ducks, Geese, Waterfowl",58.333333333333336
+Erie,"Ducks, Geese, Waterfowl",14,"Ducks, Geese, Waterfowl",58.3
 Erie,Finches and Crossbills,4,Finches and Crossbills,0
 Erie,Flycatchers,8,Flycatchers,12.5
-Erie,"Gulls, Terns, Plovers, Shorebirds",9,"Gulls, Terns, Plovers, Shorebirds",33.33333333333333
-Erie,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Erie,"Gulls, Terns, Plovers, Shorebirds",9,"Gulls, Terns, Plovers, Shorebirds",33.3
+Erie,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Erie,"Herons, Bitterns, Egrets, Pelicans",6,"Herons, Bitterns, Egrets, Pelicans",50
-Erie,Owls,7,Owls,57.14285714285714
+Erie,Owls,7,Owls,57.1
 Erie,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
 Erie,Sparrows and Towhees,10,Sparrows and Towhees,30
 Erie,Wood-Warblers,27,Wood-Warblers,16
-Erie,Woodpeckers,7,Woodpeckers,14.285714285714285
-Essex,All,190,All,27.86885245901639
+Erie,Woodpeckers,7,Woodpeckers,14.3
+Essex,All,190,All,27.9
 Essex,Blackbirds and Orioles,8,Blackbirds and Orioles,12.5
-Essex,"Ducks, Geese, Waterfowl",15,"Ducks, Geese, Waterfowl",64.28571428571429
-Essex,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-Essex,Flycatchers,9,Flycatchers,22.22222222222222
+Essex,"Ducks, Geese, Waterfowl",15,"Ducks, Geese, Waterfowl",64.3
+Essex,Finches and Crossbills,7,Finches and Crossbills,33.3
+Essex,Flycatchers,9,Flycatchers,22.2
 Essex,"Gulls, Terns, Plovers, Shorebirds",10,"Gulls, Terns, Plovers, Shorebirds",30
-Essex,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.714285714285715
-Essex,"Herons, Bitterns, Egrets, Pelicans",7,"Herons, Bitterns, Egrets, Pelicans",57.14285714285714
-Essex,Owls,7,Owls,57.14285714285714
+Essex,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.7
+Essex,"Herons, Bitterns, Egrets, Pelicans",7,"Herons, Bitterns, Egrets, Pelicans",57.1
+Essex,Owls,7,Owls,57.1
 Essex,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
 Essex,Sparrows and Towhees,10,Sparrows and Towhees,10
 Essex,Wood-Warblers,26,Wood-Warblers,20
-Essex,Woodpeckers,9,Woodpeckers,33.33333333333333
-Franklin,All,178,All,27.976190476190478
-Franklin,Blackbirds and Orioles,7,Blackbirds and Orioles,14.285714285714285
-Franklin,"Ducks, Geese, Waterfowl",14,"Ducks, Geese, Waterfowl",61.53846153846154
-Franklin,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-Franklin,Flycatchers,9,Flycatchers,22.22222222222222
-Franklin,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.57142857142857
-Franklin,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.714285714285715
+Essex,Woodpeckers,9,Woodpeckers,33.3
+Franklin,All,178,All,28
+Franklin,Blackbirds and Orioles,7,Blackbirds and Orioles,14.3
+Franklin,"Ducks, Geese, Waterfowl",14,"Ducks, Geese, Waterfowl",61.5
+Franklin,Finches and Crossbills,7,Finches and Crossbills,33.3
+Franklin,Flycatchers,9,Flycatchers,22.2
+Franklin,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.6
+Franklin,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.7
 Franklin,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Franklin,Owls,5,Owls,40
-Franklin,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
-Franklin,Sparrows and Towhees,11,Sparrows and Towhees,18.181818181818183
+Franklin,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
+Franklin,Sparrows and Towhees,11,Sparrows and Towhees,18.2
 Franklin,Wood-Warblers,27,Wood-Warblers,25
 Franklin,Woodpeckers,8,Woodpeckers,37.5
-Fulton,All,158,All,13.245033112582782
+Fulton,All,158,All,13.2
 Fulton,Blackbirds and Orioles,6,Blackbirds and Orioles,0
-Fulton,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.57142857142857
+Fulton,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.6
 Fulton,Finches and Crossbills,5,Finches and Crossbills,0
-Fulton,Flycatchers,9,Flycatchers,22.22222222222222
-Fulton,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",14.285714285714285
+Fulton,Flycatchers,9,Flycatchers,22.2
+Fulton,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",14.3
 Fulton,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
 Fulton,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Fulton,Owls,4,Owls,25
 Fulton,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
 Fulton,Sparrows and Towhees,12,Sparrows and Towhees,25
-Fulton,Wood-Warblers,22,Wood-Warblers,4.545454545454546
-Fulton,Woodpeckers,7,Woodpeckers,14.285714285714285
-Genesee,All,169,All,21.875
+Fulton,Wood-Warblers,22,Wood-Warblers,4.5
+Fulton,Woodpeckers,7,Woodpeckers,14.3
+Genesee,All,169,All,21.9
 Genesee,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Genesee,"Ducks, Geese, Waterfowl",16,"Ducks, Geese, Waterfowl",64.28571428571429
+Genesee,"Ducks, Geese, Waterfowl",16,"Ducks, Geese, Waterfowl",64.3
 Genesee,Finches and Crossbills,4,Finches and Crossbills,0
 Genesee,Flycatchers,8,Flycatchers,12.5
-Genesee,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.57142857142857
-Genesee,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Genesee,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.6
+Genesee,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Genesee,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
-Genesee,Owls,7,Owls,57.14285714285714
+Genesee,Owls,7,Owls,57.1
 Genesee,"Rails, Coots and Cranes",6,"Rails, Coots and Cranes",50
-Genesee,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Genesee,Wood-Warblers,25,Wood-Warblers,17.391304347826086
-Genesee,Woodpeckers,7,Woodpeckers,14.285714285714285
-Greene,All,161,All,17.105263157894736
+Genesee,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Genesee,Wood-Warblers,25,Wood-Warblers,17.4
+Genesee,Woodpeckers,7,Woodpeckers,14.3
+Greene,All,161,All,17.1
 Greene,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Greene,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.666666666666664
+Greene,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.7
 Greene,Finches and Crossbills,6,Finches and Crossbills,20
-Greene,Flycatchers,9,Flycatchers,22.22222222222222
+Greene,Flycatchers,9,Flycatchers,22.2
 Greene,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
-Greene,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
-Greene,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.33333333333333
+Greene,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
+Greene,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.3
 Greene,Owls,6,Owls,50
 Greene,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Greene,Sparrows and Towhees,9,Sparrows and Towhees,11.11111111111111
-Greene,Wood-Warblers,28,Wood-Warblers,15.384615384615385
-Greene,Woodpeckers,7,Woodpeckers,14.285714285714285
-Hamilton,All,157,All,20.915032679738562
-Hamilton,Blackbirds and Orioles,7,Blackbirds and Orioles,14.285714285714285
-Hamilton,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",44.44444444444444
-Hamilton,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-Hamilton,Flycatchers,9,Flycatchers,22.22222222222222
+Greene,Sparrows and Towhees,9,Sparrows and Towhees,11.1
+Greene,Wood-Warblers,28,Wood-Warblers,15.4
+Greene,Woodpeckers,7,Woodpeckers,14.3
+Hamilton,All,157,All,20.9
+Hamilton,Blackbirds and Orioles,7,Blackbirds and Orioles,14.3
+Hamilton,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",44.4
+Hamilton,Finches and Crossbills,7,Finches and Crossbills,33.3
+Hamilton,Flycatchers,9,Flycatchers,22.2
 Hamilton,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",0
-Hamilton,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.714285714285715
+Hamilton,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.7
 Hamilton,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Hamilton,Owls,4,Owls,25
 Hamilton,"Rails, Coots and Cranes",2,"Rails, Coots and Cranes",0
 Hamilton,Sparrows and Towhees,9,Sparrows and Towhees,0
-Hamilton,Wood-Warblers,22,Wood-Warblers,18.181818181818183
-Hamilton,Woodpeckers,9,Woodpeckers,33.33333333333333
-Herkimer,All,174,All,22.61904761904762
+Hamilton,Wood-Warblers,22,Wood-Warblers,18.2
+Hamilton,Woodpeckers,9,Woodpeckers,33.3
+Herkimer,All,174,All,22.6
 Herkimer,Blackbirds and Orioles,8,Blackbirds and Orioles,12.5
-Herkimer,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",44.44444444444444
-Herkimer,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-Herkimer,Flycatchers,9,Flycatchers,22.22222222222222
-Herkimer,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.666666666666664
-Herkimer,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.714285714285715
+Herkimer,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",44.4
+Herkimer,Finches and Crossbills,7,Finches and Crossbills,33.3
+Herkimer,Flycatchers,9,Flycatchers,22.2
+Herkimer,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.7
+Herkimer,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.7
 Herkimer,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Herkimer,Owls,5,Owls,40
 Herkimer,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
 Herkimer,Sparrows and Towhees,12,Sparrows and Towhees,25
-Herkimer,Wood-Warblers,26,Wood-Warblers,19.230769230769234
-Herkimer,Woodpeckers,9,Woodpeckers,33.33333333333333
+Herkimer,Wood-Warblers,26,Wood-Warblers,19.2
+Herkimer,Woodpeckers,9,Woodpeckers,33.3
 Jefferson,All,186,All,25
 Jefferson,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Jefferson,"Ducks, Geese, Waterfowl",16,"Ducks, Geese, Waterfowl",64.28571428571429
+Jefferson,"Ducks, Geese, Waterfowl",16,"Ducks, Geese, Waterfowl",64.3
 Jefferson,Finches and Crossbills,6,Finches and Crossbills,20
 Jefferson,Flycatchers,10,Flycatchers,30
-Jefferson,"Gulls, Terns, Plovers, Shorebirds",13,"Gulls, Terns, Plovers, Shorebirds",41.66666666666667
-Jefferson,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Jefferson,"Gulls, Terns, Plovers, Shorebirds",13,"Gulls, Terns, Plovers, Shorebirds",41.7
+Jefferson,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Jefferson,"Herons, Bitterns, Egrets, Pelicans",6,"Herons, Bitterns, Egrets, Pelicans",50
-Jefferson,Owls,7,Owls,57.14285714285714
+Jefferson,Owls,7,Owls,57.1
 Jefferson,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Jefferson,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Jefferson,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Jefferson,Wood-Warblers,25,Wood-Warblers,12.5
-Jefferson,Woodpeckers,7,Woodpeckers,14.285714285714285
-Kings,All,96,All,31.46067415730337
-Kings,Blackbirds and Orioles,6,Blackbirds and Orioles,16.666666666666664
+Jefferson,Woodpeckers,7,Woodpeckers,14.3
+Kings,All,96,All,31.5
+Kings,Blackbirds and Orioles,6,Blackbirds and Orioles,16.7
 Kings,"Ducks, Geese, Waterfowl",5,"Ducks, Geese, Waterfowl",50
 Kings,Finches and Crossbills,2,Finches and Crossbills,0
-Kings,Flycatchers,6,Flycatchers,16.666666666666664
+Kings,Flycatchers,6,Flycatchers,16.7
 Kings,"Gulls, Terns, Plovers, Shorebirds",10,"Gulls, Terns, Plovers, Shorebirds",50
 Kings,"Hawks, Falcons, Eagles, Vultures",4,"Hawks, Falcons, Eagles, Vultures",50
 Kings,"Herons, Bitterns, Egrets, Pelicans",10,"Herons, Bitterns, Egrets, Pelicans",80
@@ -311,10 +311,10 @@ Kings,"Rails, Coots and Cranes",1,"Rails, Coots and Cranes",100
 Kings,Sparrows and Towhees,8,Sparrows and Towhees,25
 Kings,Wood-Warblers,4,Wood-Warblers,25
 Kings,Woodpeckers,4,Woodpeckers,0
-Lewis,All,173,All,23.952095808383234
-Lewis,Blackbirds and Orioles,7,Blackbirds and Orioles,14.285714285714285
-Lewis,"Ducks, Geese, Waterfowl",12,"Ducks, Geese, Waterfowl",54.54545454545454
-Lewis,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
+Lewis,All,173,All,24
+Lewis,Blackbirds and Orioles,7,Blackbirds and Orioles,14.3
+Lewis,"Ducks, Geese, Waterfowl",12,"Ducks, Geese, Waterfowl",54.5
+Lewis,Finches and Crossbills,7,Finches and Crossbills,33.3
 Lewis,Flycatchers,10,Flycatchers,30
 Lewis,"Gulls, Terns, Plovers, Shorebirds",8,"Gulls, Terns, Plovers, Shorebirds",25
 Lewis,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
@@ -323,47 +323,47 @@ Lewis,Owls,6,Owls,50
 Lewis,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
 Lewis,Sparrows and Towhees,12,Sparrows and Towhees,25
 Lewis,Wood-Warblers,24,Wood-Warblers,12.5
-Lewis,Woodpeckers,9,Woodpeckers,33.33333333333333
-Livingston,All,162,All,17.532467532467532
+Lewis,Woodpeckers,9,Woodpeckers,33.3
+Livingston,All,162,All,17.5
 Livingston,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Livingston,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",50
 Livingston,Finches and Crossbills,5,Finches and Crossbills,0
 Livingston,Flycatchers,8,Flycatchers,12.5
-Livingston,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.33333333333333
-Livingston,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Livingston,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.3
+Livingston,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Livingston,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
-Livingston,Owls,7,Owls,57.14285714285714
+Livingston,Owls,7,Owls,57.1
 Livingston,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Livingston,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Livingston,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Livingston,Wood-Warblers,26,Wood-Warblers,12.5
-Livingston,Woodpeckers,7,Woodpeckers,14.285714285714285
-Madison,All,157,All,15.333333333333332
+Livingston,Woodpeckers,7,Woodpeckers,14.3
+Madison,All,157,All,15.3
 Madison,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Madison,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.44444444444444
-Madison,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
+Madison,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.4
+Madison,Finches and Crossbills,7,Finches and Crossbills,33.3
 Madison,Flycatchers,7,Flycatchers,0
-Madison,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.57142857142857
-Madison,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Madison,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.6
+Madison,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Madison,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Madison,Owls,4,Owls,25
 Madison,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Madison,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Madison,Wood-Warblers,23,Wood-Warblers,8.695652173913043
-Madison,Woodpeckers,7,Woodpeckers,14.285714285714285
-Monroe,All,163,All,21.710526315789476
+Madison,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Madison,Wood-Warblers,23,Wood-Warblers,8.7
+Madison,Woodpeckers,7,Woodpeckers,14.3
+Monroe,All,163,All,21.7
 Monroe,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Monroe,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",50
 Monroe,Finches and Crossbills,5,Finches and Crossbills,0
 Monroe,Flycatchers,8,Flycatchers,12.5
-Monroe,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.57142857142857
-Monroe,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",36.36363636363637
+Monroe,"Gulls, Terns, Plovers, Shorebirds",7,"Gulls, Terns, Plovers, Shorebirds",28.6
+Monroe,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",36.4
 Monroe,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
-Monroe,Owls,6,Owls,66.66666666666666
+Monroe,Owls,6,Owls,66.7
 Monroe,"Rails, Coots and Cranes",6,"Rails, Coots and Cranes",50
-Monroe,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Monroe,Wood-Warblers,21,Wood-Warblers,21.052631578947366
-Monroe,Woodpeckers,7,Woodpeckers,14.285714285714285
-Montgomery,All,144,All,11.510791366906476
+Monroe,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Monroe,Wood-Warblers,21,Wood-Warblers,21.1
+Monroe,Woodpeckers,7,Woodpeckers,14.3
+Montgomery,All,144,All,11.5
 Montgomery,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Montgomery,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",37.5
 Montgomery,Finches and Crossbills,6,Finches and Crossbills,20
@@ -373,36 +373,36 @@ Montgomery,"Hawks, Falcons, Eagles, Vultures",10,"Hawks, Falcons, Eagles, Vultur
 Montgomery,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",0
 Montgomery,Owls,4,Owls,25
 Montgomery,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Montgomery,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Montgomery,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Montgomery,Wood-Warblers,20,Wood-Warblers,5
-Montgomery,Woodpeckers,7,Woodpeckers,14.285714285714285
-Nassau,All,149,All,30.215827338129497
+Montgomery,Woodpeckers,7,Woodpeckers,14.3
+Nassau,All,149,All,30.2
 Nassau,Blackbirds and Orioles,8,Blackbirds and Orioles,25
 Nassau,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",50
 Nassau,Finches and Crossbills,2,Finches and Crossbills,0
-Nassau,Flycatchers,6,Flycatchers,16.666666666666664
-Nassau,"Gulls, Terns, Plovers, Shorebirds",16,"Gulls, Terns, Plovers, Shorebirds",68.75
-Nassau,"Hawks, Falcons, Eagles, Vultures",9,"Hawks, Falcons, Eagles, Vultures",33.33333333333333
+Nassau,Flycatchers,6,Flycatchers,16.7
+Nassau,"Gulls, Terns, Plovers, Shorebirds",16,"Gulls, Terns, Plovers, Shorebirds",68.8
+Nassau,"Hawks, Falcons, Eagles, Vultures",9,"Hawks, Falcons, Eagles, Vultures",33.3
 Nassau,"Herons, Bitterns, Egrets, Pelicans",10,"Herons, Bitterns, Egrets, Pelicans",80
 Nassau,Owls,4,Owls,50
-Nassau,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",66.66666666666666
+Nassau,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",66.7
 Nassau,Sparrows and Towhees,8,Sparrows and Towhees,25
-Nassau,Wood-Warblers,16,Wood-Warblers,21.428571428571427
+Nassau,Wood-Warblers,16,Wood-Warblers,21.4
 Nassau,Woodpeckers,5,Woodpeckers,20
-New York,All,51,All,15.217391304347828
+New York,All,51,All,15.2
 New York,Blackbirds and Orioles,4,Blackbirds and Orioles,0
-New York,"Ducks, Geese, Waterfowl",4,"Ducks, Geese, Waterfowl",33.33333333333333
+New York,"Ducks, Geese, Waterfowl",4,"Ducks, Geese, Waterfowl",33.3
 New York,Finches and Crossbills,1,Finches and Crossbills,0
 New York,Flycatchers,3,Flycatchers,0
 New York,"Gulls, Terns, Plovers, Shorebirds",2,"Gulls, Terns, Plovers, Shorebirds",50
-New York,"Hawks, Falcons, Eagles, Vultures",3,"Hawks, Falcons, Eagles, Vultures",33.33333333333333
-New York,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.33333333333333
+New York,"Hawks, Falcons, Eagles, Vultures",3,"Hawks, Falcons, Eagles, Vultures",33.3
+New York,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.3
 New York,Owls,2,Owls,50
 New York,Sparrows and Towhees,2,Sparrows and Towhees,0
 New York,Woodpeckers,4,Woodpeckers,0
-Niagara,All,160,All,23.333333333333332
+Niagara,All,160,All,23.3
 Niagara,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Niagara,"Ducks, Geese, Waterfowl",15,"Ducks, Geese, Waterfowl",61.53846153846154
+Niagara,"Ducks, Geese, Waterfowl",15,"Ducks, Geese, Waterfowl",61.5
 Niagara,Finches and Crossbills,3,Finches and Crossbills,0
 Niagara,Flycatchers,8,Flycatchers,12.5
 Niagara,"Gulls, Terns, Plovers, Shorebirds",10,"Gulls, Terns, Plovers, Shorebirds",40
@@ -412,12 +412,12 @@ Niagara,Owls,5,Owls,40
 Niagara,"Rails, Coots and Cranes",5,"Rails, Coots and Cranes",40
 Niagara,Sparrows and Towhees,10,Sparrows and Towhees,30
 Niagara,Wood-Warblers,22,Wood-Warblers,20
-Niagara,Woodpeckers,7,Woodpeckers,14.285714285714285
-Oneida,All,178,All,21.893491124260358
+Niagara,Woodpeckers,7,Woodpeckers,14.3
+Oneida,All,178,All,21.9
 Oneida,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Oneida,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",54.54545454545454
-Oneida,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-Oneida,Flycatchers,9,Flycatchers,22.22222222222222
+Oneida,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",54.5
+Oneida,Finches and Crossbills,7,Finches and Crossbills,33.3
+Oneida,Flycatchers,9,Flycatchers,22.2
 Oneida,"Gulls, Terns, Plovers, Shorebirds",8,"Gulls, Terns, Plovers, Shorebirds",37.5
 Oneida,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
 Oneida,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
@@ -426,9 +426,9 @@ Oneida,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
 Oneida,Sparrows and Towhees,12,Sparrows and Towhees,25
 Oneida,Wood-Warblers,27,Wood-Warblers,16
 Oneida,Woodpeckers,8,Woodpeckers,25
-Onondaga,All,168,All,19.49685534591195
+Onondaga,All,168,All,19.5
 Onondaga,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Onondaga,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.44444444444444
+Onondaga,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.4
 Onondaga,Finches and Crossbills,5,Finches and Crossbills,25
 Onondaga,Flycatchers,8,Flycatchers,12.5
 Onondaga,"Gulls, Terns, Plovers, Shorebirds",8,"Gulls, Terns, Plovers, Shorebirds",37.5
@@ -436,62 +436,62 @@ Onondaga,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures
 Onondaga,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Onondaga,Owls,6,Owls,50
 Onondaga,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Onondaga,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Onondaga,Wood-Warblers,28,Wood-Warblers,19.230769230769234
-Onondaga,Woodpeckers,7,Woodpeckers,14.285714285714285
-Ontario,All,159,All,16.55629139072848
+Onondaga,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Onondaga,Wood-Warblers,28,Wood-Warblers,19.2
+Onondaga,Woodpeckers,7,Woodpeckers,14.3
+Ontario,All,159,All,16.6
 Ontario,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Ontario,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",28.57142857142857
+Ontario,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",28.6
 Ontario,Finches and Crossbills,5,Finches and Crossbills,0
 Ontario,Flycatchers,8,Flycatchers,12.5
-Ontario,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.666666666666664
-Ontario,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Ontario,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.7
+Ontario,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Ontario,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
-Ontario,Owls,7,Owls,57.14285714285714
+Ontario,Owls,7,Owls,57.1
 Ontario,"Rails, Coots and Cranes",5,"Rails, Coots and Cranes",40
-Ontario,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Ontario,Wood-Warblers,22,Wood-Warblers,13.636363636363635
-Ontario,Woodpeckers,7,Woodpeckers,14.285714285714285
-Orange,All,167,All,17.8343949044586
+Ontario,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Ontario,Wood-Warblers,22,Wood-Warblers,13.6
+Ontario,Woodpeckers,7,Woodpeckers,14.3
+Orange,All,167,All,17.8
 Orange,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Orange,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.44444444444444
+Orange,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.4
 Orange,Finches and Crossbills,3,Finches and Crossbills,0
 Orange,Flycatchers,8,Flycatchers,12.5
-Orange,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.666666666666664
-Orange,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.714285714285715
+Orange,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.7
+Orange,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.7
 Orange,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Orange,Owls,5,Owls,40
 Orange,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
 Orange,Sparrows and Towhees,10,Sparrows and Towhees,20
-Orange,Wood-Warblers,29,Wood-Warblers,19.230769230769234
-Orange,Woodpeckers,7,Woodpeckers,14.285714285714285
-Orleans,All,149,All,21.98581560283688
+Orange,Wood-Warblers,29,Wood-Warblers,19.2
+Orange,Woodpeckers,7,Woodpeckers,14.3
+Orleans,All,149,All,22
 Orleans,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Orleans,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",66.66666666666666
+Orleans,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",66.7
 Orleans,Finches and Crossbills,3,Finches and Crossbills,0
 Orleans,Flycatchers,8,Flycatchers,12.5
-Orleans,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.33333333333333
+Orleans,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.3
 Orleans,"Hawks, Falcons, Eagles, Vultures",8,"Hawks, Falcons, Eagles, Vultures",25
 Orleans,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Orleans,Owls,6,Owls,50
 Orleans,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Orleans,Sparrows and Towhees,9,Sparrows and Towhees,33.33333333333333
-Orleans,Wood-Warblers,20,Wood-Warblers,22.22222222222222
-Orleans,Woodpeckers,7,Woodpeckers,14.285714285714285
-Oswego,All,179,All,21.764705882352942
+Orleans,Sparrows and Towhees,9,Sparrows and Towhees,33.3
+Orleans,Wood-Warblers,20,Wood-Warblers,22.2
+Orleans,Woodpeckers,7,Woodpeckers,14.3
+Oswego,All,179,All,21.8
 Oswego,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Oswego,"Ducks, Geese, Waterfowl",12,"Ducks, Geese, Waterfowl",50
 Oswego,Finches and Crossbills,6,Finches and Crossbills,20
 Oswego,Flycatchers,10,Flycatchers,30
-Oswego,"Gulls, Terns, Plovers, Shorebirds",11,"Gulls, Terns, Plovers, Shorebirds",36.36363636363637
+Oswego,"Gulls, Terns, Plovers, Shorebirds",11,"Gulls, Terns, Plovers, Shorebirds",36.4
 Oswego,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
 Oswego,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Oswego,Owls,5,Owls,40
 Oswego,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Oswego,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Oswego,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Oswego,Wood-Warblers,26,Wood-Warblers,12.5
-Oswego,Woodpeckers,7,Woodpeckers,14.285714285714285
-Otsego,All,160,All,16.55629139072848
+Oswego,Woodpeckers,7,Woodpeckers,14.3
+Otsego,All,160,All,16.6
 Otsego,Blackbirds and Orioles,6,Blackbirds and Orioles,0
 Otsego,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",37.5
 Otsego,Finches and Crossbills,6,Finches and Crossbills,40
@@ -501,64 +501,64 @@ Otsego,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",
 Otsego,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Otsego,Owls,6,Owls,50
 Otsego,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Otsego,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Otsego,Wood-Warblers,25,Wood-Warblers,4.3478260869565215
-Otsego,Woodpeckers,7,Woodpeckers,14.285714285714285
-Putnam,All,136,All,10.077519379844961
+Otsego,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Otsego,Wood-Warblers,25,Wood-Warblers,4.3
+Otsego,Woodpeckers,7,Woodpeckers,14.3
+Putnam,All,136,All,10.1
 Putnam,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Putnam,"Ducks, Geese, Waterfowl",7,"Ducks, Geese, Waterfowl",20
 Putnam,Finches and Crossbills,3,Finches and Crossbills,0
 Putnam,Flycatchers,8,Flycatchers,12.5
 Putnam,"Gulls, Terns, Plovers, Shorebirds",3,"Gulls, Terns, Plovers, Shorebirds",0
 Putnam,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
-Putnam,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.33333333333333
+Putnam,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.3
 Putnam,Owls,4,Owls,25
 Putnam,"Rails, Coots and Cranes",1,"Rails, Coots and Cranes",0
 Putnam,Sparrows and Towhees,7,Sparrows and Towhees,0
-Putnam,Wood-Warblers,22,Wood-Warblers,9.523809523809524
-Putnam,Woodpeckers,7,Woodpeckers,14.285714285714285
-Queens,All,115,All,33.33333333333333
-Queens,Blackbirds and Orioles,7,Blackbirds and Orioles,14.285714285714285
+Putnam,Wood-Warblers,22,Wood-Warblers,9.5
+Putnam,Woodpeckers,7,Woodpeckers,14.3
+Queens,All,115,All,33.3
+Queens,Blackbirds and Orioles,7,Blackbirds and Orioles,14.3
 Queens,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",62.5
 Queens,Finches and Crossbills,2,Finches and Crossbills,0
 Queens,Flycatchers,5,Flycatchers,20
-Queens,"Gulls, Terns, Plovers, Shorebirds",16,"Gulls, Terns, Plovers, Shorebirds",68.75
+Queens,"Gulls, Terns, Plovers, Shorebirds",16,"Gulls, Terns, Plovers, Shorebirds",68.8
 Queens,"Hawks, Falcons, Eagles, Vultures",5,"Hawks, Falcons, Eagles, Vultures",40
 Queens,"Herons, Bitterns, Egrets, Pelicans",10,"Herons, Bitterns, Egrets, Pelicans",80
 Queens,Owls,4,Owls,50
-Queens,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
-Queens,Sparrows and Towhees,7,Sparrows and Towhees,28.57142857142857
-Queens,Wood-Warblers,6,Wood-Warblers,16.666666666666664
+Queens,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
+Queens,Sparrows and Towhees,7,Sparrows and Towhees,28.6
+Queens,Wood-Warblers,6,Wood-Warblers,16.7
 Queens,Woodpeckers,4,Woodpeckers,0
-Rensselaer,All,157,All,14.76510067114094
+Rensselaer,All,157,All,14.8
 Rensselaer,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Rensselaer,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.57142857142857
+Rensselaer,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",28.6
 Rensselaer,Finches and Crossbills,6,Finches and Crossbills,20
 Rensselaer,Flycatchers,8,Flycatchers,12.5
 Rensselaer,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",0
-Rensselaer,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Rensselaer,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Rensselaer,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Rensselaer,Owls,6,Owls,50
 Rensselaer,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
 Rensselaer,Sparrows and Towhees,10,Sparrows and Towhees,20
-Rensselaer,Wood-Warblers,21,Wood-Warblers,4.761904761904762
-Rensselaer,Woodpeckers,7,Woodpeckers,14.285714285714285
-Richmond,All,126,All,27.11864406779661
+Rensselaer,Wood-Warblers,21,Wood-Warblers,4.8
+Rensselaer,Woodpeckers,7,Woodpeckers,14.3
+Richmond,All,126,All,27.1
 Richmond,Blackbirds and Orioles,8,Blackbirds and Orioles,12.5
-Richmond,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",57.14285714285714
+Richmond,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",57.1
 Richmond,Finches and Crossbills,2,Finches and Crossbills,0
-Richmond,Flycatchers,6,Flycatchers,16.666666666666664
+Richmond,Flycatchers,6,Flycatchers,16.7
 Richmond,"Gulls, Terns, Plovers, Shorebirds",10,"Gulls, Terns, Plovers, Shorebirds",40
-Richmond,"Hawks, Falcons, Eagles, Vultures",9,"Hawks, Falcons, Eagles, Vultures",33.33333333333333
+Richmond,"Hawks, Falcons, Eagles, Vultures",9,"Hawks, Falcons, Eagles, Vultures",33.3
 Richmond,"Herons, Bitterns, Egrets, Pelicans",10,"Herons, Bitterns, Egrets, Pelicans",80
 Richmond,Owls,4,Owls,50
-Richmond,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
+Richmond,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
 Richmond,Sparrows and Towhees,8,Sparrows and Towhees,25
-Richmond,Wood-Warblers,7,Wood-Warblers,14.285714285714285
+Richmond,Wood-Warblers,7,Wood-Warblers,14.3
 Richmond,Woodpeckers,4,Woodpeckers,0
-Rockland,All,143,All,13.333333333333334
+Rockland,All,143,All,13.3
 Rockland,Blackbirds and Orioles,5,Blackbirds and Orioles,0
-Rockland,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",42.857142857142854
+Rockland,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",42.9
 Rockland,Finches and Crossbills,4,Finches and Crossbills,0
 Rockland,Flycatchers,8,Flycatchers,12.5
 Rockland,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",0
@@ -567,35 +567,35 @@ Rockland,"Herons, Bitterns, Egrets, Pelicans",6,"Herons, Bitterns, Egrets, Pelic
 Rockland,Owls,3,Owls,0
 Rockland,"Rails, Coots and Cranes",2,"Rails, Coots and Cranes",0
 Rockland,Sparrows and Towhees,8,Sparrows and Towhees,0
-Rockland,Wood-Warblers,23,Wood-Warblers,13.636363636363635
-Rockland,Woodpeckers,6,Woodpeckers,16.666666666666664
-Saratoga,All,161,All,17.419354838709676
+Rockland,Wood-Warblers,23,Wood-Warblers,13.6
+Rockland,Woodpeckers,6,Woodpeckers,16.7
+Saratoga,All,161,All,17.4
 Saratoga,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Saratoga,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",37.5
-Saratoga,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-Saratoga,Flycatchers,9,Flycatchers,22.22222222222222
+Saratoga,Finches and Crossbills,7,Finches and Crossbills,33.3
+Saratoga,Flycatchers,9,Flycatchers,22.2
 Saratoga,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
-Saratoga,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Saratoga,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Saratoga,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Saratoga,Owls,5,Owls,40
 Saratoga,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Saratoga,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Saratoga,Wood-Warblers,23,Wood-Warblers,9.090909090909092
-Saratoga,Woodpeckers,7,Woodpeckers,14.285714285714285
-Schenectady,All,130,All,9.75609756097561
+Saratoga,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Saratoga,Wood-Warblers,23,Wood-Warblers,9.1
+Saratoga,Woodpeckers,7,Woodpeckers,14.3
+Schenectady,All,130,All,9.8
 Schenectady,Blackbirds and Orioles,6,Blackbirds and Orioles,0
 Schenectady,"Ducks, Geese, Waterfowl",6,"Ducks, Geese, Waterfowl",20
 Schenectady,Finches and Crossbills,3,Finches and Crossbills,0
 Schenectady,Flycatchers,7,Flycatchers,0
 Schenectady,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",0
 Schenectady,"Hawks, Falcons, Eagles, Vultures",10,"Hawks, Falcons, Eagles, Vultures",30
-Schenectady,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.33333333333333
+Schenectady,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.3
 Schenectady,Owls,3,Owls,0
 Schenectady,"Rails, Coots and Cranes",2,"Rails, Coots and Cranes",0
 Schenectady,Sparrows and Towhees,10,Sparrows and Towhees,20
-Schenectady,Wood-Warblers,19,Wood-Warblers,5.555555555555555
-Schenectady,Woodpeckers,7,Woodpeckers,14.285714285714285
-Schoharie,All,159,All,15.333333333333332
+Schenectady,Wood-Warblers,19,Wood-Warblers,5.6
+Schenectady,Woodpeckers,7,Woodpeckers,14.3
+Schoharie,All,159,All,15.3
 Schoharie,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Schoharie,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",37.5
 Schoharie,Finches and Crossbills,4,Finches and Crossbills,0
@@ -603,144 +603,144 @@ Schoharie,Flycatchers,8,Flycatchers,12.5
 Schoharie,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
 Schoharie,"Hawks, Falcons, Eagles, Vultures",12,"Hawks, Falcons, Eagles, Vultures",25
 Schoharie,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",0
-Schoharie,Owls,7,Owls,57.14285714285714
+Schoharie,Owls,7,Owls,57.1
 Schoharie,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Schoharie,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Schoharie,Wood-Warblers,24,Wood-Warblers,8.695652173913043
-Schoharie,Woodpeckers,7,Woodpeckers,14.285714285714285
-Schuyler,All,157,All,13.422818791946309
+Schoharie,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Schoharie,Wood-Warblers,24,Wood-Warblers,8.7
+Schoharie,Woodpeckers,7,Woodpeckers,14.3
+Schuyler,All,157,All,13.4
 Schuyler,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Schuyler,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",37.5
 Schuyler,Finches and Crossbills,5,Finches and Crossbills,25
 Schuyler,Flycatchers,8,Flycatchers,12.5
 Schuyler,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",0
-Schuyler,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Schuyler,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Schuyler,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Schuyler,Owls,4,Owls,25
-Schuyler,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
-Schuyler,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Schuyler,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
+Schuyler,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Schuyler,Wood-Warblers,26,Wood-Warblers,12
-Schuyler,Woodpeckers,7,Woodpeckers,14.285714285714285
-Seneca,All,157,All,21.62162162162162
+Schuyler,Woodpeckers,7,Woodpeckers,14.3
+Seneca,All,157,All,21.6
 Seneca,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Seneca,"Ducks, Geese, Waterfowl",17,"Ducks, Geese, Waterfowl",61.53846153846154
+Seneca,"Ducks, Geese, Waterfowl",17,"Ducks, Geese, Waterfowl",61.5
 Seneca,Finches and Crossbills,3,Finches and Crossbills,0
 Seneca,Flycatchers,7,Flycatchers,0
-Seneca,"Gulls, Terns, Plovers, Shorebirds",9,"Gulls, Terns, Plovers, Shorebirds",44.44444444444444
+Seneca,"Gulls, Terns, Plovers, Shorebirds",9,"Gulls, Terns, Plovers, Shorebirds",44.4
 Seneca,"Hawks, Falcons, Eagles, Vultures",8,"Hawks, Falcons, Eagles, Vultures",25
 Seneca,"Herons, Bitterns, Egrets, Pelicans",6,"Herons, Bitterns, Egrets, Pelicans",50
 Seneca,Owls,5,Owls,40
 Seneca,"Rails, Coots and Cranes",5,"Rails, Coots and Cranes",40
-Seneca,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Seneca,Wood-Warblers,19,Wood-Warblers,15.789473684210526
-Seneca,Woodpeckers,7,Woodpeckers,14.285714285714285
-St. Lawrence,All,191,All,28.176795580110497
-St. Lawrence,Blackbirds and Orioles,7,Blackbirds and Orioles,14.285714285714285
-St. Lawrence,"Ducks, Geese, Waterfowl",18,"Ducks, Geese, Waterfowl",66.66666666666666
-St. Lawrence,Finches and Crossbills,7,Finches and Crossbills,33.33333333333333
-St. Lawrence,Flycatchers,9,Flycatchers,22.22222222222222
+Seneca,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Seneca,Wood-Warblers,19,Wood-Warblers,15.8
+Seneca,Woodpeckers,7,Woodpeckers,14.3
+St. Lawrence,All,191,All,28.2
+St. Lawrence,Blackbirds and Orioles,7,Blackbirds and Orioles,14.3
+St. Lawrence,"Ducks, Geese, Waterfowl",18,"Ducks, Geese, Waterfowl",66.7
+St. Lawrence,Finches and Crossbills,7,Finches and Crossbills,33.3
+St. Lawrence,Flycatchers,9,Flycatchers,22.2
 St. Lawrence,"Gulls, Terns, Plovers, Shorebirds",10,"Gulls, Terns, Plovers, Shorebirds",30
-St. Lawrence,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.714285714285715
+St. Lawrence,"Hawks, Falcons, Eagles, Vultures",14,"Hawks, Falcons, Eagles, Vultures",35.7
 St. Lawrence,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
-St. Lawrence,Owls,7,Owls,57.14285714285714
+St. Lawrence,Owls,7,Owls,57.1
 St. Lawrence,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
 St. Lawrence,Sparrows and Towhees,12,Sparrows and Towhees,25
 St. Lawrence,Wood-Warblers,27,Wood-Warblers,20
 St. Lawrence,Woodpeckers,8,Woodpeckers,25
-Steuben,All,155,All,14.18918918918919
+Steuben,All,155,All,14.2
 Steuben,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Steuben,"Ducks, Geese, Waterfowl",7,"Ducks, Geese, Waterfowl",28.57142857142857
+Steuben,"Ducks, Geese, Waterfowl",7,"Ducks, Geese, Waterfowl",28.6
 Steuben,Finches and Crossbills,4,Finches and Crossbills,0
 Steuben,Flycatchers,8,Flycatchers,12.5
 Steuben,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
-Steuben,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
-Steuben,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.33333333333333
+Steuben,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
+Steuben,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.3
 Steuben,Owls,6,Owls,50
 Steuben,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Steuben,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Steuben,Wood-Warblers,26,Wood-Warblers,16.666666666666664
-Steuben,Woodpeckers,7,Woodpeckers,14.285714285714285
-Suffolk,All,175,All,33.12883435582822
-Suffolk,Blackbirds and Orioles,9,Blackbirds and Orioles,22.22222222222222
-Suffolk,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",72.72727272727273
+Steuben,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Steuben,Wood-Warblers,26,Wood-Warblers,16.7
+Steuben,Woodpeckers,7,Woodpeckers,14.3
+Suffolk,All,175,All,33.1
+Suffolk,Blackbirds and Orioles,9,Blackbirds and Orioles,22.2
+Suffolk,"Ducks, Geese, Waterfowl",13,"Ducks, Geese, Waterfowl",72.7
 Suffolk,Finches and Crossbills,3,Finches and Crossbills,0
-Suffolk,Flycatchers,7,Flycatchers,14.285714285714285
-Suffolk,"Gulls, Terns, Plovers, Shorebirds",16,"Gulls, Terns, Plovers, Shorebirds",68.75
-Suffolk,"Hawks, Falcons, Eagles, Vultures",9,"Hawks, Falcons, Eagles, Vultures",33.33333333333333
-Suffolk,"Herons, Bitterns, Egrets, Pelicans",11,"Herons, Bitterns, Egrets, Pelicans",72.72727272727273
+Suffolk,Flycatchers,7,Flycatchers,14.3
+Suffolk,"Gulls, Terns, Plovers, Shorebirds",16,"Gulls, Terns, Plovers, Shorebirds",68.8
+Suffolk,"Hawks, Falcons, Eagles, Vultures",9,"Hawks, Falcons, Eagles, Vultures",33.3
+Suffolk,"Herons, Bitterns, Egrets, Pelicans",11,"Herons, Bitterns, Egrets, Pelicans",72.7
 Suffolk,Owls,6,Owls,50
 Suffolk,"Rails, Coots and Cranes",6,"Rails, Coots and Cranes",50
-Suffolk,Sparrows and Towhees,11,Sparrows and Towhees,45.45454545454545
-Suffolk,Wood-Warblers,20,Wood-Warblers,16.666666666666664
+Suffolk,Sparrows and Towhees,11,Sparrows and Towhees,45.5
+Suffolk,Wood-Warblers,20,Wood-Warblers,16.7
 Suffolk,Woodpeckers,5,Woodpeckers,20
-Sullivan,All,152,All,11.11111111111111
+Sullivan,All,152,All,11.1
 Sullivan,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Sullivan,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.666666666666664
+Sullivan,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.7
 Sullivan,Finches and Crossbills,5,Finches and Crossbills,0
 Sullivan,Flycatchers,8,Flycatchers,12.5
 Sullivan,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",0
-Sullivan,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Sullivan,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Sullivan,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Sullivan,Owls,5,Owls,40
 Sullivan,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
 Sullivan,Sparrows and Towhees,10,Sparrows and Towhees,20
 Sullivan,Wood-Warblers,25,Wood-Warblers,12
-Sullivan,Woodpeckers,7,Woodpeckers,14.285714285714285
-Tioga,All,147,All,12.142857142857142
+Sullivan,Woodpeckers,7,Woodpeckers,14.3
+Tioga,All,147,All,12.1
 Tioga,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Tioga,"Ducks, Geese, Waterfowl",6,"Ducks, Geese, Waterfowl",16.666666666666664
+Tioga,"Ducks, Geese, Waterfowl",6,"Ducks, Geese, Waterfowl",16.7
 Tioga,Finches and Crossbills,4,Finches and Crossbills,0
 Tioga,Flycatchers,8,Flycatchers,12.5
 Tioga,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",0
-Tioga,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
-Tioga,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.33333333333333
+Tioga,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
+Tioga,"Herons, Bitterns, Egrets, Pelicans",3,"Herons, Bitterns, Egrets, Pelicans",33.3
 Tioga,Owls,5,Owls,40
 Tioga,"Rails, Coots and Cranes",1,"Rails, Coots and Cranes",0
-Tioga,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
+Tioga,Sparrows and Towhees,11,Sparrows and Towhees,27.3
 Tioga,Wood-Warblers,26,Wood-Warblers,12.5
-Tioga,Woodpeckers,7,Woodpeckers,14.285714285714285
-Tompkins,All,169,All,18.867924528301888
+Tioga,Woodpeckers,7,Woodpeckers,14.3
+Tompkins,All,169,All,18.9
 Tompkins,Blackbirds and Orioles,8,Blackbirds and Orioles,0
-Tompkins,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",44.44444444444444
+Tompkins,"Ducks, Geese, Waterfowl",10,"Ducks, Geese, Waterfowl",44.4
 Tompkins,Finches and Crossbills,4,Finches and Crossbills,0
 Tompkins,Flycatchers,8,Flycatchers,12.5
-Tompkins,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.666666666666664
-Tompkins,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Tompkins,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",16.7
+Tompkins,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Tompkins,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
-Tompkins,Owls,7,Owls,57.14285714285714
+Tompkins,Owls,7,Owls,57.1
 Tompkins,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
-Tompkins,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Tompkins,Wood-Warblers,28,Wood-Warblers,15.384615384615385
-Tompkins,Woodpeckers,7,Woodpeckers,14.285714285714285
-Ulster,All,165,All,18.9873417721519
+Tompkins,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Tompkins,Wood-Warblers,28,Wood-Warblers,15.4
+Tompkins,Woodpeckers,7,Woodpeckers,14.3
+Ulster,All,165,All,19
 Ulster,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Ulster,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.666666666666664
+Ulster,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",16.7
 Ulster,Finches and Crossbills,5,Finches and Crossbills,0
 Ulster,Flycatchers,10,Flycatchers,30
 Ulster,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
-Ulster,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Ulster,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Ulster,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Ulster,Owls,6,Owls,50
-Ulster,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
-Ulster,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Ulster,Wood-Warblers,28,Wood-Warblers,21.428571428571427
-Ulster,Woodpeckers,7,Woodpeckers,14.285714285714285
-Warren,All,155,All,16.10738255033557
+Ulster,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
+Ulster,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Ulster,Wood-Warblers,28,Wood-Warblers,21.4
+Ulster,Woodpeckers,7,Woodpeckers,14.3
+Warren,All,155,All,16.1
 Warren,Blackbirds and Orioles,8,Blackbirds and Orioles,12.5
 Warren,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",37.5
 Warren,Finches and Crossbills,6,Finches and Crossbills,20
-Warren,Flycatchers,9,Flycatchers,22.22222222222222
+Warren,Flycatchers,9,Flycatchers,22.2
 Warren,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",0
-Warren,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Warren,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Warren,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
 Warren,Owls,5,Owls,40
 Warren,"Rails, Coots and Cranes",1,"Rails, Coots and Cranes",0
 Warren,Sparrows and Towhees,9,Sparrows and Towhees,0
-Warren,Wood-Warblers,21,Wood-Warblers,9.523809523809524
-Warren,Woodpeckers,7,Woodpeckers,14.285714285714285
-Washington,All,160,All,15.131578947368421
+Warren,Wood-Warblers,21,Wood-Warblers,9.5
+Warren,Woodpeckers,7,Woodpeckers,14.3
+Washington,All,160,All,15.1
 Washington,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Washington,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",28.57142857142857
+Washington,"Ducks, Geese, Waterfowl",8,"Ducks, Geese, Waterfowl",28.6
 Washington,Finches and Crossbills,5,Finches and Crossbills,0
 Washington,Flycatchers,8,Flycatchers,12.5
 Washington,"Gulls, Terns, Plovers, Shorebirds",8,"Gulls, Terns, Plovers, Shorebirds",25
@@ -749,48 +749,48 @@ Washington,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pel
 Washington,Owls,5,Owls,40
 Washington,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",25
 Washington,Sparrows and Towhees,10,Sparrows and Towhees,20
-Washington,Wood-Warblers,23,Wood-Warblers,9.523809523809524
-Washington,Woodpeckers,7,Woodpeckers,14.285714285714285
-Wayne,All,154,All,19.863013698630137
+Washington,Wood-Warblers,23,Wood-Warblers,9.5
+Washington,Woodpeckers,7,Woodpeckers,14.3
+Wayne,All,154,All,19.9
 Wayne,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Wayne,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.44444444444444
+Wayne,"Ducks, Geese, Waterfowl",11,"Ducks, Geese, Waterfowl",44.4
 Wayne,Finches and Crossbills,4,Finches and Crossbills,0
 Wayne,Flycatchers,8,Flycatchers,12.5
-Wayne,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.33333333333333
+Wayne,"Gulls, Terns, Plovers, Shorebirds",6,"Gulls, Terns, Plovers, Shorebirds",33.3
 Wayne,"Hawks, Falcons, Eagles, Vultures",10,"Hawks, Falcons, Eagles, Vultures",30
 Wayne,"Herons, Bitterns, Egrets, Pelicans",5,"Herons, Bitterns, Egrets, Pelicans",40
 Wayne,Owls,6,Owls,50
 Wayne,"Rails, Coots and Cranes",5,"Rails, Coots and Cranes",40
-Wayne,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Wayne,Wood-Warblers,20,Wood-Warblers,15.789473684210526
-Wayne,Woodpeckers,7,Woodpeckers,14.285714285714285
-Westchester,All,155,All,21.08843537414966
+Wayne,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Wayne,Wood-Warblers,20,Wood-Warblers,15.8
+Wayne,Woodpeckers,7,Woodpeckers,14.3
+Westchester,All,155,All,21.1
 Westchester,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Westchester,"Ducks, Geese, Waterfowl",7,"Ducks, Geese, Waterfowl",40
 Westchester,Finches and Crossbills,3,Finches and Crossbills,0
 Westchester,Flycatchers,8,Flycatchers,12.5
 Westchester,"Gulls, Terns, Plovers, Shorebirds",8,"Gulls, Terns, Plovers, Shorebirds",25
-Westchester,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.76923076923077
+Westchester,"Hawks, Falcons, Eagles, Vultures",13,"Hawks, Falcons, Eagles, Vultures",30.8
 Westchester,"Herons, Bitterns, Egrets, Pelicans",8,"Herons, Bitterns, Egrets, Pelicans",75
 Westchester,Owls,4,Owls,25
 Westchester,"Rails, Coots and Cranes",4,"Rails, Coots and Cranes",50
-Westchester,Sparrows and Towhees,9,Sparrows and Towhees,33.33333333333333
+Westchester,Sparrows and Towhees,9,Sparrows and Towhees,33.3
 Westchester,Wood-Warblers,20,Wood-Warblers,20
-Westchester,Woodpeckers,6,Woodpeckers,16.666666666666664
-Wyoming,All,157,All,15.333333333333332
+Westchester,Woodpeckers,6,Woodpeckers,16.7
+Wyoming,All,157,All,15.3
 Wyoming,Blackbirds and Orioles,7,Blackbirds and Orioles,0
-Wyoming,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",44.44444444444444
+Wyoming,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",44.4
 Wyoming,Finches and Crossbills,5,Finches and Crossbills,0
 Wyoming,Flycatchers,8,Flycatchers,12.5
 Wyoming,"Gulls, Terns, Plovers, Shorebirds",5,"Gulls, Terns, Plovers, Shorebirds",20
-Wyoming,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.181818181818183
+Wyoming,"Hawks, Falcons, Eagles, Vultures",11,"Hawks, Falcons, Eagles, Vultures",18.2
 Wyoming,"Herons, Bitterns, Egrets, Pelicans",4,"Herons, Bitterns, Egrets, Pelicans",25
-Wyoming,Owls,7,Owls,57.14285714285714
+Wyoming,Owls,7,Owls,57.1
 Wyoming,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",0
-Wyoming,Sparrows and Towhees,11,Sparrows and Towhees,27.27272727272727
-Wyoming,Wood-Warblers,25,Wood-Warblers,13.043478260869565
-Wyoming,Woodpeckers,7,Woodpeckers,14.285714285714285
-Yates,All,140,All,11.194029850746269
+Wyoming,Sparrows and Towhees,11,Sparrows and Towhees,27.3
+Wyoming,Wood-Warblers,25,Wood-Warblers,13
+Wyoming,Woodpeckers,7,Woodpeckers,14.3
+Yates,All,140,All,11.2
 Yates,Blackbirds and Orioles,7,Blackbirds and Orioles,0
 Yates,"Ducks, Geese, Waterfowl",9,"Ducks, Geese, Waterfowl",37.5
 Yates,Finches and Crossbills,3,Finches and Crossbills,0
@@ -799,7 +799,7 @@ Yates,"Gulls, Terns, Plovers, Shorebirds",4,"Gulls, Terns, Plovers, Shorebirds",
 Yates,"Hawks, Falcons, Eagles, Vultures",10,"Hawks, Falcons, Eagles, Vultures",20
 Yates,"Herons, Bitterns, Egrets, Pelicans",2,"Herons, Bitterns, Egrets, Pelicans",0
 Yates,Owls,5,Owls,40
-Yates,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.33333333333333
+Yates,"Rails, Coots and Cranes",3,"Rails, Coots and Cranes",33.3
 Yates,Sparrows and Towhees,10,Sparrows and Towhees,30
 Yates,Wood-Warblers,19,Wood-Warblers,0
-Yates,Woodpeckers,7,Woodpeckers,14.285714285714285
+Yates,Woodpeckers,7,Woodpeckers,14.3

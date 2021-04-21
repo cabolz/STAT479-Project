@@ -12,39 +12,28 @@ library("stringr")
 ```
 
 ```{r, message=FALSE}
-# Contains names of plants and animals, as well as endangerment status, in NY at the county level
-#biodiversity = read_csv("./data/Biodiversity.csv")
-
-#https://data.ny.gov/api/views/6x7f-k6wi/rows.csv?accessType=DOWNLOAD&sorting=true
-#biodiversity = read_csv("./data/Biodiversity_Animals_Plants.csv")
-
 #https://data.ny.gov/api/views/4asw-6tmc/rows.csv?accessType=DOWNLOAD&sorting=true
 biodiversity = read_csv("./data/Biodiversity_Birds.csv")
 
-# Contains estimations for human populations and growth rate in each NY county
-countyPop = read_csv("./data/NYCounties.csv")
-
-# Contains estimated land mass of NY counties from 2010
-# Areas are in square miles
-countyArea = read_csv("./data/NYCountyArea.csv")
+#https://odn.data.socrata.com/dataset/ODN-Geographic-Area/295r-kbh7
+countyDensity = read_csv("./data/ODN_Geographic_Area.csv")
 ```
 
 ```{r, warning=FALSE}
-# Clean county population dataset
-countyPop = countyPop %>% 
-  extract(CTYNAME, into = "county", regex = "(.*)(?= County)") %>% 
-  rename(human_pop_county = pop2021, human_growth_rate = GrowthRate)
-
-m_to_mi = 3.86102158542446E-07
-
-# Clean county areas dataset
-countyArea = countyArea %>% 
-  select(BASENAME, AREALAND, AREAWATER) %>% 
-  rename(county = BASENAME,
-         land_area = AREALAND,
-         water_area = AREAWATER) %>% 
-  mutate(land_area = land_area * m_to_mi,
-         water_area = water_area * m_to_mi)
+# We will extract population densities for NY counties from 2018 from this dataset
+countyDensity = countyDensity %>% 
+  # Get county density values from NY in 2018
+  filter(str_detect(name, "New York$"),
+         type == "county",
+         variable == "density",
+         year == 2018) %>% 
+  select(name, value) %>% 
+  rename(county = "name",
+         density = "value") %>% 
+  # Remove the unwanted "County, NY" from the name
+  extract(county, into = c("county", "removal"), regex = "(.*) (County, New York$)") %>% 
+  select(-removal) %>% 
+  mutate(density = round(density, 1))
 
 # Change spaces into underscores and make lowercase for biodiversity column names
 names(biodiversity) = gsub(" ", "_", tolower(names(biodiversity)))
@@ -58,15 +47,12 @@ biodiversity = biodiversity %>%
          -distribution_status, 
          -year_last_documented,
          -scientific_name) %>% 
-  # Remove non-plant/animal entries as well as non-county entries
+  # Remove bird entries as well as non-county entries
   filter(category != "Natural Community", 
          category != "not listed", 
          taxonomic_group != "Animal Assemblages",
-         county %in% countyPop$county) %>% 
-  left_join(countyPop, by = "county") %>% 
-  left_join(countyArea, by = "county") %>% 
-  # Create pop/mi^2
-  mutate(pop_per_mi = human_pop_county / (land_area + water_area))
+         county %in% countyDensity$county) %>% 
+  left_join(countyDensity, by = "county")
 ```
 
 ```{r, echo=FALSE}
@@ -79,17 +65,11 @@ biodiversity %>% summarise(n = n_distinct(global_conservation_rank))
 ```
 
 ```{r}
-# Derive human population densities for each county
-county <- full_join(countyArea, countyPop) %>%
-  mutate(total_area = land_area + water_area,
-         density = human_pop_county/total_area) %>%
-  select(county, total_area, human_pop_county, density)
-
 # Find number of species per county, join with dataset to to have pop density and number of species per county in one df
 county_data <- biodiversity %>%
   group_by(county) %>%
   summarise(n_species = n()) %>%
-  full_join(county, by="county")
+  full_join(countyDensity, by="county")
 ```
 
 ```{r}
@@ -109,7 +89,6 @@ species_factored <- species_by_subgroup %>%
          Subgroup = taxonomic_subgroup)
 
 individuals_per_subgroup = biodiversity %>% 
-  #select(county, taxonomic_subgroup) %>% 
   count(county, taxonomic_subgroup) %>% 
   group_by(taxonomic_subgroup) %>% 
   summarize(full_count = sum(n))
@@ -161,16 +140,12 @@ counties_taxonomic =
   select(county, taxonomic_subgroup) %>% 
   count(county, taxonomic_subgroup) %>% 
   pivot_wider(names_from = taxonomic_subgroup, values_from = n) %>% 
-  #replace(is.na(.), 0) %>% 
   right_join(counties_derived, by = "county") %>%
   rename(All = n_species) %>%
   select(county, All, 2:40, perc_not_secure_state) %>% 
   pivot_longer(2:41, names_to = "taxonomic_subgroup", values_to = "n") %>% 
   drop_na() %>% 
   mutate(n = as.integer(n))
-
-#%>% 
-  #pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_secure")
 ```
 
 ```{r}
@@ -199,8 +174,8 @@ taxonomic_security = counties_taxonomic %>%
   select(-perc_not_secure_state) %>% 
   left_join(taxonomic_security, by = "county") %>% 
   filter(taxonomic_subgroup == subgroup_secure) %>% 
-  #pivot_longer(c(perc_not_secure_state, perc_not_secure_global), names_to = "level", values_to = "perc_not_secure") %>% 
   filter(taxonomic_subgroup %in% wanted_list) %>% 
+  mutate(perc_not_secure_state = round(perc_not_secure_state, 1)) %>% 
   rename(Species = n,
          Subgroup = taxonomic_subgroup,
          County = county,
@@ -222,12 +197,13 @@ choropleth = map_data("county") %>%
   filter(region == "new york") %>% 
   select(-group, -order, -region) %>% 
   rename(County = subregion) %>% 
-  mutate(County = str_to_title(County)) %>% 
+  mutate(County = case_when(County == "st lawrence" ~ "st. lawrence",
+                            County != "st lawrence" ~ County),
+         County = str_to_title(County)) %>% 
   left_join(counties_nspecies, by = "County")
 
 # Add density to the choropleth dataset
-choropleth = county %>% 
-  select(county, density) %>% 
+choropleth = countyDensity %>% 
   rename(County = county,
          Density = density) %>% 
   left_join(choropleth, by = "County")
@@ -241,4 +217,13 @@ write_csv(taxonomic_security, "./data/taxonomic_security.csv")
 write_csv(species_factored, "./data/species_by_subgroup.csv")
 
 write_csv(choropleth, "./data/choropleth.csv")
+```
+
+```{r}
+# Possible density vs. number of species plot to include
+ggplot(choropleth, aes(x = Density, y = Species)) + 
+    scale_x_log10() +
+    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
+    theme_minimal() +
+    theme(legend.position = "none")
 ```

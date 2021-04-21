@@ -87,16 +87,18 @@ ui <- fluidPage(
   HTML("<br>"),
   
   mainPanel("This map provides comparisons between the total number of 
-        species for each county in New York. As we can see above, the number of species
-        in each county has been encoded in color, with more biodiverse counties displaying
-        a lighter shade and less biodiverse counties displaying a darker shade. A notable 
-        characteristic of this figure is that the least biodiverse region of New York State
-        appears to be at the furthest southern tip of New York State, right where New York City 
-        is located. Contrarily, the most biodiverse region of New York appears to be
-        located near the northern border of the state."),
+        species for each county in New York. The number of species in each county has been 
+        encoded in color, with more biodiverse counties displaying a lighter shade and 
+        less biodiverse counties displaying a darker shade. Hovering over a county also 
+        provides the human population density. A notable characteristic of this figure is 
+        that the least biodiverse region of New York State appears to be at the furthest 
+        southern tip of New York State, right where New York City is located (and 
+        consequently the most densely populated region). Contrarily, the most biodiverse 
+        region of New York appears to be located near the northern border of the state (the 
+        most sparsely populated area)."),
   
   
-  HTML("<br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br><br>"),
   
   plotlyOutput(outputId = "stateSecurePlot"),
   
