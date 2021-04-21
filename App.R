@@ -46,7 +46,7 @@ ui <- fluidPage(
           better plan for how to protect our ecosystems. <p>")
   ),
   
-  HTML("<br><br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br><br>"),
   
   h3("Data Processing"),
   
@@ -65,7 +65,7 @@ ui <- fluidPage(
           can be found <a href=\"https://github.com/cabolz/STAT479-Project\">here</a>.<p>")
   ),
   
-  HTML("<br><br><br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br><br><br>"),
     
   h3("Visualizations"),
   
@@ -98,7 +98,7 @@ ui <- fluidPage(
         most sparsely populated area)."),
   
   
-  HTML("<br><br><br><br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br><br><br><br>"),
   
   plotlyOutput(outputId = "stateSecurePlot"),
   
@@ -140,7 +140,7 @@ ui <- fluidPage(
         of urbanization may result in the habitat destruction of various bird species. 
         This could also be due to some of the Northern counties simply having more area, or 
         it could be related to the weather, climate, smaller human population density, or
-        greater habitat availability of upstate New York."),
+        greater habitat availability of upstate New York.")
   
 )
 
