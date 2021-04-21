@@ -1,9 +1,15 @@
-library("shiny")
-library("readr")
-library("ggplot2")
-library("dplyr")
-library("plotly")
-library("RColorBrewer")
+# Load/Install required packages
+packages = c("shiny", "readr", "ggplot2", "dplyr", "plotly", "RColorBrewer")
+
+package.check <- lapply(
+  packages,
+  FUN = function(x) {
+    if (!require(x, character.only = TRUE)) {
+      install.packages(x, dependencies = TRUE)
+      library(x, character.only = TRUE)
+    }
+  }
+)
 
 # Load in dataset, ordering by largest taxonomic subgroup
 taxonomic_security = read_csv("./data/taxonomic_security.csv") %>% 
@@ -64,7 +70,7 @@ ui <- fluidPage(
   
   mainPanel("This plot aims to show the correlation between the number of species in a county, 
         and the percentage of those species that are not secure. Taxonomic subgroups are 
-        selectable (by clicking on its legend entry) and control which data is plotted. Each 
+        selectable (by clicking on their legend entry) and control which data is plotted. Each 
         point represents a county. The x-value is the number of species belonging to that 
         taxonomic subgroup that are found in that county. The y-value is the percentage of 
         species in that taxonomic subgroup and county that are not secure at a state level. 
@@ -182,7 +188,7 @@ server <- function(input, output) {
   # Choropleth map of NY counties, filling by the number of species
   output$countyChoropleth <- renderPlotly({
     
-    plot = ggplot(choropleth, aes(long, lat, group = County)) +
+    plot = ggplot(choropleth, aes(long, lat, group = County, name = Density)) +
       geom_polygon(aes(fill = Species), colour = alpha("black", 1/2), size = 0.1)  +
       labs (
         title = "Number of Species by County",
@@ -199,7 +205,7 @@ server <- function(input, output) {
       scale_fill_viridis_c(option = "magma", limits = c(50, 200))
     
     # Remove ability to pan and zoom, set plot dimensions
-    ggplotly(plot, width = 700) %>% 
+    ggplotly(plot, width = 700, tooltip = c("County", "Species", "Density")) %>% 
       config(displayModeBar = FALSE) %>% 
       layout(xaxis=list(fixedrange=TRUE),
              yaxis=list(fixedrange=TRUE))

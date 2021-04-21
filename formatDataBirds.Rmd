@@ -204,16 +204,29 @@ taxonomic_security = counties_taxonomic %>%
 ```
 
 ```{r}
-counties_nspecies = counties_derived %>% 
+# Get number of species by county
+counties_nspecies = 
+  counties_derived %>% 
   select(county, n_species) %>% 
-  rename(Species = n_species) %>% 
-  mutate(county = tolower(county)) %>% 
-  rename(subregion = county)
-    
+  rename(Species = n_species,
+         County = county) %>% 
+  mutate(County = str_to_title(County))
+  
+# Get lat/long coordinates for NY counties
+# Join with the previous dataset
 choropleth = map_data("county") %>% 
   filter(region == "new york") %>% 
-  inner_join(counties_nspecies, by = "subregion") %>% 
-  rename(County = subregion)
+  select(-group, -order, -region) %>% 
+  rename(County = subregion) %>% 
+  mutate(County = str_to_title(County)) %>% 
+  left_join(counties_nspecies, by = "County")
+
+# Add density to the choropleth dataset
+choropleth = county %>% 
+  select(county, density) %>% 
+  rename(County = county,
+         Density = density) %>% 
+  left_join(choropleth, by = "County")
 ```
 
 ```{r message=FALSE, warning=FALSE}
