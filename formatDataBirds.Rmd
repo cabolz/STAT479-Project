@@ -35,12 +35,16 @@ countyPop = countyPop %>%
   extract(CTYNAME, into = "county", regex = "(.*)(?= County)") %>% 
   rename(human_pop_county = pop2021, human_growth_rate = GrowthRate)
 
+m_to_mi = 3.86102158542446E-07
+
 # Clean county areas dataset
 countyArea = countyArea %>% 
   select(BASENAME, AREALAND, AREAWATER) %>% 
   rename(county = BASENAME,
          land_area = AREALAND,
-         water_area = AREAWATER)
+         water_area = AREAWATER) %>% 
+  mutate(land_area = land_area * m_to_mi,
+         water_area = water_area * m_to_mi)
 
 # Change spaces into underscores and make lowercase for biodiversity column names
 names(biodiversity) = gsub(" ", "_", tolower(names(biodiversity)))
