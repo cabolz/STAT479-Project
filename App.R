@@ -37,10 +37,16 @@ ui <- fluidPage(
     HTML("<p>Birds are a critical part of many ecosystems. They play an active role in pest 
           control, pollination, and seed dispersion that is vital to keeping the balance of 
           nature. However, many species of birds are in decline and in danger of extinction 
-          due to many threats, especially destruction and fragmentation of their natural habitat. 
+          due to many threats.In recorded history, 159 species of birds have already gone 
+          extinct, and 1,481 species are currently considered vulnerable, endangered, or 
+          critically <a href=\"https://www.iucnredlist.org/statistics/\"> endangered</a>. 
           This project focuses on species diversity and conservation status of birds in New York, 
-          and how these factors vary across the landscape. Our data was taken from the 2nd 
-          New York State Breeding Bird Atlas which can be found <a href=\"https://data.ny.gov/Energy-Environment/Biodiversity-of-Birds-Distribution-by-County/4asw-6tmc\">here</a>. 
+          and how these factors vary across the landscape. This data can inform wildlife 
+          managers of areas of greater concern for bird species, and can help them make a 
+          better plan for how to protect our ecosystems. 
+          
+          Our data was taken from the 2nd New York State Breeding Bird Atlas which can be 
+          found <a href=\"https://data.ny.gov/Energy-Environment/Biodiversity-of-Birds-Distribution-by-County/4asw-6tmc\">here</a>. 
           Volunteer birders recorded instances of different species of birds breeding in each county 
           in New York from 2000 to 2005.<p>")
   ),
