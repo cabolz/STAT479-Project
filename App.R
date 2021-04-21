@@ -137,7 +137,8 @@ ui <- fluidPage(
         metropolitan area, is located at the southern tip of the state and that high levels 
         of urbanization may result in the habitat destruction of various bird species. 
         This could also be due to some of the Northern counties simply having more area, or 
-        it may be related to the weather and climate of upstate New York."),
+        it could be related to the weather, climate, smaller human population density, or
+        greater habitat availability of upstate New York."),
   
 )
 
