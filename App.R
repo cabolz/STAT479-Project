@@ -84,6 +84,8 @@ ui <- fluidPage(
   HTML("<br><br><br><br><br>"),
   
   plotlyOutput(outputId = "countyChoropleth"),
+         
+  plotlyOutput(outputId = "countyDensity"),
   
   HTML("<br>"),
   
@@ -178,7 +180,7 @@ server <- function(input, output) {
     plot = taxonomic_security %>% 
       filter(Subgroup == "All") %>% 
       ggplot(aes(x = Species, y = `% Not Secure`)) + 
-      geom_jitter(aes(name = County), alpha = 0.75, size = 1, width = 0.3, height = 0.3) +
+      geom_jitter(aes(name = County), , color = "#5D5D5D", alpha = 0.75, size = 1, width = 0.3, height = 0.3) +
       theme_bw() +
       theme(
         panel.background = element_rect(fill = "#f7f7f7"),
@@ -218,6 +220,30 @@ server <- function(input, output) {
     
     # Remove ability to pan and zoom, set plot dimensions
     ggplotly(plot, width = 700, tooltip = c("County", "Species", "Density (pop/mi^2)")) %>% 
+      config(displayModeBar = FALSE) %>% 
+      layout(xaxis=list(fixedrange=TRUE),
+             yaxis=list(fixedrange=TRUE))
+  })
+  
+  # Scatterplot of log population densities of NY counties against their number of species
+  output$countyDensity <- renderPlotly({
+
+    plot =
+      choropleth %>% rename(`Density log(pop/mi^2)` = `Density (pop/mi^2)`) %>% 
+      ggplot(aes(x = `Density log(pop/mi^2)`, y = Species)) + 
+      scale_x_log10() +
+      geom_point(aes(name = County), color = "#5D5D5D", alpha = 0.75, size = 1) +
+      labs(
+        title = "Log Human Population Density vs. Species"
+      ) +
+      theme_bw() +
+      theme(
+        panel.background = element_rect(fill = "#f7f7f7"),
+        legend.position="none"
+      )
+    
+    # Remove ability to pan and zoom, set plot dimensions
+    ggplotly(plot, width = 700) %>% 
       config(displayModeBar = FALSE) %>% 
       layout(xaxis=list(fixedrange=TRUE),
              yaxis=list(fixedrange=TRUE))

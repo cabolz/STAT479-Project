@@ -218,12 +218,3 @@ write_csv(species_factored, "./data/species_by_subgroup.csv")
 
 write_csv(choropleth, "./data/choropleth.csv")
 ```
-
-```{r}
-# Possible density vs. number of species plot to include
-ggplot(choropleth, aes(x = Density, y = Species)) + 
-    scale_x_log10() +
-    geom_point(color = "#00BFC4", alpha = 0.6, size = 1) +
-    theme_minimal() +
-    theme(legend.position = "none")
-```
