@@ -179,7 +179,7 @@ taxonomic_security = counties_taxonomic %>%
   rename(Species = n,
          Subgroup = taxonomic_subgroup,
          County = county,
-         `%Not Secure` = perc_not_secure_state)
+         `% Not Secure` = perc_not_secure_state)
 ```
 
 ```{r}
