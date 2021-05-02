@@ -180,7 +180,7 @@ server <- function(input, output) {
     plot = taxonomic_security %>% 
       filter(Subgroup == "All") %>% 
       ggplot(aes(x = Species, y = `% Not Secure`)) + 
-      geom_jitter(aes(name = County), , color = "#5D5D5D", alpha = 0.75, size = 1, width = 0.3, height = 0.3) +
+      geom_jitter(aes(name = County), color = "#5D5D5D", alpha = 0.75, size = 1, width = 0.3, height = 0.3) +
       theme_bw() +
       theme(
         panel.background = element_rect(fill = "#f7f7f7"),
