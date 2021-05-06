@@ -252,8 +252,8 @@ server <- function(input, output) {
   # Bar plot of the number of species for each taxonomic subgroup
   output$subgroupPlot <- renderPlotly({
     
-    plot = ggplot(species_by_subgroup, aes(x= Species, y = Subgroup, fill = "#FF0000")) +
-      geom_col() +
+    plot = ggplot(species_by_subgroup, aes(x= Species, y = Subgroup)) +
+      geom_col(fill = "#5D5D5D") +
       labs(
         x = "Number of Species",
         y = "Taxonomic Subgroup",
