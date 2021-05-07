@@ -80,7 +80,7 @@ ui <- fluidPage(
           number of species present in New York on the x-axis. The user can hover over a 
           taxonomic subgroup to show the exact number of species in that group. This graph 
           shows that most of the 39 taxonomic subgroups of birds have very few species present 
-          in New York; 12 subgroups only have 1 specie! In addition, many of the larger taxonomic subgroups 
+          in New York; 12 subgroups only have 1 species! In addition, many of the larger taxonomic subgroups 
           tend to have a larger number of species of migratory birds. For example, wood-warblers; 
           gulls, terns, plovers, and shorebirds; hawks, falcons, eagles, and vultures; as well as 
           sparrows and towhees tend to have more migratory species that come to New York to breed, 
