@@ -38,9 +38,9 @@ ui <- fluidPage(
     HTML("<p>Birds are a critical part of many ecosystems. They play an active role in pest 
           control, pollination, and seed dispersion that is vital to keeping the balance of 
           nature. However, many species of birds are in decline and in danger of extinction 
-          due to many threats.In recorded history, 159 species of birds have already gone 
+          due to many threats. In recorded history, 159 species of birds have already gone 
           extinct, and 1,481 species are currently considered vulnerable, endangered, or 
-          critically <a href=\"https://www.iucnredlist.org/statistics/\"> endangered</a>. 
+          critically <a href=\"https://www.iucnredlist.org/statistics/\">endangered</a>. 
           This project focuses on species diversity and conservation status of birds in New York, 
           and how these factors vary across the landscape. This data can inform wildlife 
           managers of areas of greater concern for bird species, and can help them make a 
@@ -81,7 +81,7 @@ ui <- fluidPage(
         number of species present in New York on the x-axis. The user can hover over a 
         taxonomic subgroup to show the exact number of species in that group. This graph 
         shows that most of the 39 taxonomic subgroups of birds have very few species present 
-        in New York (12 subgroups only have 1 specie!). In addition, many of the larger taxonomic subgroups 
+        in New York; 12 subgroups only have 1 specie! In addition, many of the larger taxonomic subgroups 
         tend to have a larger number of species of migratory birds. For example, wood-warblers; 
         gulls, terns, plovers, and shorebirds; hawks, falcons, eagles, and vultures; as well as 
         sparrows and towhees tend to have more migratory species that come to New York to breed, 
@@ -130,12 +130,12 @@ ui <- fluidPage(
   species that are not secure tends to increase. Across subgroups, we see that this relationship holds, 
   yet usually is shifted to the left or right. There appears to be one subgroup that stands out from 
   the rest of the data: the wood-warblers. As mentioned previously, they are the taxonomic-subgroup 
-  with the highest number of species overall. Here we can see that appear to have a positive correlation 
-  between number of species and % not secure as the other subgroups do. However, the relationship does 
+  with the highest number of species overall. Here we can see that they appear to have a positive correlation 
+  between number of species and percent not secure as the other subgroups do. However, the relationship does 
   not appear to be as strong."),
   
   
-  HTML("<br><br><br><br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br><br><br><br>"),
   
   plotlyOutput(outputId = "allSecurePlot"),
   
@@ -157,7 +157,7 @@ ui <- fluidPage(
             fewest number of species of any county and a relatively high percent not secure 
             of 15.2%."),
   
-  HTML("<br><br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br>"),
   
   h3("Conclusion"),
   
