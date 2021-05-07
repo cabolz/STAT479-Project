@@ -44,7 +44,7 @@ ui <- fluidPage(
           This project focuses on species diversity and conservation status of birds in New York, 
           and how these factors vary across the landscape. This data can inform wildlife 
           managers of areas of greater concern for bird species, and can help them make a 
-          better plan for how to protect our ecosystems. <p>")
+          better plan for how to protect our ecosystems.<p>")
   ),
   
   HTML("<br><br><br><br><br><br><br><br><br><br>"),
@@ -79,9 +79,15 @@ ui <- fluidPage(
   mainPanel("This graph provides information on the number of species found in New York for 
         each taxonomic subgroup. The bars show the subgroup along the y-axis and the 
         number of species present in New York on the x-axis. The user can hover over a 
-        taxonomic subgroup to show the exact number of species in that group."),
+        taxonomic subgroup to show the exact number of species in that group. This graph 
+        shows that most of the 39 taxonomic subgroups of birds have very few species present 
+        in New York (12 subgroups only have 1 specie!). In addition, many of the larger taxonomic subgroups 
+        tend to have a larger number of species of migratory birds. For example, wood-warblers; 
+        gulls, terns, plovers, and shorebirds; hawks, falcons, eagles, and vultures; as well as 
+        sparrows and towhees tend to have more migratory species that come to New York to breed, 
+        when compared to taxonomic subgroups with fewer species."),
     
-  HTML("<br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br>"),
   
   plotlyOutput(outputId = "countyChoropleth"),
          
@@ -89,16 +95,21 @@ ui <- fluidPage(
   
   HTML("<br>"),
   
-  mainPanel("This map provides comparisons between the total number of 
-        species for each county in New York. The number of species in each county has been 
-        encoded in color, with more biodiverse counties displaying a lighter shade and 
-        less biodiverse counties displaying a darker shade. Hovering over a county also 
-        provides the human population density. A notable characteristic of this figure is 
-        that the least biodiverse region of New York State appears to be at the furthest 
-        southern tip of New York State, right where New York City is located (and 
-        consequently the most densely populated region). Contrarily, the most biodiverse 
-        region of New York appears to be located near the northern border of the state (the 
-        most sparsely populated area)."),
+  mainPanel("This map provides comparisons between the total number of species for each county 
+  in New York. The number of species in each county has been encoded in color, with more 
+  biodiverse counties displaying a lighter shade and less biodiverse counties displaying a 
+  darker shade. Hovering over a county also provides the human population density. A notable 
+  characteristic of this figure is that the least biodiverse region of New York State appears 
+  to be at the furthest southern tip of New York, right where New York City is located (and 
+  consequently the most densely populated region). On the contrary, the most biodiverse region 
+  of New York appears to be located near the northern border of the state (the most sparsely 
+  populated areas). This relationship could possibly be explained by differences in land area, 
+  population size, or climate. In the second plot, we explore the relationship between a 
+  county's human population density and it's number of bird species. While the relationship 
+  doesn't appear to be too strong, it shows a steep drop off in number of species after 
+  approximately 8000 people / mi^2. Counties with such population densities have high 
+  urbanization, which likely has a strong correlation with habitat destruction for 
+  birds and their prey."),
   
   
   HTML("<br><br><br><br><br><br><br><br><br><br><br><br>"),
@@ -108,42 +119,64 @@ ui <- fluidPage(
   HTML("<br><br><br><br><br>"),
   
   mainPanel("This plot aims to show the correlation between the number of species in a county, 
-        and the percentage of those species that are not secure. Taxonomic subgroups are 
-        selectable (by clicking on their legend entry) and control which data is plotted. Each 
-        point represents a county. The x-value is the number of species belonging to that 
-        taxonomic subgroup that are found in that county. The y-value is the percentage of 
-        species in that taxonomic subgroup and county that are not secure at a state level. 
-        Color corresponds to the taxonomic subgroup, which is shown on mouseover."),
+  and the percentage of those species that are not secure, and determine whether this relationship 
+  differs by taxonomic subgroup. Each point is a unique county-taxonomic subgroup pair. The x-value 
+  encodes the number of species belonging to that taxonomic subgroup that are found in that county. 
+  The y-value encodes the percentage of species in that taxonomic subgroup and county that are not 
+  secure at a state level. Points are colored by taxonomic subgroups and are selectable by clicking 
+  on their legend entry, which controls which subgroups are plotted. All of these encodings, 
+  including the county’s name, are available for each point on mouse over. The plot shows that  
+  within each subgroup, we generally see that as the number of species increases, the percentage of those 
+  species that are not secure tends to increase. Across subgroups, we see that this relationship holds, 
+  yet usually is shifted to the left or right. There appears to be one subgroup that stands out from 
+  the rest of the data: the wood-warblers. As mentioned previously, they are the taxonomic-subgroup 
+  with the highest number of species overall. Here we can see that appear to have a positive correlation 
+  between number of species and % not secure as the other subgroups do. However, the relationship does 
+  not appear to be as strong."),
   
   
-  HTML("<br><br><br><br><br><br><br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br><br><br>"),
   
   plotlyOutput(outputId = "allSecurePlot"),
   
   HTML("<br>"),
   
-  mainPanel("The above graph is the same as the previous graph, except that information is 
-        plotted across all taxonomic subgroups, including those which were previously not 
-        available for selection."),
+  mainPanel("This graph is the same as the previous one, except that information is 
+            plotted across all taxonomic subgroups, including those which were previously 
+            not available for selection due to insufficient data. Here, it becomes more 
+            apparent that there appears to be a strong, positive correlation between the 
+            number of species in a county and the percent which are not secure. While it 
+            appears to be a linear relationship, it is possible that this could be the 
+            beginning of an exponential relationship, or even possibly a logistic one. There 
+            are a few possible outliers in this plot along the left and top sides. These 
+            counties are mainly the boroughs of New York City. These counties have 
+            significantly high population densities, due to their high populations and small 
+            land areas. For the most part, these counties have an unusually high percentage 
+            of their species as not secure for counties with a similar number of species 
+            (if there are any such counties). New York county, which is Manhattan, has the 
+            fewest number of species of any county and a relatively high percent not secure 
+            of 15.2%."),
   
-  HTML("<br><br><br>"),
+  HTML("<br><br><br><br><br><br><br><br>"),
   
   h3("Conclusion"),
   
-  mainPanel("We can see that there is a loose trend between the number of bird species per 
-        county and the percent that are not secure, with more diverse counties generally 
-        containing more insecure species as well. However, we also saw that subgroups 
+  mainPanel("We can see that there is a loose positive relationship between the number of bird species per 
+        county and the percent that are not secure. However, we also saw that subgroups 
         like wood-warblers tend to be more diverse but have a fairly low level of insecurity, 
         while groups like ducks, geese, and waterfowl are less diverse but have a higher
         level of insecurity. Another unexpected observation is that there appears to exist 
-        a trend in species diversity correlating with latitude. In southern counties, 
-        there tends to be fewer breeding bird species, but northern counties tend to have 
-        more breeding bird species. This could be because NYC, New York's largest 
-        metropolitan area, is located at the southern tip of the state and that high levels 
-        of urbanization may result in the habitat destruction of various bird species. 
-        This could also be due to some of the Northern counties simply having more area, or 
-        it could be related to the weather, climate, smaller human population density, or
-        greater habitat availability of upstate New York.")
+        a trend in species diversity correlating with latitude, with more bird species in 
+        northern counties, and fewer in southern counties. However, this could be due to 
+        the southern counties generally having smaller land areas and higher human 
+        populations. While not explored here, it is also possible that changes in climate can 
+        also explain the number of species varying by latitude. We also found a fairly weak, 
+        negative correlation between human population density and the number of bird species 
+        in a county. Furthermore, these areas of extreme population density also tend to have 
+        high urbanization, which likely causes habitat distruction for many species of birds. 
+        We hope that our findings can inform wildlife managers of areas of greater concern for 
+        bird species and aid them in making a better plan to protect their ecosystems.
+")
   
 )
 
